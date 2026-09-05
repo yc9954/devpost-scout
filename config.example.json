@@ -1,0 +1,26 @@
+{
+  "hackathon_host": "webmcp.devpost.com",
+  "search_queries": ["webmcp", "model context protocol", "registerTool", "agentic web"],
+  "primary_query": "webmcp",
+  "membership_marker": "The WebMCP Challenge",
+  "criteria": [
+    {"key": "leverage",   "max": 25, "text": "How thoroughly and skillfully does the project use the platform?"},
+    {"key": "execution",  "max": 25, "text": "Does it deliver a working or runnable project with a complete, coherent product experience?"},
+    {"key": "impact",     "max": 25, "text": "Does it make a credible, specific case for solving a real problem?"},
+    {"key": "creativity", "max": 25, "text": "How creative and novel is the concept, and does it differ from existing concepts?"}
+  ],
+  "pillars": {
+    "runtime_tool_creation": "(creat|mint|forge|generat|compil|register)\\w*\\s+(a\\s+)?(new\\s+)?tool|tools?\\s+(appear|are created)|tool surface (grows|changes)|dynamic(ally)? register",
+    "from_demonstration":    "demonstrat\\w+|record(ed|s|ing)? (the |a )?(workflow|task|job|session)|show(s|ing)? it once|teach(es|ing)? (the |a )?(page|site|agent)|by example",
+    "structural_withholding":"withh\\w+|never return|cannot return|redact|mask(ed|ing)?|no code path",
+    "tool_withdrawal":       "unregist\\w+|withdraw\\w+|revok\\w+|abortcontroller|abortsignal|disappear\\w* from|removed from (the )?tool",
+    "human_in_the_loop":     "human[- ]in[- ]the[- ]loop|await\\w* (human|approval)|requires? (human |a person |explicit )?(approval|confirmation)|suspend\\w* until|declin\\w+ by",
+    "cross_origin":          "cross[- ]origin|fromorigins|exposedto|permissions[- ]policy|another (site|origin|domain)",
+    "measured_ablation":     "ablat\\w+|counterfactual|with(out)? the (policy|safety) layer (removed|deleted)|control (group|run)|baseline compar",
+    "benchmark":             "benchmark|\\d+\\s*(runs?|trials?|tasks?|assertions?|tests? pass)|\\d+\\s*/\\s*\\d+\\s*(pass|assert)"
+  },
+  "chunk_size": 200,
+  "text_cap_chars": 3800,
+  "cdp_port": 9333,
+  "notes": "membership_marker is the literal text Devpost renders in a project's #submissions block. Find it by opening one known entry and reading that block."
+}

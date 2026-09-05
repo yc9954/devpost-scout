@@ -1,0 +1,10 @@
+# your own run's working files
+/config.json
+/data/
+/judge/
+*.pyc
+__pycache__/
+.DS_Store
+
+# large corpora kept locally, not in the repo — see runs/README.md
+runs/*/corpus/

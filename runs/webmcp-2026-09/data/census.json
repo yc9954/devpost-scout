@@ -1,0 +1,25 @@
+{
+ "method": "participant list -> public portfolios -> literal \"Submitted to The WebMCP Challenge\" marker on each project page",
+ "collected_at": "2026-09-04 19:25:58 KST",
+ "participants_reported_by_devpost": 7084,
+ "participants_enumerated": 6944,
+ "participants_unreachable": {
+  "private_mode_cards": 120,
+  "broken_pagination_page_192": 20
+ },
+ "profiles_fetched": 6949,
+ "profiles_ok": 6943,
+ "profiles_permanently_failed": 6,
+ "unique_project_slugs_seen": 9087,
+ "project_pages_checked": 9106,
+ "project_fetch_errors": 0,
+ "confirmed_submissions": 2402,
+ "new_since_2026_09_03_freeze": 1539,
+ "in_freeze_no_longer_marked": [
+  "clauseproof",
+  "grant-scout",
+  "neurovoice-exw59y",
+  "payablepilot-2dgsb9",
+  "spatialize"
+ ]
+}
