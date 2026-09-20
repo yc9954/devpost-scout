@@ -27,16 +27,22 @@ BLOCKED = ['*.png', '*.jpg', '*.jpeg', '*.gif', '*.svg', '*.css', '*.woff*',
 
 
 class Browser:
-    def __init__(self, port=9333, profile=None, launch=True, block=True):
+    def __init__(self, port=9333, profile=None, launch=True, block=True, headless=True):
         self.port, self.block, self.proc = port, block, None
         self.profile = profile or f'/tmp/devpost-scout-chrome-{port}'
         if launch and not self._alive():
+            # headless=False leaves a visible window: the only way to drive a
+            # Chrome the *user* is logged into (submission), where we must never
+            # attach to a Chrome someone else already drives — that hangs recv.
+            flags = [CHROME, f'--remote-debugging-port={port}',
+                     f'--user-data-dir={self.profile}', '--no-first-run',
+                     '--no-default-browser-check', '--disable-extensions',
+                     '--window-size=1400,2000']
+            if headless:
+                flags.insert(1, '--headless=new')
+            flags.append('about:blank')
             self.proc = subprocess.Popen(
-                [CHROME, '--headless=new', f'--remote-debugging-port={port}',
-                 f'--user-data-dir={self.profile}', '--no-first-run',
-                 '--no-default-browser-check', '--disable-extensions',
-                 '--window-size=1400,2000', 'about:blank'],
-                stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+                flags, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
             for _ in range(30):
                 if self._alive():
                     break
@@ -91,6 +97,14 @@ class Browser:
             time.sleep(1.2)
         return body
 
+    def js(self, expr, by_value=True, await_promise=True):
+        """Evaluate JS in the page and hand back the value it returns."""
+        r = self.call('Runtime.evaluate', {
+            'expression': expr, 'returnByValue': by_value,
+            'awaitPromise': await_promise})
+        res = r.get('result', {}).get('result', {})
+        return res.get('value') if by_value else res
+
     def close(self):
         try:
             self.ws.close()
@@ -98,6 +112,15 @@ class Browser:
             pass
         if self.proc:
             self.proc.terminate()
+
+    def detach(self):
+        """Drop the CDP connection but leave the browser running.
+
+        Used after filling a submission: the visible window stays open so the
+        human can review and press the final Submit behind the reCAPTCHA.
+        """
+        self.proc = None
+        self.close()
 
     def __enter__(self):
         return self

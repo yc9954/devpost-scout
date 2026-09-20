@@ -17,9 +17,15 @@ def text(fragment):
 
 
 def block(page, start_marker, end_marker):
+    """Slice between two markers, starting *after* the opening tag closes.
+
+    Without the `>` skip the marker itself survives into the text, so every
+    parsed description began with the literal `id="app-details-left">`.
+    """
     i = page.find(start_marker)
     if i < 0:
         return ''
+    i = page.find('>', i) + 1 or i + len(start_marker)
     j = page.find(end_marker, i)
     return page[i:j if j > 0 else i + 60000]
 

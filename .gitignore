@@ -8,3 +8,10 @@ __pycache__/
 
 # large corpora kept locally, not in the repo — see runs/README.md
 runs/*/corpus/
+
+# session cookies — waf_fetch.py reads these; never commit them
+lib/cookies.txt
+cookies.txt
+
+# oh-my-claudecode plugin runtime state
+.omc/

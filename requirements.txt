@@ -1,0 +1,13 @@
+# devpost-scout runtime deps. Python 3.9+.
+#   pip install -r requirements.txt
+#
+# websocket-client drives Chrome over CDP. Devpost's /software/search and
+# listing routes refuse plain HTTP clients, so discovery needs a real browser.
+# Eight scripts import it; nothing else here installs it.
+websocket-client>=1.7.0
+
+# External binaries, not pip-installable — install separately:
+#   Google Chrome        lib/browser.py, discover/*, verify/membership_fast.py
+#   ffmpeg               build/film/*, build/TERMINAL.md
+#   vhs (brew install vhs)   terminal demo recording; pulls in ttyd + ffmpeg
+#   gh                   verify/enrich.py reads repo metadata through it
