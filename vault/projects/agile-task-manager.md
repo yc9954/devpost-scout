@@ -1,0 +1,47 @@
+---
+slug: "agile-task-manager"
+url: "https://devpost.com/software/agile-task-manager"
+title: "Agile Task Planner"
+hackathon: "Codegeist 2021"
+organization: "Atlassian"
+winner: true
+words: 1389
+team_size: 1
+has_repo: false
+has_live: true
+has_video: true
+tags:
+  - "project"
+  - "domain/developer_tools"
+  - "user/developer"
+  - "substrate/code_repository"
+  - "substrate/structured_db"
+---
+
+# Agile Task Planner
+
+> A goal-focused task planner for high-achieving teams.
+
+[Devpost](https://devpost.com/software/agile-task-manager) · hackathon [[Codegeist 2021]]
+
+## Facets
+
+**domain** [[developer_tools]]
+**user** [[developer]]
+**substrate** [[code_repository]] [[structured_db]]
+
+**stack** atlaskit, forge, forge-custom-ui, javascript, jira, node.js, react
+
+## How they structured the write-up
+
+- inspiration
+- what it does
+- how i built it
+- challenges i ran into
+- what i learned
+- accomplishments that i'm proud of
+- what's next for agile task planner
+
+## Body
+
+Use Jira's 'Quick Filters' to filter your task list on the right time horizon to do agile planning on a quarterly, weekly, and daily basis. Link regular tasks as subtasks (called “subprojects”) of other tasks. This is supported through an unlimited number of hierarchy levels. Assign projects/tasks to time-based horizons to control how often they should be reviewed for next actions. Track on your goals so they don't get lost in the whirlwind of day-to-day business. Project Story Inspiration In my day job, my team uses Jira to manage most of our work. We do this so that all our work--development tasks and non-development tasks alike--are managed in the same place. Jira has been great for managing our development backlog (epics/stories/bugs), but it hasn’t been very effective for our general, non-development task list. This is where we manage all our “non-coding” tasks such as training activities, documentation activities, process improvement initiatives, etc. I think there are a few limitations of Jira that we’ve struggled with: Task Hierarchy : Jira’s limited hierarchy of Epic-->Task-->Subtask doesn’t align with how regular work is naturally decomposed. Sure, it works fine for smaller-sized tasks, but oftentimes we need more than three layers to get down to the actionable items. Filtering & Reviewing : Our task list is very hard to review on a daily basis. The problem is that there is too much to look at and no meaningful way to filter without risking losing sight of something important. Prioritization : The end result of the first two limitations is that our task list is hard to prioritize. When you have a noisy task list (limitation #2) full of non-actionable items (limitation #1), it becomes extremely difficult to know which (non-development) outcomes we should be committing to each week. My motivation for building Agile Task Planner is to make it easier to manage regular work in Jira by addressing the above problems/limitations. I believe with a little extra functionality, teams can manage their tasks in Jira without spending as much time on “task list grooming” as development teams spend on backlog grooming. What it does Agile Task Planner tries to make it easier to manage regular work in a more natural and agile way. It provides the following capabilities: Unlimited Task Hierarchy With Agile Task Planner , you can link regular tasks as subtasks (called “subprojects”) of other tasks, and you can use this through an unlimited number of hierarchy levels. This enables teams to decompose work in a much more natural way, from abstract outcome down to easily actionable items . For example: Task : Onboard new team member Subtask : Train new team member Subtask : Provide training on Jira workflows Subtask : Schedule the training <--Real action item is 4 levels down. Subtask : Provision new laptop etc., etc., etc., Agile Task Planning Agile Task Planner makes it easy to assign tasks to ’horizons’ , which really helps with agile task planning. A horizon is a time scale in which you expect a task to be completed: today , this week , this month , this quarter , or this year . Once tasks are organized into horizons, you can easily use Jira’s native filtering to “zoom in” or “zoom out” on your task list based on the level of planning you’re engaged in. For example, each morning, your team can filter on their commitments for “this week” to make decisions about what to commit to “today”. Then, throughout the work day, each member can filter on “today” when deciding what to work on next. Goal-based Prioritization I believe goal-based prioritization is Agile Task Planner’s most valuable feature. ATP enables a task to be flagged as a goal. Combined with task hierarchies and horizons, this enables a team to enter their biggest annual and quarterly goals into Jira, and then agilely decompose them into smaller-sized goals within each horizon (i.e. decompose into smaller weekly and daily goals). Using Jira’s native configuration features, these goal-related tasks can be elevated to the top of your task board, where they are sure to get attention. In this way, teams can achieve their most ambitious goals through small, incremental progress each day and week. For example: Task : Increase subscription-based revenue by 20% <--Annual goal Subtask : Launch new marketing campaign <--Quarterly goal Subtask : Produce web advertising content <--Monthly goal Subtask : Send ad requirements to graphic designers <--Weekly goal Subtask : Revise ad requirements rough draft based on the initial review <--Daily goal How I built it ATP is built entirely within Atlassian Forge. That is, it makes no use of external APIs or external databases. Currently, it is limited to a single Jira issue panel implemented as a custom UI with React and Atlaskit. (I intend to expand the app beyond the issue panel; more on that under “What’s Next”.) Communication with Jira is done via the requestJira feature of the Forge UI Bridge. Storage is done via issue fields and issue properties. Challenges I ran into Overall, I found the Forge platform to provide an amazing development experience. However, I did encounter a few significant challenges, two of which resulted in rewrites of the application. Forge UI Kit Initially, I started development using the Forge UI Kit. It was extremely easy to learn and use. However, it didn’t take long to reach its limitations, even with my relatively simple user interface. The biggest challenge with UI Kit was it being too restrictive of my ability to control the layout of the issue panel and the composition of controls. As just one example, I wanted to display two buttons side-by-side. The only way to do this was with a ButtonSet control. But the ButtonSet didn’t allow me to add Tooltip controls to the buttons. So I had to choose between stacking the buttons vertically--bad for space management---or not providing tooltips. There were many small examples like this of basic UI patterns simply not supported (yet) by UI Kit. I realize UI Kit is only intended for basic user interfaces, but I really didn’t expect that my UI would be considered complex. Custom UI Resolver Functions After a few weeks, I reluctantly abandoned the Forge UI Kit and rewrote the application in React with Atlaskit. I then moved all my business logic to Custom UI resolvers in the back-end. Things seemed to be working much better, until I happened to test the application during a high-load period in Atlassian’s network. All of a sudden, almost all my features were broken. The issue was the 10-second timeout rule on the custom UI resolver functions. Operations that normally completed in 2 seconds or less were suddenly timing-out after 10 seconds, simply because I was testing at a different time of day. That is how I ended up with my current implementation...I felt I needed to scrap the resolver functions and move everything into the React app. Things seem to be much more stable now. What I learned Agile Task Planner was built as a personal hobby and learning project on nights and weekends. Professionally, I’m a backend developer who works mostly in MS .NET. A few months ago I decided to step out of my comfort zone and become more proficient with Node and JavaScript, and to learn React for the first time. ATP is sort of a capstone for that endeavor. So with that in mind, I learned a lot! I’m slightly more proficient with JavaScript. (Dynamically-typed languages sometimes seem like voodoo to me.) I learned how to develop with React. I learned more about Atlassian’s REST APIs. And of course, I learned a lot about Forge ! The benefit of the multiple rewrites (described above) is that I got a better horizontal view of the Forge platform. Accomplishments that I'm proud of First React app! First Forge app! What's next for Agile Task Planner For my own benefit, my next step is to design a custom wizard or custom dashboard for more efficient weekly and daily reviews...possibly implemented as a Project Page module. Doing the reviews directly on the Kanban board is still a bit kludgy. Other ideas: Integration with third-party task tools Support for “project templates”. i.e. Ability to configure recyclable task hierarchies for a team’s common projects. (e.g. task hierarchy for onboarding a new team member.) Support for repeating tasks <div

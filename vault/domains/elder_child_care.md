@@ -1,0 +1,181 @@
+---
+facet: "domain"
+name: "elder_child_care"
+projects: 205
+winners: 205
+tags:
+  - "facet"
+  - "domain"
+---
+
+# elder_child_care
+
+`domain` · **205** projects, **205** of them winners.
+
+## Pairs with
+
+- [[patient_family]] — 121 together  <sub>(user)</sub>
+- [[health_clinical]] — 119 together  <sub>(domain)</sub>
+- [[video_visual]] — 97 together  <sub>(substrate)</sub>
+- [[realtime_stream]] — 88 together  <sub>(mechanism)</sub>
+- [[geospatial]] — 84 together  <sub>(substrate)</sub>
+- [[structured_db]] — 82 together  <sub>(substrate)</sub>
+- [[clinician]] — 64 together  <sub>(user)</sub>
+- [[developer_tools]] — 55 together  <sub>(domain)</sub>
+- [[sensor_fusion]] — 54 together  <sub>(mechanism)</sub>
+- [[voice_speech]] — 51 together  <sub>(mechanism)</sub>
+- [[general_public]] — 50 together  <sub>(user)</sub>
+- [[finance_payments]] — 45 together  <sub>(domain)</sub>
+
+## Projects
+
+- ★ [[artharaksha]] — When Gen-AI Rescues You from Financial Fraud and Creates Social Impact
+- ★ [[v-ident-real-time-identity-verification-mobile-application-19kdg7]] — V-Ident: Pulse + pixels = proof. On-device heartbeat detection & frequency forensics catch deepfakes
+- ★ [[pedirounds-ai-co-resident-for-pediatric-morning-rounds]] — The safety net between overnight and attending rounds. 4 AI agents catch deterioration, flag unsafe 
+- ★ [[pulsepoint-2hmejd]] — AI-powered medical triage at the speed of life from instant assessment to doctor in 60 seconds.
+- ★ [[grocerapp]] — Mobilizing necessities for at-risk people with the help of the community.
+- ★ [[project-iris-edge-ai-aac-platform]] — Project Iris is a zero-latency, eye-tracking AAC platform powered by local WebGPU AI, featuring Live
+- ★ [[medgraphagent-1e4ps2]] — Better data means better decisions. And better decisions save lives
+- ★ [[orbit-8kd3re]] — maps the orbit of your thinking, so you can see when an idea is yours versus AI's
+- ★ [[opioid-action-engine]] — The opioid epidemic doesn't wait for funding to catch up.
+- ★ [[tonguekeeper]] — Every 2 weeks, a language dies. TongueKeeper deploys autonomous AI agents that compile and cross-ref
+- ★ [[alyosha]] — The help for life after prison already exists. It's just scattered. Alyosha turns it into one guided
+- ★ [[nomi-aoim58]] — A Multi-Sensor Network System for Seniors
+- ★ [[claracare]] — AI companion that calls seniors daily, detects cognitive changes, and gives families peace of mind v
+- ★ [[forrus]] — Forrus is an AIoT device powered by TigerGraph and AWS EC2 DL1 for real-time alerts for wildfire mit
+- ★ [[scambaitai]] — ScamBait AI is an intelligent, AI-powered honeypot designed to combat digital fraud by engaging scam
+- ★ [[ed4you]] — Automatic Digitization of Teaching Material and Immersive Gamification of Practical Education.
+- ★ [[community-exchange-incentivization]] — We match needs and skills within communities and help heroes get the recognition they deserve.
+- ★ [[wecare-9sgke7]] — Care. Serve. Humanity
+- ★ [[memoray]] — Memory just moved from your brain to your frames. Your memories are getting a firmware update. Memor
+- ★ [[caregiver-agent-secure-ai-delegation-for-caregiving]] — AI caregiver agent using Auth0 Token Vault, FGA, and CIBA to securely delegate bill payments and med
+- ★ [[therms-thermoregulation-wearables-with-ai-powered-insights]] — A non-invasive wearable using novel thermoregulation research to provide precise heating/cooling to 
+- ★ [[dot-bringing-humanity-to-in-home-care]] — Agentified personal in-home care for the elderly. Multimodal S2S agent system handles patient charts
+- ★ [[ugonz-alzheimers-ai-prediction-model]] — Explainable AI for early Alzheimer's detection—fusing cognitive, imaging, and genetic biomarkers to 
+- ★ [[helix-ai-zw1vfs]] — Free AI Sidebar Chatbot in any site to prompt, talk to your site, attach images comes with built-in 
+- ★ [[maggy-ovyepd]] — Social distancing made easy! Maggy is a small wearable device helping you to maintain social distanc
+- ★ [[fdvnjvd]] — Waylo is an AI that lives on your Mac and guides you through anything - a pulsing red dot shows exac
+- ★ [[kintwadi-one-shared-record-for-family-caregiving]] — One shared, permission-aware care record for families caring for an aging parent across cities and t
+- ★ [[nest-newborn-maternal-safe-transition]] — Fragmented charts cost lives. NEST saves mothers and newborns by orchestrating 5 AI agents that synt
+- ★ [[jop]] — An AI assistant helping teachers, parents and kids.
+- ★ [[medical-intelligence-applied]] — Two-way health management platform for seniors and caregivers
+- ★ [[buddymate]] — Everyday Companion to Live Confidently and Feel Connected
+- ★ [[alzora-ai]] — Empowering families with AI-driven Alzheimer’s care
+- ★ [[my-slots]] — Service for non-digital local stores to provide bookable slots for customers
+- ★ [[sayit-a5hodz]] — SayIt is an AI-powered communication app that helps people with speech or motor impairments express 
+- ★ [[mira-w65b0a]] — AI eldercare assistant that reconstructs 3D scenes, localizes lost objects, and alerts caregivers—al
+- ★ [[infinite-memory-plnev8]] — Never Forget Again
+- ★ [[aegis-hindi-consent-companion]] — **India's AI-generated perioperative informed consent in Hindi — patient-specific, clinically ground
+- ★ [[sostenibl-es-akswzf]] — Enabling short commercial channels for farmers in need during Covid crisis
+- ★ [[agent-vjpz7q]] — FamCare helps you organise your health documents, ai chat to better understand records, create medic
+- ★ [[faxi-16iecy]] — Faxi resurrects fax for seniors left behind digitally. Handwrite a request, fax it, and our AI turns
+- ★ [[childgrowthmonitor]] — Quick, accurate data on malnutrition
+- ★ [[vigil-safety-app]] — Vigil scans your texts on-device to catch scams, phishing, and harassment before they hurt you. A fr
+- ★ [[not-my-nana]] — Protecting our loved ones from digital deception with the reasoning power of #AmazonNova.
+- ★ [[the-digital-volunteer-dym0xb]] — Automate mobilisation of community, solidarity and collaboration. Use non-smartphones to raise a tas
+- ★ [[callio-labs]] — Agentic Genomics
+- ★ [[caregiver-ucdwz6]] — Caregiver is an AI-powered assistant for assisted living facilities, automating event tracking, resi
+- ★ [[wemindyou-app-emotional-well-being-of-kids-during-covid-19]] — A digital workflow app to identify Emotional Well-Being of Kids through facial analysis & psych ques
+- ★ [[healthier-w0baus]] — AI-powered elderly care app. Seniors scan pills/meals and chat with a voice agent. Healthcare provid
+- ★ [[tendly-smolpq]] — Tendly gives elderly patients one button to speak any need. Claude triages it in real time, caregive
+- ★ [[help-me-delivery]] — Giving vulnerable populations an easy platform to identify local shops, build shareable shopping lis
+- ★ [[baymax-your-personal-healthcare-companion]] — Our AI-powered robot arm is a personalized solution to restore physically impaired and elderly indiv
+- ★ [[carebridge-4vm7on]] — Handoff is your Care Home Coordinator built inside Slack. It replaces sticky notes, binders, and tex
+- ★ [[art-heist-bo01jw]] — Connecting Art, Artists and Audiences through an online virtual marketplace
+- ★ [[shopsafe-21onk6]] — Convenient and Safe Shopping for Everyone
+- ★ [[relay-n5c9re]] — Relay: Standby access for the people who will need it - set up who can reach what, and Relay hands i
+- ★ [[bloom-dvjpea]] — The AI caretaker that enables seniors to be more independent and connected to their families.
+- ★ [[hellocare]] — Left the doctor confused or worried you forgot something? Your grandparents probably have. Hellocare
+- ★ [[oxy]] — A 9$ custom Oximeter + Mobile app and Web App that allows continuous and remote monitoring to preven
+- ★ [[medivise]] — Medivise tackles polypharmacy by streamlining medication management with OCR, drug to drug interacti
+- ★ [[agent-shell]] — AgentShell redefines the Model Context Protocol (MCP) from "information retrieval" to "body control,
+- ★ [[risklens-ad]] — An interpretable Alzheimer’s risk stratification system that combines cognitive scores and age-adjus
+- ★ [[accent-cdw2qi]] — Accent is a macOS accessibility tool for elderly and non-English users that gives LLMs sight with a 
+- ★ [[vac-alert]] — A personalized Vaccine Tracker tool to turn the tides against Covid-19
+- ★ [[icu-2egdxy]] — Extra eyes for those who need them the most. With hand gestures or voice commands, ICU's servo-power
+- ★ [[ember-touidc]] — 50M people pay $15K for robotic AAC devices. Ember uses Gemini to interpret unclear speech and Eleve
+- ★ [[emergencyact]] — Creating an aware and safer world by identifying emergencies which can improve mobility, public spac
+- ★ [[what-s-on-the-menu]] — itda is a local community platform where students can get connected again. Students can study togeth
+- ★ [[therapease-ai]] — Expanding access to physical therapy and critical healthcare services through AI-enabled telehealth.
+- ★ [[mike-ai]] — Mike.ai is a stroke prediction quizzer that uses machine learning to predict the likelihood of a str
+- ★ [[first30-ai]] — Web app that tells you exactly what to do when someone needs emergency help so you can act according
+- ★ [[alz-vision]] — Helping Doctors Better Diagnose Dementia and Alzheimer's
+- ★ [[primemedic-ai]] — "Empowering Health with AI: Fast, Accurate, Reliable."
+- ★ [[microbeat-accessible-tech-for-motor-cognitive-rehab-at2mx4]] — MicroBeat turns Portuguese-speaking anthems and giant buttons into a low-cost, open-source rhythm ga
+- ★ [[onsum]] — Hong Kong is aging fast, and elderly parents are often alone while children work. OnSum schedules th
+- ★ [[safesign-ai-gesture-based-patient-assistance-system]] — SafeSign uses computer vision to understand gestures, facial expressions, and body movements to dete
+- ★ [[memento-1p0jel]] — Memento helps elderly people connect with their families by reflecting on and sharing cherished memo
+- ★ [[trustfile]] — Nearly 48,000 Canadian children and ten times as many in the US lack stable document access in foste
+- ★ [[visionify]] — A proactive real-time AI wearable that helps the visually impaired navigate safely—at a price under 
+- ★ [[hospital-inpatient-discharge-journey]] — Being stuck in a hospital room without answers is more than annoying, it erodes trust. Our solution 
+- ★ [[pawpatrol-hq6o0j]] — PawFriend is a magical study companion where a cute animal grows as you learn. Study, take quizzes, 
+- ★ [[physiopal-r148d6]] — Physical therapy fails at home because no one's watching. PhysioPal fixes that — AI pose correction,
+- ★ [[ava-accessibility-and-vision-assistant]] — is your smart financial assistant and mobile wallet for the visually impaired and elderly with the p
+- ★ [[gait-pro]] — Turn any webcam into an autonomous 24/7 caregiver. Our browser-based AI tracks daily activity, detec
+- ★ [[pet-vs-pets-0bmvfs]] — Conquer the World of Pets!
+- ★ [[guardian-ai94dk]] — A modular event driven approach to in-home care giving
+- ★ [[intelligent-fall-detection-system]] — AI-powered fall detection with real-time alerts and emergency coordination.
+- ★ [[stepsure]] — Your AI Physiotherapist for Gait Improvement in your pocket
+- ★ [[ghost-sujr38]] — See Me thru uses Meta Glasses & a novel "Care-Mask" compression AI to turn live video into automated
+- ★ [[anemiaguard]] — Turning smartphones into early allies against childhood anemia.
+- ★ [[neuroxplain-alzheimer-s-detection-via-spatial-radiomics]] — Fuses Genetics & MRI Radiomics to detect Alzheimer’s. Unlike CNNs, our XGBoost engine provides clini
+- ★ [[communites-against-corona]] — Covid-19 has led to the scarcity of essential items such as toilet-paper and water. This website pro
+- ★ [[covid-experience]] — Voice Over Virus blunts the impact of the current Covid-19 crisis by cultivating compassion, resilie
+- ★ [[securestep]] — Helping you walk with confidence.
+- ★ [[ask-my-buddy]] — Ask My Buddy sends Voice, SMS, Email to your contacts telling them you need assistance in case you c
+- ★ [[sympvis-triage-coach]] — SympVis is a modern web application designed to provide users with health clarity through intelligen
+- ★ [[sting-bfqvia]] — STING is AI anti-scam protection that protects elderly and naive users from phishing, fake stores, a
+- ★ [[nursie]] — Nursie: The Invisible Safety Net — Dignity-First AI Surveillance for the Next Generation of Care.
+- ★ [[seguri-a-digital-hand-to-hold-dkjo6w]] — Seguri is a digital hand to hold for the vulnerable. Our offline AI stops scam messages instantly, p
+- ★ [[dietcare-personalized-nutrition-ai-assistant]] — DietCare - Personalized Nutrition, Empowering Health.
+- ★ [[garden-of-kin]] — In darkness, a family blooms.
+- ★ [[each-covi19]] — Cards of Kindness lets you send a postcard to front-line heroes, who in turn can spread delight to t
+- ★ [[digitwin-hsf378]] — An autonomous "Ambient Guardian" using VLMs and MoveNet. It blends vision, emotion, and web data to 
+- ★ [[memri]] — Helping memories become immersive experiences, where every moment of nostalgia transforms into vivid
+- ★ [[cortexflow-w3ry5d]] — Cognitive signal analysis platform
+- ★ [[signmeup-ku5b8z]] — Adapting technology to the user: A unified AI ecosystem for accessibility, safety, and shared peace 
+- ★ [[express]] — Express Yourself. Enabling AAC.
+- ★ [[medisense-2n4qpt]] — Tap, don't type—AI-powered symptom analysis that speaks your language and respects your heritage.
+- ★ [[buddi-nu1d9m]] — With helpful resources, a friendly chatbot, and a very easy-to-use user interface, our app is the pe
+- ★ [[neighbour-network]] — Offset the current day challenges by helping your closest friends.
+- ★ [[memorylane-5aon4r]] — Brighten your golden years with MemoryLane! Activate the mind, connect hearts, and revive cherished 
+- ★ [[geoworx]] — A geo-localized service based marketplace to get things done!
+- ★ [[c-25vw9t]] — An Alzheimer-Friendly Voice Agent When Memories Feel Distant
+- ★ [[mirror-l89356]] — The portal for your bright future: a decentralized app for those starting a new life to securely sto
+- ★ [[miia-api-medical-intelligence-applied]] — The system leverages AI technology to analyze data collected from facial recognition, wearable devic
+- ★ [[fall-guardian]] — A wearable, connected device that provides a safety link between a vulnerable person and a caregiver
+- ★ [[remindar-94vnz5]] — RemindAR is an assistive AR system that helps people with memory challenges recognise faces and reca
+- ★ [[mobilityhub]] — Intelligent proximity-based medical services recommender utilizing Native CoreLocations Framework an
+- ★ [[memory-playground]] — Build a digital Memory Playground to help boost memory recall and retention.
+- ★ [[cure-genie]] — An AI-powered fitness and dietetics Planner, for your personal needs and goals. It sends the schedul
+- ★ [[vit4alzheimer]] — Using Vision Transformers to achieve 94.5% accuracy in Alzheimer's detection from brain MRI scans, o
+- ★ [[hot-spot-4961jt]] — An app that keeps the community safer by heatmapping patient history and analyzing the risk of infec
+- ★ [[pandemic-volunteers]] — We are going to mobilize millions of people to join the fight against COVID-19
+- ★ [[guardian-ai-powered-fraud-prevention-for-your-money]] — Defend against suspicious charges before they even reach your account, utilizing voice alerts, agent
+- ★ [[cognipredict]] — CogniPredict uses deep learning to classify Alzheimer's disease severity from brain MRI scans with 9
+- ★ [[zorg-7ubd4x]] — Automated healthcare with Zorg: secure, decentralized storage and instant access to encrypted patien
+- ★ [[cleancue]] — From a spotless start to a messy counter chaos - we've all been there! Remember the days when mom's 
+- ★ [[moodhaven]] — MoodHaven helps parents track and understand their child’s moods, incidents, medication usage and sl
+- ★ [[sagewell]] — An AI-powered Medical Assistant for the Elderly
+- ★ [[careloop-agentverse-care-companion]] — CareLoop coordinates prescriptions, appointments, OTC medicine, FET payments, calendars, and caregiv
+- ★ [[hyper-immersive-panorama]] — Use facial detection to take a look around exciting destinations.
+- ★ [[vitalsync-b1fn86]] — VitalSync: Your AI-Powered Health Companion
+- ★ [[jansaathi-mw2ctg]] — Naa dharma dekhe naa jaati , aapka saath sadaiv dega JanSaathi
+- ★ [[companion-43xfsi]] — Companion is a voice-powered web AI agent that can autonomously execute web tasks based on user requ
+- ★ [[save-our-planet]] — Mass vaccination effectively, efficiently, and safely.
+- ★ [[halfsaid]] — 2M Americans have aphasia: thoughts intact, words stuck. Devices cost $5K–15K and sound robotic. Hal
+- ★ [[memento-i46kor]] — Preserve your story
+- ★ [[postop-sentiel]] — PostOp Sentinel: AI-powered recovery monitoring that catches complications before they become emerge
+- ★ [[smartcare-fs8pkr]] — A vital signs monitoring platform using Explainable AI to instantly assess patient health risks and 
+- ★ [[memary]] — MemARy: AR Glasses for Alzheimer's. See, hear, remember.
+- ★ [[guardian-angel-op49t2]] — Guardian Angel, always by your side.
+- ★ [[safesteps-9x4o7i]] — SafeStep is an AI-powered care companion designed to restore dignity and joy to the caregiver-recipi
+- ★ [[mirai-fusion-model-for-alzheimer-s]] — MirAI (未来): A Dual-Expert AI System for Early Alzheimer’s Detection through 3D Neuroimaging and Cogn
+- ★ [[ludwig]] — A physical robot to play any sheet music you want!
+- ★ [[alzi-1s6uej]] — Designed to assist individuals with Alzheimer's and their caregivers.
+- ★ [[osteoai-ai-based-osteoporosis-risk-detection]] — AI-powered osteoporosis screening using routine X-rays and patient data for affordable, early risk d
+- ★ [[memory-coach]] — Every 3 seconds, someone in the world develops dementia.But with patience, understanding, and gentle
+- ★ [[interpretable-longitudinal-gnn-modeling-of-alzheimer-s]] — This is a code that longitudinally models Alzheimer's disease progression for more clinical relevanc
+- ★ [[ai-wonder-girls-v9-tbd]] — Through the power of graphs and machine learning, we aim to uncover new disease links and help resea
+- ★ [[asksafe-home]] — AskSafe Home helps seniors pause, understand risk signals, and choose a safer next step when a messa
+- ★ [[navcare]] — Our way of improving the scheduling and travelling experience for Personal Support Workers to help m

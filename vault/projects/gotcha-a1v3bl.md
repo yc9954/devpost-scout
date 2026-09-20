@@ -1,0 +1,44 @@
+---
+slug: "gotcha-a1v3bl"
+url: "https://devpost.com/software/gotcha-a1v3bl"
+title: "deep-a"
+hackathon: "Codegeist Unleashed"
+organization: "Atlassian"
+winner: true
+words: 1287
+team_size: 1
+has_repo: false
+has_live: true
+has_video: true
+tags:
+  - "project"
+  - "mechanism/voice_speech"
+  - "domain/developer_tools"
+  - "user/developer"
+  - "user/educator_student"
+  - "substrate/structured_db"
+  - "substrate/transcript_audio"
+---
+
+# deep-a
+
+> I can help you get insights from your meetings
+
+[Devpost](https://devpost.com/software/gotcha-a1v3bl) · hackathon [[Codegeist Unleashed]]
+
+## Facets
+
+**mechanism** [[voice_speech]]
+**domain** [[developer_tools]]
+**user** [[developer]] [[educator_student]]
+**substrate** [[structured_db]] [[transcript_audio]]
+
+**stack** forge, node.js, openai, react
+
+## How they structured the write-up
+
+- participating in atlassian codegeist unleashed: a journey of learning and problem-solving
+
+## Body
+
+Participating in Atlassian Codegeist Unleashed: A Journey of Learning and Problem-Solving Once upon a time, I heard about hackathons from a friend who had won a couple of them. He introduced me to Devpost, and I did a filter for AI hacks, which led me to Atlassian Codegeist Unlimited. The name Atlassian sounded familiar, and I recalled that they are the parent company for Trello, which we use to manage our products at pedagogue.ai . This gave me some sense of connection between the hackathon and our work. Next, I had to figure out what to build. During our meetings, we would talk about tasks we handled, and during these conversations, bugs and additional tasks would come up, and we would then have to note them down and later add them to the tasks on Trello. I decided to build an app that gets the meeting notes and provides a list of action points that come up during these meetings and a way to automatically add them to the board. As a first-timer on Forge, I dove into the documentation, reading through the intro and watching a video. After this, I learned more about the products on Atlassian and how easy it is to spin up environments. I proceeded to watch another video that teaches how to build a Confluence application on Forge. I built the sample demo applications, modifying the Confluence pages as needed. I realized I would need to connect to an LLM like OpenAI, luckily there was a tutorial on that, building a keyword extractor. I followed the steps and realized that this was enough to build what I needed. I was working on getting insights on meeting notes, and these meeting notes can be long, so I was getting timed out after 25 seconds. Feeling frustrated, I took a break and joined one of the virtual meetings held by Atlassian. I learned about Spinach.io , a note-taking maestro. I was like damn, someone has beat me to the idea. Immediately I wanted to stop working and build something else, but I decided to look deeper. I tested the Spinach.io app out and saw that it integrates with your calendar and listens to your meeting and provides insights on their platform. You can easily create tasks and issues from their application. I decided to build Spinach.io on Forge, and my troubles began. There was no way to access the window property using Forge UI kit. I needed this to access the microphone feature. I sent to get an update, and no one responded to me. I got feedback on the fourth day, and I saw that someone faced the same issues, and they had to use custom UI. I moved to custom UI to build out the recording feature, but more issues came up. The application stopped listening when I moved my cursor. I tried out several speech-to-text apps, but nothing meaningful yet, and it was four days to the deadline. I'm glad because I learned more about the Forge environment and how useful it was to me. I understood more about Atlassian, and after coming to understand that the problem I'm facing is huge and many people have tried to solve it before but failed. Once I realized that the solution I was building was only available for Jira applications, I went back to the first solution I had built, which takes the meeting notes and provides a summary and action items, as my confluence app is connected to Jira, where you can easily create tasks and tickets on it. I did some prompt engineering and broke down the summaries to specifics like meeting summary, action items, project updates, upcoming deadlines, risks and issues, and key decisions, giving a broad insight into what we got from the meeting. Prompt engineering was crucial in solving the 25 seconds timeout errors I was facing. By breaking down the summaries into specific categories, I was able to reduce the amount of data that needed to be processed, which helped to prevent the timeout errors. This was a valuable lesson for me, and I realized the importance of prompt engineering in solving complex problems. In the future, I would like to be part of the team that solves the problem and builds a solution on Forge that enables you to record your meetings on the fly. This would provide a more seamless and integrated experience for users, and I believe it would be a valuable addition to the Atlassian platform. Participating in the Codegeist Unleashed hackathon was a great learning experience for me. I learned more about the Forge environment and how useful it was to me. I understood more about Atlassian, and I realized that the problems I'm facing are huge and many people have tried to solve them before but failed. Despite the challenges I faced, I was able to build a solution that met my needs, and I'm proud of what I accomplished. My note to all developers is to participate in as many hackathons as you can. You'll learn a lot from them, and you never know what you might discover. Code Snippets Here are some code snippets that I used in my project: // This code connects to my confluence page, gets the meeting notes, connects to OpenAI's LLM to generate insight from meeting notes const openai = require('openai'); const client = new openai({ apiKey: 'YOUR_API_KEY' }); const keyDecisionsPrompt = `Here are the meeting notes:"${pageData}" Identify and list any key decisions made during the meeting. Provide the decisions in a clear and organized manner. If no key decisions were made in the meeting, just return no key decisions found."` const [keyDescisions, setKeyDecisions] = useState(''); const fetchKeyDecisions = async () => { try { const items = await callOpenAI(keyDecisionsPrompt); setKeyDecisions(items); } catch (error) { console.error('Error fetching action items:', error); // Handle error, show an error message, or retry the request } }; // Function to interact with the OpenAI API using a given prompt const callOpenAI = async (prompt) => { // Polyfilling tty.isatty due to a limitation in the Forge runtime // This is done to prevent an error caused by a missing dependency tty.isatty = () => { return false }; // Create a configuration object for the OpenAI API const configuration = new Configuration({ apiKey: process.env.OPEN_API_KEY, // Replace with your actual API key organisation: process.env.OPEN_ORG_ID // Replace with your actual organisation ID }); // Log the API configuration for debugging purposes // console.log(configuration) // Create an instance of the OpenAIApi with the provided configuration const openai = new OpenAIApi(configuration); // Log the prompt that will be sent to the OpenAI API // console.log(prompt) // Create a chat completion request using the OpenAI API const chatCompletion = await openai.createChatCompletion({ model: "gpt-3.5-turbo", // Specify the model to use (GPT-3.5 Turbo) messages: [{ role: "user", // Role of the user in the conversation content: prompt // The user's input prompt }] }); // Extract the response content from the API response const response = chatCompletion.data.choices[0].message.content; // Log the generated response for debugging purposes // console.log("Prompt response - " + response); // Return the generated response from the OpenAI API return response; } # code to take meeting notes directly from forge import React from 'react'; import SpeechRecognition, { useSpeechRecognition } from 'react-speech-recognition'; const Dictaphone = () => { const { transcript, listening, resetTranscript, browserSupportsSpeechRecognition } = useSpeechRecognition({ continuous: true, interimResults: true, }); if (!browserSupportsSpeechRecognition) { return <span>Browser doesn't support speech recognition.</span>; } return ( <div> <p>Microphone: {listening ? 'on' : 'off'}</p> <button onClick={SpeechRecognition.startListening}>Start</button> <button onClick={SpeechRecognition.stopListening}>Stop</button> <button onClick={resetTranscript}>Reset</button> <p>{transcript}</p> </div> ); }; const App = () => { return ( <div className="App"> <header className="Dictaphone-Tester"> <Dictaphone /> </header> </div> ); }; export default App; <div

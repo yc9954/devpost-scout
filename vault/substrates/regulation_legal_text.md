@@ -1,0 +1,181 @@
+---
+facet: "substrate"
+name: "regulation_legal_text"
+projects: 150
+winners: 150
+tags:
+  - "facet"
+  - "substrate"
+---
+
+# regulation_legal_text
+
+`substrate` · **150** projects, **150** of them winners.
+
+## Pairs with
+
+- [[realtime_stream]] — 76 together  <sub>(mechanism)</sub>
+- [[finance_payments]] — 72 together  <sub>(domain)</sub>
+- [[structured_db]] — 69 together  <sub>(substrate)</sub>
+- [[developer_tools]] — 57 together  <sub>(domain)</sub>
+- [[geospatial]] — 55 together  <sub>(substrate)</sub>
+- [[document_pdf]] — 53 together  <sub>(substrate)</sub>
+- [[civic_government]] — 49 together  <sub>(domain)</sub>
+- [[financial_record]] — 48 together  <sub>(substrate)</sub>
+- [[video_visual]] — 43 together  <sub>(substrate)</sub>
+- [[web_dom]] — 43 together  <sub>(substrate)</sub>
+- [[health_clinical]] — 43 together  <sub>(domain)</sub>
+- [[developer]] — 40 together  <sub>(user)</sub>
+
+## Projects
+
+- ★ [[asap-1h45pk]] — Empowering industries with AI-driven insights through Retrieval Augmented Generation (RAG), simplify
+- ★ [[amanat]] — Privacy-first AI agent for humanitarian organizations that scans cloud services for sensitive data e
+- ★ [[auditguardx]] — Enterprise compliance in minutes, not months at 1% of the cost.
+- ★ [[extopay-the-last-mile-solution-for-digitizing-cash]] — Next-Generation CBDC solution for digitizing cash: A Highly Secure Mobile and Non-Mobile Solution wi
+- ★ [[haven-w7mj9g]] — A Silent Shield, A Strong Voice.
+- ★ [[openmed-gtp792]] — A modular AI-driven diagnostic system that intelligently selects specialized models for each case, o
+- ★ [[forge-field-operations-real-time-guidance-engine]] — Voice AI co-pilot for hands-busy industrial technicians: one Qwen-Omni-Realtime session listens, see
+- ★ [[v-ident-real-time-identity-verification-mobile-application-19kdg7]] — V-Ident: Pulse + pixels = proof. On-device heartbeat detection & frequency forensics catch deepfakes
+- ★ [[mybubble-guiding-you-to-the-new-normal]] — MyBubble is the 'digital bubble' that keeps you alert, informed, and safe in the 'new normal'!
+- ★ [[corona-legal-chatbot]] — Place to go to for all legal questions concerning Corona.
+- ★ [[dispatch-wedj2m]] — No Borders. No limits. Just Remit.
+- ★ [[compliance-sentinel]] — An Agentic, AI Red Team Approach for Proactive Geo-Compliance Risk Detection
+- ★ [[nusic-layer-1-for-music]] — Open audio fingerprints and creator metadata layer for Web 3.0 encrypted music distribution and info
+- ★ [[brightact-fqibsh]] — App for documentation and support for victims of domestic violence, gathering governments, authoriti
+- ★ [[notary-an-ai-creative-review-board-for-generative-media]] — Screens every AI-generated take against brand and compliance rules, revises the failures with the re
+- ★ [[warden-ny9uwa]] — Warden is the runtime firewall that stops AI agents from being hijacked by blocking prompt injection
+- ★ [[compilanceos]] — A compliance agent that audits your code against real law, writes the fixes, and reads its own Phoen
+- ★ [[blocktease]] — 💘 OnlyFans for web3 💌
+- ★ [[locl-lf734n]] — Locl offers a platform that supports EBT card purchases to allow SNAP benefit users to purchase heal
+- ★ [[instruxi]] — Unlock the value of unmined gold with ION Digital and Instruxi's gold fractionalization tool. Revolu
+- ★ [[shopguard]] — AI-powered behavioral wellness that helps you think twice before you buy.
+- ★ [[woodpecker-ai-finds-hidden-hotspots-in-power-lines]] — Power line failures spark billions in damage.Woodpecker AI, like a woodpecker spotting hidden hotspo
+- ★ [[agent-skeleton-framework]] — Build domain-specific AI agents through YAML configuration, not code. Same core powers Compliance Re
+- ★ [[green-space-suggestion-tool]] — A tool to combine datasets to generate green space suggestion heat map in cities.
+- ★ [[klerk]] — Klerk: Simplifying Government Services with a Multilingual AI Assistant for Accurate, Up-to-date, an
+- ★ [[province]] — An AI-native tax filing agent system that turns complex tax prep into a natural conversation by extr
+- ★ [[sitesync-ai-u7j86v]] — "🏗️ Sync the vision. Build the truth ." SiteSync AI is not just a "viewer" it is an active participa
+- ★ [[optimate]] — Smarter underwriting through AI-powered dashboards, deep insights, and reinforcement learning.
+- ★ [[lumina-legal-ai-powered-indian-legal-assistant]] — An intelligent legal assistant that instantly identifies applicable IPC and IT Act sections from pla
+- ★ [[care-coordination-discharge-planner]] — Automates discharge coordination — reads clinical notes, validates CMS rules, and generates Standard
+- ★ [[communipute]] — Share compute power throughout your community when you're not using it through our distributed compu
+- ★ [[waste-v2fhdo]] — A Waste Automation Efficiency, Recycling, Rewarding and Management System Powered by Monday SDK, Goo
+- ★ [[therms-thermoregulation-wearables-with-ai-powered-insights]] — A non-invasive wearable using novel thermoregulation research to provide precise heating/cooling to 
+- ★ [[permitflow-ai]] — PermitScan Ai automates hazard discovery → permit creation → permit validation → permit refinement f
+- ★ [[touche-cfp6hs]] — Safe Access control to fight COVID-19 - enabling effective deconfinement
+- ★ [[tree-foundation]] — The greenest digital token, backed by physical forest.
+- ★ [[instant-sars-cov-2-breathalyzer]] — Optical detection of airborne virus-bearing aerosols (micro-/nano-droplets) using fluorescent marker
+- ★ [[maggy-ovyepd]] — Social distancing made easy! Maggy is a small wearable device helping you to maintain social distanc
+- ★ [[via-dappia]] — Revolutionizing road infrastructure: This project tokenizes roads, decentralizing ownership & upkeep
+- ★ [[healthcare-worker-burnout-prevention-wellness-platform]] — AI-driven platform that predicts healthcare worker burnout risk, sends early alerts to managers, and
+- ★ [[aimf]] — Built upon Pega's Powerful Intelligent Automation, Cosmos-UI, & Mashup capabilities, AIMF aids organ
+- ★ [[constructa]] — Constructa helps developers and contracting teams evaluate buildable sites, visualize projects, and 
+- ★ [[teledisko-dao]] — Neokingdoms are constitutional DAOcracies. They serve a collective of humans with a common goal. Vir
+- ★ [[compliance-guardian-ai-system]] — AI-powered compliance monitoring that detects violations before they become liabilities.
+- ★ [[agrinexo-er4mag]] — Get critical agri-environmental information as NDVI maps, climate analysis and agrometeorological we
+- ★ [[ally-kmoagt]] — Ally makes drone data management simple, giving non-technical people easy access to automated workfl
+- ★ [[theracat]] — A band and a plush cat that catch anxiety in how you move — and interrupt it before it peaks. There'
+- ★ [[measuring-taste-to-diagnose-diseases]] — You might have measured your eyesight or your hearing, but have you ever tested your taste ?
+- ★ [[signet-app-identity]] — Did you know that officially approved solutions to privacy and impersonation risks in online communi
+- ★ [[cueboard-the-physical-control-surface-for-virtual-events]] — CueBoard turns the MX Creative Console into your meeting command center. Mute, record, launch breako
+- ★ [[harmoniq-06o1e9]] — Regulatory intelligence for clinical trials.
+- ★ [[tarmac-w2gbli]] — An airline irregular-ops agent society: sealed-bid seat claims, a mediator with signed rulings, and 
+- ★ [[pikaplace-pokedex]] — Decentralized NFT Monster Game powered by Chainlink Randomness.
+- ★ [[wayfinder-1y4xbe]] — Your personal AI caseworker for U.S. refugee benefits. Answer a few questions, see what you qualify 
+- ★ [[birdbox-6r59dj]] — This project applies SNA methodologies and Big Data tools, used to analyze social networks to study 
+- ★ [[ciclogreen]] — Using gamification to help cities and companies to promote active and safe mobility to reduce COVID 
+- ★ [[smart-graahak]] — Smart Graahak allows users to search for products effortlessly, understand their benefits, and make 
+- ★ [[equinox-flow]] — Balance Your Financial Equinox Across Globe
+- ★ [[the-digital-volunteer-dym0xb]] — Automate mobilisation of community, solidarity and collaboration. Use non-smartphones to raise a tas
+- ★ [[transparency-ubn85q]] — Visualizing financial transactions
+- ★ [[cognipath]] — Cognipath: Transforming education with smart use of Data & AI. Featuring AI-driven storytelling, rea
+- ★ [[priorauth-agent]] — A voice-to-submission AI agent that converts a clinician's spoken case into a completed prior author
+- ★ [[aegisagent-an-insurance-claim-app-fully-developed-by-kiro]] — AegisAgent transforms manual insurance claim reviews into an automated, explainable multi-agent proc
+- ★ [[xdc-eco-logically-driven-nft-s]] — Drive ecologically to a sustainable future.
+- ★ [[gradientguard-dora-compliance-intelligence-platform]] — AI-powered DORA compliance platform for EU fintechs. 4 multi-agent system on DigitalOcean Gradient™ 
+- ★ [[compliance-sentinel-autonomous-devsecops-governance]] — AI agents that enforce SOC2, HIPAA, PCI-DSS & GDPR as code on every merge request — with automated m
+- ★ [[privacy-guardian-agents-privacy-license-for-codebases]] — World's first Privacy multi-AI agentic framework on AWS, making compliance as natural as linting whi
+- ★ [[synapseai]] — Transforming Thoughts into Visual Expression - Empowering Minds Beyond Words
+- ★ [[shopsafe-21onk6]] — Convenient and Safe Shopping for Everyone
+- ★ [[aircraft-bay-management]] — Web-based management system embedded with visualization portal & optimization engine to provide the 
+- ★ [[contractful-hiring-agreements]] — contractful provides peer-2-peer, safe and secure Hiring Agreements for everyone to use.
+- ★ [[dockit-apv17c]] — An an AI-powered platform helping small businesses discover and manage city-specific licenses, permi
+- ★ [[co-llectif]] — Deliver to those who need it, "Let's be co-llectif!"
+- ★ [[qw-qox4r8]] — mila stays close to you when you need it most, giving color to your voice and helping your healthcar
+- ★ [[a-green-vest]] — Farmers lack the capital to utilize the lands they possess causing a setback in production. We provi
+- ★ [[climate-risk-real-estate-investor-manager]] — PRAAM is an integrated solution to identify, evaluate, manage and report physical risks in investmen
+- ★ [[timesheet-check-for-jira]] — Using Jira and taking time management seriously, Tempo Timesheets will be your go-to solution.But wh
+- ★ [[ceres-yield-aggregator-for-the-people]] — Ceres aims to simplify DeFi, with a built in Cash In - Cash Out to BRL and a simpler UX so that non 
+- ★ [[stablepay-alvfhb]] — StablePay turns overseas invoice payments from weeks to minutes. Your clients pay with stablecoins, 
+- ★ [[internet-computer-footprint]] — Internet Computer Footprint tracks the cycle burn rate of IC projects, and uses VERRA carbon credits
+- ★ [[compliant-workflows-for-jira]] — Configure Jira for regulatory compliance in pharma, medtech, fintech, and more—no guesswork required
+- ★ [[toniq-earn-and-the-nft-interest-rate-protocol]] — A decentralized interest rate protocol where users can borrow ICP using NFTs as collateral, or earn 
+- ★ [[complianceguard]] — Autonomous AI compliance monitoring — detect GDPR, HIPAA, SOC2 & EU AI Act violations in 60 seconds
+- ★ [[signa-l7hbcj]] — SIGN WITH YOUR FACE!
+- ★ [[rrr-s98zwc]] — Recycle like a smart person
+- ★ [[whispercash]] — WhisperCash is an offline payment solution for CBDCs using secure hardware and a unique value transf
+- ★ [[dof-deep-model-core-output-framework]] — DoF is a highly scalable dataset format which helps deep learning scientist to work with foreign and
+- ★ [[aloud-lxqr70]] — Beauty, aloud. The first beauty AI a blind shopper can use alone, screen off. Built on the YouCam Sk
+- ★ [[neurobin-smart-waste-segregator-vd5j9x]] — NeuroBin is not just a smart waste segregator. It is an AI-powered waste intelligence system designe
+- ★ [[virtual-assistant-to-facilitate-enrollment-processes]] — The main objective of universities is education, however, the strategic processes must also be impro
+- ★ [[fresh-air-upznhf]] — Design, build and quickly distribute a cheap, safe PAPR system to the medical staff to ease their fi
+- ★ [[tangled-ajoh2i]] — Connecting minds and building unity with Tangled's immunity
+- ★ [[pixie-ai-dw8l0h]] — AI Copilot for Nurses
+- ★ [[priorityqueue]] — Democratizing information across the electric grid.
+- ★ [[emusify]] — Emusify is a real-time mood-based music recommendation system that runs in the background and plays 
+- ★ [[refugee-legal-navigator]] — Empowering the displaced with Amazon Nova-driven legal aid, 22+ language support, and agentic UI aut
+- ★ [[lemon-7gn5hq]] — A simple, transparent ecommerce platform for bargain produce that connects consumers and businesses 
+- ★ [[hospital-inpatient-discharge-journey]] — Being stuck in a hospital room without answers is more than annoying, it erodes trust. Our solution 
+- ★ [[dafp]] — Empowering startups and small investors through a decentralized, transparent, and community-driven f
+- ★ [[justinsure]] — Decentralized insurance market platform
+- ★ [[caren-ai]] — Because everyone deserves someone who cares
+- ★ [[liquilex]] — LiquiLex is an advanced AI-powered platform designed to help businesses and developers navigate comp
+- ★ [[covidtivity]] — Kick start your productivity, health, and happiness during the pandemic!
+- ★ [[chatit-4gi10e]] — CHATIT is a web3 Social-Fi platform with an inbuilt De-Fi and Game-Fi protocols with services like c
+- ★ [[auditease-f1pqzw]] — Eco Friendly AI-Powered Compliance Platform
+- ★ [[diffuji]] — a diffusion-powered instant camera
+- ★ [[visionary-health-tracker]] — Empowering your health journey with real-time insights and personalized guidance.
+- ★ [[justicemap-2q6vgh]] — JusticeMap gives every urban resident free, verified legal guidance backed by real city laws and gen
+- ★ [[synapse-ai-powered-cognitive-retraining-platform]] — Synapse is a revolutionary AI-driven cognitive training platform specifically designed for children 
+- ★ [[corpus-mcp]] — An open-source Qwen agent that turns "I sell sourdough from my apartment" into a cited launch checkl
+- ★ [[family-pay]] — Family pay increases financial inclusion of kids, by allowing them to pay on their parent's behalf, 
+- ★ [[med-supply-life]] — We are saving lives by bridging the information gap between Asian medical suppliers and US healthcar
+- ★ [[market_pulse]] — AI-powered multi-agent financial sentiment platform that transforms real-time market news into actio
+- ★ [[legist]] — Putting the gist in legislation: summarizing policy for democracy
+- ★ [[toolblox]] — No-code blockchain app maker. Turn any business process into a smart contract.
+- ★ [[pharos-pharmacovigilance-autonomous-reasoning-and-oversight]] — Four-agent AI on Elastic Agent Builder that detects drug safety signals from FDA FAERS data 100x fas
+- ★ [[talktuahbank]] — Where YOU can talk to your own personalized bank.
+- ★ [[hallmark]] — Governed AI creative: generate ad campaigns that can prove where they came from.
+- ★ [[azure-cognitive-services]] — This project contains common Microsoft Azure Cognitive Services APIs to be used from Postman.
+- ★ [[clearpathai]] — Making expungement simple and accessible for all.
+- ★ [[dotramp]] — Using Mpesa or local currency, Dot Ramp enables users to on- and off-ramp DOT and other tokens on Po
+- ★ [[holocare-nkbycz]] — In an pandemic, HoloCare can deliver a solution that maintains the quality of treatment in hospitals
+- ★ [[mall-monitor]] — What started off as a COVID-19 tracking system for malls, turned into something that tracks height a
+- ★ [[park-pal-wbgqmk]] — The Airbnb for Parking
+- ★ [[aidfinanz]] — Aiding Financial Inclusion - AI based risk assessment model that generates credit risk rating, takin
+- ★ [[thanx-finance]] — Building a multi-brand, crypto-based reward & loyalty platform. Users can earn up to 20% cryptoback 
+- ★ [[21yield]] — yEUR is the first interest-bearing euro stablecoin to fund microcredit on chain through Celo network
+- ★ [[shadowguard-l6yv7p]] — ShadowGuard is a network-layer AI firewall that detects and redacts sensitive patient data in real t
+- ★ [[synapse-68lvmt]] — AI-powered cognitive retraining platform for children with ADHD, autism, and learning disabilities, 
+- ★ [[flatcoinusd]] — Lendr Network is a decentralized lending protocol offering 0% interest loans for real-world assets (
+- ★ [[optiver-trading-challenge-xmoqta]] — Bulding a bot for the Optiver Market Making Challenge.
+- ★ [[need-of-escrow]] — AI-powered enhancements for an online collaboration platform to improve compliance and streamline di
+- ★ [[balance-beacon]] — D.I.D Effected patients
+- ★ [[know-your-degen-oracles-on-fantom]] — Know Your Degen (KYD) Oracles allows your Fantom Smart Contract dodge transactions from addresses fl
+- ★ [[ecopet]] — Create energy awareness && have fun with the ecoPets.
+- ★ [[wisespirit-trolleyops]] — WiseSpirit & TrolleyOps: AI solutions powered by Google Gemini and ElevenLabs that bring accuracy, a
+- ★ [[beefchain]] — Tokenizing livestock. Beyond tracking costs, we turn cattle into digital assets. Major processors an
+- ★ [[govguard-ai-governance-platform]] — GovGuard: Enforcing AI ethics and safety in real time — fast, smart, and secure.
+- ★ [[immutableledger]] — A real-time immutable ledger on the blockchain
+- ★ [[mindfulness-app]] — Eunoia (great mind) is a mindfulness app that helps you reset your mind in seconds. One tap delivers
+- ★ [[insureiq-1z7q60]] — See risk before it happens
+- ★ [[ankerpay]] — Empowering 26M users in South Africa: Seamlessly integrate Tron & USDt into AnkerPay for instant, de
+- ★ [[anchain-ai-secure-cbdc]] — AnChain.AI Secure CBDC is a Big Data Analytics Platform for the safe issuance and monitoring of CBDC
+- ★ [[limitless]] — Limitless is the FinTech FFDC App for Credit Limit Manager that assists in the development and monit
+- ★ [[food-waste-rescue-feedforward]] — Bridge the Gap: From Waste to Worth.
+- ★ [[us-law-reference]] — US Law Reference: A fast, offline legal pocket guide with searchable US Code, Constitution, and DMV 
+- ★ [[in-cre-d]] — "Intelligent Credit Decisioning using AI" - Enabling Enhanced Credit Decisioning as part of the onbo
+- ★ [[us-state-professional-licenses]] — Have you ever wondered if your Doctor or Dentist is having a valid license? How about Plumbers, Nail
+- ★ [[domi-rental-companion]] — We are enhancing the experience of private properties for landlords and tenants while increasing con
+- ★ [[biota-oy0uwb]] — We propose to fix a broken financial preservation system and turn it into a modern decentralized fin

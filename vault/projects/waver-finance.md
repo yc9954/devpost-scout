@@ -1,0 +1,52 @@
+---
+slug: "waver-finance"
+url: "https://devpost.com/software/waver-finance"
+title: "Waver Finance"
+hackathon: "NEAR MetaBUILD III Hackathon"
+organization: "NEAR Protocol"
+winner: true
+words: 1295
+team_size: 3
+has_repo: false
+has_live: true
+has_video: true
+tags:
+  - "project"
+  - "mechanism/provenance_signing"
+  - "mechanism/simulation_digital_twin"
+  - "domain/developer_tools"
+  - "domain/labor_employment"
+  - "user/developer"
+  - "substrate/financial_record"
+---
+
+# Waver Finance
+
+> The first decentralized quantitative trading platform that provides secure, transparent, intelligent, and low-cost quantitative trading services for all users on the NEAR protocol.
+
+[Devpost](https://devpost.com/software/waver-finance) · hackathon [[NEAR MetaBUILD III Hackathon]]
+
+## Facets
+
+**mechanism** [[provenance_signing]] [[simulation_digital_twin]]
+**domain** [[developer_tools]] [[labor_employment]]
+**user** [[developer]]
+**substrate** [[financial_record]]
+
+**stack** amazon-web-services, flask, near, next.js, python, react, rust
+
+## How they structured the write-up
+
+- inspirations
+- what it does
+- how we built it
+- challenges we ran into
+- accomplishments that we're proud of
+- our team
+- business model
+- what we learned
+- what's next for waver finance
+
+## Body
+
+Dashboard - My Assets Dashboard - My Strategy Landing page Get started page : system will create one unique sub-contract for the user Dashboard - Create Strategy Dashboard - Update Strategy Inspirations In the early days, the price of NEAR showed periodic fluctuations. During that time, we had the idea of developing a native quantitative trading algorithm on NEAR, this is where the Waver Finance inspiration comes from. However, how to provide users with safe services has become a main challenge, we are afraid of being hacked. Both the oracles that generate transactions and the smart contracts themselves can be attacked, and the risk is super high. We have seen many people deploy a transaction contract provided by others on Ethereum or BSC, and end up losing money because of malicious code. Security incidents are happening on web3 every day. What’s more, on centralized exchanges like Binance, grid trading fees range from 0.54% to 1.10%. Fees are high and funds are not safe. After FTX lost more than $1 billion, we deeply believe that people will lose confidence in centralized platforms and bullish in decentralized platforms. Combining the problem statement we mentioned above, and the recent centralized trading platforms bad news, we think about whether it is possible to provide customers with an absolutely safe trading platform under the context of zero trust . So it's our mission to launch Waver Finance. We believe that we can use the design mechanism of the NEAR smart contract to implement a zero-trust-based asset custody protocol and build a transparent and secure quantitative trading platform to solve all these problems. What it does Waver Finance is the first decentralized quantitative trading platform that provides secure, transparent, intelligent, and low-cost quantitative trading services for all users on the NEAR protocol. Users can use Waver Finance to obtain their locked sub-contracts and send assets to the sub-contracts. Users can create their own strategies to achieve automated trading or grid trading for the escrowed assets. Users only pay for gas and transition fees, and Waver Finance will pay $WAVER for each oracle request. The user's assets are locked on the sub-contract, and only the user can withdraw the funds. Waver Finance has set up independent security mechanisms in both the signature (functionCall access key) and the subcontract (which will verify the oracle request in the contract). Nowadays, Centralized trading services hold the dominant power of the transaction. Therefore, users bear a huge risk on their assets at any time. Decentralized trading platform, on the contrary, not only saves maintenance costs, but also creates a new business model that allows users to win-win with the platform and stand on an equal and transparent position. On the one hand, the platform can reduce customer acquisition costs through the zero-trust basis brought by smart contracts, and focus on providing users with financial and other services. On the other hand, users can trust their own assets and enjoy the services brought by the platform. It's a win-win situation, and to achieve the main accomplishment of our project: security Here's an overview of the big idea: How we built it The 3rd stake battle of NEAR inspired us to build platform-based services. Specifically, the design of the Staking contract and AccessKey license on NEAR gave us the core ideas, and we developed Waver Finance's two main contracts based on them. waver_meta is Waver Finance's master contract and FT contract. When a user registers and staked 2 Near, the main contract will deploy a sub-contract waver_client for the user, and add signature permissions for the request and storage functions with a functionCall permissions. The request function is mainly used for oracle machine calls, and the storage function is mainly used for token staking registration. At the end of each user's registration, we will airdrop 10 $WAVER to motivate users to explore the service. waver_client allows each user to have a unique client contract. If the user's wallet address is alex.testnet , he will get a wallet alex.waver.testnet . By transferring cryptocurrency assets to this wallet, users can keep their assets in escrow. The client contract stores all trading strategies, and checks the legitimacy of the request for the user based on the strategy ID when the oracle machine submits it. This allows users and oracles to work together with zero-trust . Our Dapp & dashboard is built with React.js and next.js. Our backend query server is built with Flask, a micro server written in Python and deployed on AWS. We use a timed process to simulate the flow of automated trading. Challenges we ran into It is undeniable that security is the top priority of financial projects. During the trading process, both the oracle machine and the smart contract itself are at risk of being hacked. The core challenge and highlight of Waver Finance is to utilize design of the NEAR smart contract to implement a zero-trust-based asset escrow protocol, thereby establishing a transparent and secure quantitative trading platform. Through the multi-keyPair and sub-contract mechanism of the NEAR protocol, Waver Finance guarantees that even if the oracle machine is hacked, the user's assets are absolutely safe. Accomplishments that we're proud of What makes us most proud is that we managed to complete the development of the Waver Finance project during this hackathon period, which was completely beyond our expectations. Our Team We are a team of three Henry is the project team leader, he started learning NEAR since January. He is the Co-founder of Near Tinker Union (NFT project), who responsible for the development of all smart contracts. Our team member then started to learn more about the NEAR ecosystem with him. He is also a full-stack developer and software company founder. Winrey is the former founding developer of MeteorWallet. A.I. engineers and full-stack developers from MSRA, responsible for smart contract integration and front-end development. Jensen is a full-stack designer who has been working in software development and design since 2013, he is responsible for all UI and UX design. Business Model Traditional exchanges charge a certain percentage of grid trading volume as service fees. For example, Binance’s service fee ranges from 0.54% to 1.10%. On Waver Finance, if users need to use quantitative services, they need to purchase $WAVER on the exchange. When the transaction is successfully executed, the main contract will be paid in $WAVER. In addition, users only need to bear extremely low Gas fees and transition fees of less than 0.3%, which is friendly to whale users. With less server and ops cost, Waver Finance will use this tokenomics to maintain and sustain its unique business model. What we learned The main thing we learned was a deeper understanding of NEAR's underlying multi-signature mechanism and how to use it. We try to implement the ability to migrate contract state to update a contract with structural changes. At the same time, we also learn about decentralized prophecy machines to make the execution layer of the entire quantitative network more decentralized. What's next for Waver Finance What we have done for Waver Finance so far is only the beginning of our journey, there is still a long way to go and expand. Most importantly, we believe that Waver Finance can truly bring great impact and value to the market and contribute to the NEAR community. Here's an overview of Waver Finance's future journey: 2023 Q1 : Improve tokenomic by developing our own liquidity staking pool, perform code audit, launch testnet and start airdrop. 2023 Q2 : Launch the main network, support the development of leveraged funds and launch the test network 2023 Q3 : Support leveraged funds on the mainnet, start the development of custom quantitative trading algorithms and economic design 2023 Q4 : Launch custom quantitative trading algorithm, launch oracle decentralized test network <div

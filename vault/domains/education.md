@@ -1,0 +1,181 @@
+---
+facet: "domain"
+name: "education"
+projects: 1480
+winners: 1480
+tags:
+  - "facet"
+  - "domain"
+---
+
+# education
+
+`domain` · **1480** projects, **1480** of them winners.
+
+## Pairs with
+
+- [[educator_student]] — 1193 together  <sub>(user)</sub>
+- [[realtime_stream]] — 585 together  <sub>(mechanism)</sub>
+- [[structured_db]] — 484 together  <sub>(substrate)</sub>
+- [[video_visual]] — 456 together  <sub>(substrate)</sub>
+- [[developer_tools]] — 448 together  <sub>(domain)</sub>
+- [[web_dom]] — 440 together  <sub>(substrate)</sub>
+- [[geospatial]] — 384 together  <sub>(substrate)</sub>
+- [[developer]] — 282 together  <sub>(user)</sub>
+- [[finance_payments]] — 278 together  <sub>(domain)</sub>
+- [[document_pdf]] — 264 together  <sub>(substrate)</sub>
+- [[vision_ocr]] — 249 together  <sub>(mechanism)</sub>
+- [[researcher]] — 230 together  <sub>(user)</sub>
+
+## Projects
+
+- ★ [[ailearning]] — aiLearning is an AI-based solution for simplifying educational activities, focusing on exams correct
+- ★ [[launchpad-7xkjwu]] — Launchpad organizes your college applications in one place. Build your profile, get AI analysis on y
+- ★ [[amanat]] — Privacy-first AI agent for humanitarian organizations that scans cloud services for sensitive data e
+- ★ [[gemini-movie-detectives]] — A gateway to AI-driven educational content in schools and universities with Gemini and RAG! Challeng
+- ★ [[scholarstream]] — Need money for your school fee and upkeeps? ScholarStream finds immediate opportunities (scholarship
+- ★ [[bookster-05sbyz]] — AI powered student marketplace & community hub for ISU students
+- ★ [[openmed-gtp792]] — A modular AI-driven diagnostic system that intelligently selects specialized models for each case, o
+- ★ [[agentic-contract-framework]] — Contract-based observability for AI agents. Monitor if your agents fulfill their commitments and gai
+- ★ [[story-weave]] — AI storytelling meets immersive audio. Generate custom narratives with lifelike narration from any p
+- ★ [[lunsj-hbfni2]] — Automate routine knowledge sharing & social connection
+- ★ [[taief-the-all-in-one-academic-assistant]] — From academic research to Olympiad problems, TaiefMind is your AI co-pilot. Upload papers, extract d
+- ★ [[lantern-jm9a5l]] — A language dies every two weeks. Lantern is Duolingo for dying languages: it turns the words a commu
+- ★ [[test-3cmsd4]] — When your childhood paint app went to college, got a CS degree and came back with AI superpowers
+- ★ [[dreammeridian-geoai-on-pi]] — When disasters strike, networks fail first. DreamMeridian runs LLM-powered spatial queries entirely 
+- ★ [[gurwi-learn-anything]] — Gurwi makes mastering complex topics simple and engaging. Learn anything through our unique format o
+- ★ [[kisan-mitra-ai]] — Built on AWS and powered by Amazon Nova Pro, the platform eliminates the literacy barrier with a voi
+- ★ [[bye-buy]] — Selling stuff online sucks... 50+ messages, lowball offers, sketchy buyers. Bye-Buy handles this mes
+- ★ [[suavekeys-voice-and-expression-controller-and-keyboard]] — SuaveKeys is a distributed voice and expression controller to enable people with physical impairment
+- ★ [[sestara-e3w1on]] — Access to private tutoring predicts exam outcomes more than ability. That's an infrastructure failur
+- ★ [[blockdrive]] — Lifebank helps local communities create a virtuous circle of value exchange between three parties — 
+- ★ [[skyscore]] — AI-powered property tool that scores 290+ neighbourhoods in London and NYC for aircraft noise, affor
+- ★ [[pedirounds-ai-co-resident-for-pediatric-morning-rounds]] — The safety net between overnight and attending rounds. 4 AI agents catch deterioration, flag unsafe 
+- ★ [[ketopay]] — We are a service like PayPal (send/receive money) with no transaction fees ( due to our unique busin
+- ★ [[legalmindz]] — Ethiopia has 2.5 million businesses but only 3,000 lawyers. Legalmindz brings Legal AI for 120 Milli
+- ★ [[l-l-a-m]] — Save crops from locust attacks. Track locust movement realtime and predict the possibility of attack
+- ★ [[ocr-finetuning-for-ancient-cuneiform-tablets]] — NabuOCR is a specialized OCR model for transliterating ancient cuneiform tablets directly from image
+- ★ [[bit-civilization]] — Bit Civilization is a higher civilization based on the idea of Bitcoin and will transform all aspect
+- ★ [[project-x-xgo16d]] — Transforming Learning: AI-driven Podcasts, Quizzes, Dynamic References, and Document-based Chat for 
+- ★ [[disavu]] — DisaVu is a disaster response solution that helps direct relief resources to where they are needed m
+- ★ [[pneumoscan-an-ai-radiology-tool-for-covid-19-pandemics]] — CovidScan.ai is developed to be a secured AI platform with the purpose to assist radiologists with f
+- ★ [[mindstep-xwlpnr]] — Free, 5-minute dyslexia screening using Gemini Vision + Chat APIs to detect early signs with 85.71% 
+- ★ [[novaflow-the-autonomous-bi-pipeline]] — NovaFlow is an autonomous, self-healing BI pipeline. It cleans data, corrects its own SQL, builds in
+- ★ [[caladrius]] — The Privacy-First AI Triage Assistant
+- ★ [[lyfe-trak]] — Lyfe Trak is your voice-activated accountability buddy for tracking and checking progress towards yo
+- ★ [[apex-qkmxa0]] — A reimagined way to enjoy motorsports
+- ★ [[dispatch-wedj2m]] — No Borders. No limits. Just Remit.
+- ★ [[beatbuddy]] — Step up your VALORANT game with BeatBuddy! Build your dream team, master strategies, and uncover pro
+- ★ [[p-r-i-d-e]] — They say, "If you don't like what they are saying, change the conversation." So, that is what we did
+- ★ [[ecokiosk-ai-powered-machine-su0adv]] — Recycle. Get rewarded. It's that simple.
+- ★ [[liliusmed]] — Intuitive decision making platform where government agencies, hospitals, and suppliers can quickly a
+- ★ [[spark-mhxso9]] — Empowering Passion, Sparking Change, Inspiring Impact: Connecting Sustainable Hearts with Purposeful
+- ★ [[relay-real-time-voice-vision-lab-tutor-for-electronics]] — Relay watches your breadboard through your webcam and talks you through building circuits in real ti
+- ★ [[bookexchange]] — Every book deserves another reader
+- ★ [[pneumoscan-an-ai-tool-for-ppe-check-covid19-testing]] — PneumoScan.ai is developed to be a secured AI tool with the purpose to assist radiologists with COVI
+- ★ [[corovent]] — EU-tested ICU ventilator that offers patients with the most severe respiratory failures the same qua
+- ★ [[anyform-ai-form-builder-30au41]] — AnyForm is an AI powered, tool-first platform that lets you build complex, validated forms in under 
+- ★ [[guide-your-guide]] — Access museums or cultural heritage sites remotely through your phone, without worrying about #socia
+- ★ [[revenent]] — omniate.ca
+- ★ [[fin-wise-o9p4av]] — Gamified financial literacy for teens — learn budgeting, saving, and investing through interactive l
+- ★ [[scifunmily]] — Virtual/Online Museum and Science Center tools for the whole family to support parents taking the ma
+- ★ [[orbit-8kd3re]] — maps the orbit of your thinking, so you can see when an idea is yours versus AI's
+- ★ [[bvcaps-globalhack-vi]] — We use live updated data systems to track the homeless and to provide financial counsel to Bounce Ba
+- ★ [[tasktamer-hetu2y]] — TaskTamer turns your to-do list into an RPG adventure: complete tasks, battle zombies and bosses, ea
+- ★ [[engram-the-ai-photo-coach-that-remembers-and-forgets]] — An AI photography coach that remembers your journey, forgets what you've mastered, and always knows 
+- ★ [[bias-lab]] — Train a real classifier in your browser, drag one decision threshold, and watch accuracy hold still 
+- ★ [[aftershock-em9cju]] — A disaster-struck town run by a society of Qwen agents that split tasks, negotiate scarce rescue res
+- ★ [[lf]] — Connecting Girls, Women and good People to Post and Share Useful Informations, Organize Protests, Fi
+- ★ [[ecolafaek]] — Guarding Timor's Beauty
+- ★ [[school-quiz]] — With many children still learning from home or months behind the planned curriculum Learning Out Lou
+- ★ [[electronic-medicine-trial-and-test-records-as-a-service]] — Tools to enable visualization, management for developers to build solutions in medicine, healthcare,
+- ★ [[promise-erftax]] — A blockchain service for founders, creators and regular users. Built to help improve trust in our di
+- ★ [[ekko-v9wkgy]] — Elevate your foreign language fluency with tailored guidance and individualized verbal conversation 
+- ★ [[simuniverse]] — All in one interactive simulations across STEM disciplines
+- ★ [[ask-the-world-anything]] — Explore global perspectives on any question using AI-powered analysis and Voice Commands
+- ★ [[gathbook]] — Where Your Digital Books Are Truly Yours
+- ★ [[pytorchxai]] — Q&Aid is the healthcare assistant that democratizes access to high-quality diagnoses. It comforts pa
+- ★ [[prepify-ai-7nymoa]] — Prepify AI transforms how students learn STEM — turning lecture notes into structured summaries, qui
+- ★ [[vista-protocol]] — Perpetual futures on Aurora, enabling easy access to (up to 5x) leverage on NEAR, BTC, and ETH, both
+- ★ [[studyblocks]] — Overwhelmed by studying? StudyBlocks combines AI-powered study guide generation, smart flashcards, a
+- ★ [[uml]] — Disinfect public spaces & buildings like hospitals autonomously using a swarm of drones controlled b
+- ★ [[dynamic-w3a0hg]] — Dynamic represents the solution to maintain social distances between students, teachers and staff wi
+- ★ [[locl-lf734n]] — Locl offers a platform that supports EBT card purchases to allow SNAP benefit users to purchase heal
+- ★ [[cloudjack-21]] — CLOUDJACK-21 blends Blackjack with AWS services, creating an engaging game to learn cloud computing.
+- ★ [[idk-evraiq]] — Heimer provides personalized coaching - it recommends new champions based on your playstyle using ma
+- ★ [[lock-in-7znf21]] — AI-driven personalized learning
+- ★ [[browseback]] — BrowseBack gives your browser a photographic memory powered by Chrome’s built-in AI. Search by conte
+- ★ [[strangler-studio-with-dead-php-migrationtool]] — Stuck with legacy PHP code that's holding your team back? Meet **Frankenstein Laboratory** - an AI-p
+- ★ [[omnom-hg16v3]] — OmNom is your late night food savior, autonomously navigating a variety of outdoor and indoor enviro
+- ★ [[pols-15]] — toolbox for aspiring politicians to campaign, stress-test their policies, and run ads on social medi
+- ★ [[how-to-change-the-world]] — Virtualising our established in-person experiential Learning Journey for students and professionals 
+- ★ [[echo-the-bridge]] — Bridging Gaps Between Parents and Children Through AI-Powered Daily Quests
+- ★ [[earthbound-audits]] — Bringing the carbon impact of your websites front of mind.
+- ★ [[alyosha]] — The help for life after prison already exists. It's just scattered. Alyosha turns it into one guided
+- ★ [[klerk]] — Klerk: Simplifying Government Services with a Multilingual AI Assistant for Accurate, Up-to-date, an
+- ★ [[futureup-lab-mindset-development-coaching-for-educators-13b4qu]] — Empowering educators to navigate uncertainty and help their students thrive in difficult times, via 
+- ★ [[paper-cuts]] — Empowering the next generation of builders, thinkers, and dreamers by bringing back play
+- ★ [[melio-ai]] — Melio AI, built with Kiro IDE, is revolutionizing music education by making creativity accessible to
+- ★ [[dhangyan-6b7w50]] — Don't teach financial literacy. Let people LIVE it.
+- ★ [[testera]] — It knows what you're bad at. It remembers what you'll forget. It speaks back. That's Testera. 📚
+- ★ [[let-s-get-lit-aurekm]] — An app providing ML digital literacy for older users with empathy.
+- ★ [[neurostem-ai-powered-stem-for-every-mind]] — Empowering neurodivergent students through AI.
+- ★ [[nazar]] — Scan a homework problem and instantly generate a novel, interactive learning environment from it in 
+- ★ [[krypton-1gy0c5]] — Exchange protocol resistant to front-running, adverse selection, and miner extractable value
+- ★ [[medibot-iq8lf0]] — Help us help you get the health care you deserve!
+- ★ [[swasthai-guardian-urzc29]] — A highly secure, offline-first AI platform connecting villagers, ASHA/NGOs, and hospital admins. It 
+- ★ [[empower-hacks-2-0-wip]] — So many immigrant, low-income, and first-generation college students are overwhelmed with paperwork:
+- ★ [[bonfire-of-thoughts]] — Bonfire of Thoughts is a web app where students reflect on their struggles and share anonymous one-l
+- ★ [[aminochain]] — Tokenizing Stem Cell Donations and Incentivizing Donors
+- ★ [[math-wiz]] — Math Wiz: Spell out your math problems in the Best Way Possible!
+- ★ [[lumina-legal-ai-powered-indian-legal-assistant]] — An intelligent legal assistant that instantly identifies applicable IPC and IT Act sections from pla
+- ★ [[residue]] — Find how you focus, meet your ideal study partner
+- ★ [[dokanda-b7ngsd]] — The perfect doctor just for you...
+- ★ [[storybook-orbc8j]] — Turn learning into story driven adventures
+- ★ [[quizify-explore-engage-conquer]] — Your Personalized Topic Adventure! Pick a quiz, enjoy tailored challenges, and discover insights to 
+- ★ [[ed4you]] — Automatic Digitization of Teaching Material and Immersive Gamification of Practical Education.
+- ★ [[vaidyasaarathi]] — "Your Intelligent Healthcare Companion" - Breaking language barriers, preserving privacy, empowering
+- ★ [[arduino-controlled-electrolysis-system-for-bleach-production-kodm9u]] — Imagine producing your own bleach right at home, simply by adding salt to water and pressing a butto
+- ★ [[project-existence]] — Blockchain-based document management for secure and transparent storage.
+- ★ [[community-exchange-incentivization]] — We match needs and skills within communities and help heroes get the recognition they deserve.
+- ★ [[neuroscan-ai-a5m32p]] — Over 30% of MRI review time is lost to inefficiencies. Our platform provides AI-powered, non-diagnos
+- ★ [[aimassist]] — Chatbot to help VCT managers and coaches create the best team. Powered by AWS.
+- ★ [[maestlog-your-personal-symphony-journal]] — MaestLog is an elegant classical music concert diary designed for music lovers. Track your concert e
+- ★ [[chatedu-0k4dgx]] — ChatEDU takes anything you want to learn, and turns it into a focused tutoring session. Instead of r
+- ★ [[communipute]] — Share compute power throughout your community when you're not using it through our distributed compu
+- ★ [[edupiano]] — Asian = Good at piano Tf, you suck? use this and make your mom proud :)
+- ★ [[le]] — A fun Alexa kids game that truly educates, entertains, and engages
+- ★ [[tomo-japan]] — Discover Japan with Tomo ("Tomodachi", or friend in Japanese) — your pocket travel friend. Visit des
+- ★ [[fantom-lords-relic-survival]] — Blockchain-based action platformer video game in pixel art style. With a working competitive leaderb
+- ★ [[memoray]] — Memory just moved from your brain to your frames. Your memories are getting a firmware update. Memor
+- ★ [[vigilante-xkf7s9]] — Combat misinformation through flagged Tweets and grounded sources, and reference a realtime dashboar
+- ★ [[project-dvomck5s9l3q]] — Educational Wins.
+- ★ [[dot-bringing-humanity-to-in-home-care]] — Agentified personal in-home care for the elderly. Multimodal S2S agent system handles patient charts
+- ★ [[htn-zq6138]] — Turning snapshots into spaces you can actually explore
+- ★ [[flowhale-ai-powered-korean-listening-vocabulary-game]] — Six Months to Decode Korean
+- ★ [[skillscan-ai-career-intelligence-for-students-sigtmc]] — AI that scans your resume, finds exact skill gaps, runs a mock interview, predicts your salary, and 
+- ★ [[blindsight-virtual-eyes-through-haptic-feedback]] — Blindsight simulates a novel sense of sight with haptic feedback vibration motors and ML.
+- ★ [[whisper-duq6f4]] — Sometimes a whisper reaches further than a scream. Find your person. Heal together.
+- ★ [[touche-cfp6hs]] — Safe Access control to fight COVID-19 - enabling effective deconfinement
+- ★ [[obay]] — A platform for creating a decentralized autonomous organization and managing your group portfolio
+- ★ [[qalammr-ilvpy9]] — The world first Spatial Calligraphy Workshop. MX Ink becomes a reed pen—write with real ink physics,
+- ★ [[jobiri-the-first-ai-based-digital-career-advisor]] — Jobiri helps both jobseekers to land jobs faster and Institutions to digitalize their employment ser
+- ★ [[phishguard-ai-powered-suspicious-link-detection-tool]] — "Stay safe online—Detect and avoid phishing scams before they catch you!"
+- ★ [[re-compress]] — A query-aware rewriting layer that extends compression into the regime deletion can't reach — distil
+- ★ [[instant-sars-cov-2-breathalyzer]] — Optical detection of airborne virus-bearing aerosols (micro-/nano-droplets) using fluorescent marker
+- ★ [[maggy-ovyepd]] — Social distancing made easy! Maggy is a small wearable device helping you to maintain social distanc
+- ★ [[smartschedule-ai-intelligent-college-timetable-generator]] — AI-powered timetable automation eliminating scheduling conflicts, supporting multi-teacher coordinat
+- ★ [[edify-ai-iea9ws]] — The shortest path from 'Student' to 'Hired'. Career paths aren't linear, but they shouldn't be a maz
+- ★ [[kori]] — A little pixel companion who studies with you, works with you, rests with you, and helps you take ca
+- ★ [[via-dappia]] — Revolutionizing road infrastructure: This project tokenizes roads, decentralizing ownership & upkeep
+- ★ [[novamind-ai-powered-stem-adventure]] — The free virtual STEM lab for every student who never had one.
+- ★ [[vidya-setu-b5xi0y]] — Bridging every learner to their potential — AI-powered gap detection, peer collaboration, silent saf
+- ★ [[sprout-io]] — Where imagination shapes learning
+- ★ [[fdvnjvd]] — Waylo is an AI that lives on your Mac and guides you through anything - a pulsing red dot shows exac
+- ★ [[devbloom-studio]] — Kids need more than step-by-step tutorials to learn code. DevBloom helps ages 9–12 learn HTML, CSS, 
+- ★ [[smart-cv]] — SmartCV chain: Labor Hub for Matching Talents
+- ★ [[cerebra-diqop9]] — Using generative AI to improve short videos with Meta TRIBE v2 as a predicted brain-engagement rewar
+- ★ [[adventurer-s-gambit]] — A 3D chess game where adventurers clash with Skeleton Warriors, and an AI mentor powered by Amazon N
+- ★ [[icp-squad-nft]] — A new chapter of the Internet is opening. Start by minting your avatar, then take part in the advent
+- ★ [[ranger-6jkv5s]] — Audio is a luxury we take for granted, that deaf folks don't get. Ranger is a wearable AR solution a
+- ★ [[launchify]] — Know what you don't know — before you build.

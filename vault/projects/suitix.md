@@ -1,0 +1,40 @@
+---
+slug: "suitix"
+url: "https://devpost.com/software/suitix"
+title: "SuiTix"
+hackathon: "Cal Hacks 12.0"
+organization: "Cal Hacks"
+winner: true
+words: 1044
+team_size: 4
+has_repo: true
+has_live: true
+has_video: true
+tags:
+  - "project"
+  - "mechanism/revocation_withdrawal"
+  - "domain/finance_payments"
+  - "substrate/financial_record"
+---
+
+# SuiTix
+
+> Sui-powered blockchain-based ticketing and loyalty platform with policy-enforced, fraud-proof resale via Kiosk; buy in one click, resell fairly, and earn perks from purchase to check-in.
+
+[Devpost](https://devpost.com/software/suitix) · hackathon [[Cal Hacks 12.0]]
+
+## Facets
+
+**mechanism** [[revocation_withdrawal]]
+  <sub>weak: deterministic_policy</sub>
+**domain** [[finance_payments]]
+  <sub>weak: security_privacy</sub>
+  <sub>weak: general_public</sub>
+**substrate** [[financial_record]]
+  <sub>weak: video_visual</sub>
+
+**stack** blockchain, github, next.js, nft, react, sui, sui-kiosk, sui-move, tailwind, typescript
+
+## Body
+
+Logo Home Events Tickets Reselling Marketplace 1 Marketplace 2 Loyalty 1 Loyalty 2 SuiTix Video Demo - https://drive.google.com/file/d/1bEc5Nz9eCxpKmzFR9lEv-mVdrdfdCW9_/view?usp=sharing SuiTix is a fair, transparent ticketing and loyalty platform on the Sui blockchain. We built SuiTix because the status quo leaves too many real fans outside the venue and too much value off the stage. Scalping, opaque fees, QR screenshots that get reused, and resale experiences that reward bots over communities—none of that felt inevitable. Sui’s object-centric design, dynamic NFTs, and the Kiosk + Transfer Policy combo let us design a system where rules are enforced by code, ownership is crystal clear, and loyalty actually compounds over time. What SuiTix delivers Authentic tickets as first-class Sui objects with rich Display metadata and a clean lifecycle (mint → own → list/resell → check-in). Secure secondary market via Kiosk , where every sale is mediated by a Transfer Policy that enforces fair-price ranges, time windows, and “not checked-in” requirements before a trade can finalize. Dynamic primary pricing that reacts to real demand (with guardrails so it’s responsive, not volatile). Loyalty that matters : Bronze/Silver/Gold/Platinum tiers, points for purchases and attendance, milestone badges, and a claim-based referral system that fits Sui’s ownership rules. Anti-scalping controls : per-wallet purchase caps, cool-downs, and resale restrictions that make drops calmer and markets fairer. How we put it together (textual tour of the smart contracts) Ticketing layer (the ticket as a living object) A Ticket is an owned Sui object that carries its class reference, seat info (or “general admission”), and a simple “consumed” flag for check-in. Display templates make it render like an NFT card everywhere (wallets, marketplace, our UI). Check-in is just a state transition: once marked, it’s visibly “used” and can’t be resold. Tickets are minted against a Ticket Class that defines supply, base price, metadata, and organizer economics. Marketplace layer (Kiosk integration without surprises) We don’t reinvent a marketplace. Sellers keep a personal, on-chain Kiosk that can hold items, list them at a fixed price, and accrue their sale proceeds. While listed, a ticket is immutable and not withdrawable—no tampering. We support two custody modes: Soft : owners hold tickets in their wallet and only place them in a Kiosk when they choose to sell. Strong : after primary purchase, the ticket is automatically placed (and locked) in the buyer’s Kiosk so every future transfer is a Kiosk trade—no off-market side doors. Transfer Policy (the rules engine for resale) There’s a single policy dedicated to the Ticket type. Every Kiosk purchase produces a transfer request that the policy must confirm. Confirmation verifies that the price is within the allowed band for the class, the event hasn’t started (or resale hasn’t been explicitly paused), and the ticket isn’t checked-in. It also captures creator royalties into an on-chain balance organizers can withdraw. If any rule fails, the whole trade cleanly aborts. Loyalty (points, badges, and referrals designed for Sui) Fans have a personal Loyalty Card object that tracks balances and tier. Badges are non-transferable collectibles for milestones. Referrals use a shared “pending claims” registry: the new user proves the invite, the registry validates, and both parties get credited—no cross-owner mutations needed. We hook loyalty updates into primary buys, successful resales, and check-ins. Dynamic pricing (responsive, not noisy) Ticket Classes can opt into demand-aware pricing. The system looks at recent sales velocity and nudges price up/down within safe bounds set by the organizer. Guardrails prevent extreme swings, and toggles let organizers opt out for fixed-price shows. Anti-scalping (friction where it counts) We track per-wallet counters at the event level, apply cool-downs during hot drops, and disallow post-check-in resales. Optional “presale lists” and purchase windows make access fair for communities. State design (shared vs. owned) Global catalogs (events, classes, referral registry) live as shared objects; tickets, badges, and loyalty cards stay owned by users. This separation keeps hot paths fast and permissions crystal clear. Frontend & UX (how it feels to use) Next.js + TypeScript with Sui dApp Kit for wallet and signing. One-click flows using Programmable Transaction Blocks : Primary buy: pay once, receive the ticket, and—if strong custody is on—have it placed and locked in your Kiosk automatically. Resale: press Buy on a listing; the marketplace executes a Kiosk purchase, the policy confirms the rules, and ownership flips atomically. Attendee check-in: scan once; the ticket flips to “used” and can’t re-enter the resale pool. Marketplace grid merges Kiosk listing events with Ticket Display metadata for crisp cards. Organizer controls for pausing resale, withdrawing royalties, and tuning price bounds—no redeploy required. Challenges we ran into (and how we solved them) Sui’s ownership boundaries meant our first referral design couldn’t modify a referrer’s object during a newcomer’s transaction. The claim-based registry pattern fixed that cleanly. Entry-point ergonomics forced us to split certain combined flows and pass addresses instead of trying to smuggle optional mutable references. Cleaner in the end. Learning Kiosk + policy interplay took iteration: listing states, lock semantics, and when the transfer request is produced. Once we aligned on strong custody, everything snapped into place. Demand-based pricing without exploits required guardrails, sanity caps, and smoothing—users see “responsive,” not “random.” PTB complexity : bundling ticketing, loyalty, and marketplace actions in the right order with the right coin handling was a puzzle we’re glad we solved. Accomplishments we’re proud of A complete loop—primary sale, policy-enforced resale, check-in, royalties, and loyalty—that’s atomic and auditable end-to-end. Real anti-scalping and fair-pricing mechanics, not just rhetoric. A badge-driven loyalty system that actually feels fun. A modular contract suite that teams can extend without touching core logic. What we learned along the way Sui’s object model makes stateful tickets first-class citizens instead of workarounds. Programmable Transaction Blocks unlock surprisingly elegant UX when you think in “atomic steps.” Kiosk + Transfer Policy is a safer, simpler foundation than bespoke marketplaces with scattered rules. When ownership rules push back, separate concerns across transactions or pivot to shared registries—don’t fight the model. What’s next for SuiTix Social groups, ticket splitting, and shared itineraries. Cross-event perks and partner redemptions. Smarter pricing (better signals now; ML when data warrants). Native apps and a measured mainnet rollout with real venues. Bridges to incumbents to onboard the mainstream, and multi-chain reads with Sui as source of truth. Google Drive for demo videos - https://drive.google.com/drive/folders/1Klj85AInY0aYRiFudbvxd-EuXqOxsS-D?usp=sharing <div

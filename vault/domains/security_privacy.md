@@ -1,0 +1,181 @@
+---
+facet: "domain"
+name: "security_privacy"
+projects: 427
+winners: 427
+tags:
+  - "facet"
+  - "domain"
+---
+
+# security_privacy
+
+`domain` · **427** projects, **427** of them winners.
+
+## Pairs with
+
+- [[realtime_stream]] — 226 together  <sub>(mechanism)</sub>
+- [[structured_db]] — 176 together  <sub>(substrate)</sub>
+- [[developer_tools]] — 175 together  <sub>(domain)</sub>
+- [[finance_payments]] — 146 together  <sub>(domain)</sub>
+- [[geospatial]] — 132 together  <sub>(substrate)</sub>
+- [[developer]] — 132 together  <sub>(user)</sub>
+- [[code_repository]] — 127 together  <sub>(substrate)</sub>
+- [[video_visual]] — 120 together  <sub>(substrate)</sub>
+- [[web_dom]] — 119 together  <sub>(substrate)</sub>
+- [[financial_record]] — 108 together  <sub>(substrate)</sub>
+- [[health_clinical]] — 91 together  <sub>(domain)</sub>
+- [[sensor_telemetry]] — 87 together  <sub>(substrate)</sub>
+
+## Projects
+
+- ★ [[artharaksha]] — When Gen-AI Rescues You from Financial Fraud and Creates Social Impact
+- ★ [[ailearning]] — aiLearning is an AI-based solution for simplifying educational activities, focusing on exams correct
+- ★ [[asap-1h45pk]] — Empowering industries with AI-driven insights through Retrieval Augmented Generation (RAG), simplify
+- ★ [[amanat]] — Privacy-first AI agent for humanitarian organizations that scans cloud services for sensitive data e
+- ★ [[auditguardx]] — Enterprise compliance in minutes, not months at 1% of the cost.
+- ★ [[scholarstream]] — Need money for your school fee and upkeeps? ScholarStream finds immediate opportunities (scholarship
+- ★ [[bookster-05sbyz]] — AI powered student marketplace & community hub for ISU students
+- ★ [[extopay-the-last-mile-solution-for-digitizing-cash]] — Next-Generation CBDC solution for digitizing cash: A Highly Secure Mobile and Non-Mobile Solution wi
+- ★ [[proofsift]] — Evidence-proven autonomous DFIR triage that confirms findings only with traceable forensic artifacts
+- ★ [[camel]] — A 'code-mode' MCP server that allows LLMs to safely generate and execute JavaScript code that calls 
+- ★ [[taief-the-all-in-one-academic-assistant]] — From academic research to Olympiad problems, TaiefMind is your AI co-pilot. Upload papers, extract d
+- ★ [[mnemosyne-ubotlw]] — The AI that remembers every failure — predicts outages, annotates risky code inline, gates CI pipeli
+- ★ [[gauntlet-wlv7og]] — Adversarial fuzz-testing for AI agents using Elasticsearch Agent Builder, ES|QL and Workflows. Watch
+- ★ [[forge-field-operations-real-time-guidance-engine]] — Voice AI co-pilot for hands-busy industrial technicians: one Qwen-Omni-Realtime session listens, see
+- ★ [[gurwi-learn-anything]] — Gurwi makes mastering complex topics simple and engaging. Learn anything through our unique format o
+- ★ [[pedirounds-ai-co-resident-for-pediatric-morning-rounds]] — The safety net between overnight and attending rounds. 4 AI agents catch deterioration, flag unsafe 
+- ★ [[ocr-finetuning-for-ancient-cuneiform-tablets]] — NabuOCR is a specialized OCR model for transliterating ancient cuneiform tablets directly from image
+- ★ [[pulsepoint-2hmejd]] — AI-powered medical triage at the speed of life from instant assessment to doctor in 60 seconds.
+- ★ [[securechain-p7w6u2]] — Securechain is an hybrid transfer validation system to protect NFTs and Tokens in hot wallets agains
+- ★ [[stylometry]] — STYLOMETRY: The forensic guardrail for your GitLab pipeline
+- ★ [[caladrius]] — The Privacy-First AI Triage Assistant
+- ★ [[grocerapp]] — Mobilizing necessities for at-risk people with the help of the community.
+- ★ [[dispatch-wedj2m]] — No Borders. No limits. Just Remit.
+- ★ [[maraam]] — Smart Peer2Peer Resource Distribution: We don't let anyone stay alone during a crisis. We turn citiz
+- ★ [[beatbuddy]] — Step up your VALORANT game with BeatBuddy! Build your dream team, master strategies, and uncover pro
+- ★ [[compliance-sentinel]] — An Agentic, AI Red Team Approach for Proactive Geo-Compliance Risk Detection
+- ★ [[nusic-layer-1-for-music]] — Open audio fingerprints and creator metadata layer for Web 3.0 encrypted music distribution and info
+- ★ [[starknet-lightning-privacy-mixer]] — A decentralized privacy solution for STRK token transfers, combining zero-knowledge cryptography, At
+- ★ [[champa]] — Cognitive Hybrid Assistant for Messaging, Planning & Analytics — an AI-powered inbox unifying Gmail,
+- ★ [[dogzilla]] — Build a solid foundation on top of Theta blockchain.
+- ★ [[nerve-the-nervous-system-for-your-device-fleet]] — The nervous system for your device fleet — AI-native IoT telemetry monitoring that turns a firehose 
+- ★ [[phantomguard]] — Norn: Real-time quality & security monitoring for Strands agents. Powered by Nova Lite for live scor
+- ★ [[cloak-0k2ojh]] — Privacy Layer for Polkadot's Multi-Chain Ecosystem
+- ★ [[project-hpfwsu51xila]] — Autonomous SRE that watches your Dynatrace tenant 24/7, diagnoses production incidents from real spa
+- ★ [[anyform-ai-form-builder-30au41]] — AnyForm is an AI powered, tool-first platform that lets you build complex, validated forms in under 
+- ★ [[warden-ny9uwa]] — Warden is the runtime firewall that stops AI agents from being hijacked by blocking prompt injection
+- ★ [[spatialize]] — The floor plan that talks back.
+- ★ [[forklift-ai-powered-github-fork-analysis-tool]] — AI-powered GitHub fork analysis tool that discovers valuable features across thousands of forks in m
+- ★ [[marshal-autonomous-migration-assistant]] — Orgs don't fail to start migrations — they fail to finish them. Marshal drives every repo to a termi
+- ★ [[polkastream]] — Real-time, per-second money streaming powered by Polkadot's sub-second finality and ink! smart contr
+- ★ [[unitset]] — UnitSet is the Frankenstein of UI creation, a stitched-together fusion of canvas, AI, code, and live
+- ★ [[studyblocks]] — Overwhelmed by studying? StudyBlocks combines AI-powered study guide generation, smart flashcards, a
+- ★ [[blocktease]] — 💘 OnlyFans for web3 💌
+- ★ [[reefmind]] — Reef restoration experiments take 7 years in the real ocean. ReefMind runs 10,000 overnight
+- ★ [[dynamic-w3a0hg]] — Dynamic represents the solution to maintain social distances between students, teachers and staff wi
+- ★ [[instruxi]] — Unlock the value of unmined gold with ION Digital and Instruxi's gold fractionalization tool. Revolu
+- ★ [[transcend-q4cpih]] — A semantic reasoning layer (W3C stack) on top of GitLab Orbit — transcending beyond multi-hop blast-
+- ★ [[strangler-studio-with-dead-php-migrationtool]] — Stuck with legacy PHP code that's holding your team back? Meet **Frankenstein Laboratory** - an AI-p
+- ★ [[rehabuild]] — Rebuilding Medical rehabilitation in a COVID world. Evidence-backed video therapies from the first d
+- ★ [[sankofa-mcq8af]] — Three GitLab Duo agents that use Orbit's knowledge graph to show blast radius before you merge, onbo
+- ★ [[shopguard]] — AI-powered behavioral wellness that helps you think twice before you buy.
+- ★ [[amanuensis]] — AI-enabled physician assistant for automated clinical summarization and question generation. Empower
+- ★ [[jiratalkgpt]] — Streamlining Meetings into Agile Actions
+- ★ [[clinician-coronavirus-exposure-tracker]] — We track patient-clinician and clinician-clinician exposure and spread in hopsitals. We help pandemi
+- ★ [[polka-blue]] — Bringing Proof of Location into the Substrate Ecosystem
+- ★ [[alyosha]] — The help for life after prison already exists. It's just scattered. Alyosha turns it into one guided
+- ★ [[paper-cuts]] — Empowering the next generation of builders, thinkers, and dreamers by bringing back play
+- ★ [[aegis-2m1oq0]] — 7 event-driven AI agents that autonomously secure, predict, and score your GitLab releases, catching
+- ★ [[gurftron]] — Security that rewards you. Threats verified by the community. Rewards funded forever by Vesu
+- ★ [[codebreaker-la]] — AI-Native CyberSec — detect, validate, and fix vulnerabilities with agent intelligence, powered by a
+- ★ [[let-s-get-lit-aurekm]] — An app providing ML digital literacy for older users with empathy.
+- ★ [[delta-cyber-reasoning-system]] — Automated security localization, fuzzing, and triage for every commit and MR. LLMs analyze diffs, ge
+- ★ [[nalog-agent]] — Production Qwen MemoryAgent on Alibaba Cloud for Thai smallholder farmers to check water from their 
+- ★ [[dotrep]] — Decentralized reputation system built on Polkadot, enabling cryptographically verifiable reputation 
+- ★ [[corazones-against-covid19-tech-to-increase-impact-of-money]] — Fintech innovations can multiply the impact of recovery funds for regional SMEs. Five regional gover
+- ★ [[zombie-blaster]] — What if cleaning up AWS cloud identities was an 8-bit retro zombie game? Zombie Blaster is a cyberse
+- ★ [[scambaitai]] — ScamBait AI is an intelligent, AI-powered honeypot designed to combat digital fraud by engaging scam
+- ★ [[unlocking-moments]] — A platform for people that want to see and contribute to the human story of the essential worker com
+- ★ [[project-existence]] — Blockchain-based document management for secure and transparent storage.
+- ★ [[tetra-odyssey]] — Tetra Odyssey is a Web3 RPG where players learn, compete, and earn. With skill-based games, blockcha
+- ★ [[community-exchange-incentivization]] — We match needs and skills within communities and help heroes get the recognition they deserve.
+- ★ [[neuroscan-ai-a5m32p]] — Over 30% of MRI review time is lost to inefficiencies. Our platform provides AI-powered, non-diagnos
+- ★ [[autopsy-zq5d84]] — Autopsy records every action your AI coding agent takes, autopsies the failures, builds a graph of w
+- ★ [[wecare-0fjkb9]] — WeCare is a privacy-preserving app & page that keeps you & your family safer. You can track the heal
+- ★ [[sentinel-uxz0ni]] — AI that catches problems before they become problems.
+- ★ [[johnkeats-ai]] — A voice-first AI companion that holds uncertainty instead of solving it. Built on Gemini 2.5 Flash N
+- ★ [[procsee]] — PROCSee turns your system into a crime scene — and autonomously investigates every process
+- ★ [[therms-thermoregulation-wearables-with-ai-powered-insights]] — A non-invasive wearable using novel thermoregulation research to provide precise heating/cooling to 
+- ★ [[testproject-2gx7ks]] — Customizable dashboards for business teams, inside Confluence!
+- ★ [[redagent]] — The adversary your agent needs before production does
+- ★ [[launch-control-bgp8az]] — AI-powered release gate that evaluates merge requests with four chained agents and policy-as-code ri
+- ★ [[chuck-it]] — Save anything, find everything—100% offline, 100% private, 0% effort.
+- ★ [[whisper-duq6f4]] — Sometimes a whisper reaches further than a scream. Find your person. Heal together.
+- ★ [[phishguard-ai-powered-suspicious-link-detection-tool]] — "Stay safe online—Detect and avoid phishing scams before they catch you!"
+- ★ [[eleeos]] — Trustworthy, transparent, and accessible impact funds. Eleeos breaks down borders and opens up impac
+- ★ [[ij-s-codegeist-2022]] — Improve project management in Jira - plan and track milestones and split large projects into smaller
+- ★ [[the-syndicate-experience]] — SyndicateX is a revolutionary next-gen platform that curates the best creative minds to innovate and
+- ★ [[promp2slip]] — This library is testing the ethics of language models by using natural adversarial texts. This tool 
+- ★ [[writing-monks]] — Writing Monks allows DAOs to manage their twitter account in a decentralised way. Every DAO member c
+- ★ [[xeat]] — Get concert, travel, and park tickets easily and quickly, save your tickets as an NFT collection.
+- ★ [[ally-kmoagt]] — Ally makes drone data management simple, giving non-technical people easy access to automated workfl
+- ★ [[fd-7g0sbo]] — Google gives you a list. Zen guides you through, tells you where you qualify, explains why in your l
+- ★ [[signet-app-identity]] — Did you know that officially approved solutions to privacy and impersonation risks in online communi
+- ★ [[safeguard-a1hfp4]] — Fully protect your LLM application against prompt injection attacks and malicious inputs in less tha
+- ★ [[whisper-hd54xc]] — Whisper: End-to-end encrypted messaging—no servers, no tracking, just pure privacy.
+- ★ [[celestial-sec]] — "Guarding What Matters, Seamlessly Connected."
+- ★ [[geovision-3-0]] — Geovision 3.0 uses AI and satellite data to identify underserved areas lacking schools, and infrastr
+- ★ [[commando-ai-h0vodb]] — Dead PRs. Missed deadlines. 5 tabs, zero answers. Commando AI runs Monte Carlo simulations on your l
+- ★ [[kinic]] — A search engine for web3.
+- ★ [[sehat-guftagu]] — Contextual Human-Assisted Protection and Anomaly Learning
+- ★ [[mairucli]] — A CLI with a costume—polished Halloween UI that makes terminal safety unforgettable.
+- ★ [[scam-detector-1lhc24]] — "Unmasking AI voice scams through sound." VoxShield flags AI-generated voices from a single audio cl
+- ★ [[secure-share]] — Secure Share provides a solution that’s tightly integrated with Atlassian products and allows users 
+- ★ [[mighty-security]] — We stop multimodal prompt injections using hooks with mighty security in cline and kilo as an integr
+- ★ [[sli]] — Protocol offers slashing insurance for Ethereum stakers. Uses Aave to fund payouts so deposits are r
+- ★ [[alzora-ai]] — Empowering families with AI-driven Alzheimer’s care
+- ★ [[my-slots]] — Service for non-digital local stores to provide bookable slots for customers
+- ★ [[dashagenttool-custom-tableau-mcp-tool]] — Because even good dashboards have blind spots. DashAgent is your AI BI Analyst. It challenges your d
+- ★ [[the-future-of-france-web-3-learning-game]] — RPG-style browser game where players learn to safely use Web 3 applications, secure digital wallets,
+- ★ [[pikaplace-pokedex]] — Decentralized NFT Monster Game powered by Chainlink Randomness.
+- ★ [[guardian-ai-governed-incident-response]] — 5-node autonomous pipeline: triages P1 alerts, fetches runbooks, gets HITL approval, spins up war ro
+- ★ [[proactive-refresh]] — The first implementation of accountable threshold signatures with proactive refresh. We are the safe
+- ★ [[shipsense-ai-novel-data-augmentation-protocol]] — Mitigating overfishing through AI-augmented satellite imagery and data viz dashboard. Novel few-shot
+- ★ [[doc-home]] — A web app to help cope with the present pandemic
+- ★ [[vault-4dyr27]] — zkVault - A Secure Method for Users and Protocols to Safeguard & Recover Assets
+- ★ [[bevinai]] — Better than devin😉
+- ★ [[sentinel-way5bd]] — Catch security holes in your MCP server before you ship it. Static rules, GPT-5.6 review, and Docker
+- ★ [[etn-town]] — Welcome to ETN Town, where blockchain meets innovation! Get ready to experience seamless transaction
+- ★ [[faxi-16iecy]] — Faxi resurrects fax for seniors left behind digitally. Handwrite a request, fax it, and our AI turns
+- ★ [[control-0kbjsx]] — Your AI companion for addiction recovery - available at 2am when no one else is
+- ★ [[xshield]] — Introducing xShield,an AI-powered tool for easy code security and compliance analysis.Analyze entire
+- ★ [[project-chronos-mhri13]] — AI-powered ICU early warning system predicting sepsis, hypotension, & hemodynamic collapse 2-6 hours
+- ★ [[docuguard]] — The first AI that captures why code was written, not just what it does. A Living Specification that 
+- ★ [[vigil-safety-app]] — Vigil scans your texts on-device to catch scams, phishing, and harassment before they hurt you. A fr
+- ★ [[devpilot-ai-j8z3tq]] — AI developer copilot that combines code review, voice debugging, and autonomous doc research powered
+- ★ [[trialscope-ai]] — Your AI-driven clinical trial intelligence platform that reviews, benchmarks, and regenerates protoc
+- ★ [[blockchain-dk03ru]] — Combating charity donation fraud by improving financial security and transparency through blockchain
+- ★ [[bugflow-ai-regression-detective-ci-optimizer]] — Report one bug. Get ten fixes, sixty-three tests, and a faster pipeline - all from one @mention.
+- ★ [[not-my-nana]] — Protecting our loved ones from digital deception with the reasoning power of #AmazonNova.
+- ★ [[the-digital-volunteer-dym0xb]] — Automate mobilisation of community, solidarity and collaboration. Use non-smartphones to raise a tas
+- ★ [[coven-x0sbof]] — Coven helps teams understand loans by turning documents into visual timelines with real-time covenan
+- ★ [[d3cision]] — Solving the triage challenge by transforming raw security logs into explainable, gravity-sorted atta
+- ★ [[protestlink]] — Secure, real-time protest coordination via encrypted mesh and AI insights
+- ★ [[civora]] — Civora: AI command center catching safety risks 18 min early, cutting 142 tCO₂e, turning every site 
+- ★ [[controldb]] — Accelerating access to web3 data storage at scale. 100X cheaper, more secure, more persistent than e
+- ★ [[justmoney-explorer]] — A hybrid of a blockchain explorer, a DEX viewer, and a dApp store, offering a comprehensive solution
+- ★ [[argus-p4davt]] — ARGUS finds the gaps in your Splunk detection rules before attackers do. One AI invents new attacks,
+- ★ [[luffy-protocol]] — Private and transparent fantasy sports solution using zero knowledge cryptography
+- ★ [[block-fabric-uplsq3]] — Block Fabric is an all-in-one platform for creating, deploying and managing smart contracts
+- ★ [[geosentinel]] — GeoSentinel — Turning Earth’s data into early warnings that save lives.
+- ★ [[fusion-wallet-zk-based-multi-chain-smart-contract-wallet]] — Fusion is a multi-chain smart contract wallet that leverages ChainLink Functions and zero-knowledge 
+- ★ [[reverie-auf3w8]] — Every dream, a revelation.
+- ★ [[safeaid-ai-emergency-routing-for-survivors]] — AI-powered platform that routes trafficking survivors and vulnerable people to the nearest shelter, 
+- ★ [[nixora]] — Nixora brings loan markets into the digital age by transforming loan agreements into AI-powered, int
+- ★ [[clarifina]] — Financial literacy done smart, together.
+- ★ [[crystl-finance-h0jn8s]] — Crystl Finance is a Multi-chain Yield Aggregator. We offer unique Vaulting methods to DeFi/Blockchai
+- ★ [[help-me-delivery]] — Giving vulnerable populations an easy platform to identify local shops, build shareable shopping lis
+- ★ [[yo-zfqlao]] — CERBERUS learns normal system behavior and detects ransomware instantly when abnormal entropy patter
+- ★ [[crystl-finance]] — Crystl Finance is a Multi-chain Yield Aggregator. We offer novel Vaulting methods to DeFi/Blockchain
+- ★ [[mr-compliance-auditor]] — AgentHero audits GitLab projects for SOC 2 compliance - per-MR audit with three agents, periodic pro

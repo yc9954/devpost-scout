@@ -1,0 +1,36 @@
+---
+slug: "effisend"
+url: "https://devpost.com/software/effisend"
+title: "Effisend"
+hackathon: "Celo's Make Crypto Mobile Hackathon"
+organization: "Celo"
+winner: true
+words: 1069
+team_size: 3
+has_repo: true
+has_live: false
+has_video: true
+tags:
+  - "project"
+  - "domain/finance_payments"
+  - "substrate/financial_record"
+  - "substrate/video_visual"
+---
+
+# Effisend
+
+> CELO based mobile DApp that improves Cash out processes and integrates it with Rapyd (biggest payment processor in the world) to improve financial inclusion in Mexico.
+
+[Devpost](https://devpost.com/software/effisend) · hackathon [[Celo-s Make Crypto Mobile Hackathon]]
+
+## Facets
+
+**domain** [[finance_payments]]
+  <sub>weak: labor_employment</sub>
+**substrate** [[financial_record]] [[video_visual]]
+
+**stack** celo, celo-cli, rapyd, react-native, solidity, spei
+
+## Body
+
+System's architecture Landing, login and dashboard Full dashboard and transfer capabilities Backend proved! Cash in and out portions Welcome, this is our project for Celo’s Mobile online Hackathon. Because of the size it is in an AWS bucket. APK: https://general-bucket-android.s3.amazonaws.com/app-debug.apk Login: User: celouser@gmail.com Pass: toor Introduction and Problem Almost 4 years ago Vitalik Buterin, co founder of Ethereum posted in twitter this message: At that time it grabbed the attention of almost the entire crypto space and the answers regarding that question were mostly a big “Not many if at all”. Of course, there have been isolated projects that try to work with the developed world with several big names attached , but not to much avail. Cryptocurrencies and blockchain technology from that time onwards has mostly been used by a few early adopters and some others, but were mostly already banked, educated people, even in the developing world. Now, let’s ask that same question today; How many unbanked have we banked by the year 2021? Despite having made great progress and having outliers like the country of El Salvador, outside of that, the progress is almost null. Most of the same people that are into crypto today have been in for years and are the same elite, educated, previously banked ones, it has not reached those who are not. We can say that because our team lives in one of those developing countries that countless projects try to portray as a target for financial inclusion. And yes, Mexico is the perfect target as it is the largest issuer of remittances from the US and it will break $42Billion this year alone. Of course, remembering that the US is the biggest sender of remittances in the world. It is important to mention that, according to the World Bank, 65% of Mexican adults do not have any type of bank account and only 10% save through a financial institution, in addition to the fact that 83% of Mexican adults do not have access to electronic payment systems. These circumstances limit the potential of the sector to place the resources of savers in productive projects that generate economic development and well-being for the population. And crypto is not doing better than the legacy system, most of the users are people like our team, tech savvy with a certain degree of education and already banked. Now let’s review a bit the CELO ecosystem. The concept to reach the unbanked via substituting the crypto address with the phone number is powerful. That has great potential as most of the population here, even unbanked, has a cellphone this number reaching almost 76% of the population. When we went deepened our research, we analyzed the Valora wallet and application. Despite its great potential and a la Venmo but for crypto transfer capabilities we found great problems with its Cash Out portion. Xbox, Uber, google play and cell phone payments? Sorry for being aggressive, but this does not work for that unbanked population in any way, this is more for the “already banked” elite populace. Most remittances are done electronically yes, but through services like Western union where the families can get cash. This will never talk to them. But I think that with certain systems that are already in place and the great potential of CELO we can produce a Dapp that does that cashout part correctly, directed at that populace, and improve on financial inclusion. Solution Effisend is a CELO based mobile DApp that improves Cash out processes and integrates it with Rapyd (biggest payment processor in the world) to improve financial inclusion in Mexico. System's Architecture: App Screens: Thanks to the Rapyd APIs we can manage users, such as registration, login and KYC of our app. (Rapyd is the world's largest payment processor system: https://www.rapyd.net/ ) In turn, through Rapyd and CELO we can have total control of the movements and transactions of our account in both Crypto and Fiat. All CELO transactions are controlled through an express server on AWS with the Celo CLI interface. We carry out Celo and Fiat transfers by coordinating the services of Celo and Rapyd. Transferring the equivalent of CELO or US Dollar from EffiSend Master accounts. At the same time, we can obtain a virtual card from the Rapyd API to be able to spend the money from our Fiat account directly. Above all, we can make a SPEI transfer from our Fiat account to a bank account or Saldazo® or SPIN debit cards. All transfers made in the demos and during development can be consulted in the explorer. https://alfajores-blockscout.celo-testnet.org/address/0xE7c1fc2B18A0Ee4F087694bca90436Eba6f16Fca/token-transfers And in turn we show a screenshot of our backend in Rapyd. Uncut, unedited demo: Video: Click on the image Sorry github does not allow embed videos. What's next for Effisend This application is directed at those who cannot benefit directly from cryptocurrency. It has the usual, both crypto and fiat wallets, transfers between crypto and fiat, transfers between crypto accounts and it gives a spin on the cash in - cash out portion of the equation as no other project provides it. It is very important if this application is going to benefit and bank people to be very agile and compatible with FIAT at least until crypto reaches mass market. Most of the developed world has not even incorporated to legacy electronic systems. I think we can make the jump from those systems almost directly to self-banking, such as the jump that was made in some parts of Africa and even here in Latin America from skipping telephone landlines directly to Mobile phones. If that jump was made from that type of technology this one can be analogous and possible. Regarding the application we would like to test it with real Capital perhaps in Q1 2022, but on the side of features and coding we still need to integrate the Celo address with the user's phone number (which we have, but would be useless in this scenario regarding a demo application that many people will be using) and apart from that we just need to activate Rapyd's backend and we are set to go. Rapyd allowed us to create an application very similar to Rappi ( https://www.rappi.com ) in this sense as it is the same service they use and we have some experience developing on it. Hopefully you liked the Mobile DApp, to see it in action in the future support it! <div

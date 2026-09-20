@@ -1,0 +1,47 @@
+---
+slug: "electrorcade"
+url: "https://devpost.com/software/electrorcade"
+title: "ElectroRcade"
+hackathon: "Electroneum Hackathon 2025"
+organization: "Electroneum"
+winner: true
+words: 590
+team_size: 1
+has_repo: true
+has_live: true
+has_video: true
+tags:
+  - "project"
+  - "domain/developer_tools"
+  - "domain/education"
+  - "user/developer"
+  - "user/educator_student"
+---
+
+# ElectroRcade
+
+> A futuristic gaming platform where your skills earn you real rewards on the Electroneum Chain.
+
+[Devpost](https://devpost.com/software/electrorcade) · hackathon [[Electroneum Hackathon 2025]]
+
+## Facets
+
+**domain** [[developer_tools]] [[education]]
+**user** [[developer]] [[educator_student]]
+
+**stack** ankr, coingecko, eletroneum, framer-motion, next.js, react, solidity, tailwind
+
+## How they structured the write-up
+
+- play-to-earn gaming platform on electroneum blockchain
+- 🎮 project overview
+- ✨ key features
+- 🔧 technical architecture
+- 💼 business model
+- 📦 project structure
+- 👥 team
+- 📞 contact
+
+## Body
+
+# ElectroRcade Play-to-Earn Gaming Platform on Electroneum Blockchain ElectroRcade is a skill-based competitive gaming platform built on the Electroneum blockchain where players can earn real rewards through mini-games. Inspired by platforms like MPL and Winzo, our platform enables users to compete in simple yet engaging games with entry fees, creating prize pools where winners earn real value in the form of ETN tokens. 🎮 Project Overview ElectroRcade serves as a trustless intermediary, leveraging Electroneum blockchain for transparent and secure prize distribution. Players convert ETN into platform points, which they use to enter competitive game rooms. After competing in skill-based mini-games, winners receive prize pools (minus a small platform commission). Target Audience Casual gamers looking for competitive play with real rewards Crypto enthusiasts interested in gaming applications Mobile gamers familiar with skill-based competition Electroneum blockchain community members ✨ Key Features Point System ETN Token Conversion : Users deposit ETN which converts to platform points Flexible Denominations : Various point packages available for different player budgets Quest Rewards : Points earned through platform engagement and social activities Transparent Exchange Rate : Clear conversion rates between ETN tokens and platform points Game Room Mechanics Public Rooms : Open to anyone with the required entry fee Private Rooms : Accessible only with invite code Tournament Rooms : Special events with larger prize pools Room Creation : Players can create custom rooms with configurable parameters Game Portfolio Initial Games Flappy Bird Clone Simple tap/click mechanics to navigate obstacles Increasing difficulty as game progresses Score based on distance traveled AI Challenge Game Players attempt to trick AI into saying a specific word Target word generated uniquely for each game 1-minute time limit per player AI judging system determines winner based on closest attempt Future Game Expansion Racing games Puzzle games Card games Trivia challenges Reaction-time games Player Statistics & Leaderboards Win/loss record tracking Total earnings display Games played statistics Average score calculations Game-specific rankings Earnings leaderboards 🔧 Technical Architecture Frontend Framework : NextJS for fast, responsive UI Styling : TailwindCSS for clean, consistent design Game Engine : Canvas-based implementations for games Responsiveness : Mobile-first design approach Blockchain Integration Authentication : Privy Wallet for seamless user onboarding Smart Contracts : Solidity contracts deployed on Electroneum Testnet/Mainnet On-Chain Elements : Point balances Game results Prize distributions Player statistics Smart Contract Architecture Points Management Contract : Handles ETN token/point conversion Game Room Contract : Manages room creation and prize distribution Statistics Contract : Records player and game statistics 💼 Business Model Primary Revenue : 5-10% commission on game prize pools Secondary Revenue : Premium features, cosmetics, and tournament entry fees Quest Rewards Sponsorships : Partnerships with brands for sponsored quests 📦 Project Structure ElectroRcade follows a modular architecture with clear separation of concerns: Frontend Components UI Components : Reusable interface elements with arcade-style aesthetics Game Modules : Self-contained game implementations with shared scoring systems User Dashboard : Profile, statistics, and earnings management Tournament System : Room creation and matchmaking functionality Smart Contracts PointsManager.sol : Handles token conversion and point balances GameRoom.sol : Manages competitive rooms and prize distribution StatisticsTracker.sol : Records player performance and leaderboards Integration Layer Wallet Connection : Seamless Privy integration for walletless onboarding Blockchain Interface : API for interacting with Electroneum blockchain Data Persistence : On-chain and off-chain data management 👥 Team [Tanishq Gupta] Founder & Lead Developer Passionate blockchain developer with 19+ hackathon wins globally. Selected among 95 students for UZH Blockchain Summer School 2024. Expert in multi-chain development and Web3 innovation. LinkedIn · Twitter/X 📞 Contact For inquiries, please contact us at tanishqgupta322@gmail.com <div

@@ -1,0 +1,45 @@
+---
+slug: "findtruman-6aed38"
+url: "https://devpost.com/software/findtruman-6aed38"
+title: "FindTruman"
+hackathon: "Polygon BUIDL IT : Summer 2022"
+organization: "Polygon"
+winner: true
+words: 1278
+team_size: 4
+has_repo: false
+has_live: true
+has_video: true
+tags:
+  - "project"
+  - "mechanism/realtime_stream"
+  - "domain/civic_government"
+  - "user/researcher"
+---
+
+# FindTruman
+
+> FindTruman is a STEAM-like Story-gameplay Co-creation Platform in Web3.
+
+[Devpost](https://devpost.com/software/findtruman-6aed38) · hackathon [[Polygon BUIDL IT - Summer 2022]]
+
+## Facets
+
+**mechanism** [[realtime_stream]]
+**domain** [[civic_government]]
+**user** [[researcher]]
+
+**stack** infura, nestjs, react, typescript, typorm, web3js
+
+## How they structured the write-up
+
+- abstract
+- inspiration
+- what it does
+- accomplishments that we're proud of
+- what's next for findtruman
+- contact us
+
+## Body
+
+FindTruman Abstract FindTruman is a STEAM-like Story-gameplay Co-creation Platform in Web3. In this Hackathon, we create and implement a new Creator Economy Platform to make creators and players receive more incentives based on NFT and Token Mechanisms. All users will be easy to view FindTruman assets by connecting MetaMask or Sequence Wallet FindTruman Team: Findwill: Founder of a Web2 online story-gameplay application with 30 million users and thousands of professional content creators. Lyon: Got his PhD in France, and will continue his research in University of California. Bing: Got her PhD in France, and are invited as academic scholar by National University of Singapore. We try to build a co-creation platform in Web3 that provides infrastructure and focuses on the user-generated contents to produce stories and other interesting contents for story-gameplay and other forms of games to improve the Creator Economy. FindTruman platform structure is shown as following: A video of replay of our Alpha Test story: https://www.youtube.com/watch?v=RNKsjk1QWyI&t=5s Inspiration The story-gameplay is becoming popular in recent years in Asia. Our team starts this Web2 project from 2017 and became one of the top brand in this category. We have accumulated 30 Million Web2 online users, nearly 100 offline studios which can give story-gameplay offline service to customers in different regions. The story-gameplay has its own economic system which includes: Professional writers who create stories and content; Intermediate publishers who search for stories of good quality and sell them to different offline studios; Service providers who try to attract customers (usually at the age around 20) to play games together with their friends; Players who pay for play. As this game with high social interaction characteristics becomes popular among big cities in Asia, the whole industrial chain becomes a big business. However, in this business chain, the professional writer/creators only get very small part of the whole economic benefit, and the final customers (young players) did not get anything else except an interesting experience with friends. This kind of traditional model has its own drawbacks and is limiting the development of the whole industrial. We believe that the content creators and customers need to receive more incentives in the whole economic system as they are contributing their innovative ideas and active participation to the whole system. We found that the Web3 and blockchain technology is very suitable to solve the problem and can give an explosive growth for the production of high quality contents and stories through adequate incentive for the professional writers/creators and the community members. This is the main motivation of our team to build this project. What it does In this platform, the writers initiate some general story lines, and they try to encourage the community members to join the co-creation procedure of the story and IP. By this way, an angel-community of good adhesion can be created. During the whole co-creation procedure, we will provide some incentives to the participating community members and the writers/creators. At the end of this procedure, we have a fun story or IP with their first fans. Then, the commercialization of this story can be done through several different ways: Through our own UGC platform, transfer these text content into 3D scenarios or 3D games which are open to public users, the consumptions and interactions will happen in our own UGC platform; Through building studios in different web3 metaverse platforms like Decentraland, Sandbox to attract users in these platforms to play in these studios; Through a transformation of these stories/IPs into web2 games or offline story-gameplay studios can be initiated to obtain cash flow from web2 users. Finally, some economic benefits can be generated through all these kinds of commercialization. Different methods are disponible to participate in the Co-Creation procedure: 1) The first way to let the community members to participate in the Co-Creation procedure of the story is through 3D scenario like the following link: https://findtruman.io/metaverse-carnival , https://findtruman.io/wgg/hsh/ . In these 3D scenarios, we can have some part of the story happening and the players can participate by collecting clues, communicating with the NPCs, finding some hidden material or information in the scene to help develop the story. Through this way, players or community members have a more profound interaction with the story and can participate in some extend the development of the story. Players can interact each other, and submitting their answer through signing Sequence or MetaMask wallet. 2) Another way to let the community members to participate in the Co-Creation procedure of the story is through a real time story live show in twitter or in our own open platform (still in construction), in which we have 6 NPCs each of whom has his own twitter account and the whole story is developed by their communication through twitter. In the whole process, the players have the right to decide the directions of the story by voting with their NFT. This is the simplest way of Co-Creation. 3) The third way to let the community members to participate in the Co-Creation procedure of the story is present the 3D or 2D scenario to the community without any detailed information and then we try to encourage the creation of the story based on these 3D or 2D scenario among the community members through incentives like NFT or tokens. Through signing by Sequence or MetaMask Wallet, creators can submit their stories and check their assets. With FTG (FindTruman Genesis NFT) and Story-NFT , more interesting ways to incentive the participation of community members and professional writers can be proposed with the development of the project. ( 1 ) FTG (FindTruman Genesis NFT) FTG (FindTruman Genesis NFT) is the core asset for FindTruman DAO supporting the FindTruman platform with the following utilities: Governance right for the DAO. Staking rewards via the DAO. Initiate new episodes or co-creation projects on the platform. Priority access for all activities on the platform. Potential airdrop reward from projects on the platform. Priority access for all the service in the offline studios of FindTruman. (2) Story-NFT Enjoy the story games in FindTruman Platform. Every story has its own Story NFT. Every Story NFT has its corresponding Pool. The value of Story-NFT is estimated by the story’s popularity. The pool will grow dynamically. With the Story NFT Pool, we will further improve the Story Game experience by constructing online platform, offline studios and Merch to make the Story Game more exciting. The profits generated by Story Game will be shared to the Story NFT holders. We have also come up with the first version of token economics plan as following: Accomplishments that we're proud of We have successfully finished the first version of our platform in which some basic interactions like voting using NFT, system of badges can be already conducted. We have successfully built the first three 3D scenario scene to let people understand and interact better with the story. We have cooperated with Loot in content creation, and build the "Lootman" space in Lootverse. We have successfully built our initial community with nearly 13K in our Discord and 17K followers in our Twitter. We believe that we will get more attentions in the web3. What's next for FindTruman Complete more functions and develop FindTruman UGC platform, e.g., more different participation methods for the co-creation procedure based on an on-chain infrastructure, initiating co-creation project on-chain etc. Improve and implement a complete Tokenomics mechanism with NFTs and Tokens. Construct a complete ecosystem of content creators, scene creators, props providers, service providers and players for our Metaverse Theater. Make marketing promotion in different regions to attract more community members, writers and creators to expand community. Build more infrastructure of the platform. Contact Us E-mail: findtruman.io@gmail.com Telegram: @FindTruman <div

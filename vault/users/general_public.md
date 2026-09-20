@@ -1,0 +1,181 @@
+---
+facet: "user"
+name: "general_public"
+projects: 742
+winners: 742
+tags:
+  - "facet"
+  - "user"
+---
+
+# general_public
+
+`user` · **742** projects, **742** of them winners.
+
+## Pairs with
+
+- [[realtime_stream]] — 274 together  <sub>(mechanism)</sub>
+- [[developer_tools]] — 271 together  <sub>(domain)</sub>
+- [[structured_db]] — 270 together  <sub>(substrate)</sub>
+- [[video_visual]] — 257 together  <sub>(substrate)</sub>
+- [[geospatial]] — 257 together  <sub>(substrate)</sub>
+- [[finance_payments]] — 255 together  <sub>(domain)</sub>
+- [[web_dom]] — 229 together  <sub>(substrate)</sub>
+- [[financial_record]] — 201 together  <sub>(substrate)</sub>
+- [[developer]] — 195 together  <sub>(user)</sub>
+- [[civic_government]] — 176 together  <sub>(domain)</sub>
+- [[code_repository]] — 143 together  <sub>(substrate)</sub>
+- [[health_clinical]] — 139 together  <sub>(domain)</sub>
+
+## Projects
+
+- ★ [[tradewizard-8xp61z]] — TradeWizard helps people navigate uncertainty with confidence when money is on the line.
+- ★ [[artharaksha]] — When Gen-AI Rescues You from Financial Fraud and Creates Social Impact
+- ★ [[veterinary-four-color-triage-app]] — Built by a veterinarian & practice owner with no coding experience, this app turns clinical triage e
+- ★ [[signet-0ujsnx]] — Invoice fraud works because paper cannot prove who sent it. Signet has the sender sign the payment f
+- ★ [[extopay-the-last-mile-solution-for-digitizing-cash]] — Next-Generation CBDC solution for digitizing cash: A Highly Secure Mobile and Non-Mobile Solution wi
+- ★ [[zenflow-your-calm-in-the-chaos]] — Burnout builds silently. ZenFlow is an AI workplace companion inside Slack that detects overload pat
+- ★ [[openmed-gtp792]] — A modular AI-driven diagnostic system that intelligently selects specialized models for each case, o
+- ★ [[theta-bash]] — Buyers, and sellers hub that uses Theta in the most efficient way
+- ★ [[community-driven-platform-for-identifying-fake-news]] — A community-driven platform to identify fake news
+- ★ [[usepay]] — 1st e-Commerce Dapp for WEB3 users UsePay was created for liberating business deals for WEB3 users a
+- ★ [[dreammeridian-geoai-on-pi]] — When disasters strike, networks fail first. DreamMeridian runs LLM-powered spatial queries entirely 
+- ★ [[v-ident-real-time-identity-verification-mobile-application-19kdg7]] — V-Ident: Pulse + pixels = proof. On-device heartbeat detection & frequency forensics catch deepfakes
+- ★ [[trustedrisk-care-engine]] — A2A federation that decomposes one clinical prompt into a multi-specialist consultation: 16 sub-agen
+- ★ [[takegraph]] — TAKEGRAPH is a self-healing build system for generative media that regenerates only what changed, re
+- ★ [[pedirounds-ai-co-resident-for-pediatric-morning-rounds]] — The safety net between overnight and attending rounds. 4 AI agents catch deterioration, flag unsafe 
+- ★ [[legalmindz]] — Ethiopia has 2.5 million businesses but only 3,000 lawyers. Legalmindz brings Legal AI for 120 Milli
+- ★ [[mybubble-guiding-you-to-the-new-normal]] — MyBubble is the 'digital bubble' that keeps you alert, informed, and safe in the 'new normal'!
+- ★ [[opensigil]] — Zero-trust encryption made easy
+- ★ [[dropshop]] — cop de-Drop
+- ★ [[aiditto-turn-good-intentions-into-valuable-giving]] — AID IT TO is a SaaS-solution that enables municipalities source what is needed by easily, quickly an
+- ★ [[pulsepoint-2hmejd]] — AI-powered medical triage at the speed of life from instant assessment to doctor in 60 seconds.
+- ★ [[fairwell-a-tool-to-bid-goodbye-to-unknown-ai-biasness]] — Integrate fairness into machine learning pipelines with FairWell: a highly accessible & user-friendl
+- ★ [[seethru-price-transparency-marketplace]] — SeeThru is a blockchain-enabled platform that prioritizes price transparency to change the ecosystem
+- ★ [[pedestrian-flow-analysis]] — Instantly transform an unwalkable street. 🪄
+- ★ [[corona-legal-chatbot]] — Place to go to for all legal questions concerning Corona.
+- ★ [[brightact-a7e5my]] — We streamline and gather support for victims of domestic violence, easy to find, & safe.Collaborativ
+- ★ [[pickli]] — Disrupting streaming platform silos on content discoverability and traditional history-based recomme
+- ★ [[road-incident-predictor]] — Monitoring tools for road incident management. Crowdsourcing information sharing for safer roads wit
+- ★ [[maraam]] — Smart Peer2Peer Resource Distribution: We don't let anyone stay alone during a crisis. We turn citiz
+- ★ [[compliance-sentinel]] — An Agentic, AI Red Team Approach for Proactive Geo-Compliance Risk Detection
+- ★ [[topicradar]] — A solution to frequently posted topic posts! Automate the removal/filter/report of frequently posted
+- ★ [[robofi]] — RoboFi is a robotic economy ecosystem where robotic entities can create certificates of the origin o
+- ★ [[project-iris-edge-ai-aac-platform]] — Project Iris is a zero-latency, eye-tracking AAC platform powered by local WebGPU AI, featuring Live
+- ★ [[nusic-fractionalized-music-for-a-short-form-economy]] — Music consumption has been re-shaped by short video apps, music NFT marketplaces should reflect this
+- ★ [[spark-mhxso9]] — Empowering Passion, Sparking Change, Inspiring Impact: Connecting Sustainable Hearts with Purposeful
+- ★ [[relay-real-time-voice-vision-lab-tutor-for-electronics]] — Relay watches your breadboard through your webcam and talks you through building circuits in real ti
+- ★ [[near-road-icm]] — Investigative case management solution for citizens, police officers and drivers to report and manag
+- ★ [[vitalflow-radar]] — VitalFlow Radar continuously monitors loved ones' vital signs without wearables, bands, or patches. 
+- ★ [[cozyverse-fully-on-chain-community-games]] — The Cozyverse is an ecosystem of fully on-chain games. For Polygon Summer 2022 BUIDL IT, we built al
+- ★ [[pneumoscan-an-ai-tool-for-ppe-check-covid19-testing]] — PneumoScan.ai is developed to be a secured AI tool with the purpose to assist radiologists with COVI
+- ★ [[corovent]] — EU-tested ICU ventilator that offers patients with the most severe respiratory failures the same qua
+- ★ [[brightact-fqibsh]] — App for documentation and support for victims of domestic violence, gathering governments, authoriti
+- ★ [[guide-your-guide]] — Access museums or cultural heritage sites remotely through your phone, without worrying about #socia
+- ★ [[giftmaxxing]] — Tinder for gift taste — swipe to teach it yours, share a link to learn anyone else's, and never give
+- ★ [[xtrau]] — The revolutionary platform for ordering custom gaming computers. It offers an impressive set of feat
+- ★ [[scifunmily]] — Virtual/Online Museum and Science Center tools for the whole family to support parents taking the ma
+- ★ [[unsinkable-ship]] — Two lines of code make LLM apps unsinkable. Unsinkable routes any OpenAI-SDK app through TrueFoundry
+- ★ [[aftershock-em9cju]] — A disaster-struck town run by a society of Qwen agents that split tasks, negotiate scarce rescue res
+- ★ [[ecolafaek]] — Guarding Timor's Beauty
+- ★ [[marshal-autonomous-migration-assistant]] — Orgs don't fail to start migrations — they fail to finish them. Marshal drives every repo to a termi
+- ★ [[waterbody-monitoring]] — As climate change accelerates, water usage planning is crucial for small communities who depend on w
+- ★ [[dataset-trust-auditor]] — Know what's in your data before you train on it. Dataset Trust Auditor scores datasets across 8 trus
+- ★ [[polkastream]] — Real-time, per-second money streaming powered by Polkadot's sub-second finality and ink! smart contr
+- ★ [[ekko-v9wkgy]] — Elevate your foreign language fluency with tailored guidance and individualized verbal conversation 
+- ★ [[doch]] — Manage your entire PyTorch work flow with a single python abstraction and a beautiful functional API
+- ★ [[gathbook]] — Where Your Digital Books Are Truly Yours
+- ★ [[travel-guild]] — 12 Qwen agents that don't just plan your trip - they safely book it. Real budget-capped checkout, de
+- ★ [[uml]] — Disinfect public spaces & buildings like hospitals autonomously using a swarm of drones controlled b
+- ★ [[locl-lf734n]] — Locl offers a platform that supports EBT card purchases to allow SNAP benefit users to purchase heal
+- ★ [[cvagent]] — 3-agent AI pipeline: Anna collects your story, Hannah expands it, CVAgent serves it. Nova 2 Lite + N
+- ★ [[unite-government-procurement-platform]] — A platform for public procurement of special orders during times of crisis - cutting through the bur
+- ★ [[department-of-incidents]] — Agent that wakes up before your on-call engineers do
+- ★ [[cloutvocate]] — A matchmaking platform designed to connect nonprofit organizations with influencers and sponsors to 
+- ★ [[ceptor-club]] — Jump into the game with a quiz-based customised character sheet featuring AI avatar. Want NFT? No pr
+- ★ [[hype-the-culture-exchange]] — HYPE is a culture exchange where users list, trade, sponsor, and analyze internet trends with play m
+- ★ [[faco-fight-against-corona-jfcza9]] — A contactless digital healthcare solution to assist doctors and empower patients to diagnose and man
+- ★ [[seller-ai]] — Seller AI: Elevate your restaurant's efficiency and customer satisfaction with AI-powered menu manag
+- ★ [[drcoordinator-1-0-0]] — The previous "A framework that enables Consumer to pay NodeOp only as much LINK is required to cover
+- ★ [[shopguard]] — AI-powered behavioral wellness that helps you think twice before you buy.
+- ★ [[direct-request-coordinator-drcoordinator]] — A framework that enables dynamic LINK payments on Direct Request, syncing the price with the network
+- ★ [[amanuensis]] — AI-enabled physician assistant for automated clinical summarization and question generation. Empower
+- ★ [[woodpecker-ai-finds-hidden-hotspots-in-power-lines]] — Power line failures spark billions in damage.Woodpecker AI, like a woodpecker spotting hidden hotspo
+- ★ [[skinmatch-ai]] — AI-powered skin analysis app that delivers personalized skincare routines for every skin type and cl
+- ★ [[gridpulse]] — From power cuts to smart flows — GridPulse predicts, optimizes, and stabilizes the grid.
+- ★ [[alyosha]] — The help for life after prison already exists. It's just scattered. Alyosha turns it into one guided
+- ★ [[solocoin]] — Get rewarded to shop locally with your friends. Helping SMBs and local businesses towards economic r
+- ★ [[klerk]] — Klerk: Simplifying Government Services with a Multilingual AI Assistant for Accurate, Up-to-date, an
+- ★ [[civicsync-pos2nx]] — Empower your neighborhood with CivicSync. We use Amazon Nova to translate dense planning notices and
+- ★ [[beef-xk5pif]] — For leaders in high-performance environments, we aggregate real-time wearable data from teams, provi
+- ★ [[polaris-mh7rd8]] — Agentic-driven hospital paging system. Your north star in critical patient care.
+- ★ [[nomi-aoim58]] — A Multi-Sensor Network System for Seniors
+- ★ [[codebreaker-la]] — AI-Native CyberSec — detect, validate, and fix vulnerabilities with agent intelligence, powered by a
+- ★ [[the-carbon-bank-e8wb0h]] — The Carbon Bank marketplace supports a transparent commercialization of traceable carbon credits on 
+- ★ [[let-s-get-lit-aurekm]] — An app providing ML digital literacy for older users with empathy.
+- ★ [[precedent-y2fczw]] — Your organization already decided this. Precedent privately finds the decision before your team make
+- ★ [[krypton-1gy0c5]] — Exchange protocol resistant to front-running, adverse selection, and miner extractable value
+- ★ [[ennovation]] — A dream-come-true project for sellers and buyers as they can now use a website, extension and WhatsA
+- ★ [[traffiq]] — TraffiQ protects applications from large spikes in traffic by providing an intermediate queue servic
+- ★ [[test-kbdsc2]] — Interactive crime thriller game where you play as a newly recruited detective and solve cases in the
+- ★ [[corazones-against-covid19-tech-to-increase-impact-of-money]] — Fintech innovations can multiply the impact of recovery funds for regional SMEs. Five regional gover
+- ★ [[lumina-legal-ai-powered-indian-legal-assistant]] — An intelligent legal assistant that instantly identifies applicable IPC and IT Act sections from pla
+- ★ [[sunday-94odas]] — Sunday is the friend in the group chat who actually makes things happen — plans the dinner, orders t
+- ★ [[belong-hgubyw]] — Belong helps newcomers to a London neighbourhood create connections. Instead of picking events from 
+- ★ [[unlocking-moments]] — A platform for people that want to see and contribute to the human story of the essential worker com
+- ★ [[project-existence]] — Blockchain-based document management for secure and transparent storage.
+- ★ [[hypercluster-the-web3-automated-referral-system]] — A permissionless referral system that aligns an entire community with a single link. Complete with a
+- ★ [[community-exchange-incentivization]] — We match needs and skills within communities and help heroes get the recognition they deserve.
+- ★ [[proofpix]] — attested image ZK library + verified image iPhone app
+- ★ [[chatedu-0k4dgx]] — ChatEDU takes anything you want to learn, and turns it into a focused tutoring session. Instead of r
+- ★ [[chancery]] — Power of attorney for AI agents. A human signs what the agent may commit to; every irreversible act 
+- ★ [[mgame-a-waste-management-game]] — Take on the challenge of waste collection and treatment. Make your actions a reality worldwide.
+- ★ [[my-energy-planner]] — The green energy transition is reducing carbon emissions and creating innovative pricing for consume
+- ★ [[wecare-9sgke7]] — Care. Serve. Humanity
+- ★ [[wecare-0fjkb9]] — WeCare is a privacy-preserving app & page that keeps you & your family safer. You can track the heal
+- ★ [[the-social-media-api]] — OpenAPI 3.0 specification schema and collections of API for building or integrating social networkin
+- ★ [[xo-math-puzzles]] — 5 math challenges that test your logic, speed, and strategy. Compete on leaderboards, share your tou
+- ★ [[fantom-lords-relic-survival]] — Blockchain-based action platformer video game in pixel art style. With a working competitive leaderb
+- ★ [[memoray]] — Memory just moved from your brain to your frames. Your memories are getting a firmware update. Memor
+- ★ [[pact-q8nvkb]] — Contract-based behavioral observability for AI agents, built natively on Splunk. Know not just that 
+- ★ [[therms-thermoregulation-wearables-with-ai-powered-insights]] — A non-invasive wearable using novel thermoregulation research to provide precise heating/cooling to 
+- ★ [[live-talk-show-template]] — 🎬 Go live with this all-in-one Live Studio Kit. Host talk shows, game shows, or performances in fron
+- ★ [[gameblock]] — Create NFTs to raise funds with no prior blockchain knowledge.
+- ★ [[backplane]] — Backplane turns your raw database connection string into an interactive visual graph and an instant 
+- ★ [[hallosophia]] — Platform to close the service gap of small businesses (financial instruments & external knowledge) t
+- ★ [[refound-journalism]] — A decentralized publishing platform and news marketplace with ability to create verifiable content. 
+- ★ [[horizon-8qkbv0]] — Horizon is an innovative DEFI protocol designed to simplify and secure access to the world of decent
+- ★ [[blindsight-virtual-eyes-through-haptic-feedback]] — Blindsight simulates a novel sense of sight with haptic feedback vibration motors and ML.
+- ★ [[touche-cfp6hs]] — Safe Access control to fight COVID-19 - enabling effective deconfinement
+- ★ [[domaintwin-ai]] — Detect DNS drift, explain it with AI, restore trusted state through Name.com, and prove recovery wit
+- ★ [[nftmall]] — NFT Infrastructure & Phygital NFT Commerce Provider for BTTC
+- ★ [[medalysis]] — An API that helps one observe the growing trends of diseases and epidemics worldwide, by tracking lo
+- ★ [[t-lgqf6x]] — An AI-driven stock market prediction tool based on the sentiment of the Spotify daily top songs and 
+- ★ [[trueprint-ai-restoration-that-proves-what-s-real]] — AI restoration invents history. Trueprint restores old photos and audio, then proves exactly what's 
+- ★ [[tree-foundation]] — The greenest digital token, backed by physical forest.
+- ★ [[maggy-ovyepd]] — Social distancing made easy! Maggy is a small wearable device helping you to maintain social distanc
+- ★ [[via-dappia]] — Revolutionizing road infrastructure: This project tokenizes roads, decentralizing ownership & upkeep
+- ★ [[falt]] — Falt introduces on-chain governance for fractional ownership of a physical asset, starting with cont
+- ★ [[aimf]] — Built upon Pega's Powerful Intelligent Automation, Cosmos-UI, & Mashup capabilities, AIMF aids organ
+- ★ [[constructa]] — Constructa helps developers and contracting teams evaluate buildable sites, visualize projects, and 
+- ★ [[paragon-5vmb83]] — Paragon predicts a vehicle's drag coefficient (Cd) in seconds from a simple STL upload, using AutoML
+- ★ [[fdvnjvd]] — Waylo is an AI that lives on your Mac and guides you through anything - a pulsing red dot shows exac
+- ★ [[quoram]] — Quorum is a validation layer for multi-agent AI systems, running on platforms like Fetch.ai's ASI:On
+- ★ [[digitizing-property-tax-systems-with-google-maps]] — Mapping Every Property: A GIS-Powered Platform Transforming Tax Collection in Nigeria
+- ★ [[verdant-esc1ng]] — Reducing carbon-emissions is now a team sport.
+- ★ [[teledisko-dao]] — Neokingdoms are constitutional DAOcracies. They serve a collective of humans with a common goal. Vir
+- ★ [[path2integrity]] — Reach 1.000.000 citizens until August 2020 with our tool "TRUST IN SCIENCE" to support decreasing th
+- ★ [[the-carbon-games-irl-in-real-life-bounty-hunt]] — The world's first blockchain-enabled In-Real-Life (IRL) Bounty Hunt! An IRL bounty hunt is a live, i
+- ★ [[writing-monks]] — Writing Monks allows DAOs to manage their twitter account in a decentralised way. Every DAO member c
+- ★ [[empowering-nft-on-theta]] — Boosting NFT usability for Creators, Devs & Users, we present a token-gated video platform, Discord 
+- ★ [[aorta-real-time-hospital-admission-sepsis-monitoring]] — Aorta: Real-time clinical streaming that predicts sepsis. We combine Confluent Kafka, XGBoost, and G
+- ★ [[ally-kmoagt]] — Ally makes drone data management simple, giving non-technical people easy access to automated workfl
+- ★ [[health-monitor-it92fn]] — Measure heart rate anytime, anywhere with just your phone camera. Includes HRV analysis, facial vita
+- ★ [[signet-app-identity]] — Did you know that officially approved solutions to privacy and impersonation risks in online communi
+- ★ [[safeguard-a1hfp4]] — Fully protect your LLM application against prompt injection attacks and malicious inputs in less tha
+- ★ [[protosound]] — ProtoSound is a web3 platform where musicians can upload their songs minting Soulbound Tokens (song 
+- ★ [[le-team]] — Our vision is to be EU's most trusted and transparent crowdfunding-marketplace focused on healthcare
+- ★ [[whisper-hd54xc]] — Whisper: End-to-end encrypted messaging—no servers, no tracking, just pure privacy.
+- ★ [[mlb-game-threads]] — MLB/NBA/NHL/NFL game threads with live stats
+- ★ [[civic-impact-compass]] — Congress data meets AI-powered analysis — find the bills that affect YOU.
+- ★ [[scup-smart-checkup]] — Smart telemedicine platform, based on IoT devices that provide Vital signs and historical values.

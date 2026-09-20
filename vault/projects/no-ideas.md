@@ -1,0 +1,52 @@
+---
+slug: "no-ideas"
+url: "https://devpost.com/software/no-ideas"
+title: "Anytime Anywhere Electricity Bill Generator"
+hackathon: "Automation Anywhere Bot Games"
+organization: "Automation Anywhere"
+winner: true
+words: 1335
+team_size: 4
+has_repo: true
+has_live: false
+has_video: true
+tags:
+  - "project"
+  - "mechanism/vision_ocr"
+  - "domain/civic_government"
+  - "domain/finance_payments"
+  - "user/general_public"
+  - "substrate/video_visual"
+  - "substrate/web_dom"
+---
+
+# Anytime Anywhere Electricity Bill Generator
+
+> Electricity Bill Generator
+
+[Devpost](https://devpost.com/software/no-ideas) · hackathon [[Automation Anywhere Bot Games]]
+
+## Facets
+
+**mechanism** [[vision_ocr]]
+**domain** [[civic_government]] [[finance_payments]]
+**user** [[general_public]]
+**substrate** [[video_visual]] [[web_dom]]
+
+**stack** a360, automation360, googlevision, iqbot, ml, msaccesss, python, sql
+
+## How they structured the write-up
+
+- inspiration
+- consumer voice
+- why do we need
+- what it does
+- how we built it
+- challenges we ran into
+- accomplishments that we're proud of
+- what we learned
+- what's next for anytime anywhere electricity bill generator
+
+## Body
+
+Project Name Consumer Voice Industrial Challenge Manual Process Solution Tools Used Snap It Send It Pay It User Sending Email To Bot BOT Input Bot Execution Results Benefits Manual Vs Bot Inspiration The year 2020 was a bizarre situation for the whole world and there was a major setback that happened in all fields, we started to live indoors, many regular jobs went remote, financial instability is a few of the many challenges that we have faced. As social gathering and working in a closed atmosphere started to create an adverse effect on the spreading of the pandemic, job nature also changed. Companies started to establish work from home strategy as a part of a business continuity plan in both the private and government sector. A commonality in all this is the lack of mobility for people to complete their day-to-day activities. This created a serious impact in sectors and processes where human or manual interventions are required, especially in the sector of Electricity Bill Generation. Electricity bills started to show a considerable amount of variation due to the absence of manual work and the bill was generated based on the previous bill, which is not precise. Domestic, Commercial, and Industrial Sectors started to pay huge amount of money with no proportion to the number of units consumed, so we decided to come up with the finest solution for this enigma. Consumer Voice Why Do We Need Majorly there are three categories of meters for measuring electricity, Electromechanical induction type energy meter, Electronic Energy Meters, and Smart Energy Meters. Talking about Electronic Energy Meters, there are millions of meters which are functioning all over India. These electronic energy meters show the number of units consumed and the manual calculation of charges will be done accordingly. An individual from the government sector specifically from the electricity board needs to visit every property and record the units which are later entered into the Application for calculation. This is always a tedious task to do and there are many setbacks for this manual process such as tiring travels to the isolated location, wrong bill amount due to incorrect meter reading, and risk of spreading contagious diseases such as COVID-19,NIPAH etc. Here we come up with the innovative thought, using the tool Automation Anywhere A360 who pioneered RPA solutions. All we have to do here is Snap the image of the energy meter measurement, Send it to the Email id, and Pay your Electricity Bills. All these manual efforts can be replaced in just a click-and-send button and we call it ‘SNAP IT SEND IT Pay IT’ . For the Prototype study, we took Tamil Nadu Electricity Board. The total area covered is around 130,058 square kilometers and the population of the area covered by TNEB is 624 Lakhs approx. TNEB caters to a total of 200 Lakhs consumers and has a total of around 70000 employees currently. Total revenue collection for the year** 2020 – 21** was Rs, 2,24,739 Crores , and revenue collection efficiency was 98 %(values and figures are subject to change based on the current survey). As per the recent reports, India is losing 100,000 crores in unbilled electricity . What it does The bot is intended to generate Electricity Bill based on the image of Meter send out by consumer. Once Bot receives email it will starts the process. After validation of the registered email id IQ bot will be called for scraping the number of units from the image. These units are used for the calculation of Electricity bill in the TNEB application . Meanwhile a bill amount for the required month is predicted based on the historical usage pattern , this is accomplished with use of ML Supervised Learning .This Machine learning model will help to validate the amount generated by bot against the units of electricity. Bot is set to a threshold of 20% . Any generated bill values which exceed or fall behind this threshold value is considered as discrepancies . In this case Bot will send out an exception to the administrator stating discrepancies. The bot will generate & send the bill details to respective consumer if there is no discrepancies. How we built it The End- End Solution for Electricity Bill Generation is built on Automation360 and also integrates with various other Technologies and Applications. • IQ bot • Python • Google vision OCR • Machine Learning • Microsoft Access • TNEB Bill calculator Link The entire calculation of the bills is based on the Image(Electric Meter Units) send out by the registered user. This image is sent out to a particular email Id( tneb.bot@gmail.com ) which is the first and foremost thing the consumer needs to do. When the bot is triggered, it reads the email and pushes the image of meter reading to IQ bot as input. IQ bots do scrapping of units using the Google vision as OCR and the bill is calculated on the TNEB website. For predictive analysis of the electricity bill, we used Supervised Learning for modeling the relationship between each month (independent variable) and units consumed (dependent variable). This Machine Learning model will give a close predicted output to the observed values given. How does this helps us? The answer is, it will check whether the calculated units based on the meter reading and the predicted output using the ML model don’t have a huge difference . We have set a threshold value of 20 percent as the deviation whether positively or negatively. This will help to capture any fraudulent images send out or any errors in calculation. When we observe a greater deviation (which we set as 20%) then discrepancies will be reported to the administrator regarding the calculated amount who will validate the issue. Challenges we ran into There was quite a bit of challenge we faced during the development of the project. But it was always fun overcoming all these. At first, we tried to figure out issues that we faced during the bill calculation, we went through many articles to find the exact issue and root cause. We find out various classifications of energy meters and which one is mostly used. Accomplishments that we're proud of The End- End solution of electricity bill generation we brought up will be a big cost saving. There are many advantages like Time-saving, Manual Effort & Cost Saving , Employees visiting the places for measuring the units can be avoided and also considering the number of employees working behind the bill processing, we can drastically reduce the FTE used for this process. • Digitalizing the Legacy Process • Removing monotonous from Humans • Less Human Dependency • Providing the solution for community & helping the Government Sector • Current Bill cycle is bi-monthly, it is due to limitation of resources, by implementing the tool we can generate monthly bill. What we learned During the development of the project we also found that there are many sectors/community where automation is lacking instead manual works are done, this ideology created a urge to explore more process. What's next for Anytime Anywhere Electricity Bill generator When thought about the future of the project, we had come across many interesting features which can be made available to make the tool handier. • In future we are planning to implement Video as input file as it will eliminate fraudulent activities and helps to review in case of discrepancies • WhatsApp can be integrated which reduces the manual effort even further of using the email to send out the image of the meter • Chatbot support can be made used to have a quick submission of the meter snap and for any Q&A by the user • Integration with Automation Anywhere AARI will make the manual effort even simpler • The project is versatile, as it intends to generate instant electricity bill can also be used for the calculation of water billing • The Prototype can be implemented in the countries where Electronic meters are used <div

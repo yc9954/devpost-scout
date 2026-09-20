@@ -1,0 +1,181 @@
+---
+facet: "substrate"
+name: "transcript_audio"
+projects: 339
+winners: 339
+tags:
+  - "facet"
+  - "substrate"
+---
+
+# transcript_audio
+
+`substrate` · **339** projects, **339** of them winners.
+
+## Pairs with
+
+- [[realtime_stream]] — 231 together  <sub>(mechanism)</sub>
+- [[voice_speech]] — 223 together  <sub>(mechanism)</sub>
+- [[developer_tools]] — 142 together  <sub>(domain)</sub>
+- [[video_visual]] — 134 together  <sub>(substrate)</sub>
+- [[structured_db]] — 132 together  <sub>(substrate)</sub>
+- [[geospatial]] — 117 together  <sub>(substrate)</sub>
+- [[education]] — 115 together  <sub>(domain)</sub>
+- [[educator_student]] — 111 together  <sub>(user)</sub>
+- [[document_pdf]] — 104 together  <sub>(substrate)</sub>
+- [[web_dom]] — 98 together  <sub>(substrate)</sub>
+- [[retrieval_grounding]] — 87 together  <sub>(mechanism)</sub>
+- [[health_clinical]] — 79 together  <sub>(domain)</sub>
+
+## Projects
+
+- ★ [[artharaksha]] — When Gen-AI Rescues You from Financial Fraud and Creates Social Impact
+- ★ [[veterinary-four-color-triage-app]] — Built by a veterinarian & practice owner with no coding experience, this app turns clinical triage e
+- ★ [[ailearning]] — aiLearning is an AI-based solution for simplifying educational activities, focusing on exams correct
+- ★ [[launchpad-7xkjwu]] — Launchpad organizes your college applications in one place. Build your profile, get AI analysis on y
+- ★ [[auditguardx]] — Enterprise compliance in minutes, not months at 1% of the cost.
+- ★ [[scholarstream]] — Need money for your school fee and upkeeps? ScholarStream finds immediate opportunities (scholarship
+- ★ [[signet-0ujsnx]] — Invoice fraud works because paper cannot prove who sent it. Signet has the sender sign the payment f
+- ★ [[chinwag-zp4jds]] — AI production workspace for research, media, and publishing.
+- ★ [[taief-the-all-in-one-academic-assistant]] — From academic research to Olympiad problems, TaiefMind is your AI co-pilot. Upload papers, extract d
+- ★ [[forge-field-operations-real-time-guidance-engine]] — Voice AI co-pilot for hands-busy industrial technicians: one Qwen-Omni-Realtime session listens, see
+- ★ [[kisan-mitra-ai]] — Built on AWS and powered by Amazon Nova Pro, the platform eliminates the literacy barrier with a voi
+- ★ [[drishti-ai-navigator]] — Empowering digital independence through AI. Voice-powered web navigation using AWS Bedrock AgentCore
+- ★ [[ocr-finetuning-for-ancient-cuneiform-tablets]] — NabuOCR is a specialized OCR model for transliterating ancient cuneiform tablets directly from image
+- ★ [[project-x-xgo16d]] — Transforming Learning: AI-driven Podcasts, Quizzes, Dynamic References, and Document-based Chat for 
+- ★ [[pulsepoint-2hmejd]] — AI-powered medical triage at the speed of life from instant assessment to doctor in 60 seconds.
+- ★ [[robotixfunnel]] — AI-powered e-commerce platform with robotic warehouse fulfillment, digital twin visualization, and i
+- ★ [[caladrius]] — The Privacy-First AI Triage Assistant
+- ★ [[sai-m2wl0p]] — A voice-native OS agent that sees your screen. Powered by Amazon Nova Lite for routing and Nova Pro 
+- ★ [[fitnesscoach]] — This skill makes Alexa the perfect Personal Trainer for home exercises. Do workouts, collect fitness
+- ★ [[project-iris-edge-ai-aac-platform]] — Project Iris is a zero-latency, eye-tracking AAC platform powered by local WebGPU AI, featuring Live
+- ★ [[tunnel-dqv1k4]] — AI Agents for Simulated Market Research
+- ★ [[relay-real-time-voice-vision-lab-tutor-for-electronics]] — Relay watches your breadboard through your webcam and talks you through building circuits in real ti
+- ★ [[anyform-ai-form-builder-30au41]] — AnyForm is an AI powered, tool-first platform that lets you build complex, validated forms in under 
+- ★ [[orbit-8kd3re]] — maps the orbit of your thinking, so you can see when an idea is yours versus AI's
+- ★ [[aftershock-em9cju]] — A disaster-struck town run by a society of Qwen agents that split tasks, negotiate scarce rescue res
+- ★ [[simuniverse]] — All in one interactive simulations across STEM disciplines
+- ★ [[pytorchxai]] — Q&Aid is the healthcare assistant that democratizes access to high-quality diagnoses. It comforts pa
+- ★ [[studyblocks]] — Overwhelmed by studying? StudyBlocks combines AI-powered study guide generation, smart flashcards, a
+- ★ [[tonguekeeper]] — Every 2 weeks, a language dies. TongueKeeper deploys autonomous AI agents that compile and cross-ref
+- ★ [[cvagent]] — 3-agent AI pipeline: Anna collects your story, Hannah expands it, CVAgent serves it. Nova 2 Lite + N
+- ★ [[browseback]] — BrowseBack gives your browser a photographic memory powered by Chrome’s built-in AI. Search by conte
+- ★ [[faco-fight-against-corona-jfcza9]] — A contactless digital healthcare solution to assist doctors and empower patients to diagnose and man
+- ★ [[ctrl-alt-heal]] — AI-powered clinical gap detection that finds the diagnoses hiding in your charts, so no condition go
+- ★ [[orion-operating-room-intelligent-orchestration-node]] — A voice-directed surgical co-pilot for robotic surgery. Surgeons can speak naturally & instantly rec
+- ★ [[jiratalkgpt]] — Streamlining Meetings into Agile Actions
+- ★ [[roundreach]] — AI that finds investors who fund companies like yours and writes personalized outreach that gets res
+- ★ [[perceiv-io]] — 🪶 PERCEIV/IO leverages AI image recognition and various LLMs to assist persons with visual and/or au
+- ★ [[polaris-mh7rd8]] — Agentic-driven hospital paging system. Your north star in critical patient care.
+- ★ [[clearclause-zer4yh]] — AI-powered legal document analyser: upload any contract, get instant clause-by-clause risk analysis,
+- ★ [[testera]] — It knows what you're bad at. It remembers what you'll forget. It speaks back. That's Testera. 📚
+- ★ [[claracare]] — AI companion that calls seniors daily, detects cognitive changes, and gives families peace of mind v
+- ★ [[test-kbdsc2]] — Interactive crime thriller game where you play as a newly recruited detective and solve cases in the
+- ★ [[scambaitai]] — ScamBait AI is an intelligent, AI-powered honeypot designed to combat digital fraud by engaging scam
+- ★ [[vaidyasaarathi]] — "Your Intelligent Healthcare Companion" - Breaking language barriers, preserving privacy, empowering
+- ★ [[nutshell-auftp2]] — Empowers users with motor disabilities to browse the web completely hands-free using just their head
+- ★ [[cockatoos]] — Cockatoos provides an intuitive speech training platform that allows language learners to improve th
+- ★ [[memoray]] — Memory just moved from your brain to your frames. Your memories are getting a firmware update. Memor
+- ★ [[alpharesearch-9fwk4m]] — Recursive Sandboxed Agents for Autonomous Research at Scale
+- ★ [[johnkeats-ai]] — A voice-first AI companion that holds uncertainty instead of solving it. Built on Gemini 2.5 Flash N
+- ★ [[project-dvomck5s9l3q]] — Educational Wins.
+- ★ [[dot-bringing-humanity-to-in-home-care]] — Agentified personal in-home care for the elderly. Multimodal S2S agent system handles patient charts
+- ★ [[vocai-ai-coach]] — Revolutionary AI vocal coach with real-time voice analysis, personalized lessons, and 24/7 conversat
+- ★ [[preplo]] — You saved the video but never made the recipe. Preplo fixes that — paste the link, get ingredients, 
+- ★ [[chuck-it]] — Save anything, find everything—100% offline, 100% private, 0% effort.
+- ★ [[trueprint-ai-restoration-that-proves-what-s-real]] — AI restoration invents history. Trueprint restores old photos and audio, then proves exactly what's 
+- ★ [[vidya-setu-b5xi0y]] — Bridging every learner to their potential — AI-powered gap detection, peer collaboration, silent saf
+- ★ [[ranger-6jkv5s]] — Audio is a luxury we take for granted, that deaf folks don't get. Ranger is a wearable AR solution a
+- ★ [[launchify]] — Know what you don't know — before you build.
+- ★ [[match-vision]] — Empowering blind and low-vision fans to follow the action, context, and emotion of live sports indep
+- ★ [[spielburg-ai]] — AI-powered video editing with CUDA optimization—our advanced AI agent executes complex edits with na
+- ★ [[dailies]] — CI for AI-generated video - the tests nobody built for the thing everyone is shipping.
+- ★ [[reps-bapvqf]] — You paste in something and the app turns it into a convo where you explain the concept and an AI tut
+- ★ [[rehearse-nzow16]] — Got an upcoming Interview or Presentation? Use Rehearse, an AI Powered practice platform. Rehearse..
+- ★ [[aster-sv8mi6]] — Aster speaks the part of a lecture nobody says out loud, so blind and low-vision students can follow
+- ★ [[ai-powered-job-application-assistant]] — AI-driven career acceleration: Optimize resumes, ace interviews, and land your dream job with intell
+- ★ [[studyo-mju34e]] — Your tabs, turned into a study session.
+- ★ [[ai-for-common-good]] — An exam hosting service for the visually impaired
+- ★ [[cueboard-the-physical-control-surface-for-virtual-events]] — CueBoard turns the MX Creative Console into your meeting command center. Mute, record, launch breako
+- ★ [[jugaad-dpmqi7]] — JUGAAD — Just-in-time University Guidance and Actionable Discovery — gives every Berkeley student th
+- ★ [[scam-detector-1lhc24]] — "Unmasking AI voice scams through sound." VoxShield flags AI-generated voices from a single audio cl
+- ★ [[immunoverse-composable-in-silico-gene-therapy-screening]] — A decentralized network of AI specialist agents running patient-specific, systems-level safety scree
+- ★ [[promptmotion]] — Agentic & Conversational video editing!
+- ★ [[root-cause-analysis]] — Unleashing the Power of LLM's to Empower Businesses in Understanding Customer Conversations
+- ★ [[synth-u7a6pq]] — AI Medical Visit Assistant
+- ★ [[berea-college-q-a-4yzxgm]] — Berea College Q&A: Ask anything. Get answers straight from berea.edu
+- ★ [[hivemind-18cula]] — HiveMind: Your Second Brain for Smarter Learning.
+- ★ [[nova-multi-agent-compliance-intelligence-on-aws-nova]] — Four specialized agents analyze SEC filings, market signals, enforcement history, and earnings calls
+- ★ [[voicebot-for-ongoing-assistance-to-covid-19-patients]] — A system for effective remote monitoring of ambulant Covid-19 patients by automated phone calls to e
+- ★ [[galuxium-the-ai-that-builds-startups-autonomously-zxg8rp]] — Galuxium is an autonomous multi-agent AI platform that transforms any idea into a complete startup —
+- ★ [[gotcha-a1v3bl]] — I can help you get insights from your meetings
+- ★ [[infinite-memory-plnev8]] — Never Forget Again
+- ★ [[agrowise-4b2szv]] — AgroWise fuses low-cost root-zone sensors with AI and IVR to provide precision farming via any phone
+- ★ [[chatedu-mt379l]] — Copilot for students that learns and works with them, not for them.
+- ★ [[the-grenadians]] — Everyone in the class takes notes. Meltingpot turns them into one shared vault for students, and bui
+- ★ [[echo-bedpzr]] — A voice-based reminder app with smart features for future-tasks, including web-search, research, and
+- ★ [[scrumpy]] — Recipes from your feed
+- ★ [[voicetree]] — Smartest AI-powered meeting assistant for students and professionals that helps them take high-quali
+- ★ [[tribune]] — GitHub for democracy. Every policy change cited to a voice.
+- ★ [[protestlink]] — Secure, real-time protest coordination via encrypted mesh and AI insights
+- ★ [[codetube-y8c19f]] — Transform passive YouTube tutorials into interactive, AI-powered coding journeys.
+- ★ [[priorauth-agent]] — A voice-to-submission AI agent that converts a clinician's spoken case into a completed prior author
+- ★ [[course-connection]] — Ever meet another student, seemingly a stranger, only to realize you were in 12 classes together? Se
+- ★ [[condensis]] — Condensis offers AI-generated notes to students who struggle with note-taking, helping promote acces
+- ★ [[nova-storyteller]] — Nova Storyteller is a magical, voice-powered storytelling companion that turns bedtime or learning m
+- ★ [[lectio-real-time-ai-study-companion]] — Lectio listens to your lecture alongside you. As terms and concepts come up, it quietly looks them u
+- ★ [[tendly-smolpq]] — Tendly gives elderly patients one button to speak any need. Claude triages it in real time, caregive
+- ★ [[prereq-sg1thw]] — Real-time knowledge graphs that make every lecture impossible to fall behind in
+- ★ [[timeless-ai]] — An NLP tool for remove those hassles of finding the most relevant content in the videos and document
+- ★ [[honeybadgers]] — Closing sales calls while managing customer expectations can be challenging. Let our Honey Badger Sa
+- ★ [[online-examination-software]] — Empowering secure and convenient online exams through audio and video proctoring.
+- ★ [[split-decision]] — Nine AI judges argue real Supreme Court cases, live on Alibaba Cloud. Two AI journalists cover the f
+- ★ [[sayso]] — Feedback that sticks before it slips
+- ★ [[shotspot-kfvp1n]] — Stop scrubbing videos. Start training models.
+- ★ [[the-grand-caste-nova-event]] — The Grand Castle is a sophisticated multi-agentic AI system that uses Amazon Bedrock's Nova models t
+- ★ [[claros-ai-agent-for-learning-s4wgjr]] — Claros makes STEM worksheets accessible for students who can reason through problems but struggle wi
+- ★ [[cameron-9biv60]] — Cameron turns any camera into an active AI agent — observing, understanding, and acting in real time
+- ★ [[swarm-ai-s6lhd0]] — Swarm AI empowers AI companies to test thousands of speech-to-speech conversations in parallel, meas
+- ★ [[debatemasterai]] — AI debate coach with real-time voice interaction and performance analytics
+- ★ [[affectlink]] — AffectLink provides real-time multimodal emotion insights for tele-health with HP AI Studio. Uncover
+- ★ [[insight-vyfj5z]] — Insight uses Meta Ray-Bans to record your every interaction, creating an AI clone of yourself that c
+- ★ [[studyflow-e8nxah]] — AI-powered learning companion that creates structured learning paths with live web research, curated
+- ★ [[cloudcam]] — Using Cloudinary’s efficient processing and delivery, Cloudcam makes video messaging creative, insta
+- ★ [[bloom-today-8scpra]] — Because no mom should have to heal alone. Bloom Today is a postpartum emotional support platform tha
+- ★ [[nfldraftassistant]] — Dominate Your NFL Fantasy Draft with Smart Recommendations and Expert Insights, All Powered by AI an
+- ★ [[autosre-the-autonomous-on-call-engineer]] — AutoSRE is an autonomous on-call agent that diagnoses Dynatrace incidents in seconds and queues up t
+- ★ [[na-504rkg]] — A real-time, cross-domain Customer Happiness Index that detects, tracks, and helps act on customer s
+- ★ [[ecstatic]] — analyze and enhance your videos, practice presentations and get exact reviews, and much more!
+- ★ [[bloom-dvjpea]] — The AI caretaker that enables seniors to be more independent and connected to their families.
+- ★ [[health-story]] — Introducing Health Story, our revolutionary app for hypertension management - a game-changer for doc
+- ★ [[ta-da-intelligent-teaching-assistant]] — Why are students Googling mid-lecture? TA-DA keeps them in the room: AI teaching assistant built int
+- ★ [[teachxr]] — World's First AI Study Assistant in Extended Reality
+- ★ [[hellocare]] — Left the doctor confused or worried you forgot something? Your grandparents probably have. Hellocare
+- ★ [[carelink-k1pzeh]] — Voice AI with RAG-powered clinical reasoning that proactively detects post-surgical complications, a
+- ★ [[dispatch-ai]] — An empathic agent eliminating 911 wait times during critical emergencies.
+- ★ [[prosperio]] — Prosperia is a job interview simulation builder and practice platform that can be integrated at ente
+- ★ [[find-car]] — CallForYou learns what you want, finds your best-fit cars, calls every dealership, books your test d
+- ★ [[slothpost]] — SlothPost watches your GitHub commits, Vercel deploys, and Rants, then drafts X and Threads posts fo
+- ★ [[pathsense-athy2r]] — Empowering Vision Through Voice. Revolutionizing indoor mobility with real-time, adaptive AI-enabled
+- ★ [[spatial-math]] — Your personal 3D math tutor — flat questions become explorable scenes
+- ★ [[ecospire-gna60h]] — While most applications solve problems for specific user groups, EcoSpire addresses the biggest chal
+- ★ [[hate-normal-text-classification]] — [Preventing Hate Speech] Harmful language detection with multiple NLP models.
+- ★ [[rep-ja9oqw]] — Practice sales calls with AI prospects. Get real-time coaching and detailed performance insights. Cl
+- ★ [[lively-recorder-for-confluence-audio-video-screen]] — Create audio, video and screen recordings directly from within Confluence!
+- ★ [[ember-touidc]] — 50M people pay $15K for robotic AAC devices. Ember uses Gemini to interpret unclear speech and Eleve
+- ★ [[clinicact]] — ClinicAct turns doctor-patient conversations into ready-to-sign EMR actions and clear patient follow
+- ★ [[voicezero]] — We build websites by conversation
+- ★ [[clearance]] — AI-powered body camera intelligence that sees threats in real-time, calls for backup hands-free, sto
+- ★ [[spec-tape-the-ghostly-mixtape-machine]] — Spec-Tape is a your web application that combines 1990s mixtape nostalgia with paranormal audio inve
+- ★ [[stratify-ai]] — Turn economic indicators into crypto insights. Local AI analyzes FRED data, news, market trends → pr
+- ★ [[sahayaai-intelligent-learning-career-platform]] — Ace your exams today, land your dream career tomorrow. SAHAYA.AI is an AI-powered ecosystem that bri
+- ★ [[noteworthy-visualize-capture-remember]] — AI-powered lecture companion: Transforms speech into real-time visualizations, incorporates notes, a
+- ★ [[q-ai-9tlxj6]] — AI Platform for Generating data sets
+- ★ [[novatour]] — NovaTour: Your AI Travel Companion That Talks, Plans, and Books — All by Voice.
+- ★ [[temp-031caq]] — A smart AI lecture chatbot that follows along in class, lets you ask questions live, gives immediate
+- ★ [[selfheal-qa]] — An autonomous UiPath agent that heals brittle UI tests but refuses to heal real bugs, filing a defec
+- ★ [[ai-productivity-copilot]] — A smart AI productivity copilot that leverages Amazon Nova to automate tasks, summarize content, gen
+- ★ [[nova-voice-coach-ai-powered-technical-interview-simulator]] — Democratizing technical interview preparation through AI—realistic voice practice in 10 languages wi
+- ★ [[studforge]] — StudForge turns natural language prompts into physics-validated, simulator-ready, robot-buildable sw
+- ★ [[readable-ai-braille-printer]] — World's first braille printer under $15
+- ★ [[lingosage]] — Learning Has No Language

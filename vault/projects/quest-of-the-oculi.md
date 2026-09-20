@@ -1,0 +1,47 @@
+---
+slug: "quest-of-the-oculi"
+url: "https://devpost.com/software/quest-of-the-oculi"
+title: "Occult of the Oculi"
+hackathon: "Theta Network 2023 Hackathon"
+organization: "Theta Labs"
+winner: true
+words: 1384
+team_size: 3
+has_repo: false
+has_live: true
+has_video: true
+tags:
+  - "project"
+  - "mechanism/revocation_withdrawal"
+  - "substrate/code_repository"
+  - "substrate/financial_record"
+  - "substrate/geospatial"
+  - "substrate/web_dom"
+---
+
+# Occult of the Oculi
+
+> A 1-to-4 player game that is play to earn with free NFTs. Use NFTs from other Tiny Knight Games (Fisher's Quest) to get started!
+
+[Devpost](https://devpost.com/software/quest-of-the-oculi) · hackathon [[Theta Network 2023 Hackathon]]
+
+## Facets
+
+**mechanism** [[revocation_withdrawal]]
+**substrate** [[code_repository]] [[financial_record]] [[geospatial]] [[web_dom]]
+
+**stack** c#, css, javascript, php, s3, solidity, symfony, unity
+
+## How they structured the write-up
+
+- 》inspiration
+- 》what it does
+- 》how we built it
+- 》challenges we ran into
+- 》accomplishments that we're proud of
+- 》what we learned
+- 》what's next?
+
+## Body
+
+Occult of the Oculi Features Tiny Knight Games Community Ecosystem: Theta Blockchain NFTs usable across all games Dungeon tileset design stages Marketplace 2.0 Layout and Features Iterations of the Logo for Occult of the Oculi Early Concept and Development 50 Unique pieces of art for the Ancient Crate NFT Pool 》Inspiration We founded Tiny Knight Games (TKG) with the goal of creating an ecosystem of Theta Blockchain-based games that are accessible to anyone and connected by a shared pool of NFTs, which are all available on one marketplace. Our new game – Occult of the Oculi – (OotO) makes that vision a reality. Our first game, Theta Hackathon Q3 2021 Gaming category-winning submission Extreme Fishing (now known as Fisher's Quest ), was a simple AFK fishing game inspired by minigames from titles such as Stardew Valley, New World, and Black Desert Online. Players could convert any equipment or fish they get in-game into their own NFT with the click of a button, making it easy to introduce people to both our games and the Theta Blockchain. For our second game, we wanted to accomplish a few different things: Reward players for playing with friends , encouraging them to introduce new people to Theta Blockchain-based games, Create ways for players to earn tradeable NFTs without ever needing TFuel (or any token), allowing them to enter the Theta ecosystem purely through playing the game, and Develop a unique cooperative roguelike game that players will want to play again and again (even while they have Fisher’s Quest open in another tab)! Enter Occult of the Oculi , a cooperative roguelike inspired by titles such as Binding of Isaac, where players can work together to clear randomly-generated floors, defeat a variety of bosses, uncover the story of their creation, and earn free NFT drops ! On top of this, we’ve updated our Marketplace from version 1.0 to 2.0, allowing all existing and future players to buy, sell, and make offers on any NFTs in our ecosystem. 》What it does Occult of the Oculi Occult of the Oculi is a free-to-play, 1-to-4 player cooperative roguelike game where players work together to discover powerups, lore, and free NFT drops . Our current focus is Act 1, but we have 10 acts planned, each of which will be freely accessible on TKG’s website. Gameplay : Players work together to scale 4 floors of a tower, with a powerful boss waiting at the end of every floor. Along the way, they can find power-ups to help them progress, and have a chance at loot for every floor they clear! Story : The player is an Oculus, a floating eye creature with uncertain origin, locked away in a dungeon with hundreds of other Oculi. As they leave the dungeon, defeat bosses, and clear the game, the player learns more about their creation, the world around them, and the bosses they encounter. NFTs : Any equipment the player finds can be turned into a generative NFT, just like in Fisher’s Quest. However, players can also receive loot crates (sent to the player's wallet at no cost to the player), which can be opened by the player (at the cost of TFuel) to obtain limited-edition NFTs, or traded to other players on the TKG Marketplace. Replayability : Each floor of the dungeon will randomly generate each playthrough, and players will encounter a maximum of 4 of the game’s 8 bosses on one playthrough. They’ll also receive random in-game powerups, and their equipment will have different potential buffs, ensuring no two runs are ever the same! Marketplace 2.0 All NFTs are now tradeable on TKG’s Marketplace 2.0! The Marketplace is a huge component of our ecosystem, as all of our NFTs (for every game) are able to be listed and sold between players. We launched our initial Marketplace in late February 2023 with three core functions: list an item for sale, cancel an existing listing, and buy a listed item. New features for Marketplace 2.0: Added Functions : We expanded Marketplace 2.0 and added the ability to Update an existing Market Item and to Make an Offer for any NFT in our ecosystem. This meant we needed to add five new functions: createMarketOffer, cancelMarketOffer, updateMarketOffer, transactMarketOffer, and updateMarketItem. Price Transparency : Gas Estimates for every transaction calculated and displayed within the UI, so players always know what they’ll pay. Market Balance : Ability to hold a balance on the Market Contract that can be used to Buy Items and Make Offers. TFuel can be withdrawn from market sales at any time. Create Listing Update Listing Cancel Listing Buy Listing Create Offer Update Offer Cancel Offer Accept Offer Marketplace v1.0 ✅ ❌ ✅ ✅ ❌ ❌ ❌ ❌ Marketplace v2.0 ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ Theta Wallet Extension + MetaMask Integration ! Marketplace 2.0 Contract: 0x3fc3fe7c34f1ad2d4ca86219ef1b67af9aa7abd4 New Pool of NFTs (Ancient Crates) Ancient Crates are earned by playing Occult of the Oculi . At the end of every Act completion you'll have a chance to earn a crate drop. Each crate contains 1 of 5,000 potential NFTs . Players can do one of two things with each crate they receive: Open the crate for a fee of TFUEL Sell the crate on the Marketplace Tiny Knight Games Crate Contract: 0xbed46f80117f7a6f25ef3be7140b5cea92d66981 Thetapass Integration We have added Thetapass integration so you can link your Thetadrop wallets to Tiny Knight Games. More details on this integration coming soon! See it in Action Note: Must have an account and be logged in. 》How we built it Unity ( Github build repository for OotO ) Symfony Theta Network Solidity 》Challenges we ran into Multiplayer sync for 4-player Rewriting Marketplace contract to Marketplace 2.0 version Setting up the flow for the NFT crates and token distribution and minting Integrating NFTs to be used across games 》Accomplishments that we're proud of Jacob (Typho) 4-player multiplayer with procedurally generated maps this took some time to figure out Monster balancing and scaling and modular creation of new creatures, we can easily add more unique and crazy monsters for future acts Boss mechanics were a ton of fun to create and test, Biff is our very first boss and he's a lot of fun! Game UI, it's the worst thing in the world to work on but we did it! Matt (Serik) The Marketplace 2.0 revisions were a huge endeavor and I'm very happy with how it has turned out. I devoted the first four weeks of the hackathon to writing/testing the contract, adding in new website UI, and writing several blockchain sync scripts to ensure our NFT data is always in sync with the blockchain. Game Art was a huge lift. We have 30 in-game items and 50 different NFTs, in addition to all of the game assets such as tile maps and enemies. We also spent a few iterations designing the new logo for Occult of the Oculi . Connor (Edelast) Balancing player equipment stats around existing NFT values & scaling from Fisher’s Quest was a major challenge. We wanted the player to feel the value of their early equipment in Act 1 without breaking the game once the player unlocks end-game equipment later on. Our current balancing should give players early rewards, while still providing satisfaction when their equipment is upgraded. OotO is the first TKG game to have pre-planned lore, which was a unique challenge. We created an entire magic system that’s integrated into the player’s equipment, plus backstories for every boss, and a 10-act story progression plan. I’m extremely excited to reveal more to the players as we integrate the lore more into the game. 》What we learned Smart Contract development Better understanding of gas estimates and fees Setting up an NFT drop with crates. This is new territory for us as in the past all of our NFTs have been created on demand. 》What's next? Occult of the Oculi Player Records Achievement System More Lore integration Gameplay Refinements New art + refined art assets New bosses for Act 1 Acts 2 - 10 Tiny Knight Games Theta.tv Stream (give us a follow! theta.tv/tinyknightgames ) Ramp up Theta Community Outreach More community interaction elements Join us on Discord and follow us on Twitter ! A big THANK YOU to all of our Fisher's Quest community for supporting us! <div

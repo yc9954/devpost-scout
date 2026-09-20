@@ -1,0 +1,181 @@
+---
+facet: "domain"
+name: "legal_justice"
+projects: 274
+winners: 274
+tags:
+  - "facet"
+  - "domain"
+---
+
+# legal_justice
+
+`domain` · **274** projects, **274** of them winners.
+
+## Pairs with
+
+- [[realtime_stream]] — 132 together  <sub>(mechanism)</sub>
+- [[structured_db]] — 124 together  <sub>(substrate)</sub>
+- [[document_pdf]] — 120 together  <sub>(substrate)</sub>
+- [[developer_tools]] — 110 together  <sub>(domain)</sub>
+- [[finance_payments]] — 108 together  <sub>(domain)</sub>
+- [[geospatial]] — 98 together  <sub>(substrate)</sub>
+- [[web_dom]] — 86 together  <sub>(substrate)</sub>
+- [[financial_record]] — 82 together  <sub>(substrate)</sub>
+- [[code_repository]] — 77 together  <sub>(substrate)</sub>
+- [[developer]] — 75 together  <sub>(user)</sub>
+- [[video_visual]] — 71 together  <sub>(substrate)</sub>
+- [[legal_professional]] — 69 together  <sub>(user)</sub>
+
+## Projects
+
+- ★ [[tradewizard-8xp61z]] — TradeWizard helps people navigate uncertainty with confidence when money is on the line.
+- ★ [[artharaksha]] — When Gen-AI Rescues You from Financial Fraud and Creates Social Impact
+- ★ [[ailearning]] — aiLearning is an AI-based solution for simplifying educational activities, focusing on exams correct
+- ★ [[asap-1h45pk]] — Empowering industries with AI-driven insights through Retrieval Augmented Generation (RAG), simplify
+- ★ [[auditguardx]] — Enterprise compliance in minutes, not months at 1% of the cost.
+- ★ [[trudi-threat-response-unit-for-digital-investigation]] — Built on the idea that we're all smarter than any of us: TRUDI pairs an autonomous DFIR agent with a
+- ★ [[signet-0ujsnx]] — Invoice fraud works because paper cannot prove who sent it. Signet has the sender sign the payment f
+- ★ [[proofsift]] — Evidence-proven autonomous DFIR triage that confirms findings only with traceable forensic artifacts
+- ★ [[haven-w7mj9g]] — A Silent Shield, A Strong Voice.
+- ★ [[zenflow-your-calm-in-the-chaos]] — Burnout builds silently. ZenFlow is an AI workplace companion inside Slack that detects overload pat
+- ★ [[xtf-dexes]] — Crypto fund indexes rely on managers or third-party providers to select assets, lacking a decentrali
+- ★ [[lunsj-hbfni2]] — Automate routine knowledge sharing & social connection
+- ★ [[pvt-covid]] — Effective treatment to save lives from COVID lung damage
+- ★ [[gauntlet-wlv7og]] — Adversarial fuzz-testing for AI agents using Elasticsearch Agent Builder, ES|QL and Workflows. Watch
+- ★ [[gurwi-learn-anything]] — Gurwi makes mastering complex topics simple and engaging. Learn anything through our unique format o
+- ★ [[takegraph]] — TAKEGRAPH is a self-healing build system for generative media that regenerates only what changed, re
+- ★ [[collision-cloud]] — A calm, clear journey from raw CCTV footage to a complete accident reconstruction report
+- ★ [[legalmindz]] — Ethiopia has 2.5 million businesses but only 3,000 lawyers. Legalmindz brings Legal AI for 120 Milli
+- ★ [[brofundyourself]] — We are making it easier for people to fund their dreams by tokenizing time in a regenerative way. Ha
+- ★ [[topsports-exchange]] — Topsports is a cutting-edge p2p betting exchange that introduces innovation to the online sports bet
+- ★ [[bit-civilization]] — Bit Civilization is a higher civilization based on the idea of Bitcoin and will transform all aspect
+- ★ [[seethru-price-transparency-marketplace]] — SeeThru is a blockchain-enabled platform that prioritizes price transparency to change the ecosystem
+- ★ [[agile-planning-tool]] — Real-time collaborative sprint planning that brings Product Owners, Dev teams, and Operations togeth
+- ★ [[corona-legal-chatbot]] — Place to go to for all legal questions concerning Corona.
+- ★ [[brightact-a7e5my]] — We streamline and gather support for victims of domestic violence, easy to find, & safe.Collaborativ
+- ★ [[robinhood4business-avj92c]] — Digitalization brought to SMEs. Local stores, restaurants, hairdressers and many more, will get onli
+- ★ [[compliance-sentinel]] — An Agentic, AI Red Team Approach for Proactive Geo-Compliance Risk Detection
+- ★ [[nusic-layer-1-for-music]] — Open audio fingerprints and creator metadata layer for Web 3.0 encrypted music distribution and info
+- ★ [[reverelabs-dzpu4k]] — Building No-Code Smart contract-based escrow services to bridge the trust gap in the gig economy.
+- ★ [[kassi-synthetic-load-generation]] — An AI agent on an audited state machine: it load-tests a code change, correlates the regression with
+- ★ [[nusic-fractionalized-music-for-a-short-form-economy]] — Music consumption has been re-shaped by short video apps, music NFT marketplaces should reflect this
+- ★ [[phantomguard]] — Norn: Real-time quality & security monitoring for Strands agents. Powered by Nova Lite for live scor
+- ★ [[brightact-fqibsh]] — App for documentation and support for victims of domestic violence, gathering governments, authoriti
+- ★ [[guide-your-guide]] — Access museums or cultural heritage sites remotely through your phone, without worrying about #socia
+- ★ [[notary-an-ai-creative-review-board-for-generative-media]] — Screens every AI-generated take against brand and compliance rules, revises the failures with the re
+- ★ [[loopguard-passport-governed-clinical-loop-closure]] — Prevent the diagnostic harm that begins the moment a follow-up falls silent.
+- ★ [[title-ai]] — Title AI is the first platform that can autonomously search any US county recorder website and produ
+- ★ [[opioid-action-engine]] — The opioid epidemic doesn't wait for funding to catch up.
+- ★ [[polkastream]] — Real-time, per-second money streaming powered by Polkadot's sub-second finality and ink! smart contr
+- ★ [[compilanceos]] — A compliance agent that audits your code against real law, writes the fixes, and reads its own Phoen
+- ★ [[time-out-1wvxhm]] — Surgeons pause before every incision. Med spas don't. Time-Out checks who is injecting, what they're
+- ★ [[blocktease]] — 💘 OnlyFans for web3 💌
+- ★ [[instruxi]] — Unlock the value of unmined gold with ION Digital and Instruxi's gold fractionalization tool. Revolu
+- ★ [[faco-fight-against-corona-jfcza9]] — A contactless digital healthcare solution to assist doctors and empower patients to diagnose and man
+- ★ [[synapse-jok1ec]] — Never lose draft again - AI that drafts like a champion, one pick at a time.
+- ★ [[alyosha]] — The help for life after prison already exists. It's just scattered. Alyosha turns it into one guided
+- ★ [[klerk]] — Klerk: Simplifying Government Services with a Multilingual AI Assistant for Accurate, Up-to-date, an
+- ★ [[civicsync-pos2nx]] — Empower your neighborhood with CivicSync. We use Amazon Nova to translate dense planning notices and
+- ★ [[clearclause-zer4yh]] — AI-powered legal document analyser: upload any contract, get instant clause-by-clause risk analysis,
+- ★ [[the-carbon-bank-e8wb0h]] — The Carbon Bank marketplace supports a transparent commercialization of traceable carbon credits on 
+- ★ [[mirror-living-organisational-conscience-rfov1t]] — Every organisation has two versions of itself; the one it describes in all-hands meetings, and the o
+- ★ [[vigilance-q-the-pharma-quality-watchtower]] — Agentic Quality Case Management - AI investigates. Human decides. Patients stay protected.
+- ★ [[empower-hacks-2-0-wip]] — So many immigrant, low-income, and first-generation college students are overwhelmed with paperwork:
+- ★ [[lumina-legal-ai-powered-indian-legal-assistant]] — An intelligent legal assistant that instantly identifies applicable IPC and IT Act sections from pla
+- ★ [[project-existence]] — Blockchain-based document management for secure and transparent storage.
+- ★ [[chancery]] — Power of attorney for AI agents. A human signs what the agent may commit to; every irreversible act 
+- ★ [[doculytics]] — An Intelligent Analytics Tool which generates complex Insights from Docusign E-Signature API data.
+- ★ [[veristudio]] — AI films with receipts: every frame hash-sealed to Backblaze B2, every film publicly verifiable — no
+- ★ [[hallosophia]] — Platform to close the service gap of small businesses (financial instruments & external knowledge) t
+- ★ [[horizon-8qkbv0]] — Horizon is an innovative DEFI protocol designed to simplify and secure access to the world of decent
+- ★ [[minty-acm5nx]] — A real estate transactions platform enabled by the XRPL.
+- ★ [[constructa]] — Constructa helps developers and contracting teams evaluate buildable sites, visualize projects, and 
+- ★ [[quoram]] — Quorum is a validation layer for multi-agent AI systems, running on platforms like Fetch.ai's ASI:On
+- ★ [[teledisko-dao]] — Neokingdoms are constitutional DAOcracies. They serve a collective of humans with a common goal. Vir
+- ★ [[xeat]] — Get concert, travel, and park tickets easily and quickly, save your tickets as an NFT collection.
+- ★ [[fd-7g0sbo]] — Google gives you a list. Zen guides you through, tells you where you qualify, explains why in your l
+- ★ [[hoopsgram-com]] — Easily find basketball courts near you and engage with other players nearby without signing up for a
+- ★ [[thermohalo-ai-firearm-detection-84vpze]] — ThermoHalo uses AI-powered thermal imaging to detect concealed weapons at school entrances. Safe, FE
+- ★ [[sehat-guftagu]] — Contextual Human-Assisted Protection and Anomaly Learning
+- ★ [[xiaoqiang]] — Four lost ancient Chinese machines reborn as physically-simulated, source-cited interactive exhibits
+- ★ [[forestall]] — Forestall predicts a patient's risk level to medication at a macro (across all patient data) and mic
+- ★ [[medicaid-analytics-agent]] — An AI-powered Medicaid analytics assistant for uncovering provider outliers, peer comparisons, and b
+- ★ [[agreefast-for-docusign]] — We revolutionize your Docusign workflows with AI insights, obligation and event tracking, seamless c
+- ★ [[era-ga6bj7]] — Authenticity for a New Age
+- ★ [[jonsnow-eth]] — Protecting projects and users with smart documents and meta-signing for smart contracts.
+- ★ [[tarmac-w2gbli]] — An airline irregular-ops agent society: sealed-bid seat claims, a mediator with signed rulings, and 
+- ★ [[the-future-of-procure-to-pay-available-today]] — Breakthrough solution to fully digitize Purchasing and Vendor Management in Quick Base, that can qui
+- ★ [[loanflow-ai-intelligent-loan-management-trading-platform]] — 📊📈 NovaFlow AI is a comprehensive, AI-powered loan management and trading platform that revolutioniz
+- ★ [[currentiq]] — CurrentIQ is an AI-powered current affairs engine...
+- ★ [[salesshortcut]] — A comprehensive AI-powered Sales Development Representative (SDR) system built with multi-agent arch
+- ★ [[hakivo]] — Hakivo, your personal AI-powered legislative aide. Track bills, get alerts, and listen to NPR-style 
+- ★ [[wayfinder-1y4xbe]] — Your personal AI caseworker for U.S. refugee benefits. Answer a few questions, see what you qualify 
+- ★ [[sostenibl-es-akswzf]] — Enabling short commercial channels for farmers in need during Covid crisis
+- ★ [[someday-vzdi0f]] — A museum for unfinished work. Dump your abandoned project, get an AI exhibit card, browse by wing, a
+- ★ [[blockchain-dk03ru]] — Combating charity donation fraud by improving financial security and transparency through blockchain
+- ★ [[equinox-flow]] — Balance Your Financial Equinox Across Globe
+- ★ [[patentbot]] — Patent creation can a be complex process often requiring legal expertise. To streamline this process
+- ★ [[coven-x0sbof]] — Coven helps teams understand loans by turning documents into visual timelines with real-time covenan
+- ★ [[writely-udknmh]] — Write better, faster, anywhere on the web - Writely transforms your writing with AI-powered translat
+- ★ [[containit]] — We are motivated to help the global community contain the spread of COVID-19 by using contact tracin
+- ★ [[aerofreight-ai]] — AeroFreight AI: A multi-agent platform that plans smarter international shipments from origin to fin
+- ★ [[transparency-ubn85q]] — Visualizing financial transactions
+- ★ [[pocket-plots]] — Making land ownership accessible and affordable to all
+- ★ [[compass-hunt9r]] — A parent receives an electricity shutoff notice and doesn't know where to start. Compass turns a cri
+- ★ [[recs-proof-of-reserves-e-nfts-and-e-tokens-u9ewdx]] — IoT data-driven RECs (Clean Energy Certificates) Proof of Reserves 🌳 e-NFTs as RWA "solar bonds" for
+- ★ [[automatic-detection-of-covid-19-from-pocus-ultrasound-data]] — We want to provide a new AI-based diagnosis tool to screen Covid-19 at early stages in an easy, prec
+- ★ [[safeaid-ai-emergency-routing-for-survivors]] — AI-powered platform that routes trafficking survivors and vulnerable people to the nearest shelter, 
+- ★ [[qesadila]] — Voting system for governments, city councils, corporations or anyone using Qualified electronic sign
+- ★ [[deallens-ai-powered-m-a-due-diligence-orchestrator]] — Four AI agents analyze your entire data room: financials, contracts, compliance. Get a weighted deal
+- ★ [[nixora]] — Nixora brings loan markets into the digital age by transforming loan agreements into AI-powered, int
+- ★ [[cardos]] — Applying for a credit card is painful & most rewards don’t fit individual needs. We’re solving this 
+- ★ [[we-stay-liquid]] — from WeStayLiquid to LiquiNow
+- ★ [[timeless-ai]] — An NLP tool for remove those hassles of finding the most relevant content in the videos and document
+- ★ [[modelmash-find-the-perfect-llm]] — Easily test hundreds of different LLMs to find the best one for your specific task. Create tests, pr
+- ★ [[seekers-alliance]] — To improve fairness & design freedom, we created a flexible smart contract structure on top of ERC-1
+- ★ [[split-decision]] — Nine AI judges argue real Supreme Court cases, live on Alibaba Cloud. Two AI journalists cover the f
+- ★ [[gradientguard-dora-compliance-intelligence-platform]] — AI-powered DORA compliance platform for EU fintechs. 4 multi-agent system on DigitalOcean Gradient™ 
+- ★ [[octopus-pzv5l0]] — A human-centered search engine powered by memory agents.
+- ★ [[del-decentralized-lottery]] — Provide a fun, decentralized, global, secure alternative to traditional lotteries relying on the pow
+- ★ [[haze-al0nsz]] — Anonymous and simple transfers on Fantom. Non-custodial solution using stealth addresses to hide you
+- ★ [[privacy-guardian-agents-privacy-license-for-codebases]] — World's first Privacy multi-AI agentic framework on AWS, making compliance as natural as linting whi
+- ★ [[guess-the-elo]] — Guess The Elo is a web application inspired by GothamChess' famous YouTube series where users can vi
+- ★ [[onepath-ai]] — In critical moments, OnePath AI unites Service Cloud, Slack, and Agentforce to instantly brief, assi
+- ★ [[dcloud]] — Are you tired of online data leaks and big companies owning your data? At dCloud we provide cloud st
+- ★ [[opentruth]] — OpenTruth uses the power of Web3 technology and AI to provide you with authentic access to legal doc
+- ★ [[standin-skpgje]] — StandIn on Business.
+- ★ [[dvsd]] — Customer support is broken. Companies spend billions on support teams, yet customers still wait hour
+- ★ [[beb-pay]] — Bringing fast, contactless payments to every store!
+- ★ [[theta-charity]] — Theta-Charity is a Theta Network-based decentralized streaming platform where creators can create ch
+- ★ [[sprovid]] — Temporary laid-off because of COVID-19? Ask your landlord to lower the rent in the right way
+- ★ [[timesheet-check-for-jira]] — Using Jira and taking time management seriously, Tempo Timesheets will be your go-to solution.But wh
+- ★ [[nft-exchange-for-near]] — NFT Exchange is a digital marketplace that lets you trade NFTs with a community of collectors.
+- ★ [[nagardrishti]] — AI-powered road hazard detection for Pune — citizens report via video or voice using Gemini Live API
+- ★ [[platex-reusable-face-masks]] — Let's spread masks - not viruses!
+- ★ [[contract-ml]] — An AI-Enabled tool to help small and medium scale businesses efficiently author, review and sign bus
+- ★ [[mobius-the-first-ai-agent-to-build-a-unicorn]] — Mobius runs for very long periods of time completely autonomously to complete all aspects of buildin
+- ★ [[rent-a-spot]] — A One-stop solution for your spot renting needs.
+- ★ [[toniq-earn-and-the-nft-interest-rate-protocol]] — A decentralized interest rate protocol where users can borrow ICP using NFTs as collateral, or earn 
+- ★ [[research_pilot]] — "Turn hours of research into minutes — voice-in, insight-out. A multi-agent AI system using every Am
+- ★ [[wetrace-g9ocyi]] — Find out if you were in contact with someone that was tested positive.
+- ★ [[therapease-ai]] — Expanding access to physical therapy and critical healthcare services through AI-enabled telehealth.
+- ★ [[keexle-end-to-end-encrypted-remote-working-solution]] — End-to-end encrypted, Open Source remote working solution
+- ★ [[signa-l7hbcj]] — SIGN WITH YOUR FACE!
+- ★ [[browseblind]] — World's First AI Browser. Allowing blind people to interact for the first time with the internet. Al
+- ★ [[chaincrunch]] — "The" go-to place for on-chain data for Solana.
+- ★ [[haven-dn65lq]] — Facing eviction in England? HAVEN checks if your notice is even legal, shows how much time you have,
+- ★ [[dof-deep-model-core-output-framework]] — DoF is a highly scalable dataset format which helps deep learning scientist to work with foreign and
+- ★ [[aloud-lxqr70]] — Beauty, aloud. The first beauty AI a blind shopper can use alone, screen off. Built on the YouCam Sk
+- ★ [[ants-authentic-video-chain]] — When AI can manufacture any video, how do we preserve reality? ANTS is blockchain infrastructure for
+- ★ [[tutify]] — A community driven, open source project that enables everybody to run a free tutoring platform in th
+- ★ [[brevify-video-summarizer-s7pkoe]] — Don’t have time to watch the whole video? Brevify can create a text summary of your video, so you ca
+- ★ [[kids-court]] — No more fighting! Take your rivals to Kids Court and watch them get what they deserve.
+- ★ [[docmindai-tjv1ar]] — DocMind AI uses OCR and AI to automatically verify receipts, categorize expenses, and flag suspiciou
+- ★ [[onlyfunds]] — Crowdfunding protocol for projects on NEAR that gives backers the ability to control the release of 
+- ★ [[recon-ai-intelligence-dossiers]] — Name a target. Get the file. An AI agent reads the live web and files a cited intelligence dossier o
+- ★ [[procheck]] — Evidence-based medical protocols, instantly
+- ★ [[chainlink-price-feed-integration-to-sap]] — We consumed a Chainlink price feed to update foreign currency rates in SAP. After updating the forei
+- ★ [[protetsus]] — It protects us from sus
+- ★ [[b-signature]] — Web application that connects families whose children have cancer with quick, easy financial support
+- ★ [[refugee-legal-navigator]] — Empowering the displaced with Amazon Nova-driven legal aid, 22+ language support, and agentic UI aut

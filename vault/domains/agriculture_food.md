@@ -1,0 +1,181 @@
+---
+facet: "domain"
+name: "agriculture_food"
+projects: 412
+winners: 412
+tags:
+  - "facet"
+  - "domain"
+---
+
+# agriculture_food
+
+`domain` · **412** projects, **412** of them winners.
+
+## Pairs with
+
+- [[video_visual]] — 176 together  <sub>(substrate)</sub>
+- [[realtime_stream]] — 162 together  <sub>(mechanism)</sub>
+- [[structured_db]] — 152 together  <sub>(substrate)</sub>
+- [[geospatial]] — 135 together  <sub>(substrate)</sub>
+- [[frontline_worker]] — 123 together  <sub>(user)</sub>
+- [[finance_payments]] — 110 together  <sub>(domain)</sub>
+- [[web_dom]] — 104 together  <sub>(substrate)</sub>
+- [[developer_tools]] — 92 together  <sub>(domain)</sub>
+- [[sensor_fusion]] — 77 together  <sub>(mechanism)</sub>
+- [[vision_ocr]] — 73 together  <sub>(mechanism)</sub>
+- [[civic_government]] — 73 together  <sub>(domain)</sub>
+- [[code_repository]] — 68 together  <sub>(substrate)</sub>
+
+## Projects
+
+- ★ [[extopay-the-last-mile-solution-for-digitizing-cash]] — Next-Generation CBDC solution for digitizing cash: A Highly Secure Mobile and Non-Mobile Solution wi
+- ★ [[agri-able]] — A tool to help the African farming community to optimize crop production
+- ★ [[degenerate-farm]] — Proxy-free upgradeable NFTs that use Chainlink VRF for both generative mints, and upgrades.
+- ★ [[epictetus]] — Get practical Stoic advice from Epictetus for your daily problems. Your chats stay fully private wit
+- ★ [[kisan-mitra-ai]] — Built on AWS and powered by Amazon Nova Pro, the platform eliminates the literacy barrier with a voi
+- ★ [[health-counseling-portal]] — Health counselling, preventive treatment, remediation using a decentralized Twitter application, DID
+- ★ [[legalmindz]] — Ethiopia has 2.5 million businesses but only 3,000 lawyers. Legalmindz brings Legal AI for 120 Milli
+- ★ [[l-l-a-m]] — Save crops from locust attacks. Track locust movement realtime and predict the possibility of attack
+- ★ [[agrimind-97zntd]] — AgriMind combines a robotic guardian with live farm sensors and AI video/image analysis to cut water
+- ★ [[lore-ide-the-first-ide-for-agentic-code]] — GitHub stores your code. Lore stores your reasons. The memory layer for Devin, Windsurf, and Claude 
+- ★ [[dispatch-wedj2m]] — No Borders. No limits. Just Remit.
+- ★ [[spark-mhxso9]] — Empowering Passion, Sparking Change, Inspiring Impact: Connecting Sustainable Hearts with Purposeful
+- ★ [[orbit-8kd3re]] — maps the orbit of your thinking, so you can see when an idea is yours versus AI's
+- ★ [[waterbody-monitoring]] — As climate change accelerates, water usage planning is crucial for small communities who depend on w
+- ★ [[farmops-desk]] — The operating system for Nigerian poultry and catfish farms. Ops, feed, money, and AI in one calm vi
+- ★ [[maternalguard-mcp-for-maternal-risk-on-sharp-fhir]] — 5-tool MCP server plus A2A orchestrator that gives healthcare AI the full mother-baby picture from a
+- ★ [[locl-lf734n]] — Locl offers a platform that supports EBT card purchases to allow SNAP benefit users to purchase heal
+- ★ [[seller-ai]] — Seller AI: Elevate your restaurant's efficiency and customer satisfaction with AI-powered menu manag
+- ★ [[ninth-mkcgtv]] — Create animated stories from a single idea and direct every scene on a real timeline, with every ass
+- ★ [[woodpecker-ai-finds-hidden-hotspots-in-power-lines]] — Power line failures spark billions in damage.Woodpecker AI, like a woodpecker spotting hidden hotspo
+- ★ [[kronia]] — Agriculture that Works for Future
+- ★ [[the-everyday-avatar-nft]] — An NFT version of the classic paper doll toy, for use as a profile pic. Using our dApp, Avatar attri
+- ★ [[aa-04pgyj]] — Phone calls are frustrating, that's why we moved to chats. We have busy lives and we love doing ever
+- ★ [[dhangyan-6b7w50]] — Don't teach financial literacy. Let people LIVE it.
+- ★ [[gurftron]] — Security that rewards you. Threats verified by the community. Rewards funded forever by Vesu
+- ★ [[nomi-aoim58]] — A Multi-Sensor Network System for Seniors
+- ★ [[retailsync-ai-aehob5]] — RetailSync AI is an AI-powered retail media advertisement creation platform that transforms how reta
+- ★ [[swasthai-guardian-urzc29]] — A highly secure, offline-first AI platform connecting villagers, ASHA/NGOs, and hospital admins. It 
+- ★ [[nalog-agent]] — Production Qwen MemoryAgent on Alibaba Cloud for Thai smallholder farmers to check water from their 
+- ★ [[shadespan]] — The same t-shirt is obvious on one customer and nearly invisible on another. ShadeSpan renders every
+- ★ [[coupons]] — Buy Smart, Give Back! Generate waste reducing coupons using Square API, then connect to local charit
+- ★ [[warp-by-ustx-team]] — An easy to use DeFi app to maximize USDD yield
+- ★ [[arduino-controlled-electrolysis-system-for-bleach-production-kodm9u]] — Imagine producing your own bleach right at home, simply by adding salt to water and pressing a butto
+- ★ [[hypercluster-the-web3-automated-referral-system]] — A permissionless referral system that aligns an entire community with a single link. Complete with a
+- ★ [[proofpix]] — attested image ZK library + verified image iPhone app
+- ★ [[compound-interest]] — Yield farming with decentralized, automatic reinvestment at negligible cost. Tokenized shares in aut
+- ★ [[preplo]] — You saved the video but never made the recipe. Preplo fixes that — paste the link, get ingredients, 
+- ★ [[maggy-ovyepd]] — Social distancing made easy! Maggy is a small wearable device helping you to maintain social distanc
+- ★ [[aimf]] — Built upon Pega's Powerful Intelligent Automation, Cosmos-UI, & Mashup capabilities, AIMF aids organ
+- ★ [[vidya-setu-b5xi0y]] — Bridging every learner to their potential — AI-powered gap detection, peer collaboration, silent saf
+- ★ [[signver-a-deep-learning-library-for-signature-verification]] — Signver provides methods/models for signature verification - finding signatures (object detection), 
+- ★ [[digitizing-property-tax-systems-with-google-maps]] — Mapping Every Property: A GIS-Powered Platform Transforming Tax Collection in Nigeria
+- ★ [[monoland]] — A tropical island adventure RPG featuring character customization where Jira Issues become farms to 
+- ★ [[transferx-p2p]] — Tokenised video and content monetisation platform
+- ★ [[agrinexo-er4mag]] — Get critical agri-environmental information as NDVI maps, climate analysis and agrometeorological we
+- ★ [[ally-kmoagt]] — Ally makes drone data management simple, giving non-technical people easy access to automated workfl
+- ★ [[pushpa-pyro-uav-system-for-high-risk-patrol-and-alerting]] — PUSHPA gives firefighters eyes on the ground and in the air. Smart glasses steer drones for real-tim
+- ★ [[trishna-climate-smart-kisan-companion]] — Trishna: Multilingual AI super-app for farmers & gardeners. Get hyper-local weather alerts, instant 
+- ★ [[chicken-impossible]] — Egg-cellent adventure! Chicken Impossible is a hilarious puzzle-strategy-party game for 1-4 players 
+- ★ [[cardboard-farm-z1c4oi]] — Giving players increased agency in my world, by letting them design, grow and decorate their own far
+- ★ [[people-2-people-disaster-relief-and-response]] — People 2 People is a collection of integrated Quick Base apps to collect both food and financial don
+- ★ [[keep-it-clean-b7suj8]] — SeedsONEarth is a p2p marketplace connecting humans (crypto-native, institutional sponsors, users) a
+- ★ [[adex-adaptive-data-extraction-system]] — Adex leverages temporal redundancy in video streams to mitigate stochastic noise. By analyzing multi
+- ★ [[vision-mama-llm-vision-pro-agents-fun-learning]] — Remember Cooking Mama? We turned it into a Conversational Agent for Vision Pro that teaches cooking!
+- ★ [[waste2taste-etwp34]] — Measuring plate waste in dining halls so chefs serve what students enjoy.
+- ★ [[garden-genie]] — Garden Genie: Your Gardening Companion. Ask about plants, soil, pests, and more. Get tailored advice
+- ★ [[jugaad-dpmqi7]] — JUGAAD — Just-in-time University Guidance and Actionable Discovery — gives every Berkeley student th
+- ★ [[payment-for-supply-chain-transparency]] — We add Square as the payment layer to the open source supply chain traceability software INAtrace. W
+- ★ [[temp-5dincy]] — We extract an essential measure of heart failure patients from medical charts, left ventricular ejec
+- ★ [[multilingual-clip-semantic-image-search-in-100-languages]] — Breaking language barriers powered by 16 Habana Gaudi Accelerators, OpenAI CLIP (Contrastive Languag
+- ★ [[cfo2]] — Reducing the risk of wildfires and emissions is highly relevant. This project assists indigenous ste
+- ★ [[promptmotion]] — Agentic & Conversational video editing!
+- ★ [[foodflow-gwrxai]] — Turning excess into access, where tech, timing, and compassion move food to those who need it most.
+- ★ [[my-et-economic-times-reimagined]] — AI-powered financial news assistant that translates complex articles into any language, verifies fac
+- ★ [[pikaplace-pokedex]] — Decentralized NFT Monster Game powered by Chainlink Randomness.
+- ★ [[war-alpha-metaverse-v2]] — WarAlpha is a space shooter game on Polygon with upgradable NFT spaceships and a built-in DSL for yo
+- ★ [[shipsense-ai-novel-data-augmentation-protocol]] — Mitigating overfishing through AI-augmented satellite imagery and data viz dashboard. Novel few-shot
+- ★ [[ginger-pulse]] — Ginger Pulse is your smart companion for better living with diabetes. It makes healthier choices sim
+- ★ [[weight-coach]] — AI-powered meal planner with voice cooking assistant. Turns your inventory into personalized recipes
+- ★ [[chumswiki]] — ChumsWiki is a beneficial website for all women facing menstruation cycle.
+- ★ [[agrowise-4b2szv]] — AgroWise fuses low-cost root-zone sensors with AI and IVR to provide precision farming via any phone
+- ★ [[aegis-hindi-consent-companion]] — **India's AI-generated perioperative informed consent in Hindi — patient-specific, clinically ground
+- ★ [[sostenibl-es-akswzf]] — Enabling short commercial channels for farmers in need during Covid crisis
+- ★ [[eden-protocol-of-developer-dao]] — Eden will be the world's opportunity protocol, providing a place where everyone can grow through wor
+- ★ [[childgrowthmonitor]] — Quick, accurate data on malnutrition
+- ★ [[grocify]] — Track your pantry, ensure dietary restrictions, craft personalized recipes—ensuring zero waste, smar
+- ★ [[gemini-geoflow]] — Fusing Text and Terrain: An LLM-Powered Pipeline for Preparing Archaeological Datasets
+- ★ [[lumen-ai-neonatal-specialist]] — AI neonatal danger-sign screening for community health workers — Qwen Cloud when online, a fine-tune
+- ★ [[iot-water-level-anomaly-detector]] — Monitor water levels with an IoT sensor connected over cellular to Azure Anomaly Detector API
+- ★ [[smart-graahak]] — Smart Graahak allows users to search for products effortlessly, understand their benefits, and make 
+- ★ [[artee-ai]] — Endless AI-Generated Tees
+- ★ [[scrumpy]] — Recipes from your feed
+- ★ [[clew-7tnal9]] — A Slack agent to help non-profits find, manage, and apply to grants.
+- ★ [[the-digital-volunteer-dym0xb]] — Automate mobilisation of community, solidarity and collaboration. Use non-smartphones to raise a tas
+- ★ [[plateit-v8ptl7]] — From screen to plate: Extract any recipe from any video/text site.
+- ★ [[project-farmspeak]] — We offer a patented farm management system to mitigate climate-related losses, turning unpredictable
+- ★ [[agrosurance]] — Insure your crops the smart way
+- ★ [[erwin-enhanced-rock-weathering-impact-navigator]] — An accessible carbon removal assessment platform for Enhanced Rock Weathering (ERW) projects. Democr
+- ★ [[geosentinel]] — GeoSentinel — Turning Earth’s data into early warnings that save lives.
+- ★ [[smartphones4good-s4g]] — Donate old phones to us. We collect'n'sell them to fund smartphones for those that don’t have them. 
+- ★ [[crystl-finance-h0jn8s]] — Crystl Finance is a Multi-chain Yield Aggregator. We offer unique Vaulting methods to DeFi/Blockchai
+- ★ [[healthier-w0baus]] — AI-powered elderly care app. Seniors scan pills/meals and chat with a voice agent. Healthcare provid
+- ★ [[xdc-eco-logically-driven-nft-s]] — Drive ecologically to a sustainable future.
+- ★ [[product-creator-temp-name-conu-x]] — You imagine it. We build it for you.
+- ★ [[crystl-finance]] — Crystl Finance is a Multi-chain Yield Aggregator. We offer novel Vaulting methods to DeFi/Blockchain
+- ★ [[pinboard_consulting]] — Connect the unconnected! Source, clean and load UN data for the environment, the economy, health, re
+- ★ [[naterida-microbots]] — NATERIDA — The AI-powered exploration robot that thinks, adapts, and protects while gathering smart 
+- ★ [[food-forward-c2swnz]] — FoodForward is an app that reduces food waste by enabling users to buy and sell food in their commun
+- ★ [[urban-eco-adventures]] — Embark on a sustainable journey through Tokyo's bustling streets.
+- ★ [[ecobite-qcujae]] — Track your food waste in a gamified way— EcoBite aims at combating global food waste by allowing its
+- ★ [[master-your-garden]] — Master Gardeners is an NGO that donates tons of vegetables to fight hunger! Mr. Garden Gnome AI assi
+- ★ [[fitness-quest-31h2ci]] — FitQuest is an AI-powered fitness game that makes workouts fun, blending: AI Coach, Nutritionist AI,
+- ★ [[dsv-data-structure-visualizer-6ljave]] — FinSage is on a mission to democratize FINANCIAL LITERACY globally, empowering individuals everywher
+- ★ [[beatbox-online-competition]] — It is a decentralized application to create and manage online beatbox competitions.
+- ★ [[teachxr]] — World's First AI Study Assistant in Extended Reality
+- ★ [[skillscan-ai-career-gap-analyzer-for-students-vw8imb]] — AI that scans your resume, finds your skill gaps, builds your learning roadmap, and scores your job 
+- ★ [[ridefair]] — Decentralizing the ride-sharing experience to protect user data.
+- ★ [[a-green-vest]] — Farmers lack the capital to utilize the lands they possess causing a setback in production. We provi
+- ★ [[spacefi]] — SpaceFi is a cross-chain web3 platform on Evmos and zkSync, with DEX+NFT+Starter+Spacebase as initia
+- ★ [[showdown-world]] — A relaxing farm-sim, where you farm crops, purchase decorations, and find hidden gnomes.
+- ★ [[consume-wise]] — Imagine going into any shop & being able to use your phone to find the most important details such a
+- ★ [[merge-donuts-glazed-to-progression]] — Glazed to Progression update adds an all new progression system, dropper skins, 4 new donut boxes & 
+- ★ [[nutricare-agents]] — Smart nutrition for all – multi-agent AI transforming public health
+- ★ [[ceres-yield-aggregator-for-the-people]] — Ceres aims to simplify DeFi, with a built in Cash In - Cash Out to BRL and a simpler UX so that non 
+- ★ [[a-farmer-s-life]] — A persistent augmented farming simulator game right in Snapchat. Using time-based elements, weather 
+- ★ [[hystandard]] — Air-purifying solution to reopen Europe’s restaurants
+- ★ [[whaley-s-bins-waste-sorting]] — Whaley's Bins game turns players into eco-heroes, educating them on recycling through fun gameplay. 
+- ★ [[neighborfridge]] — NeighborFridge tracks groceries from receipts, predicts expiration dates, reduces waste, saves money
+- ★ [[self-care-for-devs-api]] — A collection of APIs dedicated to all fellow devs to take care of your well-being!
+- ★ [[coldguard]] — AI-powered cold chain guardian that protects life-saving medicines whether online or offline, at the
+- ★ [[bloom-buddy-thwxji]] — Allowing plants to communicate real-time to people with Bloom Buddy.
+- ★ [[ustx-t-boost]] — TRX yield generator and USTX buyback booster
+- ★ [[farm-sutra]] — "AI-powered farming assistant for rural India — multilingual, 2G-ready, and built on Amazon Nova."
+- ★ [[smart-well-monitoring-system-for-villages]] — let wells be smart now
+- ★ [[foodi-copilot]] — Foodi Copilot:Your AI-powered food assistant. Get personalized recipe suggestions, nutritional insig
+- ★ [[cart-to-kitchen-gke-ai-assistant]] — An AI assistant to spice up your online grocery shopping experience!
+- ★ [[craftown]] — Craftown is a retro survival & automation game. Begin with basics, scavenge for resources, and thriv
+- ★ [[lightningcelo]] — Real-time money-streaming protocol for Celo Stables Enabling your $cUSD to flow like the river in re
+- ★ [[poweropt-ai-nextgen-power-predictor-2a6ugc]] — PowerOpt AI is a cutting-edge, machine-learning-powered web dashboard designed to predict the electr
+- ★ [[chapchap-elogistics]] — Mobile platform using data to identify patterns and insights related to food production, distributio
+- ★ [[pantryproof]] — PantryProof uses Nutrient and SerpApi to turn fragmented recall evidence into cited, human-reviewed 
+- ★ [[harvest-fable]] — Step into Harvest Fable - a cozy, competitive farming game for VR, desktop, and mobile! Grow crops, 
+- ★ [[universal-parametric-climate-insurance-utilizing-cbdcs]] — Climate insurance is out of the reach of the majority of the world's population, particularly those 
+- ★ [[nourish-connect]] — Replace medicine with alternative natural food 🥘
+- ★ [[echocare-i6csrv]] — 3.4 million individuals are food insecure in SF. 150,000 tonnes of food are wasted every year in SF.
+- ★ [[poyopop]] — Start-up app idea for pop-up cafes and food in the area!
+- ★ [[accordion-jwarge]] — Context management you can trust - Say goodbye to /compact
+- ★ [[weave-financial-j1b4dq]] — Empower DeFi users to be able to automate, enhance and optimize their yield farming like never befor
+- ★ [[diet-plan-to-reach-your-weight-goals]] — Quickly knowing a diet plan without booking an appointment with a personal trainer is in high demand
+- ★ [[zkbadge]] — Privacy-Preserving Age-Gated Content & Features with Zero-Knowledge Proofs on Starknet
+- ★ [[farmer-force]] — Free satellite crop-health intelligence, delivered as an AI agent inside Slack. It catches disease a
+- ★ [[intotheverse-metaverse-land-sale-chainlink-moralis]] — We are building a demo for our upcoming land sale at IntoTheVerse metaverse, using Chainlink's keepe
+- ★ [[grazepro]] — Enabling farmers to sustainably optimize resources.
+- ★ [[visicore-ai-retinal-health-screening-platform-kpxmly]] — AI-powered Diabetic Retinopathy detection from retinal images using a Vision Transformer, with a loc
+- ★ [[starkyield-shuttle]] — The simplest way for Bitcoiners to earn DeFi yield on Starknet — one click, one button, one flow.
+- ★ [[farm2table-magyld]] — Connecting farmers to customers in seconds via farm2table web application
+- ★ [[mooapps-id]] — Revolutionizing Livestock Health with IoT and Jade Therapy for a Smarter, Sustainable Future
+- ★ [[nowaste-ai]] — Providing a practical and scalable solution to every-day food waste.
+- ★ [[sahayyaset-a-bridge-of-hope]] — A Bridge of Hope: Linking surplus food with those in need, empowering NGOs, donors, and volunteers t
+- ★ [[piatto]] — Meet Piatto - the AI chef that designs recipes just for you and cooks along, step by step.

@@ -1,0 +1,181 @@
+---
+facet: "substrate"
+name: "video_visual"
+projects: 2480
+winners: 2480
+tags:
+  - "facet"
+  - "substrate"
+---
+
+# video_visual
+
+`substrate` · **2480** projects, **2480** of them winners.
+
+## Pairs with
+
+- [[realtime_stream]] — 1023 together  <sub>(mechanism)</sub>
+- [[developer_tools]] — 843 together  <sub>(domain)</sub>
+- [[structured_db]] — 794 together  <sub>(substrate)</sub>
+- [[geospatial]] — 784 together  <sub>(substrate)</sub>
+- [[web_dom]] — 691 together  <sub>(substrate)</sub>
+- [[vision_ocr]] — 536 together  <sub>(mechanism)</sub>
+- [[developer]] — 514 together  <sub>(user)</sub>
+- [[educator_student]] — 465 together  <sub>(user)</sub>
+- [[education]] — 456 together  <sub>(domain)</sub>
+- [[finance_payments]] — 443 together  <sub>(domain)</sub>
+- [[code_repository]] — 402 together  <sub>(substrate)</sub>
+- [[document_pdf]] — 401 together  <sub>(substrate)</sub>
+
+## Projects
+
+- ★ [[artharaksha]] — When Gen-AI Rescues You from Financial Fraud and Creates Social Impact
+- ★ [[veterinary-four-color-triage-app]] — Built by a veterinarian & practice owner with no coding experience, this app turns clinical triage e
+- ★ [[ailearning]] — aiLearning is an AI-based solution for simplifying educational activities, focusing on exams correct
+- ★ [[asap-1h45pk]] — Empowering industries with AI-driven insights through Retrieval Augmented Generation (RAG), simplify
+- ★ [[amanat]] — Privacy-first AI agent for humanitarian organizations that scans cloud services for sensitive data e
+- ★ [[auditguardx]] — Enterprise compliance in minutes, not months at 1% of the cost.
+- ★ [[scholarstream]] — Need money for your school fee and upkeeps? ScholarStream finds immediate opportunities (scholarship
+- ★ [[matic-mike-nft-game]] — Matic Mike is a 100% on-chain generative NFT on the Polygon chain with a Polygon <-> Ethereum bridge
+- ★ [[frankenbook]] — Generate a children's book with a few simple ad-lib style prompts stitched together to form your own
+- ★ [[trudi-threat-response-unit-for-digital-investigation]] — Built on the idea that we're all smarter than any of us: TRUDI pairs an autonomous DFIR agent with a
+- ★ [[aiwritingassistant]] — ASAP is an AI-powered, all-in-one platform for code and documentation generation. It blends AI effic
+- ★ [[signet-0ujsnx]] — Invoice fraud works because paper cannot prove who sent it. Signet has the sender sign the payment f
+- ★ [[bookster-05sbyz]] — AI powered student marketplace & community hub for ISU students
+- ★ [[azad-the-community-driven-riding-assistant-for-bikers]] — Azad (free in Persian): Auto-logs rides, real-time group tracking with Serverpod WebSockets, Google 
+- ★ [[extopay-the-last-mile-solution-for-digitizing-cash]] — Next-Generation CBDC solution for digitizing cash: A Highly Secure Mobile and Non-Mobile Solution wi
+- ★ [[proofsift]] — Evidence-proven autonomous DFIR triage that confirms findings only with traceable forensic artifacts
+- ★ [[degenerate-farm]] — Proxy-free upgradeable NFTs that use Chainlink VRF for both generative mints, and upgrades.
+- ★ [[time-traveler-w3cxp0]] — AI agents that preview risky DB migrations in isolated Docker clones before they merge — audit, depl
+- ★ [[haven-w7mj9g]] — A Silent Shield, A Strong Voice.
+- ★ [[chinwag-zp4jds]] — AI production workspace for research, media, and publishing.
+- ★ [[zenflow-your-calm-in-the-chaos]] — Burnout builds silently. ZenFlow is an AI workplace companion inside Slack that detects overload pat
+- ★ [[openmed-gtp792]] — A modular AI-driven diagnostic system that intelligently selects specialized models for each case, o
+- ★ [[agentic-contract-framework]] — Contract-based observability for AI agents. Monitor if your agents fulfill their commitments and gai
+- ★ [[theta-bash]] — Buyers, and sellers hub that uses Theta in the most efficient way
+- ★ [[camel]] — A 'code-mode' MCP server that allows LLMs to safely generate and execute JavaScript code that calls 
+- ★ [[story-weave]] — AI storytelling meets immersive audio. Generate custom narratives with lifelike narration from any p
+- ★ [[taief-the-all-in-one-academic-assistant]] — From academic research to Olympiad problems, TaiefMind is your AI co-pilot. Upload papers, extract d
+- ★ [[k-weighted-elo-rankings]] — Providing the most comprehensive league of legends pro team rankings based on the most relevant game
+- ★ [[mnemosyne-ubotlw]] — The AI that remembers every failure — predicts outages, annotates risky code inline, gates CI pipeli
+- ★ [[usepay]] — 1st e-Commerce Dapp for WEB3 users UsePay was created for liberating business deals for WEB3 users a
+- ★ [[pneumonet-building-an-ai-covid-19-product-with-pytorch]] — In this tutorial, we’ll show you how to use Pytorch to build a machine learning web application to c
+- ★ [[rayan-memory]] — Point your camera at life. Rayan builds a 3D palace from everything you see and hear, rooms you can 
+- ★ [[biasight-words-matter]] — BiaSight analyzes websites for gender bias, promoting equality in digital content. It scores stereot
+- ★ [[lantern-jm9a5l]] — A language dies every two weeks. Lantern is Duolingo for dying languages: it turns the words a commu
+- ★ [[rexgent]] — An autonomous showrunner that transforms a premise or a script into a voiced mini drama in any of 22
+- ★ [[test-3cmsd4]] — When your childhood paint app went to college, got a CS degree and came back with AI superpowers
+- ★ [[forge-field-operations-real-time-guidance-engine]] — Voice AI co-pilot for hands-busy industrial technicians: one Qwen-Omni-Realtime session listens, see
+- ★ [[dreammeridian-geoai-on-pi]] — When disasters strike, networks fail first. DreamMeridian runs LLM-powered spatial queries entirely 
+- ★ [[v-ident-real-time-identity-verification-mobile-application-19kdg7]] — V-Ident: Pulse + pixels = proof. On-device heartbeat detection & frequency forensics catch deepfakes
+- ★ [[vanmeet-fctsv7]] — A trusted van-life community app for nomadic dating, activity-based friendships, verified builder co
+- ★ [[access-ring-6pedfu]] — Discover and invoke UI elements near your cursor, without precise mouse targeting.
+- ★ [[gurwi-learn-anything]] — Gurwi makes mastering complex topics simple and engaging. Learn anything through our unique format o
+- ★ [[kisan-mitra-ai]] — Built on AWS and powered by Amazon Nova Pro, the platform eliminates the literacy barrier with a voi
+- ★ [[takegraph]] — TAKEGRAPH is a self-healing build system for generative media that regenerates only what changed, re
+- ★ [[collision-cloud]] — A calm, clear journey from raw CCTV footage to a complete accident reconstruction report
+- ★ [[gpt-insights]] — 💡 Gain insights from descriptions and comments through Chat GPT! 🪄 Choose existing prompts or create
+- ★ [[bye-buy]] — Selling stuff online sucks... 50+ messages, lowball offers, sketchy buyers. Bye-Buy handles this mes
+- ★ [[suavekeys-voice-and-expression-controller-and-keyboard]] — SuaveKeys is a distributed voice and expression controller to enable people with physical impairment
+- ★ [[vodo-ai-jwb1l2]] — Building on Vodo Drive and earlier AI experiments, a way to talk with your spreadsheets. Going beyon
+- ★ [[skyscore]] — AI-powered property tool that scores 290+ neighbourhoods in London and NYC for aircraft noise, affor
+- ★ [[nova-architect]] — An autonomous AI cloud engineer that designs and deploys AWS infrastructure directly in your console
+- ★ [[health-counseling-portal]] — Health counselling, preventive treatment, remediation using a decentralized Twitter application, DID
+- ★ [[legalmindz]] — Ethiopia has 2.5 million businesses but only 3,000 lawyers. Legalmindz brings Legal AI for 120 Milli
+- ★ [[brofundyourself]] — We are making it easier for people to fund their dreams by tokenizing time in a regenerative way. Ha
+- ★ [[drishti-ai-navigator]] — Empowering digital independence through AI. Voice-powered web navigation using AWS Bedrock AgentCore
+- ★ [[l-l-a-m]] — Save crops from locust attacks. Track locust movement realtime and predict the possibility of attack
+- ★ [[skyrchitect-6d37yf]] — An nemotron-nano-8B-v1 Model autonomously designs production-ready cloud architectures, generates in
+- ★ [[ocr-finetuning-for-ancient-cuneiform-tablets]] — NabuOCR is a specialized OCR model for transliterating ancient cuneiform tablets directly from image
+- ★ [[bit-civilization]] — Bit Civilization is a higher civilization based on the idea of Bitcoin and will transform all aspect
+- ★ [[dropshop]] — cop de-Drop
+- ★ [[ghostpipes-yahoo-pipes-reborn-with-ai-intelligence]] — Visual pipeline automation tool with AI-powered recommendations. Drag-drop nodes, realistic pipe con
+- ★ [[project-x-xgo16d]] — Transforming Learning: AI-driven Podcasts, Quizzes, Dynamic References, and Document-based Chat for 
+- ★ [[pulsepoint-2hmejd]] — AI-powered medical triage at the speed of life from instant assessment to doctor in 60 seconds.
+- ★ [[disavu]] — DisaVu is a disaster response solution that helps direct relief resources to where they are needed m
+- ★ [[stylometry]] — STYLOMETRY: The forensic guardrail for your GitLab pipeline
+- ★ [[pneumoscan-an-ai-radiology-tool-for-covid-19-pandemics]] — CovidScan.ai is developed to be a secured AI platform with the purpose to assist radiologists with f
+- ★ [[mindstep-xwlpnr]] — Free, 5-minute dyslexia screening using Gemini Vision + Chat APIs to detect early signs with 85.71% 
+- ★ [[agile-planning-tool]] — Real-time collaborative sprint planning that brings Product Owners, Dev teams, and Operations togeth
+- ★ [[the-fashion-art-designer]] — Design Fast, Create with Vision: AIBrandWizard, where AI Meets Artistic Vision for Fashion Designers
+- ★ [[unravel-7ak8lf]] — Five agents watch evolving variant evidence, re-score a clinic's uncertain DNA findings with a calib
+- ★ [[pedestrian-flow-analysis]] — Instantly transform an unwalkable street. 🪄
+- ★ [[agrimind-97zntd]] — AgriMind combines a robotic guardian with live farm sensors and AI video/image analysis to cut water
+- ★ [[riddonkulous]] — Riddonkulous is a riddle game where Redditors create and solve quirky, creative, or simply riddonkul
+- ★ [[robotixfunnel]] — AI-powered e-commerce platform with robotic warehouse fulfillment, digital twin visualization, and i
+- ★ [[novaflow-the-autonomous-bi-pipeline]] — NovaFlow is an autonomous, self-healing BI pipeline. It cleans data, corrects its own SQL, builds in
+- ★ [[corona-legal-chatbot]] — Place to go to for all legal questions concerning Corona.
+- ★ [[pickli]] — Disrupting streaming platform silos on content discoverability and traditional history-based recomme
+- ★ [[apex-qkmxa0]] — A reimagined way to enjoy motorsports
+- ★ [[pictia]] — Reduce cloud storage waste and your carbon footprint. Pictia's swipe-based photo organizer turns ted
+- ★ [[road-incident-predictor]] — Monitoring tools for road incident management. Crowdsourcing information sharing for safer roads wit
+- ★ [[sai-m2wl0p]] — A voice-native OS agent that sees your screen. Powered by Amazon Nova Lite for routing and Nova Pro 
+- ★ [[cotg-cli-coding-on-the-go]] — use Claude Code and Gemini CLI from you mobile phone. Read files, git, do terminal and use file as c
+- ★ [[pawcare]] — Connecting pets and sitters with care and convenience.
+- ★ [[beatbuddy]] — Step up your VALORANT game with BeatBuddy! Build your dream team, master strategies, and uncover pro
+- ★ [[topicradar]] — A solution to frequently posted topic posts! Automate the removal/filter/report of frequently posted
+- ★ [[p-r-i-d-e]] — They say, "If you don't like what they are saying, change the conversation." So, that is what we did
+- ★ [[ecokiosk-ai-powered-machine-su0adv]] — Recycle. Get rewarded. It's that simple.
+- ★ [[time-ranger]] — An extension made for Devpost that can quickly & effectively change time within 50 timezones, bookma
+- ★ [[fitnesscoach]] — This skill makes Alexa the perfect Personal Trainer for home exercises. Do workouts, collect fitness
+- ★ [[rollercoastar]] — Create a rollercoaster simulator in AR. Using the back camera, users can build and customize their c
+- ★ [[before-mount-rushmore-the-story-of-spotted-tail]] — A cinematic tribute to Siŋté Glešká (Spotted Tail) of the Sicangu (Brulé) Lakota: warrior, diplomat,
+- ★ [[project-iris-edge-ai-aac-platform]] — Project Iris is a zero-latency, eye-tracking AAC platform powered by local WebGPU AI, featuring Live
+- ★ [[nusic-fractionalized-music-for-a-short-form-economy]] — Music consumption has been re-shaped by short video apps, music NFT marketplaces should reflect this
+- ★ [[tunnel-dqv1k4]] — AI Agents for Simulated Market Research
+- ★ [[ghostsofthepast]] — Exploring the fragmentation of my identity through the subversion of structures, Dadaism, augmented 
+- ★ [[fleetops-smart-incident-reporting-for-fleet-operations]] — FleetOps uses AI to analyze photos sent to Jira, automatically identify the vehicle in Assets, and g
+- ★ [[relay-real-time-voice-vision-lab-tutor-for-electronics]] — Relay watches your breadboard through your webcam and talks you through building circuits in real ti
+- ★ [[bookexchange]] — Every book deserves another reader
+- ★ [[near-road-icm]] — Investigative case management solution for citizens, police officers and drivers to report and manag
+- ★ [[vitalflow-radar]] — VitalFlow Radar continuously monitors loved ones' vital signs without wearables, bands, or patches. 
+- ★ [[pneumoscan-an-ai-tool-for-ppe-check-covid19-testing]] — PneumoScan.ai is developed to be a secured AI tool with the purpose to assist radiologists with COVI
+- ★ [[medgraphagent-1e4ps2]] — Better data means better decisions. And better decisions save lives
+- ★ [[anyform-ai-form-builder-30au41]] — AnyForm is an AI powered, tool-first platform that lets you build complex, validated forms in under 
+- ★ [[guide-your-guide]] — Access museums or cultural heritage sites remotely through your phone, without worrying about #socia
+- ★ [[notary-an-ai-creative-review-board-for-generative-media]] — Screens every AI-generated take against brand and compliance rules, revises the failures with the re
+- ★ [[giftmaxxing]] — Tinder for gift taste — swipe to teach it yours, share a link to learn anyone else's, and never give
+- ★ [[soulful-sessions]] — Gamified Pomodoro timer that turns your focus sessions into an RPG adventure. Complete work sessions
+- ★ [[xtrau]] — The revolutionary platform for ordering custom gaming computers. It offers an impressive set of feat
+- ★ [[unsinkable-ship]] — Two lines of code make LLM apps unsinkable. Unsinkable routes any OpenAI-SDK app through TrueFoundry
+- ★ [[engram-the-ai-photo-coach-that-remembers-and-forgets]] — An AI photography coach that remembers your journey, forgets what you've mastered, and always knows 
+- ★ [[jam-packed]] — Jam Packed is a revolution for the programmable web. Anyone can create, consume and share executable
+- ★ [[ceptor-tech-ccid-for-players-and-gamemasters]] — On-chain TTRPG experiences through Art, Tech, and Games. Meet the Ceptor Club ID (CCID) our cross ch
+- ★ [[title-ai]] — Title AI is the first platform that can autonomously search any US county recorder website and produ
+- ★ [[lf]] — Connecting Girls, Women and good People to Post and Share Useful Informations, Organize Protests, Fi
+- ★ [[ecolafaek]] — Guarding Timor's Beauty
+- ★ [[opioid-action-engine]] — The opioid epidemic doesn't wait for funding to catch up.
+- ★ [[school-quiz]] — With many children still learning from home or months behind the planned curriculum Learning Out Lou
+- ★ [[electronic-medicine-trial-and-test-records-as-a-service]] — Tools to enable visualization, management for developers to build solutions in medicine, healthcare,
+- ★ [[waterbody-monitoring]] — As climate change accelerates, water usage planning is crucial for small communities who depend on w
+- ★ [[nearndear]] — Don’t let big tech capitalize on your hard work —take full control of your custom AI creations, keep
+- ★ [[onchainvampiresurvivors-1phbfa]] — OnchainVampireSurvivors is a time survival game with minimal gameplay and roguelite elements.
+- ★ [[handtrack-js-1-0-real-time-handtracking-in-the-browser]] — Handtrack.js is a library for prototyping realtime hand detection (bounding box), directly in the br
+- ★ [[ekko-v9wkgy]] — Elevate your foreign language fluency with tailored guidance and individualized verbal conversation 
+- ★ [[simuniverse]] — All in one interactive simulations across STEM disciplines
+- ★ [[claimsphere-ai-automated-claim-processing-agent]] — AI-powered insurance claim processing system with Camel-AI powered agent, automated OCR extraction, 
+- ★ [[pomodeck]] — Your focus, at your fingertips.
+- ★ [[time-out-1wvxhm]] — Surgeons pause before every incision. Med spas don't. Time-Out checks who is injecting, what they're
+- ★ [[pytorchxai]] — Q&Aid is the healthcare assistant that democratizes access to high-quality diagnoses. It comforts pa
+- ★ [[the-turbo-theme-by-clickray]] — TURBO gives websites a boost of power, strength, and speed- all that you need to skyrocket to succes
+- ★ [[unitset]] — UnitSet is the Frankenstein of UI creation, a stitched-together fusion of canvas, AI, code, and live
+- ★ [[studyblocks]] — Overwhelmed by studying? StudyBlocks combines AI-powered study guide generation, smart flashcards, a
+- ★ [[file-approvals-for-jira]] — File Approvals gives Jira users the power to leave in-depth feedback on files. Comments take advanta
+- ★ [[miirps]] — Collect, care, upgrade, and battle.
+- ★ [[rpc3]] — A Proof-of-Concept for decentralized remote procedure calls, leveraging IPFS and privacy-enabled blo
+- ★ [[uml]] — Disinfect public spaces & buildings like hospitals autonomously using a swarm of drones controlled b
+- ★ [[tonguekeeper]] — Every 2 weeks, a language dies. TongueKeeper deploys autonomous AI agents that compile and cross-ref
+- ★ [[dynamic-w3a0hg]] — Dynamic represents the solution to maintain social distances between students, teachers and staff wi
+- ★ [[unite-government-procurement-platform]] — A platform for public procurement of special orders during times of crisis - cutting through the bur
+- ★ [[mixingjays]] — live music visualization generation and editing tools -- industry-grade and AI-powered
+- ★ [[endopath]] — AI-powered endometriosis companion. Predict. Confirm. Understand. Manage. Recover.
+- ★ [[island-of-space-time]] — Summon creatures using artificial intelligence, with parameters bound by smart contracts. Built usin
+- ★ [[cloutvocate]] — A matchmaking platform designed to connect nonprofit organizations with influencers and sponsors to 
+- ★ [[idk-evraiq]] — Heimer provides personalized coaching - it recommends new champions based on your playstyle using ma
+- ★ [[ceptor-club]] — Jump into the game with a quiz-based customised character sheet featuring AI avatar. Want NFT? No pr
+- ★ [[lock-in-7znf21]] — AI-driven personalized learning
+- ★ [[browseback]] — BrowseBack gives your browser a photographic memory powered by Chrome’s built-in AI. Search by conte
+- ★ [[faco-fight-against-corona-jfcza9]] — A contactless digital healthcare solution to assist doctors and empower patients to diagnose and man
+- ★ [[strangler-studio-with-dead-php-migrationtool]] — Stuck with legacy PHP code that's holding your team back? Meet **Frankenstein Laboratory** - an AI-p
+- ★ [[seller-ai]] — Seller AI: Elevate your restaurant's efficiency and customer satisfaction with AI-powered menu manag
+- ★ [[ninth-mkcgtv]] — Create animated stories from a single idea and direct every scene on a real timeline, with every ass

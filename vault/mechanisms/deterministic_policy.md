@@ -1,0 +1,181 @@
+---
+facet: "mechanism"
+name: "deterministic_policy"
+projects: 393
+winners: 393
+tags:
+  - "facet"
+  - "mechanism"
+---
+
+# deterministic_policy
+
+`mechanism` · **393** projects, **393** of them winners.
+
+## Pairs with
+
+- [[geospatial]] — 206 together  <sub>(substrate)</sub>
+- [[realtime_stream]] — 202 together  <sub>(mechanism)</sub>
+- [[developer_tools]] — 187 together  <sub>(domain)</sub>
+- [[structured_db]] — 155 together  <sub>(substrate)</sub>
+- [[video_visual]] — 133 together  <sub>(substrate)</sub>
+- [[code_repository]] — 119 together  <sub>(substrate)</sub>
+- [[developer]] — 117 together  <sub>(user)</sub>
+- [[health_clinical]] — 115 together  <sub>(domain)</sub>
+- [[finance_payments]] — 113 together  <sub>(domain)</sub>
+- [[web_dom]] — 110 together  <sub>(substrate)</sub>
+- [[sensor_telemetry]] — 99 together  <sub>(substrate)</sub>
+- [[retrieval_grounding]] — 88 together  <sub>(mechanism)</sub>
+
+## Projects
+
+- ★ [[tradewizard-8xp61z]] — TradeWizard helps people navigate uncertainty with confidence when money is on the line.
+- ★ [[veterinary-four-color-triage-app]] — Built by a veterinarian & practice owner with no coding experience, this app turns clinical triage e
+- ★ [[amanat]] — Privacy-first AI agent for humanitarian organizations that scans cloud services for sensitive data e
+- ★ [[auditguardx]] — Enterprise compliance in minutes, not months at 1% of the cost.
+- ★ [[trudi-threat-response-unit-for-digital-investigation]] — Built on the idea that we're all smarter than any of us: TRUDI pairs an autonomous DFIR agent with a
+- ★ [[proofsift]] — Evidence-proven autonomous DFIR triage that confirms findings only with traceable forensic artifacts
+- ★ [[chinwag-zp4jds]] — AI production workspace for research, media, and publishing.
+- ★ [[agentic-contract-framework]] — Contract-based observability for AI agents. Monitor if your agents fulfill their commitments and gai
+- ★ [[camel]] — A 'code-mode' MCP server that allows LLMs to safely generate and execute JavaScript code that calls 
+- ★ [[mcs-auth-bridge-enabling-token-vault-for-headless-ai-agents]] — Auth0 Token Vault is powerful, but agents can't use it without a browser callback. I built the missi
+- ★ [[rayan-memory]] — Point your camera at life. Rayan builds a 3D palace from everything you see and hear, rooms you can 
+- ★ [[biasight-words-matter]] — BiaSight analyzes websites for gender bias, promoting equality in digital content. It scores stereot
+- ★ [[lantern-jm9a5l]] — A language dies every two weeks. Lantern is Duolingo for dying languages: it turns the words a commu
+- ★ [[rexgent]] — An autonomous showrunner that transforms a premise or a script into a voiced mini drama in any of 22
+- ★ [[test-3cmsd4]] — When your childhood paint app went to college, got a CS degree and came back with AI superpowers
+- ★ [[forge-field-operations-real-time-guidance-engine]] — Voice AI co-pilot for hands-busy industrial technicians: one Qwen-Omni-Realtime session listens, see
+- ★ [[trustedrisk-care-engine]] — A2A federation that decomposes one clinical prompt into a multi-specialist consultation: 16 sub-agen
+- ★ [[epictetus]] — Get practical Stoic advice from Epictetus for your daily problems. Your chats stay fully private wit
+- ★ [[access-ring-6pedfu]] — Discover and invoke UI elements near your cursor, without precise mouse targeting.
+- ★ [[takegraph]] — TAKEGRAPH is a self-healing build system for generative media that regenerates only what changed, re
+- ★ [[bye-buy]] — Selling stuff online sucks... 50+ messages, lowball offers, sketchy buyers. Bye-Buy handles this mes
+- ★ [[vodo-ai-jwb1l2]] — Building on Vodo Drive and earlier AI experiments, a way to talk with your spreadsheets. Going beyon
+- ★ [[nova-architect]] — An autonomous AI cloud engineer that designs and deploys AWS infrastructure directly in your console
+- ★ [[pedirounds-ai-co-resident-for-pediatric-morning-rounds]] — The safety net between overnight and attending rounds. 4 AI agents catch deterioration, flag unsafe 
+- ★ [[drishti-ai-navigator]] — Empowering digital independence through AI. Voice-powered web navigation using AWS Bedrock AgentCore
+- ★ [[skyrchitect-6d37yf]] — An nemotron-nano-8B-v1 Model autonomously designs production-ready cloud architectures, generates in
+- ★ [[pulsepoint-2hmejd]] — AI-powered medical triage at the speed of life from instant assessment to doctor in 60 seconds.
+- ★ [[stylometry]] — STYLOMETRY: The forensic guardrail for your GitLab pipeline
+- ★ [[unravel-7ak8lf]] — Five agents watch evolving variant evidence, re-score a clinic's uncertain DNA findings with a calib
+- ★ [[agrimind-97zntd]] — AgriMind combines a robotic guardian with live farm sensors and AI video/image analysis to cut water
+- ★ [[novaflow-the-autonomous-bi-pipeline]] — NovaFlow is an autonomous, self-healing BI pipeline. It cleans data, corrects its own SQL, builds in
+- ★ [[dovu-labs-h22]] — Insuring carbon removals through decentralized reputation. 🕊
+- ★ [[xtf]] — XTF (deX Traded Fund): The decentralised ETF protocol boosting multi-chain asset diversification
+- ★ [[multival]] — The first agent-eval platform built for multi-agent orchestration. Graph + Gantt trace viewer, A/B c
+- ★ [[ecokiosk-ai-powered-machine-su0adv]] — Recycle. Get rewarded. It's that simple.
+- ★ [[kassi-synthetic-load-generation]] — An AI agent on an audited state machine: it load-tests a code change, correlates the regression with
+- ★ [[argus-it-never-forgets-59fuin]] — Data is gold, but stays passive in chats. Argus is a proactive Gemini 3 agent that connects past Wha
+- ★ [[champa]] — Cognitive Hybrid Assistant for Messaging, Planning & Analytics — an AI-powered inbox unifying Gmail,
+- ★ [[project-iris-edge-ai-aac-platform]] — Project Iris is a zero-latency, eye-tracking AAC platform powered by local WebGPU AI, featuring Live
+- ★ [[fleetops-smart-incident-reporting-for-fleet-operations]] — FleetOps uses AI to analyze photos sent to Jira, automatically identify the vehicle in Assets, and g
+- ★ [[bookexchange]] — Every book deserves another reader
+- ★ [[nerve-the-nervous-system-for-your-device-fleet]] — The nervous system for your device fleet — AI-native IoT telemetry monitoring that turns a firehose 
+- ★ [[phantomguard]] — Norn: Real-time quality & security monitoring for Strands agents. Powered by Nova Lite for live scor
+- ★ [[cloak-0k2ojh]] — Privacy Layer for Polkadot's Multi-Chain Ecosystem
+- ★ [[project-hpfwsu51xila]] — Autonomous SRE that watches your Dynatrace tenant 24/7, diagnoses production incidents from real spa
+- ★ [[refactorika]] — Agentic harness for efficient codebase refactoring
+- ★ [[notary-an-ai-creative-review-board-for-generative-media]] — Screens every AI-generated take against brand and compliance rules, revises the failures with the re
+- ★ [[loopguard-passport-governed-clinical-loop-closure]] — Prevent the diagnostic harm that begins the moment a follow-up falls silent.
+- ★ [[tasktamer-hetu2y]] — TaskTamer turns your to-do list into an RPG adventure: complete tasks, battle zombies and bosses, ea
+- ★ [[engram-the-ai-photo-coach-that-remembers-and-forgets]] — An AI photography coach that remembers your journey, forgets what you've mastered, and always knows 
+- ★ [[spatialize]] — The floor plan that talks back.
+- ★ [[aftershock-em9cju]] — A disaster-struck town run by a society of Qwen agents that split tasks, negotiate scarce rescue res
+- ★ [[opioid-action-engine]] — The opioid epidemic doesn't wait for funding to catch up.
+- ★ [[marshal-autonomous-migration-assistant]] — Orgs don't fail to start migrations — they fail to finish them. Marshal drives every repo to a termi
+- ★ [[dataset-trust-auditor]] — Know what's in your data before you train on it. Dataset Trust Auditor scores datasets across 8 trus
+- ★ [[farmops-desk]] — The operating system for Nigerian poultry and catfish farms. Ops, feed, money, and AI in one calm vi
+- ★ [[pomodeck]] — Your focus, at your fingertips.
+- ★ [[time-out-1wvxhm]] — Surgeons pause before every incision. Med spas don't. Time-Out checks who is injecting, what they're
+- ★ [[argus-it-never-forgets-rd6k70]] — Data is gold, but stays passive in chats. Argus is a proactive Gemini 3 agent that connects past Wha
+- ★ [[studyblocks]] — Overwhelmed by studying? StudyBlocks combines AI-powered study guide generation, smart flashcards, a
+- ★ [[travel-guild]] — 12 Qwen agents that don't just plan your trip - they safely book it. Real budget-capped checkout, de
+- ★ [[rpc3]] — A Proof-of-Concept for decentralized remote procedure calls, leveraging IPFS and privacy-enabled blo
+- ★ [[maternalguard-mcp-for-maternal-risk-on-sharp-fhir]] — 5-tool MCP server plus A2A orchestrator that gives healthcare AI the full mother-baby picture from a
+- ★ [[browseback]] — BrowseBack gives your browser a photographic memory powered by Chrome’s built-in AI. Search by conte
+- ★ [[ctrl-alt-heal]] — AI-powered clinical gap detection that finds the diagnoses hiding in your charts, so no condition go
+- ★ [[ninth-mkcgtv]] — Create animated stories from a single idea and direct every scene on a real timeline, with every ass
+- ★ [[omnom-hg16v3]] — OmNom is your late night food savior, autonomously navigating a variety of outdoor and indoor enviro
+- ★ [[skinmatch-ai]] — AI-powered skin analysis app that delivers personalized skincare routines for every skin type and cl
+- ★ [[interactives]] — Interactives bring Canva presentations to life by adding audience input. AI can be used to generate 
+- ★ [[synapse-jok1ec]] — Never lose draft again - AI that drafts like a champion, one pick at a time.
+- ★ [[paper-cuts]] — Empowering the next generation of builders, thinkers, and dreamers by bringing back play
+- ★ [[aegis-2m1oq0]] — 7 event-driven AI agents that autonomously secure, predict, and score your GitLab releases, catching
+- ★ [[polaris-mh7rd8]] — Agentic-driven hospital paging system. Your north star in critical patient care.
+- ★ [[codebreaker-la]] — AI-Native CyberSec — detect, validate, and fix vulnerabilities with agent intelligence, powered by a
+- ★ [[myndrot]] — A world infested by Myndrot. You are useless. 3 rats start following you. Together you defeat a bunn
+- ★ [[dill-pkl]] — Turn any CSV into a production-ready model and know exactly how and why, every step of the way.
+- ★ [[vettra]] — Vettra lets AI agents earn trust in real time by intercepting actions, scoring risk, requiring human
+- ★ [[echo-wejlo3]] — Automate anything. Just show Echo how.
+- ★ [[delta-cyber-reasoning-system]] — Automated security localization, fuzzing, and triage for every commit and MR. LLMs analyze diffs, ge
+- ★ [[swasthai-guardian-urzc29]] — A highly secure, offline-first AI platform connecting villagers, ASHA/NGOs, and hospital admins. It 
+- ★ [[kraken-r9tcp2]] — #cicdcatalog #ai Improve Attention on your webpage through an AI generated attention and relevance h
+- ★ [[vigilance-q-the-pharma-quality-watchtower]] — Agentic Quality Case Management - AI investigates. Human decides. Patients stay protected.
+- ★ [[zombie-blaster]] — What if cleaning up AWS cloud identities was an 8-bit retro zombie game? Zombie Blaster is a cyberse
+- ★ [[care-coordination-discharge-planner]] — Automates discharge coordination — reads clinical notes, validates CMS rules, and generates Standard
+- ★ [[autopsy-zq5d84]] — Autopsy records every action your AI coding agent takes, autopsies the failures, builds a graph of w
+- ★ [[arialine]] — Turn Mermaid & Markdown into gorgeous native Slack canvases or interactive pages — fully versioned, 
+- ★ [[pact-q8nvkb]] — Contract-based behavioral observability for AI agents, built natively on Splunk. Know not just that 
+- ★ [[johnkeats-ai]] — A voice-first AI companion that holds uncertainty instead of solving it. Built on Gemini 2.5 Flash N
+- ★ [[permitflow-ai]] — PermitScan Ai automates hazard discovery → permit creation → permit validation → permit refinement f
+- ★ [[nivesh-ai]] — NiveshAI: Empowering retail investors with secure, risk-matched stock simulations and explainable AI
+- ★ [[launch-control-bgp8az]] — AI-powered release gate that evaluates merge requests with four chained agents and policy-as-code ri
+- ★ [[nami-nova-agent-manager-interface]] — Mission control for AI coding agents. Parallel threads, sandboxed execution, reusable skills, and fi
+- ★ [[domaintwin-ai]] — Detect DNS drift, explain it with AI, restore trusted state through Name.com, and prove recovery wit
+- ★ [[argos-ic2tyk]] — Local-first system scoring insider trading on cryptocurrency. A LangGraph supervisor with 5 sub-agen
+- ★ [[tradepilot-charting-ui-options-autopilot]] — A deterministic trading terminal where Autopilot, Backtesting, Workflows, and Global Search are full
+- ★ [[lookcloser]] — A multi-agent safety net for incidental imaging findings, because 1 in 5 follow-ups never happen, an
+- ★ [[eleeos]] — Trustworthy, transparent, and accessible impact funds. Eleeos breaks down borders and opens up impac
+- ★ [[edify-ai-iea9ws]] — The shortest path from 'Student' to 'Hired'. Career paths aren't linear, but they shouldn't be a maz
+- ★ [[constructa]] — Constructa helps developers and contracting teams evaluate buildable sites, visualize projects, and 
+- ★ [[gitgovernance]] — Run your company like code. Every decision tracked, every action auditable, every agent accountable.
+- ★ [[budgety-financial-management-assistant]] — Budgety is the ultimate financial management solution for Jira. With the power of the Rovo agent, ga
+- ★ [[curserve]] — Introducing Curserve: a fast and scalable server-side engine for agentic coding.
+- ★ [[compliance-guardian-ai-system]] — AI-powered compliance monitoring that detects violations before they become liabilities.
+- ★ [[launchify]] — Know what you don't know — before you build.
+- ★ [[torq]] — Turn any car into a self-driving vehicle with the Jetson Thor. Retrofit autonomy, enable rideshare, 
+- ★ [[leavitt]] — Leavitt reads every observability signal you have, metrics, logs, client-side load, and deployment c
+- ★ [[dailies]] — CI for AI-generated video - the tests nobody built for the thing everyone is shipping.
+- ★ [[altiverse]] — AltiVerse: AI-powered simulations that let students fork decisions into living alternate realities w
+- ★ [[gridsense-ri49gk]] — 30–60 minutes before the power goes out, your neighborhood already knows. GridSense listens.
+- ★ [[pitstop-comment-manager-for-your-team-that-runs-on-atlassian]] — Actionable Insights and Tasks from Comments that you can take bulk actions on for entire team. Spam 
+- ★ [[cricible]] — Crucible is a resilience testing layer for AI agent workflows.
+- ★ [[safeguard-a1hfp4]] — Fully protect your LLM application against prompt injection attacks and malicious inputs in less tha
+- ★ [[placeholder-9rsnc5]] — Maestro Case turns a single fraud call into a live multi-agent investigation: AI scoring, parallel S
+- ★ [[whisper-hd54xc]] — Whisper: End-to-end encrypted messaging—no servers, no tracking, just pure privacy.
+- ★ [[stop-ai]] — Stop AI rebuilt on Devvit Web with Stop Bots and Repost Intel apps folded in. AI auto-scan, cross-co
+- ★ [[sehat-guftagu]] — Contextual Human-Assisted Protection and Anomaly Learning
+- ★ [[kredex]] — AI Agents for Small-Scale Businesses
+- ★ [[naggy]] — The todo app that nags you until you do it - and stays on the line to help.
+- ★ [[code-canvas-xe67sh]] — Every codebase hides a world beneath the surface, connections unseen, patterns unnoticed. We bring c
+- ★ [[fun-dashboard]] — A platform that supports data center technicians in a multitude of daily tasks, from planning out op
+- ★ [[consentkey]] — A Logitech Actions SDK plugin that turns your MX Console into a physical consent firewall — blocking
+- ★ [[omnisprint]] — Omnisprint is a Coral-powered software delivery intelligence tool that helps teams stay on track by 
+- ★ [[tarmac-w2gbli]] — An airline irregular-ops agent society: sealed-bid seat claims, a mediator with signed rulings, and 
+- ★ [[graphflow-release-safety-intelligence]] — Release pipelines as a live dependency graph — see blast radius, not just red X's.
+- ★ [[my-et-economic-times-reimagined]] — AI-powered financial news assistant that translates complex articles into any language, verifies fac
+- ★ [[nova-multi-agent-compliance-intelligence-on-aws-nova]] — Four specialized agents analyze SEC filings, market signals, enforcement history, and earnings calls
+- ★ [[retro-slide-puzzle]] — A retro-themed slide puzzle with a modern animated twist
+- ★ [[guardian-ai-governed-incident-response]] — 5-node autonomous pipeline: triages P1 alerts, fetches runbooks, gets HITL approval, spins up war ro
+- ★ [[alttext-guardian]] — AltText Guardian detects image submissions lacking post description, generates auto-reply alt-text f
+- ★ [[wayfinder-1y4xbe]] — Your personal AI caseworker for U.S. refugee benefits. Answer a few questions, see what you qualify 
+- ★ [[sentinel-way5bd]] — Catch security holes in your MCP server before you ship it. Static rules, GPT-5.6 review, and Docker
+- ★ [[aegis-hindi-consent-companion]] — **India's AI-generated perioperative informed consent in Hindi — patient-specific, clinically ground
+- ★ [[sentinel-flood-watch-agent]] — An AI agent that proactively monitors Accra's ecological sites using remote sensing data and advance
+- ★ [[project-chronos-mhri13]] — AI-powered ICU early warning system predicting sepsis, hypotension, & hemodynamic collapse 2-6 hours
+- ★ [[a-z-learn]] — Have you ever felt like traditional classes turn even the most interesting topics into nap time? A-Z
+- ★ [[cinemory]] — Turn a set of photos into a scored, cinematic video reel. Generated with Genblaze, stored on Backbla
+- ★ [[lumen-ai-neonatal-specialist]] — AI neonatal danger-sign screening for community health workers — Qwen Cloud when online, a fine-tune
+- ★ [[gitdefender]] — An agent to help OSS maintainers cut through the noise, from triaging MRs to confidently merging the
+- ★ [[the-grenadians]] — Everyone in the class takes notes. Meltingpot turns them into one shared vault for students, and bui
+- ★ [[ai-mental-health-chatbot-jimyr9]] — AI-Powered Care, Human-Centered Support
+- ★ [[echo-bedpzr]] — A voice-based reminder app with smart features for future-tasks, including web-search, research, and
+- ★ [[eliza-exhumed]] — What if you could compare 1966 AI with 2025 AI, side by side, in the same conversation? Well...ELIZA
+- ★ [[clew-7tnal9]] — A Slack agent to help non-profits find, manage, and apply to grants.
+- ★ [[cardiolensv2]] — Cabinet Clear turns a confusing hospital discharge letter and a messy medicine cabinet into a clear,
+- ★ [[containit]] — We are motivated to help the global community contain the spread of COVID-19 by using contact tracin
+- ★ [[civora]] — Civora: AI command center catching safety risks 18 min early, cutting 142 tCO₂e, turning every site 
+- ★ [[plateit-v8ptl7]] — From screen to plate: Extract any recipe from any video/text site.
+- ★ [[syntact-23l7ei]] — AI-generated coding videos, inside a real IDE.
+- ★ [[outscan]] — OutScan: An AI-powered, serverless genomic radar that analyzes viral mutations in real-time, detecti
+- ★ [[type-to-death]] — Strengthen your typing ability through immersive, pressure-based learning.

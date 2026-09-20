@@ -1,0 +1,70 @@
+---
+slug: "l-l-a-m"
+url: "https://devpost.com/software/l-l-a-m"
+title: "L.L.A.M v2"
+hackathon: "Azure AI Hackathon"
+organization: "Microsoft"
+winner: true
+words: 2763
+team_size: 4
+has_repo: true
+has_live: true
+has_video: false
+tags:
+  - "project"
+  - "mechanism/multi_agent"
+  - "domain/agriculture_food"
+  - "domain/civic_government"
+  - "domain/disaster_emergency"
+  - "domain/education"
+  - "domain/labor_employment"
+  - "user/clinician"
+  - "user/frontline_worker"
+  - "user/researcher"
+  - "substrate/code_repository"
+  - "substrate/geospatial"
+  - "substrate/structured_db"
+  - "substrate/video_visual"
+---
+
+# L.L.A.M v2
+
+> Save crops from locust attacks. Track locust movement realtime and predict the possibility of attack on a particular location.
+
+[Devpost](https://devpost.com/software/l-l-a-m) · hackathon [[Azure AI Hackathon]]
+
+## Facets
+
+**mechanism** [[multi_agent]]
+**domain** [[agriculture_food]] [[civic_government]] [[disaster_emergency]] [[education]] [[labor_employment]]
+  <sub>weak: climate_energy</sub>
+**user** [[clinician]] [[frontline_worker]] [[researcher]]
+**substrate** [[code_repository]] [[geospatial]] [[structured_db]] [[video_visual]]
+
+**stack** axios, azure, azure-ml-studio, cesiumjs, deep-learning, esri, framer-motion, javascript, ml, netcdf4, next-seo, next.js, nextjs, noaa-climate-data-online
+
+## How they structured the write-up
+
+- what does this project do? 🤔
+- who did we design this project for? 👨🏻‍🌾
+- what was the inspiration for this project? 💡
+- what challenges did we run into? 🤯
+- what accomplishments are we most proud of? 👏
+- what we learned ? 🧠
+- what's next for l.l.a.m 🚀
+- more about the project 🔥
+- prerequisites
+- getting started 🎬
+- q1. what is a locust attack/invasion/plague?
+- q2. types of locusts -
+- q3. how and when do locusts become harmful?
+- q4. what is a locust swarm?
+- q5. locust effect on africa?
+- q6. crop failure and hunger famine in africa.
+- q7. how can locust swarming/attack be prevented?
+- q8.how cautioning them is useful?
+- q9.but, why did we do this?
+
+## Body
+
+Logo Tracking feature Locust location on globe Vizualising wind patterns and locust movement look into our Pipeline in Azure ML studio Zoomed in view of locusts on surface Project: L.L.A.M - Locust Location & Apprehension Module V2 "Save crops from locust attacks" Web App : https://locustlocator2.vercel.app 🔗 Live Demo : https://youtu.be/DB-VZAbpkC8🔗 This Idea was born here : https://devpost.com/software/locust-build on August 2020 What does this project do? 🤔 LLAM tracks the realtime locusts location and visualizes wind patterns on earth. Predicts the probability of locust attacks on a particular given position through satellite imagery using machine learning models. Who did we design this project for? 👨🏻‍🌾 This project is designed keeping the problems that farmers face due to locusts in mind. We aim to reduce the destruction of crops caused by locusts which leads to massive effect on socio-economic interests of farmers. What was the inspiration for this project? 💡 The inspiration behind L.L.A.M was that locusts are increasingly becoming a great threat to the vegetation and this threat is reportedly going to increase each year. To safeguard crops and farmers from this plague we needed some solution that could tackle the problem well. What challenges did we run into? 🤯 The first challenge we ran into was how will we collect the relevant data. Then we had to decide how will we visualize the frontend with that data. Changing code to fit our Next js frontend framework. Populate data with efficiency because alot of gpu power was required. Rendering terrains and maps in Cesium Js. What accomplishments are we most proud of? 👏 Visualizing the data on 3d earth. ML model predictions from satellite imagery. Team did phenomenal job at helping each other and integrating stuff together. What we learned ? 🧠 Using Microsoft Azure services for creating sick APIs. Cesium Js framework to render and perform functions on 3D earth. Amazing Next Js features. What's next for L.L.A.M 🚀 More optimization has to be made on the UI. Improve accuracy Add layer to predict locust movement using wind data More about the project 🔥 Web App : https://locustlocator2.vercel.app 🔗 Live Demo : https://youtu.be/C1QmCuzrBw8 🔗 Tracking feature Wind patterns and locusts visualized Zoomed in view of location where potential locust is found Predicting locust attack on a particular location ML pipeline 🔗 Prerequisites NextJS Node.js 10+ Command Line Tools Mac OS X: Xcode (or OS X 10.9+ : xcode-select --install ) Windows: Visual Studio OR Visual Studio Code + Windows Subsystem for Linux - Ubuntu Ubuntu / Linux Mint: sudo apt-get install build-essential Fedora : sudo dnf groupinstall "Development Tools" Getting Started 🎬 The easiest way to get started is to clone the repository: # Get the latest snapshot git clone https://github.com/Jappan07/LLAM # Change directory cd LLAM # Install NPM dependencies npm install # Then simply start your app npm run dev # project will start at localhost:3000 https://localhost:3000 Note: GPU intensive features are added into this project so it is suggested to run this application on a machine having dedicated gpu so that it could run smoothly. Research and FAQ Q1. What is a locust attack/invasion/plague? When the locusts start attacking crops and thereby destroy the entire agricultural economy, it is referred to as locust plague/locust invasion. Plagues of locusts have devastated societies since the Pharaohs led ancient Egypt, and they still wreak havoc today. Over 60 countries are susceptible to swarms. Q2. Types of locusts - There are four types of locusts that create a plague namely– desert locust, migratory locust, Bombay locust, and tree locust. The desert locust is a notorious species. Found in Africa, the Middle East, and Asia, this species inhabits an area of about six million square miles, or 30 countries, during a quiet period, according to National Geographic. During a plague, when large swarms descend upon a region, however, these locusts can spread out across some 60 countries and cover a fifth of Earth's land surface. Q3. How and when do locusts become harmful? During dry spells, solitary locusts are forced together in the patchy areas of land with remaining vegetation. This sudden crowding makes locusts. Then, when rains return—producing moist soil and abundant green plants, locusts begin to reproduce rapidly and become even more crowded together. In these circumstances, they shift completely from their solitary lifestyle to a group lifestyle in what’s called the gregarious phase. Locusts can even change color and body shape when they move into this phase. Their endurance increases and even their brains get larger. Locusts have huge appetites. One of these insects can eat its weight in food in a single day. And they're devastating crops in East Africa, where millions of people are already considered food-insecure. Q4. What is a locust swarm? Locust swarms are typically in motion and can cover vast distances—some species may travel 81 miles or more a day. Locust swarms devastate crops and cause major agricultural damage, which can lead to famine and scarcity. A swarm of desert locusts comprising around 40 million locusts can deplete (or destroy) food that would suffice the hunger needs of 35,000 people, assuming that one person consumes around 2.3 kg of food every day. In 1954, a swarm flew from northwest Africa to Great Britain, while in 1988, another made the lengthy trek from West Africa to the Caribbean, a trip of more than 3,100 miles in just 10 days. Locust swarms devastate crops and cause major agricultural damage, which can lead to famine and starvation. Locusts occur in many parts of the world, but today locusts are most destructive in subsistence farming regions of Africa. Q5. Locust Effect on Africa? The worst locust outbreak in generations has overrun East Africa and the Horn of Africa. Without timely action, 4.9 million people could face a shortage this summer. This disaster comes at the worst possible time for countries like Somalia already facing the double emergency of food shortage and COVID-19. Seven facts about the situation on the ground: Desert locusts are extremely harmful – These migrating insects inflict insurmountable defects in minutes. Even a tiny swarm eats the same amount of food in one day as 35,000 people. Swarms have already razed hundreds of thousands of hectares of crops and pastureland in eight countries—Kenya, Uganda, South Sudan, Ethiopia, Somalia, Eritrea, Djibouti, and Sudan—and terrorize to spread wider. Five million people are at risk of hunger and famine- As of March, the locust infestation in East Africa has already hurt more than 25,000 kilometers of cropland. Without swift intervention, populations will face mass scarcity this summer. A new swarm is hatching – The fourth generation of locust eggs is now hatching, which experts predict will create a locust population 8,000 times huger than the recent infestation. Somalia will likely be hit hardest – The Somali government was first in the region to assert a national emergency in response to the desert-locust crisis. Without humanitarian assistance, 3.5 million people are cast to face a food crisis between July and September. The region is already dazed by cycles of broad violence, drought, floods, chronic food deficits, and illness. This the worst outbreak in 70 years – Without expedited preventive gauges, swarms will depart from East Africa to West Africa. “This is the worst locust invasion we have seen in our generation,” says Sahal Farah of Docol, an IRC partner organization. “It razed grasses, infected water sources, and [has] deposed many pastoral households. The worst of all is that we cannot control it, and so far we have not received any external support.” Women face increased risk – If crops fail, the IRC totals that 5,000 families, mainly those led by women, will need urgent humanitarian assistance by August. As food prices skyrocket, women and girls will face a rise in chaos and theft as their partners are urged to travel in search of food and work. Besides, women will be forced to take on more duties in managing existing farms or small jobs, even as they tend to the needs of their homes. More grants are essential to stop extensive famine – The IRC is calling for $1.98 million to relieve the desert-locust disaster in Somalia in 2020. We are also bidding to the United Nations and affected countries to continue the technical inquiry of locust actions along with continued data sharing—before it is too late. Q6. Crop Failure and Hunger Famine In Africa. In Africa, hunger is rising at a terrible rate. Economic woes, drought, and extreme weather are reversing years of growth so that 237 million sub-Saharan Africans are chronically malnourished, more than in any other region. In the whole of Africa, 257 million people are dying, which is 20% of the population. In the past three rising seasons, parts of Southern Africa suffered their lowest rainfall since 1981. As a result, 41 million people in Southern Africa are food insecure and 9 million people in the region need rapid food service. Close to five million people in East Africa could be at risk of famine and hunger as the ‘worst locust raid in an era’ proceeds to erode crops, infect water sources and expel thousands of homes, a new report has warned. The infestation, which first arose in the region last June and has already passed through some generation cycle, is feeding on hundreds of thousands of hectares of crops across at least eight countries. HISTORY OF FOOD FAMINE – • 2011 to 2012 — The Horn of Africa hunger crisis was responsible for 285,000 deaths in East Africa. • 2015 to 2016 — A strong El Niño affected almost all of East and Southern Africa, inducing food insecurity for more than 50 million people. • 2017 — 25 million people, including 15 million children, needed humanitarian relief in East Africa. In September, the inter-communal war in Ethiopia led to more than 800,000 people becoming internally removed. • 2018 — Africa was home to more than half of the global total of acutely food-insecure people, rated at 65 million people.. • 2019 — Food security is withering and expected to deepen in some countries between October 2019 and January 2020. Locusts attack across the world By the end of 2019, there were swarms in Ethiopia, Eritrea, Somalia, Kenya, Saudi Arabia, Yemen, Egypt, Oman, Iran, India, and Pakistan As of January 2020, the outbreak is affecting Ethiopia, Kenya, Eritrea, Djibouti, and Somalia. The infestation "cites an unusual threat to food security and livelihoods in the Horn of Africa," according to the United Nations Food and Agriculture Organization. Kenya has recorded its worst locust burst in 70 years, while Ethiopia and Somalia haven’t seen one this bad in a quarter of a century. They are now heading toward Uganda and fragile South Sudan, where almost half the country faces hunger as it arises from civil war. Uganda has not had such about since the 1960s and is already on alert. Uganda has not had to deal with a locust infestation since the ’60s so there is concern about the ability of experts on the ground to be able to deal with it without outer support. In a country like South Sudan, where already 47% of the population is food insecure this crisis would cause ravaging effects. Q7. How can locust swarming/attack be prevented? Weather patterns and ancient locust records help us predict where swarms might form. Once known, an area is sprayed with chemicals to kill locusts before they can gather. Historically, locust control has involved the spraying of organophosphate pesticides on the night resting places of the locusts. Intervention in the early stages of a locust case is mainly advised. This reduces the amount of pesticide to be applied because the locusts are localized over a very minor region. As a burst resumes to evolve first into an upsurge then into a plague, more and more countries are af

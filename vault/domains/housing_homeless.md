@@ -1,0 +1,181 @@
+---
+facet: "domain"
+name: "housing_homeless"
+projects: 287
+winners: 287
+tags:
+  - "facet"
+  - "domain"
+---
+
+# housing_homeless
+
+`domain` · **287** projects, **287** of them winners.
+
+## Pairs with
+
+- [[realtime_stream]] — 129 together  <sub>(mechanism)</sub>
+- [[finance_payments]] — 128 together  <sub>(domain)</sub>
+- [[developer_tools]] — 116 together  <sub>(domain)</sub>
+- [[structured_db]] — 113 together  <sub>(substrate)</sub>
+- [[geospatial]] — 113 together  <sub>(substrate)</sub>
+- [[web_dom]] — 99 together  <sub>(substrate)</sub>
+- [[video_visual]] — 80 together  <sub>(substrate)</sub>
+- [[code_repository]] — 69 together  <sub>(substrate)</sub>
+- [[financial_record]] — 66 together  <sub>(substrate)</sub>
+- [[labor_employment]] — 65 together  <sub>(domain)</sub>
+- [[developer]] — 63 together  <sub>(user)</sub>
+- [[health_clinical]] — 59 together  <sub>(domain)</sub>
+
+## Projects
+
+- ★ [[launchpad-7xkjwu]] — Launchpad organizes your college applications in one place. Build your profile, get AI analysis on y
+- ★ [[amanat]] — Privacy-first AI agent for humanitarian organizations that scans cloud services for sensitive data e
+- ★ [[auditguardx]] — Enterprise compliance in minutes, not months at 1% of the cost.
+- ★ [[bookster-05sbyz]] — AI powered student marketplace & community hub for ISU students
+- ★ [[mcs-auth-bridge-enabling-token-vault-for-headless-ai-agents]] — Auth0 Token Vault is powerful, but agents can't use it without a browser callback. I built the missi
+- ★ [[lunsj-hbfni2]] — Automate routine knowledge sharing & social connection
+- ★ [[dreammeridian-geoai-on-pi]] — When disasters strike, networks fail first. DreamMeridian runs LLM-powered spatial queries entirely 
+- ★ [[trustedrisk-care-engine]] — A2A federation that decomposes one clinical prompt into a multi-specialist consultation: 16 sub-agen
+- ★ [[takegraph]] — TAKEGRAPH is a self-healing build system for generative media that regenerates only what changed, re
+- ★ [[blockdrive]] — Lifebank helps local communities create a virtuous circle of value exchange between three parties — 
+- ★ [[health-counseling-portal]] — Health counselling, preventive treatment, remediation using a decentralized Twitter application, DID
+- ★ [[fairwell-a-tool-to-bid-goodbye-to-unknown-ai-biasness]] — Integrate fairness into machine learning pipelines with FairWell: a highly accessible & user-friendl
+- ★ [[pedestrian-flow-analysis]] — Instantly transform an unwalkable street. 🪄
+- ★ [[brightact-a7e5my]] — We streamline and gather support for victims of domestic violence, easy to find, & safe.Collaborativ
+- ★ [[road-incident-predictor]] — Monitoring tools for road incident management. Crowdsourcing information sharing for safer roads wit
+- ★ [[phantom-auth0]] — A restricted local browser agent that uses Auth0 Token Vault to securely act across Google and Linea
+- ★ [[liliusmed]] — Intuitive decision making platform where government agencies, hospitals, and suppliers can quickly a
+- ★ [[robofi]] — RoboFi is a robotic economy ecosystem where robotic entities can create certificates of the origin o
+- ★ [[nusic-fractionalized-music-for-a-short-form-economy]] — Music consumption has been re-shaped by short video apps, music NFT marketplaces should reflect this
+- ★ [[tunnel-dqv1k4]] — AI Agents for Simulated Market Research
+- ★ [[project-hpfwsu51xila]] — Autonomous SRE that watches your Dynatrace tenant 24/7, diagnoses production incidents from real spa
+- ★ [[brightact-fqibsh]] — App for documentation and support for victims of domestic violence, gathering governments, authoriti
+- ★ [[scifunmily]] — Virtual/Online Museum and Science Center tools for the whole family to support parents taking the ma
+- ★ [[orbit-8kd3re]] — maps the orbit of your thinking, so you can see when an idea is yours versus AI's
+- ★ [[warden-ny9uwa]] — Warden is the runtime firewall that stops AI agents from being hijacked by blocking prompt injection
+- ★ [[bvcaps-globalhack-vi]] — We use live updated data systems to track the homeless and to provide financial counsel to Bounce Ba
+- ★ [[electronic-medicine-trial-and-test-records-as-a-service]] — Tools to enable visualization, management for developers to build solutions in medicine, healthcare,
+- ★ [[ekko-v9wkgy]] — Elevate your foreign language fluency with tailored guidance and individualized verbal conversation 
+- ★ [[farmops-desk]] — The operating system for Nigerian poultry and catfish farms. Ops, feed, money, and AI in one calm vi
+- ★ [[claimsphere-ai-automated-claim-processing-agent]] — AI-powered insurance claim processing system with Camel-AI powered agent, automated OCR extraction, 
+- ★ [[thetre]] — A Decentralised Movie Streaming Experience, powered by Theta EdgeCloud Video Services, Theta Edgesto
+- ★ [[tileserver]] — A dynamic tileserver built for exploring massive spatial datasets
+- ★ [[alyosha]] — The help for life after prison already exists. It's just scattered. Alyosha turns it into one guided
+- ★ [[roundreach]] — AI that finds investors who fund companies like yours and writes personalized outreach that gets res
+- ★ [[clearclause-zer4yh]] — AI-powered legal document analyser: upload any contract, get instant clause-by-clause risk analysis,
+- ★ [[the-carbon-bank-e8wb0h]] — The Carbon Bank marketplace supports a transparent commercialization of traceable carbon credits on 
+- ★ [[arduino-controlled-electrolysis-system-for-bleach-production-kodm9u]] — Imagine producing your own bleach right at home, simply by adding salt to water and pressing a butto
+- ★ [[batteryforgeai]] — Multi-agent battery intelligence. Specialized AI for vision-based defect detection, charging optimiz
+- ★ [[sentinel-uxz0ni]] — AI that catches problems before they become problems.
+- ★ [[procsee]] — PROCSee turns your system into a crime scene — and autonomously investigates every process
+- ★ [[spookbnb-when-dark-mode-gets-truly-dark]] — A vacation rental site that transforms into a horror escape room. Toggle dark mode to reveal a flash
+- ★ [[domaintwin-ai]] — Detect DNS drift, explain it with AI, restore trusted state through Name.com, and prove recovery wit
+- ★ [[smartschedule-ai-intelligent-college-timetable-generator]] — AI-powered timetable automation eliminating scheduling conflicts, supporting multi-teacher coordinat
+- ★ [[constructa]] — Constructa helps developers and contracting teams evaluate buildable sites, visualize projects, and 
+- ★ [[metacraft]] — Truly decentralized, multi-chain, cross-platform, community-driven & developed play-and-earn gaming 
+- ★ [[curserve]] — Introducing Curserve: a fast and scalable server-side engine for agentic coding.
+- ★ [[spielburg-ai]] — AI-powered video editing with CUDA optimization—our advanced AI agent executes complex edits with na
+- ★ [[kintwadi-one-shared-record-for-family-caregiving]] — One shared, permission-aware care record for families caring for an aging parent across cities and t
+- ★ [[aorta-real-time-hospital-admission-sepsis-monitoring]] — Aorta: Real-time clinical streaming that predicts sepsis. We combine Confluent Kafka, XGBoost, and G
+- ★ [[suppers]] — What if deploying a backend was as simple as running a single file? No Docker containers, no Node.js
+- ★ [[covid-compass]] — COVID-19 affects low-income minorities & we need population-specific solutions ASAP. Meet Compass, a
+- ★ [[ally-kmoagt]] — Ally makes drone data management simple, giving non-technical people easy access to automated workfl
+- ★ [[fd-7g0sbo]] — Google gives you a list. Zen guides you through, tells you where you qualify, explains why in your l
+- ★ [[reignitia]] — Power Your Potential.No Student Left Behind. No Talent Wasted.
+- ★ [[cricible]] — Crucible is a resilience testing layer for AI agent workflows.
+- ★ [[placeholder-9rsnc5]] — Maestro Case turns a single fraud call into a live multi-agent investigation: AI scoring, parallel S
+- ★ [[nextop]] — 200K veterans transition out every year — most without real support. NextOp is a private AI coach th
+- ★ [[safestate]] — A recall is just a PDF until something acts on it. SafeState blocks recalled products from being res
+- ★ [[jugaad-dpmqi7]] — JUGAAD — Just-in-time University Guidance and Actionable Discovery — gives every Berkeley student th
+- ★ [[aver-4hduaz]] — Aver enables decentralized and trustless betting markets on the Solana blockchain - with tokenized b
+- ★ [[ekaette]] — Ekaette is a configurable AI voice and messaging assistant for customer-facing businesses across mul
+- ★ [[otto-v05m26]] — Build machine learning pipelines through natural language conversation
+- ★ [[graphflow-release-safety-intelligence]] — Release pipelines as a live dependency graph — see blast radius, not just red X's.
+- ★ [[nimbus-q025jc]] — Open Source the cloud. SaaS is dying and we're here to take the fight home. We're bringing the fight
+- ★ [[hakivo]] — Hakivo, your personal AI-powered legislative aide. Track bills, get alerts, and listen to NPR-style 
+- ★ [[infinite-memory-plnev8]] — Never Forget Again
+- ★ [[sigmora-sigmora-org]] — Generative media at production scale, for a fraction of the cost. Genblaze orchestrates every model;
+- ★ [[m-i-broke-financial-status-analysis]] — Helping small businesses to quickly assess their financial status. By providing the most comprehensi
+- ★ [[agrowise-4b2szv]] — AgroWise fuses low-cost root-zone sensors with AI and IVR to provide precision farming via any phone
+- ★ [[childgrowthmonitor]] — Quick, accurate data on malnutrition
+- ★ [[plot-3pi8c4]] — Plot delivers comprehensive insights on any location. Whether you're scouting investments or shaping
+- ★ [[habitat-for-humanity-homeseeker-portal]] — A Web Portal that automates the application form signing and uploading process for families applying
+- ★ [[robo-jab]] — Phone video in, fighting humanoid robot out. We made a markerless mocap, sim-trained balance, deploy
+- ★ [[the-digital-volunteer-dym0xb]] — Automate mobilisation of community, solidarity and collaboration. Use non-smartphones to raise a tas
+- ★ [[ownemployed]] — Why stay unemployed when you can be ownemployed?
+- ★ [[reel-yd32e4]] — A scene lives as words until someone spends real money to see if it works. Reel turns a screenplay s
+- ★ [[tribune]] — GitHub for democracy. Every policy change cited to a voice.
+- ★ [[tron-energy-bot]] — Telegram bot that automates the process for energy rental via multisig: checking availability, calcu
+- ★ [[closet-a-i]] — Transform your closet into a personal stylist with AI-powered outfit recommendations, AR try-on acro
+- ★ [[text-to-dot]] — Real time translation from text to braille.
+- ★ [[safeaid-ai-emergency-routing-for-survivors]] — AI-powered platform that routes trafficking survivors and vulnerable people to the nearest shelter, 
+- ★ [[boom-boogers-marketplace]] — Where Rarity Meets Profitability! Revolutionize the Gaming Industry with Boom Boogers Marketplace.
+- ★ [[unified-disaster-intelligence-adaptive-response-system]] — UDIARS unifies flood, wildfire, and earthquake intelligence into one live map that shows you real-ti
+- ★ [[e-agent-user-violation-detector]] — AI moderation for a Ghana housing platform that detects fake listings, duplicates, and misleading im
+- ★ [[find-satoshi]] — StepN is a move2earn mobile game. It aims to attract million of non-crypto runners to the crypto rea
+- ★ [[gradientguard-dora-compliance-intelligence-platform]] — AI-powered DORA compliance platform for EU fintechs. 4 multi-agent system on DigitalOcean Gradient™ 
+- ★ [[osf-go-sdk]] — OSF Go SDK is a library/wrapper for Go built on top of OSF API that enables developers to access fea
+- ★ [[double-guarantee-late-payment-factoring-kxo301]] — Financing for SME's that are experiencing cash-flow issues during COVID-19 using a guarantee from it
+- ★ [[alight]] — An Interactive Web Applications that Connects Refugees with Nonprofit Alight Refugees Supports Team 
+- ★ [[decentralease-rwbpiz]] — Decentralease is a zero-collateral NFT renting and leasing platform built on the novel ERC-4907 stan
+- ★ [[autosre-the-autonomous-on-call-engineer]] — AutoSRE is an autonomous on-call agent that diagnoses Dynatrace incidents in seconds and queues up t
+- ★ [[heydesk]] — SupportDesk is an Agentic customer support platform that lets companies provide instant assistance v
+- ★ [[dvsd]] — Customer support is broken. Companies spend billions on support teams, yet customers still wait hour
+- ★ [[uawelcome-graph]] — A graph-based crowdsourcing platform connecting refugees with those who can help, optimizing limited
+- ★ [[econoquest-y205ab]] — Govern a nation. Live with the consequences.
+- ★ [[1-sec-open-source-security-nq9gmk]] — Handing off raw OAuth tokens is a security nightmare. Here's how Auth0 Token Vault and 1-SEC's AI Co
+- ★ [[a-green-vest]] — Farmers lack the capital to utilize the lands they possess causing a setback in production. We provi
+- ★ [[ratesheet]] — All-in-one, open-source production tracking and piece-rate payroll built for garment manufacturing. 
+- ★ [[sprovid]] — Temporary laid-off because of COVID-19? Ask your landlord to lower the rent in the right way
+- ★ [[beavous]] — Turn one approved product into a complete, product-true campaign—four concepts, 16 ratios, claim-saf
+- ★ [[homeready-pro]] — "Unlock Your Homeownership Potential: Your Path to Financial Home Sweet Home!"
+- ★ [[ontime-2og4ms]] — Because “I’ll send it later” needed a system. Split later, but onTime.
+- ★ [[develop-with-aws]] — You build it, you run it – integrate your AWS development toolchain with the Jira Software Open DevO
+- ★ [[lifelink-soibwr]] — Clinicians ask ASI:One for blood in plain English, a swarm of Fetch.ai agents finds blood centers, a
+- ★ [[rent-a-spot]] — A One-stop solution for your spot renting needs.
+- ★ [[reliefmap-gph36j]] — ReliefMap is a mobile-first app that helps disaster victims quickly find nearby resources like shelt
+- ★ [[quake-3h029g]] — 🆘 Using geospatial data and real-world risk factors, Quake helps people escape safely after an earth
+- ★ [[complianceguard]] — Autonomous AI compliance monitoring — detect GDPR, HIPAA, SOC2 & EU AI Act violations in 60 seconds
+- ★ [[depositcheck]] — Before you wire a rental deposit, drop in the listing's photo. Google Lens through SerpApi finds eve
+- ★ [[autoaegis]] — AutoAegis-"Self-Diagnostic Immunity System" that eliminates the Watermelon Effect by using Zero-Touc
+- ★ [[nani-65mnxo]] — Nani: event monitoring and notification service using PAPI
+- ★ [[flowstate-7ihg10]] — Instant Agentic Crowdfunding
+- ★ [[coolproject69]] — VisionScout: a bridge between what you see and want. AI glasses auto-generate listings with conditio
+- ★ [[selfheal-qa]] — An autonomous UiPath agent that heals brittle UI tests but refuses to heal real bugs, filing a defec
+- ★ [[nitron-energy-the-future-of-p2p-energy-on-tron]] — NiTron Energy is a cutting-edge P2P energy rental platform on the Tron blockchain, designed to meet 
+- ★ [[karma-the-reincarnation-agent-for-deprecated-services]] — A multi-agent system that learns a deprecated service's hidden contracts and haunts its replacement,
+- ★ [[triage-pbfc69]] — Slack-native AI issue triage that classifies, drafts, and duplicates — but never ships without you.
+- ★ [[epicstory]] — Turn epic descriptions into production-ready Jira backlogs in seconds. EpicStory app converts epic d
+- ★ [[flakewarden]] — Agentic flaky-test triage for UiPath Test Cloud: a deterministic scorer and a grounded AI classifier
+- ★ [[haven-dn65lq]] — Facing eviction in England? HAVEN checks if your notice is even legal, shows how much time you have,
+- ★ [[pantryproof]] — PantryProof uses Nutrient and SerpApi to turn fragmented recall evidence into cited, human-reviewed 
+- ★ [[multiverse-fighters]] — Play-to-earn turn-based MMORPG with a card combat system and deep social involvement.
+- ★ [[sync-for-confluence]] — Write and maintain your content in Confluence. Sync it to Zendesk so your knowledge base always stay
+- ★ [[gauntlet-go-safe-or-go-home]] — GAUNTLET sends adversarial AI's to attack your AI service agent with multi-turn fraud. Every breach 
+- ★ [[echocare-i6csrv]] — 3.4 million individuals are food insecure in SF. 150,000 tonnes of food are wasted every year in SF.
+- ★ [[techliftinspired]] — Empowering Underserved Communities Through Technology
+- ★ [[sharood]] — Food sharing communities for vegans and neighbors: share the food you cook and join when others cook
+- ★ [[integrate-with-aws-for-jira]] — Link and track your AWS resources – integrate Amazon Web Services with your DevOps workflows in Jira
+- ★ [[farmer-force]] — Free satellite crop-health intelligence, delivered as an AI agent inside Slack. It catches disease a
+- ★ [[citadel-life-dungeon]] — An AI-powered life-skills RPG that turns real-world challenges into fun adventures, teaching kids ho
+- ★ [[secure-notes-for-jira-coegvb]] — Secure Notes: Encrypted by design, protected by the platform App provides zero-trust, burn-after-rea
+- ★ [[intotheverse-metaverse-land-sale-chainlink-moralis]] — We are building a demo for our upcoming land sale at IntoTheVerse metaverse, using Chainlink's keepe
+- ★ [[meetops-ai-powered-office-room-booking-system]] — AI-powered room booking for modern offices. Book via natural language, detect conflicts instantly, m
+- ★ [[cryptan]] — Synthetic Assets For Raw Materials With Global Impact
+- ★ [[wingnote]] — WingNote – Smart hardware meets AI-powered documentation to listen, structure, and simplify care for
+- ★ [[help-in-need-bot]] — This bot will allow you to empower members of the community by fostering help for each other.
+- ★ [[fraud-detection-ai]] — A fraud detection AI that uses machine intelligence to analyze past transaction data and detect frau
+- ★ [[penetron]] — Penetron proves vulnerabilities instead of just flagging them: an AI agent exploits your running app
+- ★ [[recur-u2v03g]] — RECUR is a recurring payments management tool that is built to enable subscriptions in Web3. It appl
+- ★ [[bocabot]] — Speak to anyone in the world, in any language, in real-time for FREE!
+- ★ [[covidtivity]] — Kick start your productivity, health, and happiness during the pandemic!
+- ★ [[temp-4beu82]] — A Better Way To Buy A Home | Our product streamlines the homebuying process through algorithms and G
+- ★ [[fractionrealmrise]] — FractionRealmRise turns real estate into programmable assets on Aptos with fractional ownership, 3D 
+- ★ [[blink-blockchain-link-for-ai]] — A crypto wallet for AI. Unleash payments, escrow, actions, minting, etc
+- ★ [[nrg-9av35s]] — Tron NRG is a Decentralized P2P energy rental service that allows users to save on Tron transaction 
+- ★ [[zero-kare-lizf08]] — Maternal Health Analytics with AI & SDOH Integration
+- ★ [[runsheet]] — Turning feedback into data-driven decisions.
+- ★ [[justicemap-2q6vgh]] — JusticeMap gives every urban resident free, verified legal guidance backed by real city laws and gen
+- ★ [[pandemic-spread-simulator-pass]] — Web-based interactive virus communal spread simulation where you can adjust parameters such as virul
+- ★ [[tulongai]] — AI-powered benefits navigator helping Filipino families discover which of 4 government programs they

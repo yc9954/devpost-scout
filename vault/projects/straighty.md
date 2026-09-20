@@ -1,0 +1,56 @@
+---
+slug: "straighty"
+url: "https://devpost.com/software/straighty"
+title: "Straighty"
+hackathon: "World’s Largest Hackathon presented by Bolt"
+organization: "StackBlitz / Bolt"
+winner: true
+words: 1426
+team_size: 4
+has_repo: true
+has_live: true
+has_video: true
+tags:
+  - "project"
+  - "mechanism/cross_origin_web"
+  - "mechanism/on_device_local"
+  - "mechanism/realtime_stream"
+  - "mechanism/vision_ocr"
+  - "domain/developer_tools"
+  - "domain/finance_payments"
+  - "domain/health_clinical"
+  - "domain/mental_health"
+  - "user/developer"
+  - "substrate/code_repository"
+  - "substrate/sensor_telemetry"
+  - "substrate/video_visual"
+---
+
+# Straighty
+
+> Your AI Sloth Companion for Perfect Posture!
+
+[Devpost](https://devpost.com/software/straighty) · hackathon [[World-s Largest Hackathon presented by Bolt]]
+
+## Facets
+
+**mechanism** [[cross_origin_web]] [[on_device_local]] [[realtime_stream]] [[vision_ocr]]
+**domain** [[developer_tools]] [[finance_payments]] [[health_clinical]] [[mental_health]]
+**user** [[developer]]
+**substrate** [[code_repository]] [[sensor_telemetry]] [[video_visual]]
+
+**stack** bolt.new, computer-vision, javascript, machine-learning, react, tensorflow.js, typescript, vite
+
+## How they structured the write-up
+
+- inspiration 💡
+- what it does 🎯
+- how we built it 🛠️
+- challenges we ran into 😅
+- accomplishments that we're proud of 🎉
+- what we learned 📚
+- what's next for straighty 🚀
+
+## Body
+
+Straighty Happy Posture Straighty Sad Posture Straighty Angry Posture Straighty on Mobile Straighty Web: Bringing Smart Posture Monitoring to Everyone Inspiration 💡 The idea for Straighty first struck me nearly 10 years ago when Pokémon GO launched. Seeing millions of people suddenly connect their smartphones with the real world made me think: What if we could use this same technology to help people with their health? That spark led to years of experimentation. My team and I built multiple AI fitness prototypes that won recognition at major hackathons: 1st place at LabLab.ai with QuantumGains 1st place at HackYeah 2024 with Straighty.app 1st place at DegenHack 2024 with FitBet Featured twice on ProductHunt for Straighty.app But despite building a successful macOS version of Straighty that won awards and gained traction, I kept hitting the same wall: accessibility . The native app required macOS 15+, TestFlight access, and wasn't available on the App Store. People loved the concept but couldn't easily try it. Then, at a local OpenAI meetup a few days ago, something clicked. People still remembered Straighty and kept asking: "When will there be a Windows version? An iOS version? A web version?" That same weekend, I got an email from Bolt.new about their hackathon with extra credits to build something over the weekend. It was the final call. Time to bring Straighty to everyone, everywhere. What it does 🎯 Straighty Web is a real-time posture monitoring system that runs entirely in your browser. Using your device's camera and computer vision, it: Monitors your posture by tracking key body points (head position, shoulder alignment) Provides instant feedback with a 3-state system designed by a physiotherapist Works on any device - laptop, Mac, Windows, iPhone, Android Requires no installation - just open your browser and start Protects your privacy - all processing happens locally, nothing sent to servers The 3-State Posture System Working with my physiotherapist friend, we designed three distinct feedback states: Perfect Posture 🟢: Happy sloth with green background - "Perfect posture! ⭐ Excellent! You're sitting like a pro!" Minor Issues 🟡: Neutral sloth with warm background - "Lift that chin up" with helpful tips like "Pretend you're balancing a book on your head" Poor Posture 🔴: Unhappy sloth with red background and stress marks - "Shoulders back, chin up!" with guidance like "Think of a string pulling you up from the top of your head" Each state provides actionable coaching tips rather than just alerts, making it educational and encouraging rather than punitive. How we built it 🛠️ Building Straighty Web was only possible thanks to Bolt.new's incredible capabilities . What would have taken weeks of setup and configuration, I accomplished in a weekend. The Tech Stack React for the user interface and state management TensorFlow.js for browser-based machine learning and pose detection MediaDevices API for camera access across all devices Web Audio API for posture alert sounds CSS Grid & Flexbox for responsive design I chose these technologies because they're universally supported across browsers and devices, require no installation , and can perform real-time computer vision entirely on the client side. The Bolt.new Advantage Bolt.new was absolutely game-changing for this project. Instead of spending hours configuring build tools, setting up TensorFlow.js, and debugging cross-browser compatibility, I could focus on what mattered: Instant environment setup with all dependencies configured Real-time iteration on the pose detection algorithms Cross-platform testing without manual device setup Performance optimization suggestions built-in Deployment ready without configuration overhead What normally takes days of setup, Bolt.new handled in minutes. This let me focus purely on the computer vision logic and user experience . Challenges we ran into 😅 The Major Performance Challenge The biggest challenge was one I knew well from building apps on other platforms: performance optimization when processing nearly every frame . Running real-time pose detection while maintaining smooth performance is incredibly resource-intensive. From my experience with the macOS version and previous prototypes, I learned that: Processing every frame kills performance and drains battery Rendering camera preview takes massive resources on top of the AI processing Frame processing optimization is critical for real-time apps The Creative Solution: No Camera Preview Instead of showing a traditional camera preview like I originally envisioned, I made a bold design decision: remove the camera preview entirely and replace it with Straighty's main character - a Tamagotchi-style sloth . This solved multiple problems at once: Dramatically improved performance by eliminating video rendering overhead Reduced resource usage allowing for better frame processing efficiency Created a more engaging experience - the sloth reacts to your posture like a virtual pet Simplified the UI making it less intimidating and more approachable Future-proofed for optimization - easier to cut more frames if needed The sloth has three distinct emotional states that correspond to your posture quality, turning posture correction into a game-like experience rather than a clinical monitoring tool. Designing the Feedback System Working with my physiotherapist friend was crucial for creating meaningful, actionable feedback . Instead of generic "sit up straight" messages, we developed specific coaching cues: "Pretend you're balancing a book on your head" for chin position "Think of a string pulling you up from the top of your head" for overall posture "Shoulders back, chin up!" for comprehensive correction Cross-Device Compatibility What worked perfectly on my MacBook failed on mobile devices due to different camera orientations, screen sizes, and processing power. Solution : Built responsive design with device-specific optimizations and fallback options for lower-powered devices. Accomplishments that we're proud of 🎉 Breaking Down Barriers Universal Access : Anyone with a browser can now try Straighty Zero Installation : No more TestFlight requirements or OS restrictions Cross-Platform : Works on Windows, Mac, iOS, Android, Linux Instant Gratification : Users can test the concept in 30 seconds Technical Achievements Real-time pose detection running smoothly in browsers Optimized performance without camera preview rendering 3-state feedback system with physiotherapist-designed coaching Privacy-first architecture with local-only processing Innovation in UX Design Tamagotchi-inspired interface that makes health monitoring fun Performance-first approach that prioritizes functionality over flashy features Educational feedback that teaches proper posture techniques Gamified experience through the sloth character's emotional states Building on Success This web version validates years of research from our award-winning prototypes : Proven concept from multiple hackathon victories Refined algorithms from the macOS version User feedback from our existing community Physiotherapist-approved posture metrics and coaching What we learned 📚 Performance Trumps Pretty Features The biggest lesson: sometimes removing features makes a better product . Eliminating the camera preview improved performance so much that the overall experience became far superior. Expert Input Makes All the Difference Collaborating with a physiotherapist transformed the app from a simple "good/bad" detector into an educational coaching tool . The specific, actionable feedback makes users actually learn proper posture techniques. Creative Constraints Drive Innovation Working within browser performance limitations forced me to think creatively about UX. The Tamagotchi-style sloth wasn't planned - it emerged from the constraint of needing to eliminate the camera preview. Bolt.new as a Multiplier This project taught me that modern development tools don't replace developers - they multiply our capabilities . I could focus on the hard problems while Bolt.new handled the infrastructure. Iteration Speed Changes Everything Being able to test performance optimizations in minutes rather than hours was transformative. I went through dozens of iterations to find the right balance between accuracy and performance. What's next for Straighty 🚀 Immediate Roadmap Enhanced sloth animations with more personality and reactions Customizable sensitivity settings for different work environments Progress tracking showing how your sloth "grows" with better posture Additional coaching tips from physiotherapy experts Advanced Features Sloth evolution system where good posture unlocks new sloth variants Integration with productivity tools (Slack, calendar apps) Social features to compare sloth happiness with friends Workplace wellness dashboard for teams The Bigger Vision Straighty Web is just the beginning. Our 10+ years of AI fitness research points toward a future where: AI personal trainers provide real-time form correction Computer vision makes health monitoring accessible to everyone Gamified health apps make wellness engaging and fun Expert-designed feedback replaces generic health reminders Platform Expansion Browser extension for always-on monitoring with your sloth companion Progressive Web App with offline sloth care API platform for other developers to build health games Enterprise solution with team sloth competitions Try Straighty Web today and meet your new sloth companion. Because good health shouldn't require expensive hardware or complicated software - just a browser, a cute sloth, and the commitment to keep them happy with good posture. Built with ❤️ using Bolt.new in one weekend, refined over 10 years of research. <div

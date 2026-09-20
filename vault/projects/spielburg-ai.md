@@ -1,0 +1,57 @@
+---
+slug: "spielburg-ai"
+url: "https://devpost.com/software/spielburg-ai"
+title: "Spielberg AI"
+hackathon: "TreeHacks 2025"
+organization: "TreeHacks"
+winner: true
+words: 1498
+team_size: 3
+has_repo: true
+has_live: false
+has_video: true
+tags:
+  - "project"
+  - "mechanism/realtime_stream"
+  - "mechanism/retrieval_grounding"
+  - "mechanism/vision_ocr"
+  - "mechanism/voice_speech"
+  - "domain/developer_tools"
+  - "domain/housing_homeless"
+  - "domain/scientific_research"
+  - "user/developer"
+  - "user/legal_professional"
+  - "substrate/code_repository"
+  - "substrate/document_pdf"
+  - "substrate/transcript_audio"
+  - "substrate/video_visual"
+---
+
+# Spielberg AI
+
+> AI-powered video editing with CUDA optimization—our advanced AI agent executes complex edits with natural language, slashing 10-minute processing tasks to seconds using the GPU!
+
+[Devpost](https://devpost.com/software/spielburg-ai) · hackathon [[TreeHacks 2025]]
+
+## Facets
+
+**mechanism** [[realtime_stream]] [[retrieval_grounding]] [[vision_ocr]] [[voice_speech]]
+**domain** [[developer_tools]] [[housing_homeless]] [[scientific_research]]
+**user** [[developer]] [[legal_professional]]
+**substrate** [[code_repository]] [[document_pdf]] [[transcript_audio]] [[video_visual]]
+
+**stack** cuda, elevenlabs, fastapi, ffmpeg, gemini, googlegenai, huggingfacetransformers, langchain, lumalabs, next.js, openai-gpt, openai-whispr, opencv, tailwind
+
+## How they structured the write-up
+
+- inspiration & social impact
+- what it does
+- how we built it
+- challenges we ran into
+- accomplishments that we're proud of
+- what we learned
+- what's next for spielberg ai
+
+## Body
+
+Inspiration & Social Impact Our inspiration came from a close friend—a YouTuber who constantly struggled with the repetitive and time-consuming nature of short-form content editing. Despite having great content ideas, they found the process of cutting clips, applying effects, and formatting videos for multiple platforms incredibly tedious. We wanted to eliminate the frustration and automate as much of the workflow as possible. Our goal was to build an AI-powered video editor that understands natural language commands and applies professional-grade edits in seconds, letting creators focus on their content, not the editing grind. We achieved this goal through Spielberg AI, a novel video editor that works solely with natural language (and one small button that does all the work for you—if you want). Currently, there are so many stories that people want to share and virality will spread them across the entire world. This is all limited by editing which is extremely difficult and unintuitive. People often do not know the formula for virality and Spielberg AI will eliminate the barrier of people telling their stories by making editing trivial. What it does Spielberg AI is an AI-powered video editor that allows creators to edit videos using only natural language. Instead of manually cutting, trimming, and applying effects, users can describe their desired edits in plain English, and Spielberg AI—powered by the agent, our AI agent—handles the rest. There is a strong emphasis on developing and editing viral videos for the users. How we built it FFMPEG - Video Encoding The core of our project is built around FFMPEG, the industry-standard video encoding and decoding backend. We started with a simple real-time preview system using FFMPEG to encode frames and allow for precise, frame-focused cuts. From there, we integrated AI-driven enhancements to streamline and automate complex video editing tasks. To push performance to the extreme, we custom-compiled FFMPEG with NVENC encoding and CUDA hardware acceleration. This optimization massively reduced processing times, enabling near-instantaneous rendering of complex edits. What once took minutes now executes in mere seconds (on our gaming computer). AI Agent Spielberg is driven by the agent, a highly advanced AI agent designed to interpret natural language commands and execute sophisticated editing tasks seamlessly. The agent's intelligence is built upon a multi-layered NLP and processing pipeline, leveraging: Google Gemini for high-level natural language parsing and all multimodal support. All image and video understanding is completed through Gemini to enable the agent to understand what is occurring in the video that is provided by the user. We tested the video and frame processing capabilities of many models and Gemini's multimodal capabilities far surpassed all other models. The agent would fail to understand what is happening in the video, and thereby be unable to process and edit the videos properly without Gemini. We would say using Gemini to make a video editor possible is a pretty cool use case! OpenAI models & Whisper for speech-to-text, intelligent audio processing, and chat integrations. The agent utilizes OpenAI in a fairly creative way leveraging structured output and repeated sampling to understand what the user wants accomplished and how we can go about accomplishing it. The Whispr API is also used for video understanding. We found that audio is a great way to understand the video and this is all accomplished through Whispr, as other APIs were incredibly faulty. Through the agent's understanding developed with Whispr combined with GPT calls, we could identify where to put sound effects and trim the video based on dead audio. Multimodal Retrieval-Augmented Generation (RAG) Pipeline for dynamically sourcing editing patterns and context-aware adjustments. We consulted various YouTubers with millions of subscribers and views on how to make viral short-form content. They pointed us to resources and gave us some of their own personal guides. We also used OpenAI DeepResearch & Perplexity to create informational documents on how to make a viral video. The agent then uses these documents in a Multimodal RAG pipeline to understand how to make a viral video so with the press of a button, the agent knows what's best and can execute it by interacting with our software infrastructure. Verification Layers for the agent to ensure correct outputs at each step of the process and limit hallucinations. Given our research experience in inference time compute at Hazy Research in Stanford AI Laboratory (SAIL), we have a strong understanding of SOTA Verification. We ran quick small-scale experiments regarding sampling, statistical methods, Unit Test Generation/Evaluation, LM Judges, and Reward Models, and used the best judge for each layer. More often than not, it was LM Judges with some small combination of statistical methods. The backend is structured into multiple Python layers, each optimized for efficiency, with distinct modules handling inference, video processing, and audio synthesis. The agent seamlessly works across these layers. Advanced Hardware Acceleration with CUDA Our project takes full advantage of NVIDIA GPUs and CUDA acceleration to handle the most computationally intensive workloads. Encoding & Decoding: By using a custom-compiled FFMPEG with CUDA-powered NVENC, we parallelized the encoding of 4K video, dramatically improving performance for long-form content like podcasts. Real-time Color Grading: The most computationally demanding process was applying AI-driven color filters to videos. Instead of relying on FFMPEG’s built-in filters (which took 40+ seconds for a 10-minute 720p video), we wrote a fully custom CUDA kernel from scratch. Using OpenAI APIs, we generated LUT-based color filters from natural language prompts. Our CUDA kernel applied these filters nearly instantly, outperforming traditional GPU-accelerated FFMPEG operations. Thread-Level Parallelism: CUDA threads were optimized not only for video processing but also for speeding up AI operations, such as frame analysis via Gemini, transcription, and audio synthesis tasks. API Integrations Beyond video processing, we integrated several key APIs to enhance the intelligence and automation of the editor: Luma API for advanced visual effects. Luma AI enables us to generate videos using their SOTA VLM. We aim to keep image characteristics the same and generate videos. This is incredibly important as these days some of the leading viral short-form content is AI-generated videos, so we needed a way for creators to develop AI videos using natural language, our integration allows the user to do this. ElevenLabs API is used to generate voiceovers. Most viral short-form content uses AI voiceovers and does not use a real person's voice. Our integration allows the user to generate an AI voiceover which is trendy and goes viral quicker, using their natural language chats. Challenges we ran into The biggest challenge we faced was the sheer computational demand of our backend operations. Web GPUs are significantly weak for video processing, which is incredibly demanding, and we quickly realized we needed a proper GPU to achieve this. To solve this Reilly drove down to UC Santa Cruz, convincing a friend to lend their high-end gaming PC for the project. This borrowed GPU became the foundation of our CUDA optimizations, allowing us to crank out the custom CUDA kernel that enabled real-time AI-driven edits. We wanted to use a GPU that someone's actual computer has so real editors could leverage features in Spielberg and not need to use brev.dev to rent an H100. Additionally, this only optimizes the best features of Spielberg, but the average person can still use Spielberg, but they will just wait for longer. With the newfound power, we tuned our CUDA kernels, implemented multi-threaded AI inference, and reduced processing times by orders of magnitude. What started as an impossible challenge turned into our biggest breakthrough—a GPU-powered AI editor that processes in seconds what used to take minutes. Also, we found version control when we had a sloppy codebase was very difficult. In the end, "adeng" is our working branch as the main branch has been slightly corrupted and is no longer functional. Accomplishments that we're proud of Building a video editor in 36 hours? That's pretty cool and something we are proud of doing. Working with videos is extremely difficult and processing them with LLMs and having agents work with them and interact with them is very difficult. Successfully built an AI-powered video editor that edits using only natural language. Achieved real-time AI-driven video editing using custom CUDA-accelerated processing. Developed a Multimodal RAG system that learns from YouTube creators to optimize viral content. Integrated Google Gemini, OpenAI Whisper, Luma AI, and ElevenLabs to create a seamless editing experience. What we learned As corny as it sounds, we learned that we can literally do anything if we put our minds to it. We learned so many new APIs, tools, and tricks and accomplished so much stuff we thought would be impossible without an army of engineers like Netflix or Adobe. What's next for Spielberg AI We want to expand the agent's capabilities and finally take the time to deploy this project for the world to use. We know this is a serious problem for creators and we want to democratize content creation so everyone can tell stories about their lives. We would love to talk to Neo about turning this into a company. <div

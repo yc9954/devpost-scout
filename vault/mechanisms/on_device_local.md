@@ -1,0 +1,181 @@
+---
+facet: "mechanism"
+name: "on_device_local"
+projects: 598
+winners: 598
+tags:
+  - "facet"
+  - "mechanism"
+---
+
+# on_device_local
+
+`mechanism` · **598** projects, **598** of them winners.
+
+## Pairs with
+
+- [[realtime_stream]] — 308 together  <sub>(mechanism)</sub>
+- [[video_visual]] — 281 together  <sub>(substrate)</sub>
+- [[developer_tools]] — 249 together  <sub>(domain)</sub>
+- [[structured_db]] — 233 together  <sub>(substrate)</sub>
+- [[geospatial]] — 208 together  <sub>(substrate)</sub>
+- [[web_dom]] — 165 together  <sub>(substrate)</sub>
+- [[developer]] — 153 together  <sub>(user)</sub>
+- [[education]] — 146 together  <sub>(domain)</sub>
+- [[educator_student]] — 142 together  <sub>(user)</sub>
+- [[finance_payments]] — 135 together  <sub>(domain)</sub>
+- [[health_clinical]] — 130 together  <sub>(domain)</sub>
+- [[code_repository]] — 126 together  <sub>(substrate)</sub>
+
+## Projects
+
+- ★ [[asap-1h45pk]] — Empowering industries with AI-driven insights through Retrieval Augmented Generation (RAG), simplify
+- ★ [[amanat]] — Privacy-first AI agent for humanitarian organizations that scans cloud services for sensitive data e
+- ★ [[scholarstream]] — Need money for your school fee and upkeeps? ScholarStream finds immediate opportunities (scholarship
+- ★ [[azad-the-community-driven-riding-assistant-for-bikers]] — Azad (free in Persian): Auto-logs rides, real-time group tracking with Serverpod WebSockets, Google 
+- ★ [[extopay-the-last-mile-solution-for-digitizing-cash]] — Next-Generation CBDC solution for digitizing cash: A Highly Secure Mobile and Non-Mobile Solution wi
+- ★ [[proofsift]] — Evidence-proven autonomous DFIR triage that confirms findings only with traceable forensic artifacts
+- ★ [[theta-bash]] — Buyers, and sellers hub that uses Theta in the most efficient way
+- ★ [[camel]] — A 'code-mode' MCP server that allows LLMs to safely generate and execute JavaScript code that calls 
+- ★ [[taief-the-all-in-one-academic-assistant]] — From academic research to Olympiad problems, TaiefMind is your AI co-pilot. Upload papers, extract d
+- ★ [[revenant]] — Platform for visually creating Solidity Smart Contracts.
+- ★ [[biasight-words-matter]] — BiaSight analyzes websites for gender bias, promoting equality in digital content. It scores stereot
+- ★ [[lantern-jm9a5l]] — A language dies every two weeks. Lantern is Duolingo for dying languages: it turns the words a commu
+- ★ [[dreammeridian-geoai-on-pi]] — When disasters strike, networks fail first. DreamMeridian runs LLM-powered spatial queries entirely 
+- ★ [[v-ident-real-time-identity-verification-mobile-application-19kdg7]] — V-Ident: Pulse + pixels = proof. On-device heartbeat detection & frequency forensics catch deepfakes
+- ★ [[epictetus]] — Get practical Stoic advice from Epictetus for your daily problems. Your chats stay fully private wit
+- ★ [[gurwi-learn-anything]] — Gurwi makes mastering complex topics simple and engaging. Learn anything through our unique format o
+- ★ [[takegraph]] — TAKEGRAPH is a self-healing build system for generative media that regenerates only what changed, re
+- ★ [[blockdrive]] — Lifebank helps local communities create a virtuous circle of value exchange between three parties — 
+- ★ [[nova-architect]] — An autonomous AI cloud engineer that designs and deploys AWS infrastructure directly in your console
+- ★ [[pedirounds-ai-co-resident-for-pediatric-morning-rounds]] — The safety net between overnight and attending rounds. 4 AI agents catch deterioration, flag unsafe 
+- ★ [[legalmindz]] — Ethiopia has 2.5 million businesses but only 3,000 lawyers. Legalmindz brings Legal AI for 120 Milli
+- ★ [[brofundyourself]] — We are making it easier for people to fund their dreams by tokenizing time in a regenerative way. Ha
+- ★ [[mybubble-guiding-you-to-the-new-normal]] — MyBubble is the 'digital bubble' that keeps you alert, informed, and safe in the 'new normal'!
+- ★ [[ghostpipes-yahoo-pipes-reborn-with-ai-intelligence]] — Visual pipeline automation tool with AI-powered recommendations. Drag-drop nodes, realistic pipe con
+- ★ [[pulsepoint-2hmejd]] — AI-powered medical triage at the speed of life from instant assessment to doctor in 60 seconds.
+- ★ [[agrimind-97zntd]] — AgriMind combines a robotic guardian with live farm sensors and AI video/image analysis to cut water
+- ★ [[brightact-a7e5my]] — We streamline and gather support for victims of domestic violence, easy to find, & safe.Collaborativ
+- ★ [[caladrius]] — The Privacy-First AI Triage Assistant
+- ★ [[pickli]] — Disrupting streaming platform silos on content discoverability and traditional history-based recomme
+- ★ [[apex-qkmxa0]] — A reimagined way to enjoy motorsports
+- ★ [[sai-m2wl0p]] — A voice-native OS agent that sees your screen. Powered by Amazon Nova Lite for routing and Nova Pro 
+- ★ [[phantom-auth0]] — A restricted local browser agent that uses Auth0 Token Vault to securely act across Google and Linea
+- ★ [[ntta]] — otto eliminates context-switching by unifying GitHub, Gmail, Calendar, and all your productivity too
+- ★ [[ecokiosk-ai-powered-machine-su0adv]] — Recycle. Get rewarded. It's that simple.
+- ★ [[argus-it-never-forgets-59fuin]] — Data is gold, but stays passive in chats. Argus is a proactive Gemini 3 agent that connects past Wha
+- ★ [[forge-z8v4qm]] — 30 million underserved patients. No engineers. Forge lets safety-net clinics build permanent, verifi
+- ★ [[project-iris-edge-ai-aac-platform]] — Project Iris is a zero-latency, eye-tracking AAC platform powered by local WebGPU AI, featuring Live
+- ★ [[gridveda]] — GridVeda gives powerline operators predictive failure detection at edge. Ensemble AI monitors 20 tra
+- ★ [[cloak-0k2ojh]] — Privacy Layer for Polkadot's Multi-Chain Ecosystem
+- ★ [[csgo-tracker]] — Elevating Every Move: Your Ultimate CS:GO Tournament Analysis Tracker
+- ★ [[anyform-ai-form-builder-30au41]] — AnyForm is an AI powered, tool-first platform that lets you build complex, validated forms in under 
+- ★ [[xtrau]] — The revolutionary platform for ordering custom gaming computers. It offers an impressive set of feat
+- ★ [[unsinkable-ship]] — Two lines of code make LLM apps unsinkable. Unsinkable routes any OpenAI-SDK app through TrueFoundry
+- ★ [[opioid-action-engine]] — The opioid epidemic doesn't wait for funding to catch up.
+- ★ [[dataset-trust-auditor]] — Know what's in your data before you train on it. Dataset Trust Auditor scores datasets across 8 trus
+- ★ [[promise-erftax]] — A blockchain service for founders, creators and regular users. Built to help improve trust in our di
+- ★ [[simuniverse]] — All in one interactive simulations across STEM disciplines
+- ★ [[farmops-desk]] — The operating system for Nigerian poultry and catfish farms. Ops, feed, money, and AI in one calm vi
+- ★ [[pomodeck]] — Your focus, at your fingertips.
+- ★ [[tonguekeeper]] — Every 2 weeks, a language dies. TongueKeeper deploys autonomous AI agents that compile and cross-ref
+- ★ [[dynamic-w3a0hg]] — Dynamic represents the solution to maintain social distances between students, teachers and staff wi
+- ★ [[island-of-space-time]] — Summon creatures using artificial intelligence, with parameters bound by smart contracts. Built usin
+- ★ [[browseback]] — BrowseBack gives your browser a photographic memory powered by Chrome’s built-in AI. Search by conte
+- ★ [[sentinel-c8ki50]] — Full-stack AI for bare-metal embedded systems. Proven by shipping a complete bare-metal OS on Raspbe
+- ★ [[capable-images-for-confluence-asset-library-image-manager]] — Effortlessly share, manage, and insert images into Confluence pages with a centralized asset library
+- ★ [[the-everyday-avatar-nft]] — An NFT version of the classic paper doll toy, for use as a profile pic. Using our dApp, Avatar attri
+- ★ [[cadence-y6i1cs]] — AI-powered web app that screens for Parkinson's disease from a 30-second voice sample, providing exp
+- ★ [[solocoin]] — Get rewarded to shop locally with your friends. Helping SMBs and local businesses towards economic r
+- ★ [[paper-cuts]] — Empowering the next generation of builders, thinkers, and dreamers by bringing back play
+- ★ [[perceiv-io]] — 🪶 PERCEIV/IO leverages AI image recognition and various LLMs to assist persons with visual and/or au
+- ★ [[melio-ai]] — Melio AI, built with Kiro IDE, is revolutionizing music education by making creativity accessible to
+- ★ [[dhangyan-6b7w50]] — Don't teach financial literacy. Let people LIVE it.
+- ★ [[sphere-dock]] — Turn Logitech MX into a deep-work AI console that restores your full coding workspace with one gestu
+- ★ [[beef-xk5pif]] — For leaders in high-performance environments, we aggregate real-time wearable data from teams, provi
+- ★ [[nomi-aoim58]] — A Multi-Sensor Network System for Seniors
+- ★ [[marionette-the-on-device-multimodal-ai-agent]] — Marionette is a Chrome extension that automates the web entirely offline using Gemini Nano and Chrom
+- ★ [[dill-pkl]] — Turn any CSV into a production-ready model and know exactly how and why, every step of the way.
+- ★ [[neurostem-ai-powered-stem-for-every-mind]] — Empowering neurodivergent students through AI.
+- ★ [[skindetect-ai]] — From just one photo, SkinDetect AI turns into your personal dermatologist, detecting skin diseases w
+- ★ [[swasthai-guardian-urzc29]] — A highly secure, offline-first AI platform connecting villagers, ASHA/NGOs, and hospital admins. It 
+- ★ [[caps-chromium-ai-plugin-skeletton]] — Let AI code for you. Plugins are hard to test, even harder for AI Tools. This project enables Kiro t
+- ★ [[kirapilot-navigate-your-day-powered-by-kira-ai]] — A beautifully designed, native-feeling productivity app with an intelligent AI companion that helps 
+- ★ [[forrus]] — Forrus is an AIoT device powered by TigerGraph and AWS EC2 DL1 for real-time alerts for wildfire mit
+- ★ [[residue]] — Find how you focus, meet your ideal study partner
+- ★ [[shadespan]] — The same t-shirt is obvious on one customer and nearly invisible on another. ShadeSpan renders every
+- ★ [[coupons]] — Buy Smart, Give Back! Generate waste reducing coupons using Square API, then connect to local charit
+- ★ [[vaidyasaarathi]] — "Your Intelligent Healthcare Companion" - Breaking language barriers, preserving privacy, empowering
+- ★ [[arduino-controlled-electrolysis-system-for-bleach-production-kodm9u]] — Imagine producing your own bleach right at home, simply by adding salt to water and pressing a butto
+- ★ [[nutshell-auftp2]] — Empowers users with motor disabilities to browse the web completely hands-free using just their head
+- ★ [[cockatoos]] — Cockatoos provides an intuitive speech training platform that allows language learners to improve th
+- ★ [[documorph-ai-ernie-multimodal-document-transformer]] — Transform static PDFs into dynamic, responsive, and interactive HTML webpages with AI-powered semant
+- ★ [[memoray]] — Memory just moved from your brain to your frames. Your memories are getting a firmware update. Memor
+- ★ [[pact-q8nvkb]] — Contract-based behavioral observability for AI agents, built natively on Splunk. Know not just that 
+- ★ [[johnkeats-ai]] — A voice-first AI companion that holds uncertainty instead of solving it. Built on Gemini 2.5 Flash N
+- ★ [[therms-thermoregulation-wearables-with-ai-powered-insights]] — A non-invasive wearable using novel thermoregulation research to provide precise heating/cooling to 
+- ★ [[dot-bringing-humanity-to-in-home-care]] — Agentified personal in-home care for the elderly. Multimodal S2S agent system handles patient charts
+- ★ [[refound-journalism]] — A decentralized publishing platform and news marketplace with ability to create verifiable content. 
+- ★ [[chuck-it]] — Save anything, find everything—100% offline, 100% private, 0% effort.
+- ★ [[nova-sync-master]] — Bridging legacy data to autonomous web actions with Nova Act's reliable reasoning and human-in-the-l
+- ★ [[time-crystal]] — 1v1 Strategy Battler, using Functions and VRF for secret randomness, Automation for gameplay validat
+- ★ [[inferopt]] — 75% fewer tokens. Same answers. Longer conversations.
+- ★ [[ugonz-alzheimers-ai-prediction-model]] — Explainable AI for early Alzheimer's detection—fusing cognitive, imaging, and genetic biomarkers to 
+- ★ [[touche-cfp6hs]] — Safe Access control to fight COVID-19 - enabling effective deconfinement
+- ★ [[argos-ic2tyk]] — Local-first system scoring insider trading on cryptocurrency. A LangGraph supervisor with 5 sub-agen
+- ★ [[craf-te]] — Design smarter, not harder . AI builds your canvas, you perfect every pixel.
+- ★ [[zenith-og0u5f]] — Unlock advertising's future: Transparency, efficiency, and fairness. Verifiable transactions for adv
+- ★ [[helix-ai-zw1vfs]] — Free AI Sidebar Chatbot in any site to prompt, talk to your site, attach images comes with built-in 
+- ★ [[vidya-setu-b5xi0y]] — Bridging every learner to their potential — AI-powered gap detection, peer collaboration, silent saf
+- ★ [[project-n1fsk7]] — Sentinel Protocol: An indestructible, offline-first vault. Hardware-accelerated AES-GCM ensures zero
+- ★ [[fdvnjvd]] — Waylo is an AI that lives on your Mac and guides you through anything - a pulsing red dot shows exac
+- ★ [[digitizing-property-tax-systems-with-google-maps]] — Mapping Every Property: A GIS-Powered Platform Transforming Tax Collection in Nigeria
+- ★ [[devbloom-studio]] — Kids need more than step-by-step tutorials to learn code. DevBloom helps ages 9–12 learn HTML, CSS, 
+- ★ [[wand-a-live-agent-that-sees-browses-and-clicks-with-you]] — Wand turns the web into something you can talk to and point at. It’s a live AI agent that sees your 
+- ★ [[curserve]] — Introducing Curserve: a fast and scalable server-side engine for agentic coding.
+- ★ [[writing-monks]] — Writing Monks allows DAOs to manage their twitter account in a decentralised way. Every DAO member c
+- ★ [[torq]] — Turn any car into a self-driving vehicle with the Jetson Thor. Retrofit autonomy, enable rideshare, 
+- ★ [[shard-2kvsch]] — Do you have a laptop? You're potentially losing on making at least $10/day side income with Shard. I
+- ★ [[medvault-3nwvsj]] — Encrypted health records in your pocket. Share with any doctor in 10 seconds, in any language. Works
+- ★ [[agrinexo-er4mag]] — Get critical agri-environmental information as NDVI maps, climate analysis and agrometeorological we
+- ★ [[rehearse-nzow16]] — Got an upcoming Interview or Presentation? Use Rehearse, an AI Powered practice platform. Rehearse..
+- ★ [[pushpa-pyro-uav-system-for-high-risk-patrol-and-alerting]] — PUSHPA gives firefighters eyes on the ground and in the air. Smart glasses steer drones for real-tim
+- ★ [[health-monitor-it92fn]] — Measure heart rate anytime, anywhere with just your phone camera. Includes HRV analysis, facial vita
+- ★ [[cardboard-farm-z1c4oi]] — Giving players increased agency in my world, by letting them design, grow and decorate their own far
+- ★ [[object-recyclable]] — Check recyclability through yours lens and save the world! ♻
+- ★ [[straighty]] — Your AI Sloth Companion for Perfect Posture!
+- ★ [[safeguard-a1hfp4]] — Fully protect your LLM application against prompt injection attacks and malicious inputs in less tha
+- ★ [[keep-it-clean-b7suj8]] — SeedsONEarth is a p2p marketplace connecting humans (crypto-native, institutional sponsors, users) a
+- ★ [[whisper-hd54xc]] — Whisper: End-to-end encrypted messaging—no servers, no tracking, just pure privacy.
+- ★ [[adex-adaptive-data-extraction-system]] — Adex leverages temporal redundancy in video streams to mitigate stochastic noise. By analyzing multi
+- ★ [[scup-smart-checkup]] — Smart telemedicine platform, based on IoT devices that provide Vital signs and historical values.
+- ★ [[vision-mama-llm-vision-pro-agents-fun-learning]] — Remember Cooking Mama? We turned it into a Conversational Agent for Vision Pro that teaches cooking!
+- ★ [[luma-ai-powered-personalized-health-context]] — WebMedica is an AI-powered Chrome extension that turns dense medical studies into personalized, user
+- ★ [[buildit-urw59q]] — The majority of STEM resources are one-size-fits-all and English-only. BuildIt fixes that by generat
+- ★ [[fantasy-campaign]] — A blend of rpg and tabeltop gaming powered by Chainlink VRF and creativity! Users create a character
+- ★ [[thermohalo-ai-firearm-detection-84vpze]] — ThermoHalo uses AI-powered thermal imaging to detect concealed weapons at school entrances. Safe, FE
+- ★ [[j-jzktbg]] — Fluent.ly revolutionizes the ability to refine language ability. The synergy between our mission and
+- ★ [[sage-yvlpqb]] — Grounded AI tutoring, built on your curriculum, Interactive Learning
+- ★ [[personalization-aware-e-commerce-shopping-assistant]] — Chatbot that lets you talk with private eCommerce data. Instead of searching for products by name, y
+- ★ [[ontab]] — Cursor Tab for Everything
+- ★ [[disaster-brain]] — When the internet dies and lives are on the line, Disaster Brain is the only AI that still works.
+- ★ [[diffusion-earth]] — Infinite Environments, Endless Exploration
+- ★ [[naksh-bot]] — Turns hours of hand-drawn Census field maps into accurate, ready-to-use HLB layouts in minutes built
+- ★ [[deshitrip]] — Offline-first AI travel companion for low-connectivity regions—bilingual assistance, synced squad ex
+- ★ [[facestylr]] — Polyvore meets Augmented Reality for styling your face. Make meaningful product connections with you
+- ★ [[galuxium-the-ai-that-builds-startups-autonomously-zxg8rp]] — Galuxium is an autonomous multi-agent AI platform that transforms any idea into a complete startup —
+- ★ [[nimbus-q025jc]] — Open Source the cloud. SaaS is dying and we're here to take the fight home. We're bringing the fight
+- ★ [[locasentiment]] — LocaSentiment: Your AI guide to local spots. Features semantic search, sentiment trends, maps, & Ver
+- ★ [[pragati]] — Web app for underdeveloped but talented women to become financially independent by allowing them to 
+- ★ [[blow-soap-bubbles-in-ar]] — In the pursuit of making augmented reality experiences more physical, Data Sapiens have created an I
+- ★ [[lily-memo]] — Lily Memo turns your notes, PDFs, and lectures into AI-generated explanations, diagrams, and full qu
+- ★ [[sigmora-sigmora-org]] — Generative media at production scale, for a fraction of the cost. Genblaze orchestrates every model;
+- ★ [[memetastic]] — Summon and Search Dank Memes Anywhere and Anytime!
+- ★ [[seance]] — Explore the world's darkest legends
+- ★ [[last-bottle]] — Make your last single use bottle, your last. Explore a plastic bottle's recycling journey, exposing 
+- ★ [[agrowise-4b2szv]] — AgroWise fuses low-cost root-zone sensors with AI and IVR to provide precision farming via any phone
+- ★ [[postthread-uhgac6]] — PostThread is a web3 social media app that rewards it users instead of extracting from them. To do t
+- ★ [[candb]] — Meet CanDB, the first flexible and truly horizontally scalable NoSQL database built for the Internet
+- ★ [[cro25word]] — Cro25word is the marriage of Wordle and Sudoku and a classic crossword; resulting in an addictive pu
+- ★ [[childgrowthmonitor]] — Quick, accurate data on malnutrition
+- ★ [[project-chronos-mhri13]] — AI-powered ICU early warning system predicting sepsis, hypotension, & hemodynamic collapse 2-6 hours

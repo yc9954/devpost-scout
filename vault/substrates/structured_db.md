@@ -1,0 +1,181 @@
+---
+facet: "substrate"
+name: "structured_db"
+projects: 2328
+winners: 2328
+tags:
+  - "facet"
+  - "substrate"
+---
+
+# structured_db
+
+`substrate` · **2328** projects, **2328** of them winners.
+
+## Pairs with
+
+- [[realtime_stream]] — 1081 together  <sub>(mechanism)</sub>
+- [[developer_tools]] — 843 together  <sub>(domain)</sub>
+- [[video_visual]] — 794 together  <sub>(substrate)</sub>
+- [[geospatial]] — 752 together  <sub>(substrate)</sub>
+- [[web_dom]] — 672 together  <sub>(substrate)</sub>
+- [[developer]] — 576 together  <sub>(user)</sub>
+- [[finance_payments]] — 574 together  <sub>(domain)</sub>
+- [[education]] — 484 together  <sub>(domain)</sub>
+- [[educator_student]] — 476 together  <sub>(user)</sub>
+- [[code_repository]] — 471 together  <sub>(substrate)</sub>
+- [[document_pdf]] — 452 together  <sub>(substrate)</sub>
+- [[retrieval_grounding]] — 425 together  <sub>(mechanism)</sub>
+
+## Projects
+
+- ★ [[tradewizard-8xp61z]] — TradeWizard helps people navigate uncertainty with confidence when money is on the line.
+- ★ [[artharaksha]] — When Gen-AI Rescues You from Financial Fraud and Creates Social Impact
+- ★ [[asap-1h45pk]] — Empowering industries with AI-driven insights through Retrieval Augmented Generation (RAG), simplify
+- ★ [[launchpad-7xkjwu]] — Launchpad organizes your college applications in one place. Build your profile, get AI analysis on y
+- ★ [[amanat]] — Privacy-first AI agent for humanitarian organizations that scans cloud services for sensitive data e
+- ★ [[auditguardx]] — Enterprise compliance in minutes, not months at 1% of the cost.
+- ★ [[gemini-movie-detectives]] — A gateway to AI-driven educational content in schools and universities with Gemini and RAG! Challeng
+- ★ [[scholarstream]] — Need money for your school fee and upkeeps? ScholarStream finds immediate opportunities (scholarship
+- ★ [[trudi-threat-response-unit-for-digital-investigation]] — Built on the idea that we're all smarter than any of us: TRUDI pairs an autonomous DFIR agent with a
+- ★ [[aiwritingassistant]] — ASAP is an AI-powered, all-in-one platform for code and documentation generation. It blends AI effic
+- ★ [[signet-0ujsnx]] — Invoice fraud works because paper cannot prove who sent it. Signet has the sender sign the payment f
+- ★ [[bookster-05sbyz]] — AI powered student marketplace & community hub for ISU students
+- ★ [[azad-the-community-driven-riding-assistant-for-bikers]] — Azad (free in Persian): Auto-logs rides, real-time group tracking with Serverpod WebSockets, Google 
+- ★ [[extopay-the-last-mile-solution-for-digitizing-cash]] — Next-Generation CBDC solution for digitizing cash: A Highly Secure Mobile and Non-Mobile Solution wi
+- ★ [[agri-able]] — A tool to help the African farming community to optimize crop production
+- ★ [[mnema]] — The translation workspace with a memory. Context-aware localization for film and comics, built to ke
+- ★ [[proofsift]] — Evidence-proven autonomous DFIR triage that confirms findings only with traceable forensic artifacts
+- ★ [[time-traveler-w3cxp0]] — AI agents that preview risky DB migrations in isolated Docker clones before they merge — audit, depl
+- ★ [[haven-w7mj9g]] — A Silent Shield, A Strong Voice.
+- ★ [[openmed-gtp792]] — A modular AI-driven diagnostic system that intelligently selects specialized models for each case, o
+- ★ [[commerce-bot]] — This is a tutorial for a Messenger chatbot App that help users find jobs on Messenger. This sample A
+- ★ [[camel]] — A 'code-mode' MCP server that allows LLMs to safely generate and execute JavaScript code that calls 
+- ★ [[community-driven-platform-for-identifying-fake-news]] — A community-driven platform to identify fake news
+- ★ [[story-weave]] — AI storytelling meets immersive audio. Generate custom narratives with lifelike narration from any p
+- ★ [[oracle-s-lens]] — The fastest, sleekest portal for global LoL team rankings.
+- ★ [[taief-the-all-in-one-academic-assistant]] — From academic research to Olympiad problems, TaiefMind is your AI co-pilot. Upload papers, extract d
+- ★ [[usepay]] — 1st e-Commerce Dapp for WEB3 users UsePay was created for liberating business deals for WEB3 users a
+- ★ [[pneumonet-building-an-ai-covid-19-product-with-pytorch]] — In this tutorial, we’ll show you how to use Pytorch to build a machine learning web application to c
+- ★ [[lantern-jm9a5l]] — A language dies every two weeks. Lantern is Duolingo for dying languages: it turns the words a commu
+- ★ [[gauntlet-wlv7og]] — Adversarial fuzz-testing for AI agents using Elasticsearch Agent Builder, ES|QL and Workflows. Watch
+- ★ [[test-3cmsd4]] — When your childhood paint app went to college, got a CS degree and came back with AI superpowers
+- ★ [[forge-field-operations-real-time-guidance-engine]] — Voice AI co-pilot for hands-busy industrial technicians: one Qwen-Omni-Realtime session listens, see
+- ★ [[dreammeridian-geoai-on-pi]] — When disasters strike, networks fail first. DreamMeridian runs LLM-powered spatial queries entirely 
+- ★ [[v-ident-real-time-identity-verification-mobile-application-19kdg7]] — V-Ident: Pulse + pixels = proof. On-device heartbeat detection & frequency forensics catch deepfakes
+- ★ [[epictetus]] — Get practical Stoic advice from Epictetus for your daily problems. Your chats stay fully private wit
+- ★ [[vanmeet-fctsv7]] — A trusted van-life community app for nomadic dating, activity-based friendships, verified builder co
+- ★ [[gurwi-learn-anything]] — Gurwi makes mastering complex topics simple and engaging. Learn anything through our unique format o
+- ★ [[kisan-mitra-ai]] — Built on AWS and powered by Amazon Nova Pro, the platform eliminates the literacy barrier with a voi
+- ★ [[takegraph]] — TAKEGRAPH is a self-healing build system for generative media that regenerates only what changed, re
+- ★ [[collision-cloud]] — A calm, clear journey from raw CCTV footage to a complete accident reconstruction report
+- ★ [[thic-tok-music]] — Discover.. Play... Connect....
+- ★ [[bye-buy]] — Selling stuff online sucks... 50+ messages, lowball offers, sketchy buyers. Bye-Buy handles this mes
+- ★ [[sestara-e3w1on]] — Access to private tutoring predicts exam outcomes more than ability. That's an infrastructure failur
+- ★ [[vodo-ai-jwb1l2]] — Building on Vodo Drive and earlier AI experiments, a way to talk with your spreadsheets. Going beyon
+- ★ [[skyscore]] — AI-powered property tool that scores 290+ neighbourhoods in London and NYC for aircraft noise, affor
+- ★ [[health-counseling-portal]] — Health counselling, preventive treatment, remediation using a decentralized Twitter application, DID
+- ★ [[pedirounds-ai-co-resident-for-pediatric-morning-rounds]] — The safety net between overnight and attending rounds. 4 AI agents catch deterioration, flag unsafe 
+- ★ [[legalmindz]] — Ethiopia has 2.5 million businesses but only 3,000 lawyers. Legalmindz brings Legal AI for 120 Milli
+- ★ [[brofundyourself]] — We are making it easier for people to fund their dreams by tokenizing time in a regenerative way. Ha
+- ★ [[topsports-exchange]] — Topsports is a cutting-edge p2p betting exchange that introduces innovation to the online sports bet
+- ★ [[bubbdy-ai-lancher]] — Turn your phone into a tool, not a trap. A minimal AI launcher that feels your vibe, automates your 
+- ★ [[drishti-ai-navigator]] — Empowering digital independence through AI. Voice-powered web navigation using AWS Bedrock AgentCore
+- ★ [[l-l-a-m]] — Save crops from locust attacks. Track locust movement realtime and predict the possibility of attack
+- ★ [[skyrchitect-6d37yf]] — An nemotron-nano-8B-v1 Model autonomously designs production-ready cloud architectures, generates in
+- ★ [[opensigil]] — Zero-trust encryption made easy
+- ★ [[stock-market-forecasing-with-ml]] — We developed an application to forecast NYSE stock returns and risks using ML models along with an A
+- ★ [[ocr-finetuning-for-ancient-cuneiform-tablets]] — NabuOCR is a specialized OCR model for transliterating ancient cuneiform tablets directly from image
+- ★ [[cov2words]] — We're developing a smart hotline that can detect shortness of breath and coughing of a calling perso
+- ★ [[bit-civilization]] — Bit Civilization is a higher civilization based on the idea of Bitcoin and will transform all aspect
+- ★ [[ghostpipes-yahoo-pipes-reborn-with-ai-intelligence]] — Visual pipeline automation tool with AI-powered recommendations. Drag-drop nodes, realistic pipe con
+- ★ [[project-x-xgo16d]] — Transforming Learning: AI-driven Podcasts, Quizzes, Dynamic References, and Document-based Chat for 
+- ★ [[pulsepoint-2hmejd]] — AI-powered medical triage at the speed of life from instant assessment to doctor in 60 seconds.
+- ★ [[disavu]] — DisaVu is a disaster response solution that helps direct relief resources to where they are needed m
+- ★ [[securechain-p7w6u2]] — Securechain is an hybrid transfer validation system to protect NFTs and Tokens in hot wallets agains
+- ★ [[fairwell-a-tool-to-bid-goodbye-to-unknown-ai-biasness]] — Integrate fairness into machine learning pipelines with FairWell: a highly accessible & user-friendl
+- ★ [[pneumoscan-an-ai-radiology-tool-for-covid-19-pandemics]] — CovidScan.ai is developed to be a secured AI platform with the purpose to assist radiologists with f
+- ★ [[mindstep-xwlpnr]] — Free, 5-minute dyslexia screening using Gemini Vision + Chat APIs to detect early signs with 85.71% 
+- ★ [[agile-planning-tool]] — Real-time collaborative sprint planning that brings Product Owners, Dev teams, and Operations togeth
+- ★ [[shrek-g53brm]] — Stupidest Homemade Ranking Ever Known
+- ★ [[tal]] — A cross-chain Tactical roguelite JRPG right in your browser
+- ★ [[agrimind-97zntd]] — AgriMind combines a robotic guardian with live farm sensors and AI video/image analysis to cut water
+- ★ [[robotixfunnel]] — AI-powered e-commerce platform with robotic warehouse fulfillment, digital twin visualization, and i
+- ★ [[novaflow-the-autonomous-bi-pipeline]] — NovaFlow is an autonomous, self-healing BI pipeline. It cleans data, corrects its own SQL, builds in
+- ★ [[corona-legal-chatbot]] — Place to go to for all legal questions concerning Corona.
+- ★ [[brightact-a7e5my]] — We streamline and gather support for victims of domestic violence, easy to find, & safe.Collaborativ
+- ★ [[caladrius]] — The Privacy-First AI Triage Assistant
+- ★ [[lyfe-trak]] — Lyfe Trak is your voice-activated accountability buddy for tracking and checking progress towards yo
+- ★ [[star-ex]] — a cross-gameplay, cross-chain, cross-platform, cross-story, cross-community, cross-dimensional game 
+- ★ [[grocerapp]] — Mobilizing necessities for at-risk people with the help of the community.
+- ★ [[pickli]] — Disrupting streaming platform silos on content discoverability and traditional history-based recomme
+- ★ [[robinhood4business-avj92c]] — Digitalization brought to SMEs. Local stores, restaurants, hairdressers and many more, will get onli
+- ★ [[road-incident-predictor]] — Monitoring tools for road incident management. Crowdsourcing information sharing for safer roads wit
+- ★ [[dispatch-wedj2m]] — No Borders. No limits. Just Remit.
+- ★ [[maraam]] — Smart Peer2Peer Resource Distribution: We don't let anyone stay alone during a crisis. We turn citiz
+- ★ [[cotg-cli-coding-on-the-go]] — use Claude Code and Gemini CLI from you mobile phone. Read files, git, do terminal and use file as c
+- ★ [[pawcare]] — Connecting pets and sitters with care and convenience.
+- ★ [[beatbuddy]] — Step up your VALORANT game with BeatBuddy! Build your dream team, master strategies, and uncover pro
+- ★ [[compliance-sentinel]] — An Agentic, AI Red Team Approach for Proactive Geo-Compliance Risk Detection
+- ★ [[nusic-layer-1-for-music]] — Open audio fingerprints and creator metadata layer for Web 3.0 encrypted music distribution and info
+- ★ [[ntta]] — otto eliminates context-switching by unifying GitHub, Gmail, Calendar, and all your productivity too
+- ★ [[p-r-i-d-e]] — They say, "If you don't like what they are saying, change the conversation." So, that is what we did
+- ★ [[ecokiosk-ai-powered-machine-su0adv]] — Recycle. Get rewarded. It's that simple.
+- ★ [[liliusmed]] — Intuitive decision making platform where government agencies, hospitals, and suppliers can quickly a
+- ★ [[kassi-synthetic-load-generation]] — An AI agent on an audited state machine: it load-tests a code change, correlates the regression with
+- ★ [[argus-it-never-forgets-59fuin]] — Data is gold, but stays passive in chats. Argus is a proactive Gemini 3 agent that connects past Wha
+- ★ [[forge-z8v4qm]] — 30 million underserved patients. No engineers. Forge lets safety-net clinics build permanent, verifi
+- ★ [[agentdeck-command-your-ai-fleet]] — Mission control for your AI coding fleet. Glanceable status tiles, one-tap approvals, dial-driven di
+- ★ [[fitnesscoach]] — This skill makes Alexa the perfect Personal Trainer for home exercises. Do workouts, collect fitness
+- ★ [[champa]] — Cognitive Hybrid Assistant for Messaging, Planning & Analytics — an AI-powered inbox unifying Gmail,
+- ★ [[tunnel-dqv1k4]] — AI Agents for Simulated Market Research
+- ★ [[spark-mhxso9]] — Empowering Passion, Sparking Change, Inspiring Impact: Connecting Sustainable Hearts with Purposeful
+- ★ [[bookexchange]] — Every book deserves another reader
+- ★ [[nerve-the-nervous-system-for-your-device-fleet]] — The nervous system for your device fleet — AI-native IoT telemetry monitoring that turns a firehose 
+- ★ [[near-road-icm]] — Investigative case management solution for citizens, police officers and drivers to report and manag
+- ★ [[prospera-74c1le]] — Your AI assistant empowering you to earn what you deserve!
+- ★ [[project-hpfwsu51xila]] — Autonomous SRE that watches your Dynatrace tenant 24/7, diagnoses production incidents from real spa
+- ★ [[pneumoscan-an-ai-tool-for-ppe-check-covid19-testing]] — PneumoScan.ai is developed to be a secured AI tool with the purpose to assist radiologists with COVI
+- ★ [[brightact-fqibsh]] — App for documentation and support for victims of domestic violence, gathering governments, authoriti
+- ★ [[refugee-restrooms]] — Refuge Restrooms provides safe restroom access for transgender and gender nonconforming people. The 
+- ★ [[csgo-tracker]] — Elevating Every Move: Your Ultimate CS:GO Tournament Analysis Tracker
+- ★ [[medgraphagent-1e4ps2]] — Better data means better decisions. And better decisions save lives
+- ★ [[anyform-ai-form-builder-30au41]] — AnyForm is an AI powered, tool-first platform that lets you build complex, validated forms in under 
+- ★ [[notary-an-ai-creative-review-board-for-generative-media]] — Screens every AI-generated take against brand and compliance rules, revises the failures with the re
+- ★ [[revenent]] — omniate.ca
+- ★ [[giftmaxxing]] — Tinder for gift taste — swipe to teach it yours, share a link to learn anyone else's, and never give
+- ★ [[fin-wise-o9p4av]] — Gamified financial literacy for teens — learn budgeting, saving, and investing through interactive l
+- ★ [[xtrau]] — The revolutionary platform for ordering custom gaming computers. It offers an impressive set of feat
+- ★ [[freeze-optimizer]] — Reduce the consumption of refrigerators by just circulating the air in the rear.
+- ★ [[warden-ny9uwa]] — Warden is the runtime firewall that stops AI agents from being hijacked by blocking prompt injection
+- ★ [[engram-the-ai-photo-coach-that-remembers-and-forgets]] — An AI photography coach that remembers your journey, forgets what you've mastered, and always knows 
+- ★ [[bias-lab]] — Train a real classifier in your browser, drag one decision threshold, and watch accuracy hold still 
+- ★ [[jam-packed]] — Jam Packed is a revolution for the programmable web. Anyone can create, consume and share executable
+- ★ [[title-ai]] — Title AI is the first platform that can autonomously search any US county recorder website and produ
+- ★ [[trxmini-games-a-staked-wagering-gamefi-platform]] — trxmini.games is a staked/wagering platform for players to wager/stake against each other on support
+- ★ [[forklift-ai-powered-github-fork-analysis-tool]] — AI-powered GitHub fork analysis tool that discovers valuable features across thousands of forks in m
+- ★ [[ecolafaek]] — Guarding Timor's Beauty
+- ★ [[opioid-action-engine]] — The opioid epidemic doesn't wait for funding to catch up.
+- ★ [[school-quiz]] — With many children still learning from home or months behind the planned curriculum Learning Out Lou
+- ★ [[electronic-medicine-trial-and-test-records-as-a-service]] — Tools to enable visualization, management for developers to build solutions in medicine, healthcare,
+- ★ [[dataset-trust-auditor]] — Know what's in your data before you train on it. Dataset Trust Auditor scores datasets across 8 trus
+- ★ [[handtrack-js-1-0-real-time-handtracking-in-the-browser]] — Handtrack.js is a library for prototyping realtime hand detection (bounding box), directly in the br
+- ★ [[compilanceos]] — A compliance agent that audits your code against real law, writes the fixes, and reads its own Phoen
+- ★ [[ekko-v9wkgy]] — Elevate your foreign language fluency with tailored guidance and individualized verbal conversation 
+- ★ [[farmops-desk]] — The operating system for Nigerian poultry and catfish farms. Ops, feed, money, and AI in one calm vi
+- ★ [[claimsphere-ai-automated-claim-processing-agent]] — AI-powered insurance claim processing system with Camel-AI powered agent, automated OCR extraction, 
+- ★ [[ask-the-world-anything]] — Explore global perspectives on any question using AI-powered analysis and Voice Commands
+- ★ [[time-out-1wvxhm]] — Surgeons pause before every incision. Med spas don't. Time-Out checks who is injecting, what they're
+- ★ [[argus-it-never-forgets-rd6k70]] — Data is gold, but stays passive in chats. Argus is a proactive Gemini 3 agent that connects past Wha
+- ★ [[gathbook]] — Where Your Digital Books Are Truly Yours
+- ★ [[pytorchxai]] — Q&Aid is the healthcare assistant that democratizes access to high-quality diagnoses. It comforts pa
+- ★ [[prepify-ai-7nymoa]] — Prepify AI transforms how students learn STEM — turning lecture notes into structured summaries, qui
+- ★ [[studyblocks]] — Overwhelmed by studying? StudyBlocks combines AI-powered study guide generation, smart flashcards, a
+- ★ [[travel-guild]] — 12 Qwen agents that don't just plan your trip - they safely book it. Real budget-capped checkout, de
+- ★ [[rpc3]] — A Proof-of-Concept for decentralized remote procedure calls, leveraging IPFS and privacy-enabled blo
+- ★ [[reefmind]] — Reef restoration experiments take 7 years in the real ocean. ReefMind runs 10,000 overnight
+- ★ [[tonguekeeper]] — Every 2 weeks, a language dies. TongueKeeper deploys autonomous AI agents that compile and cross-ref
+- ★ [[locl-lf734n]] — Locl offers a platform that supports EBT card purchases to allow SNAP benefit users to purchase heal
+- ★ [[instruxi]] — Unlock the value of unmined gold with ION Digital and Instruxi's gold fractionalization tool. Revolu
+- ★ [[unite-government-procurement-platform]] — A platform for public procurement of special orders during times of crisis - cutting through the bur
+- ★ [[department-of-incidents]] — Agent that wakes up before your on-call engineers do

@@ -1,0 +1,45 @@
+---
+slug: "dvest"
+url: "https://devpost.com/software/dvest"
+title: "dVest"
+hackathon: "Chainlink Spring 2023 Hackathon"
+organization: "Chainlink Labs"
+winner: true
+words: 471
+team_size: 2
+has_repo: false
+has_live: true
+has_video: true
+tags:
+  - "project"
+  - "mechanism/revocation_withdrawal"
+  - "domain/civic_government"
+  - "domain/finance_payments"
+---
+
+# dVest
+
+> Investment platform for VERSE token holders. Now Inflation won't destroy your Money. Invest your Money and get amazing returns.
+
+[Devpost](https://devpost.com/software/dvest) · hackathon [[Chainlink Spring 2023 Hackathon]]
+
+## Facets
+
+**mechanism** [[revocation_withdrawal]]
+**domain** [[civic_government]] [[finance_payments]]
+
+**stack** apexcharts, chainlink, css3, html5, javascript, react, solidity, truflation
+
+## How they structured the write-up
+
+- inspiration
+- what it does
+- how we built it
+- challenges we ran into
+- accomplishments that we're proud of
+- what we learned
+- what's next for dvest
+
+## Body
+
+Home Dashboard of the user Dynamic deposit page Withdraw page Inspiration Government/Private banks provide interest rates which is fixed and is not related to inflation rates of the country. Problem with this approach is that users while earning interest might still suffer loss if the inflation rates become higher than the interest rate that banks provides. For eg, if the interest rate provided by bank is 3% and the inflation rate is 6%, user suffer a loss. We solve this problem using inflation rate data provided by Truflation per day. We give interest to users on daily basis by fetching latest inflation rate automatically every 24hr. Users also have the ability to withdraw automatically on reaching certain profit. What it does Decentralized investing platform where users can deposit their verse tokens(VTEST). Users will get interest every day equal to inflation rate provided by Truflation. Users can also access a graph feature for every deposit which will depict the trend of amount of tokens on daily bases. Users can choose to invest their money in the following 2 ways: 1) Fixed Deposit user can deposit tokens and can withdraw them only after the maturity period. User can fill maturity period during the deposit 2) Dynamic Deposit Once user deposits his/her tokens can withdraw them anytime. Additonal feature for dynamic deposit is that user can choose for autmatic withdrawal. Just fill out the token amount and as soon as the token amount reaches tha value, tokens will be automatically credited to the user's metamask wallet. For example: user deposits 50 VTEST and enters withdrawal amount as 60 VTEST. When the amount reaches 60 all of the tokens will be credited to user's wallet. This feature was implemented with the help of chainlink automation tool using time based trigger. How we built it Fronted was built using Reactjs. Smart contracts were written in solidity. Truflation helps us to fetch inflation rate( using Chainlink oracle which is used to provide interest to users per day. Challenges we ran into Understanding Truflation smart contract to fetch inflation rate and Chainlink Automation tool. But the Chainlink team has been very helpful for us to understand and debug the code. Accomplishments that we're proud of We were able to make our dapp running with all the main features. Users can now be saved from daily inflation rate and can protect their money. What we learned Through this hackathon, we were able to learn about various functionalities that chainlink provides and how to integrate them with our dapp. We were also able to explore and integrate some of the sponsors like Verse and Truflation. What's next for dVest 1) Providing loans to users. Adding this feature will make the dapp more reliable. 2) Improving the UI/UX. 3) Giving interest to users based on the countries they live in. <div

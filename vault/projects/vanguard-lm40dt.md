@@ -1,0 +1,40 @@
+---
+slug: "vanguard-lm40dt"
+url: "https://devpost.com/software/vanguard-lm40dt"
+title: "Vanguard"
+hackathon: "Hack the North 2024"
+organization: "Hack the North"
+winner: true
+words: 1105
+team_size: 4
+has_repo: true
+has_live: false
+has_video: false
+tags:
+  - "project"
+  - "mechanism/realtime_stream"
+  - "domain/security_privacy"
+  - "domain/transportation"
+  - "substrate/sensor_telemetry"
+  - "substrate/structured_db"
+---
+
+# Vanguard
+
+> A vulnerability scanner and WiFi penetration tool, using Raspberry Pi. Designed for blue and purple team activities, Vanguard deploys cyber security in autonomous vehicles and air-gapped networks.
+
+[Devpost](https://devpost.com/software/vanguard-lm40dt) · hackathon [[Hack the North 2024]]
+
+## Facets
+
+**mechanism** [[realtime_stream]]
+  <sub>weak: sensor_fusion, simulation_digital_twin</sub>
+**domain** [[security_privacy]] [[transportation]]
+**substrate** [[sensor_telemetry]] [[structured_db]]
+  <sub>weak: code_repository, geospatial</sub>
+
+**stack** convex, next, react, shadcn/ui, typescript
+
+## Body
+
+🎯 The Project Story 🔍 About Vanguard In today's fast-paced digital landscape, cybersecurity is not just important—it's essential! As threats multiply and evolve, security teams need tools that are agile , compact , and powerful . Enter Vanguard , our groundbreaking Raspberry Pi-powered vulnerability scanner and WiFi hacker. Whether you’re defending air-gapped networks or working on autonomous systems , Vanguard adapts seamlessly, delivering real-time insights into network vulnerabilities. It's more than a tool; it's a cybersecurity swiss army knife for both blue and purple teams ! 🛡️🔐 Air Gapped Network Deployability (CSE Challenge) Databases Having a dedicated database of vulnerabilities in the cloud for vulnerability scanning could pose a problem for deployments within air-gapped networks. Luckily, Vanguard can be deployed without the need for an external vulnerability database. A local database is stored on disk and contains precisely the information needed to identify vulnerable services. If necessary, Vanguard can be connected to a station with controlled access and data flow to reach the internet; this station could be used to periodically update Vanguard’s databases. Data Flow Data flow is crucial in an embedded cybersecurity project. The simplest approach would be to send all data to a dedicated cloud server for remote storage and processing. However, Vanguard is designed to operate in air-gapped networks, meaning it must manage its own data flow for processing collected information. Different data sources are scraped by a Prometheus server, which then feeds into a Grafana server. This setup allows data to be organized and visualized, enabling users to be notified if a vulnerable service is detected on their network. Additionally, more modular services can be integrated with Vanguard, and the data flow will be compatible and supported. Remote Control It is important for Vanguard to be able to receive tasks. Our solution provides various methods for controlling Vanguard's operations. Vanguard can be pre-packaged with scripts that run periodically to collect and process data. Similar to the Assemblyline product, Vanguard can use cron jobs to create a sequence of scripts that parse or gather data. If Vanguard goes down, it will reboot and all its services will restart automatically. Services can also be ran as containers. Within an air-gapped network, Vanguard can still be controlled and managed effectively. Network Discovery Vanguard will scan the internal air-gapped network and keep track of active IP addresses. This information is then fed into Grafana, where it serves as a valuable indicator for networks that should have only a limited number of devices online. Air Gapped Network Scanning (Example) Context: Raspberri Pi is connected to a hotspot network to mimic an air gapped network. Docker containers are run to simulate devices being on the air gapped network. This example will show how Vanguard identifies a vulnerable device on the air gapped network. Step 1: Docker Container A vulnerable docker is running on 10.0.0.9 Step 2: Automated Scanning on Vanguard picks up new IP Vanguard will automatically scan our network and store the information if its contains important information. Here are the cron scripts: In the /var/log Vanguard Logged a new IP: Vanguard's port scanner found open ports on our vulnerable device: Step 3: Prometheus scrapes results and Grafana displays IP Activity history show how many time an IP was seen: Vulnerability logs are displayed on our Grafana dashboard and we can see that our ports were scanned as running a vulnerable serivce. (2 red blocks on the right) (Only Port 21 and 22 Conclusion All this data flow was able to detect a new device and vulnerable services without the need of cloud or internet services. Vanguard's automated script's ran and detected the anomaly! 💡 Inspiration Our team was fascinated by the idea of blending IoT with cybersecurity to create something truly disruptive . Inspired by the open-source community and projects like dxa4481’s WPA2 handshake crack, we saw an opportunity to build something that could change the way we handle network vulnerabilities. We didn’t just want a simple network scanner—we wanted Vanguard to be versatile , portable , and powerful enough to handle even the most secure environments , like air-gapped industrial networks or autonomous vehicles 🚗💻. 🏆 Accomplishments Nmap automates network scans, finding open ports and vulnerable services 🕵️‍♂️. A SQLite database of CVEs cross-references scan results, identifying vulnerabilities in real time 🔓📊. Grafana dashboards monitor the Raspberry Pi, providing metrics on CPU usage , network traffic , and much more 📈. Wifi Cracking Module captures WPA2 handshakes and cracks them using open-source techniques, automating the process 🔑📶. Usage of different services that will run automatically and return data. And everything comes together seamlessly in the vangaurd dashboard. Additionally, we integrated Convex as our backend data store to keep things fast , reliable , and easy to adapt for air-gapped networks (swap Convex for MongoDB with a breeze 🌬️ we really wanted to do take part in the convex challenge). 🔧 Challenges We Faced Building Vanguard wasn’t without its obstacles. Here's what we had to overcome: 💻 Air-gapped testing : Ensuring Nmap runs flawlessly without external network access was tricky. We fine-tuned cron jobs to make the scanning smooth and reliable. 🚦 Data efficiency : Working with a Raspberry Pi means limited resources. Optimizing how we process and store data was key. 🛠️ Seamless WiFi hacking : Integrating WPA2 half-handshake cracking without impacting Pi performance required some creative problem-solving. 🏗️ How We Built It Hardware : Raspberry Pi 🥧 with an external WiFi adapter 🔌. Backend : We used Convex for data storage, with the option to switch to MongoDB for air-gapped use 🗃️. Scanning & Exploiting : Nmap runs on a schedule to scan, and CVEs are stored in SQLite for mapping vulnerabilities 🔗. Frontend : Built with React and Next.js 14 , the user interface is sleek and efficient 🎨. Monitoring : Metrics and performance insights are visualized through Grafana , keeping everything transparent and easy to manage 📊. A big thanks to https://github.com/dxa4481 for the open source code for WPA2 Handshake PoC's --- 🚀 What’s Next for Vanguard? We're just getting started! Here’s what’s in store for Vanguard: 🤖 AI-driven vulnerability prediction : Imagine knowing where a breach might happen before it occurs. We'll use machine learning to predict vulnerabilities based on historical data. ⚙️ Modular add-ons : Integrate tools like Metasploit or Snort for more specialized attacks, making Vanguard a customizable powerhouse . 🧳 Enhanced portability : We're optimizing Raspberry Pi hardware to push Vanguard’s limits even further, and exploring even more compact versions to make it the ultimate on-the-go tool! Vanguard isn’t just a project; it’s the future of portable, proactive cybersecurity . 🌐🔐 Stay secure, stay ahead! <div

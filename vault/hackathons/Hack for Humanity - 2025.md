@@ -1,0 +1,147 @@
+---
+hackathon: "Hack for Humanity | 2025"
+organization: "Kuba Apps"
+projects: 115
+tags:
+  - "hackathon"
+---
+
+# Hack for Humanity | 2025
+
+Kuba Apps  ·  115 collected projects
+
+## What this field was made of
+
+- [[realtime_stream]] × 43
+- [[structured_db]] × 37
+- [[web_dom]] × 33
+- [[video_visual]] × 24
+- [[education]] × 22
+- [[educator_student]] × 20
+- [[developer_tools]] × 19
+- [[developer]] × 16
+- [[climate_energy]] × 15
+- [[mental_health]] × 14
+- [[geospatial]] × 14
+- [[code_repository]] × 12
+- [[agriculture_food]] × 12
+- [[health_clinical]] × 12
+- [[vision_ocr]] × 11
+
+## Projects
+
+- ★ [[flow-innovation-news]] — Flow Innovation is an AI-powered goal-tracking and fact-checking platform that helps users set, trac
+- ★ [[volunteer-multi-hub]] — Helps browse, track, filter (with AI) volunteering opportunities
+- ★ [[econest-jhsyk8]] — EcoNest is your personal environmental guide that creates a custom roadmap based on your lifestyle, 
+- ★ [[uninsight-m4yub0]] — An anonymous feedback platform for university courses
+- ★ [[orbit-zmxkc8]] — the internet revolves around you. connect consciously.
+- ★ [[task-calendar]] — With a glance, you can see the tasks which you have to do, the priority of each task, and the due da
+- ★ [[ride-sharing-website]] — A ride-sharing platform designed for MUET students, making travel between MUET and Hyderabad afforda
+- ★ [[climate-change-awareness-vgn25m]] — An interactive dashboard visualizing climate data (2000-2024) with AI insights. Built with React, Ne
+- ★ [[kindness-card]] — Kindness card is a fun interactive website design to encourage daily acts of kindness. It is a simpl
+- ★ [[american-sign-language-detection-8h3eo2]] — This project aims on helping the hearing impaired community by translating the symbols into text.
+- ★ [[solar-and-vertical-wind-hybrid-energy-system]] — Powering the Future with Renewable Synergy: Solar & Vertical Wind Hybrid Energy System.
+- ★ [[sustainable-fishing-practice-app]] — Our app offers interactive tools to explore sustainable fishing methods, global fish populations, an
+- ★ [[ecoaction-tracker-epozwi]] — EcoAction Tracker empowers individuals to effortlessly monitor and improve their eco-friendly habits
+- ★ [[justicemitra]] — JusticeMitra: Empowering women with instant legal guidance and support, anytime, anywhere."
+- ★ [[pantrai]] — Reduce Food Waste at Home ^^
+- ★ [[nova-o4bp3w]] — Creating Solutions That Matter
+- ★ [[zen-faith]] — Unite minds and souls with our AI-powered app! Using Gemini, we deliver mental health advice rooted 
+- ★ [[memoryvault-ai-memory-companion-for-alzheimer-s-patients]] — Empowering Alzheimer's patients to relive and reconnect with their precious memories through AI-powe
+- ★ [[win-0x2lem]] — Transform your choices into healing power—every leaf saved, every ton reduced, revolutionizes Earth'
+- ★ [[onboardx]] — Every Life Matters, Every Action Counts
+- ★ [[smartitsm]] — Smart ITSM is an AI-powered platform that modernize IT service management by integrating a chatbot f
+- ★ [[volunteermatch-i7h4u1]] — VolunteerMatch's mission is connecting millions of volunteers with impactful opportunities through i
+- ★ [[jura-tce3fy]] — Justice for All
+- ★ [[recycle-ai-u3rzl5]] — Your AI Guide to a Greener Future - Now get an AI guide to recycle anything with expertise.
+- ★ [[greencart-j9kio3]] — GreenCart is a Chrome extension that shows the CO2 footprint of products on Amazon, helping you shop
+- ★ [[ai-digital-marketer]] — AI Digital Marketer is an agent that analyzes user input and market data to recommend the best spons
+- ★ [[ecovisionary]] — Eco Visionary is an innovative web application designed to let users sell, buy and manufacture creat
+- ★ [[farmer-vision]] — Revolutionizing farming with AI! Our cutting-edge platform empowers farmers via ML-driven insights. 
+- ★ [[agniveer-sewa]] — AgniSewa: Bridging the gap between surplus food and hunger. A seamless platform connecting donors wi
+- ★ [[country-information-gh6rm7]] — your personal mental health assistant, available anytime, anywhere. MindCare is a cutting-edge websi
+- ★ [[ecoembrace]] — EcoEmbrace: Reconnect, Relax, and Revive with Nature’s Harmony🌱.
+- ★ [[explainit-512obp]] — ExplainIt is an AI-power app made in next.js that gives students a way to understand complex school 
+- ★ [[bite-saver]] — BiteSaver connects businesses with surplus food to users seeking great deals. Reduce waste, save mon
+- ★ [[vitamin-adventure]] — Vitamin Adventure is an educational game that teaches kids about the importance of 4 essential vitam
+- ★ [[findtutor]] — Connecting Learners with Experts – Anytime, Anywhere.
+- ★ [[lasthope]] — Find What You Lost.
+- ★ [[quakewatch-real-time-global-earthquake-monitoring-platform]] — QuakeWatch: Real-time global quake data via interactive map, tracking seismic patterns with filterin
+- ★ [[mummacare-application-cea8xn]] — Your companion through Pregnancy and Beyond!!
+- ★ [[delta-encryption-tools]] — Security Encrypted, Data Protected.
+- ★ [[travel-wizard]] — Get insider tips and recommendations for every destination.
+- ★ [[heat-risk-estimator-for-outdoor-athletes]] — Machine-learning classifiers for athletes and coaches to estimate heat alert level with common meteo
+- ★ [[mentee-pro]] — Track, Learn, and Heal with AI-Powered Mental Wellness.
+- ★ [[codealchemy-e4zrlg]] — CodeAlchemy is a web-based, real-time code editor designed to facilitate collaborative coding with i
+- ★ [[bugtrack-found]] — Digital life matters
+- ★ [[lifelink-dzeyha]] — Linking You to a Healthier Tomorrow
+- ★ [[iris-ovx582]] — provides real-time reality checking to combat hallucinations, AI chat support, and easy access to me
+- ★ [[biosphere-skv5ae]] — Our planet is slowly dying. It's up to you to save our environment. Track your carbon footprint usin
+- ★ [[women-in-computing-archive]] — The Women in Computing Archive is a digital platform designed to commemorate and highlight the contr
+- ★ [[campushub-bjqhvu]] — Connect, Share, and Support!
+- ★ [[leetcode-with-wolfram]] — This platform lets users share Wolfram-based solutions for LeetCode problems, enhancing understandin
+- ★ [[a-i-kaigo-a-i]] — An A.I. powered voice cloning utility optimized for caretakers of special needs individuals
+- ★ [[iqtopia-6x3fsu]] — IQTOPIA is a game-based learning app designed for children with hearing and speech disabilities. Wit
+- ★ [[sealedtrust]] — Secure deals, sealed with certainty.
+- ★ [[101-3lw9vh]] — Discover ADHD's spark in a fun, interactive game that fosters empathy, embraces creativity, and teac
+- ★ [[mentora-8ojyig]] — Connecting Students with Expert Mentors for Career Guidance and Support.
+- ★ [[progressio]] — Plan it,persist it ,progress it.
+- ★ [[advanced-green-transit-tracker]] — "Track and reduce your carbon footprint with real-time insights and sustainable commuting choices."
+- ★ [[eventify-8526gx]] — "Eventify: Simplify event management! Create, organize, and track events effortlessly with this intu
+- ★ [[fitness-drive]] — Personalized exercise routines and intelligent progress monitoring—making fitness easy! 🏃‍♂️📊
+- ★ [[duolingo-soqfz5]] — Learn Languages, Connect Worlds! 🌍✨
+- ★ [[balance-beacon]] — D.I.D Effected patients
+- ★ [[campusconnect-campusguider-2s8knt]] — We are building a social media platform for college application process. You can connect with other 
+- ★ [[voicemate-tsoj45]] — Seamless Video Calls & Real-Time Translation at Your Fingertips!
+- ★ [[bookmypitch]] — Tired of endless calls for ground bookings? BookMyPitch: Book it. Play it. Win it.
+- ★ [[skill-exchange-program]] — "Trade Skills, Build Trust – No Money Needed."
+- ★ [[ecotrackify]] — EcoTrackify helps users track, visualize, and reduce carbon footprints from daily activities like tr
+- ★ [[typing-clash]] — A multiplayer typing practice game
+- ★ [[hack-for-humanity-ethical-tourism-platform]] — Hack for Humanity's Ethical Tourism Platform is designed to promote responsible and sustainable trav
+- ★ [[autoease]] — This is an Android Mobile App that connects users needing automobile services with registered mechan
+- ★ [[chikitsa-47rjok]] — C.H.I.K.I.T.S.A is an advanced AI-powered mental health assistant designed to help individuals on th
+- ★ [[lost-and-found-iby5qh]] — Lost it, List it, Find it
+- ★ [[resume-parser-ai-application]] — AI-Powered Resume Parser: Streamlining Recruitment with Intelligent Data Extraction
+- ★ [[foodshare-h950mw]] — "Share Food, Share Hope: FoodShare - Fighting Hunger Together"
+- ★ [[bloodbridge-1a7lrt]] — BloodBridge - Save Lives
+- ★ [[enviroventure-climate-change-awarness-game]] — Educate, Engage, Empower
+- ★ [[home-budget]] — Home Budget – Smart. Simple. Financial Control.
+- ★ [[whitecollar-r4neoj]] — WhiteCollar: A smart solution for passive water tracking. Seamlessly monitor usage, save water, and 
+- ★ [[h20logy]] — "Track, Sip, Thrive – Your Personalized Water Guide!"
+- ★ [[rescue-h3i4rt]] — Connecting Communities, Empowering Responses
+- ★ [[learnify-yc15m0]] — Learnify – Making Tech Fun for Young Minds!
+- ★ [[snap2action-o26wg3]] — Snap2Action is a platform that enables citizens to take charge of their surroundings by reporting lo
+- ★ [[myplaces-19xunv]] — Document and organize your favorite places effortlessly with an interactive map.
+- ★ [[bridgeconnect]] — BridgeConnect connects teens with seniors based on interests and availability. Admins manage profile
+- ★ [[hoya-helper]] — Our tool helps people with disabilities control tech easily with an eye tracker and voice assistant.
+- ★ [[vehicle-maintenance-app]] — A smart companion for vehicle owners to record maintenance and repairs and ensure your vehicles stay
+- ★ [[internship-portal]] — Connecting Talent with Opportunities!
+- ★ [[food-waste-rescue-feedforward]] — Bridge the Gap: From Waste to Worth.
+- ★ [[chatpal-z0qdf2]] — ChatPal: Your Compassionate AI Assistant for Mental Health Support and Well-Being
+- ★ [[breatheeasy-rijc16]] — Breathe Easy, Live Healthy – Real-Time Air Quality at Your Fingertips!
+- ★ [[remotion]] — Remotion - Restoring Rovement, Reviving Hope
+- ★ [[beyond-sight-hgmoi6]] — Empowering blind and low-vision individuals with instant access to visual content, anytime, anywhere
+- ★ [[ecoscan-594zjn]] — Making Recycling Faster: One Scan At a Time.
+- ★ [[deepseek-web-ui]] — Easily deploy DeepSeek-R1 and Open WebUI locally using docker-compose.yml. Quickly experience DeepSe
+- ★ [[fund-raising]] — Help Humanity,save the world!!
+- ★ [[ecocalc-a-simple-carbon-footprint-calculator-9l24ud]] — Small actions can make a **big impact**. Start now!
+- ★ [[ledgr]] — Ledgr is a supply chain tracking system made using blockchain. Ledgr ensures that every step of a pr
+- ★ [[mindcraft-hkq0l8]] — MindCraft AI: Smart Gameplay, Endless Creativity!
+- ★ [[nutrilyze]] — A solution for finding the right food as managing chronic conditions, dietary restrictions is tough.
+- ★ [[concept-bridge-la3cfg]] — ConceptBridge transforms complex topics into interactive visual maps using AI. Click through knowled
+- ★ [[nutri-go]] — Know Your Food, Stay Nutritious, Cook Something Delicious!
+- ★ [[mind-therapy-ai-your-mental-health-companion-2fa3m0]] — Revolutionizing mental health care with AI-powered chat therapy, accessible 24/7, affordable for all
+- ★ [[medishift-align]] — Revolutionizing Healthcare Operations: Seamless Shift Management, Smarter Resource Allocation, and E
+- ★ [[mental-health-assistant-an-ai-chatbot-for-emotional-support]] — Una App enfocada para integrar la gestion de estudio de los estudiantes en un solo lugar.
+- ★ [[educate-vqklf6]] — Educate is an AI-powered platform where students can learn, build communities, participate in hackat
+- ★ [[releaf-ai-ml-analysis-of-satellite-imagery]] — ReLeaf leverages AI to transform satellite and drone imagery into actionable insights on deforestati
+- ★ [[earthview-ai]] — An AI-powered perspective on regional climatic shifts on Earth.
+- ★ [[mooapps-id]] — Revolutionizing Livestock Health with IoT and Jade Therapy for a Smarter, Sustainable Future
+- ★ [[caribiasiswa]] — A website where you can easily find scholarships.
+- ★ [[language-learning-game-s5cqlk]] — This is a web game where users can learn grammar and vocabulary from different languages like spanis
+- ★ [[shelf-chef]] — Shelf Chef is a smart kitchen assistant that helps users track pantry items, suggests recipes based 
+- ★ [[safecross]] — Protecting Wildlife, Securing Roads.
+- ★ [[voicify-ai-i8t1ql]] — Bringing Public Speaking to Everyone – Learning to Empower your Voice
+- ★ [[the-visionx-n4gx07]] — VisionX aids visually impaired, dyslexic users by scanning text and surroundings, providing audio de
+- ★ [[peekmail]] — Turn off email notifications and allow the peekmail utility to summarize any important emails for yo
+- ★ [[bach-turing]] — BACH Turing is a privacy focused CAPTCHA integration

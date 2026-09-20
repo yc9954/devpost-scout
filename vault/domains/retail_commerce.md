@@ -1,0 +1,181 @@
+---
+facet: "domain"
+name: "retail_commerce"
+projects: 413
+winners: 413
+tags:
+  - "facet"
+  - "domain"
+---
+
+# retail_commerce
+
+`domain` · **413** projects, **413** of them winners.
+
+## Pairs with
+
+- [[finance_payments]] — 179 together  <sub>(domain)</sub>
+- [[realtime_stream]] — 162 together  <sub>(mechanism)</sub>
+- [[video_visual]] — 153 together  <sub>(substrate)</sub>
+- [[developer_tools]] — 149 together  <sub>(domain)</sub>
+- [[web_dom]] — 139 together  <sub>(substrate)</sub>
+- [[structured_db]] — 137 together  <sub>(substrate)</sub>
+- [[financial_record]] — 133 together  <sub>(substrate)</sub>
+- [[geospatial]] — 116 together  <sub>(substrate)</sub>
+- [[small_business]] — 108 together  <sub>(user)</sub>
+- [[developer]] — 91 together  <sub>(user)</sub>
+- [[general_public]] — 86 together  <sub>(user)</sub>
+- [[code_repository]] — 76 together  <sub>(substrate)</sub>
+
+## Projects
+
+- ★ [[artharaksha]] — When Gen-AI Rescues You from Financial Fraud and Creates Social Impact
+- ★ [[auditguardx]] — Enterprise compliance in minutes, not months at 1% of the cost.
+- ★ [[gemini-movie-detectives]] — A gateway to AI-driven educational content in schools and universities with Gemini and RAG! Challeng
+- ★ [[extopay-the-last-mile-solution-for-digitizing-cash]] — Next-Generation CBDC solution for digitizing cash: A Highly Secure Mobile and Non-Mobile Solution wi
+- ★ [[time-traveler-w3cxp0]] — AI agents that preview risky DB migrations in isolated Docker clones before they merge — audit, depl
+- ★ [[theta-bash]] — Buyers, and sellers hub that uses Theta in the most efficient way
+- ★ [[mnemosyne-ubotlw]] — The AI that remembers every failure — predicts outages, annotates risky code inline, gates CI pipeli
+- ★ [[usepay]] — 1st e-Commerce Dapp for WEB3 users UsePay was created for liberating business deals for WEB3 users a
+- ★ [[bye-buy]] — Selling stuff online sucks... 50+ messages, lowball offers, sketchy buyers. Bye-Buy handles this mes
+- ★ [[blockdrive]] — Lifebank helps local communities create a virtuous circle of value exchange between three parties — 
+- ★ [[nova-architect]] — An autonomous AI cloud engineer that designs and deploys AWS infrastructure directly in your console
+- ★ [[drishti-ai-navigator]] — Empowering digital independence through AI. Voice-powered web navigation using AWS Bedrock AgentCore
+- ★ [[skyrchitect-6d37yf]] — An nemotron-nano-8B-v1 Model autonomously designs production-ready cloud architectures, generates in
+- ★ [[aiditto-turn-good-intentions-into-valuable-giving]] — AID IT TO is a SaaS-solution that enables municipalities source what is needed by easily, quickly an
+- ★ [[seethru-price-transparency-marketplace]] — SeeThru is a blockchain-enabled platform that prioritizes price transparency to change the ecosystem
+- ★ [[riddonkulous]] — Riddonkulous is a riddle game where Redditors create and solve quirky, creative, or simply riddonkul
+- ★ [[robotixfunnel]] — AI-powered e-commerce platform with robotic warehouse fulfillment, digital twin visualization, and i
+- ★ [[grocerapp]] — Mobilizing necessities for at-risk people with the help of the community.
+- ★ [[robinhood4business-avj92c]] — Digitalization brought to SMEs. Local stores, restaurants, hairdressers and many more, will get onli
+- ★ [[xtf]] — XTF (deX Traded Fund): The decentralised ETF protocol boosting multi-chain asset diversification
+- ★ [[argus-it-never-forgets-59fuin]] — Data is gold, but stays passive in chats. Argus is a proactive Gemini 3 agent that connects past Wha
+- ★ [[bookexchange]] — Every book deserves another reader
+- ★ [[giftmaxxing]] — Tinder for gift taste — swipe to teach it yours, share a link to learn anyone else's, and never give
+- ★ [[nocrowd-social-distancing-made-simple]] — Award winning mobile app, a turnkey social distancing solution. It helps us avoid queuing and crowds
+- ★ [[argus-it-never-forgets-rd6k70]] — Data is gold, but stays passive in chats. Argus is a proactive Gemini 3 agent that connects past Wha
+- ★ [[gathbook]] — Where Your Digital Books Are Truly Yours
+- ★ [[travel-guild]] — 12 Qwen agents that don't just plan your trip - they safely book it. Real budget-capped checkout, de
+- ★ [[pols-15]] — toolbox for aspiring politicians to campaign, stress-test their policies, and run ads on social medi
+- ★ [[shopguard]] — AI-powered behavioral wellness that helps you think twice before you buy.
+- ★ [[flash-order-readerless-checkout]] — A Cash app API and Checkouts API integration to enable Flash Order kiosks, web apps, and iOS apps wi
+- ★ [[kronia]] — Agriculture that Works for Future
+- ★ [[aa-04pgyj]] — Phone calls are frustrating, that's why we moved to chats. We have busy lives and we love doing ever
+- ★ [[fluidity-money]] — Fluidity is a system that creates assets that reward yield when you use them.
+- ★ [[solocoin]] — Get rewarded to shop locally with your friends. Helping SMBs and local businesses towards economic r
+- ★ [[sitesync-ai-u7j86v]] — "🏗️ Sync the vision. Build the truth ." SiteSync AI is not just a "viewer" it is an active participa
+- ★ [[the-carbon-bank-e8wb0h]] — The Carbon Bank marketplace supports a transparent commercialization of traceable carbon credits on 
+- ★ [[traffiq]] — TraffiQ protects applications from large spikes in traffic by providing an intermediate queue servic
+- ★ [[corazones-against-covid19-tech-to-increase-impact-of-money]] — Fintech innovations can multiply the impact of recovery funds for regional SMEs. Five regional gover
+- ★ [[shadespan]] — The same t-shirt is obvious on one customer and nearly invisible on another. ShadeSpan renders every
+- ★ [[coupons]] — Buy Smart, Give Back! Generate waste reducing coupons using Square API, then connect to local charit
+- ★ [[sunday-94odas]] — Sunday is the friend in the group chat who actually makes things happen — plans the dinner, orders t
+- ★ [[community-exchange-incentivization]] — We match needs and skills within communities and help heroes get the recognition they deserve.
+- ★ [[veristudio]] — AI films with receipts: every frame hash-sealed to Backblaze B2, every film publicly verifiable — no
+- ★ [[nftizemarket]] — Transforming e-commerce with token rewards, web3 wallet integration, and a seamless user experience 
+- ★ [[preplo]] — You saved the video but never made the recipe. Preplo fixes that — paste the link, get ingredients, 
+- ★ [[blindsight-virtual-eyes-through-haptic-feedback]] — Blindsight simulates a novel sense of sight with haptic feedback vibration motors and ML.
+- ★ [[justmoney-pay]] — Encouraging the mass adoption of cryptocurrencies & their utilization as a day-to-day payment method
+- ★ [[nftmall]] — NFT Infrastructure & Phygital NFT Commerce Provider for BTTC
+- ★ [[tree-foundation]] — The greenest digital token, backed by physical forest.
+- ★ [[helix-ai-zw1vfs]] — Free AI Sidebar Chatbot in any site to prompt, talk to your site, attach images comes with built-in 
+- ★ [[the-spooky-stylist]] — Your AI-Powered Guide to Discovering the Perfect Halloween Costume
+- ★ [[project-n1fsk7]] — Sentinel Protocol: An indestructible, offline-first vault. Hardware-accelerated AES-GCM ensures zero
+- ★ [[wand-a-live-agent-that-sees-browses-and-clicks-with-you]] — Wand turns the web into something you can talk to and point at. It’s a live AI agent that sees your 
+- ★ [[addy]] — ADDY is a revolutionary fun way to advertise. It takes wishes of both the users and the companies in
+- ★ [[1_040_c_b-waitingqueue]] — Our realtime queue system managers that people arrive just-in-time at the doctor
+- ★ [[money-talks-d93izn]] — Clean cash I want you, Clean cash I need you. Upload one credit card monthly statement and receive t
+- ★ [[pixurate]] — It is a transparent, fake-proof review system with high engagement on blockchain. It generates AI-po
+- ★ [[safestate]] — A recall is just a PDF until something acts on it. SafeState blocks recalled products from being res
+- ★ [[elara-x47age]] — Your guide to Natural Remedies - Learn What Works, Naturally
+- ★ [[buildit-urw59q]] — The majority of STEM resources are one-size-fits-all and English-only. BuildIt fixes that by generat
+- ★ [[split-sketch]] — A fast, two-player drawing game where one player selects a word draws half of it, the other complete
+- ★ [[apto-check]] — The first blockchain-backed legit check
+- ★ [[personalization-aware-e-commerce-shopping-assistant]] — Chatbot that lets you talk with private eCommerce data. Instead of searching for products by name, y
+- ★ [[ekaette]] — Ekaette is a configurable AI voice and messaging assistant for customer-facing businesses across mul
+- ★ [[my-slots]] — Service for non-digital local stores to provide bookable slots for customers
+- ★ [[jonsnow-eth]] — Protecting projects and users with smart documents and meta-signing for smart contracts.
+- ★ [[graphflow-release-safety-intelligence]] — Release pipelines as a live dependency graph — see blast radius, not just red X's.
+- ★ [[voicebot-for-ongoing-assistance-to-covid-19-patients]] — A system for effective remote monitoring of ambulant Covid-19 patients by automated phone calls to e
+- ★ [[covid-19-coronavirus]] — An educational augmented reality experience about COVID-19 that explores the virus' origin, transmis
+- ★ [[facestylr]] — Polyvore meets Augmented Reality for styling your face. Make meaningful product connections with you
+- ★ [[theo-daos]] — Meta4Swap is a Web3 store front for buying and selling products and services. Payments are made in o
+- ★ [[galuxium-the-ai-that-builds-startups-autonomously-zxg8rp]] — Galuxium is an autonomous multi-agent AI platform that transforms any idea into a complete startup —
+- ★ [[artki-tech]] — AI-native interior design platform that learns your taste and generates personalized 3D room visuali
+- ★ [[kash-9evi3c]] — Enhance events payments with Kash, a blockchain-based solution that integrates cashless technology, 
+- ★ [[weight-coach]] — AI-powered meal planner with voice cooking assistant. Turns your inventory into personalized recipes
+- ★ [[seance]] — Explore the world's darkest legends
+- ★ [[sentinel-way5bd]] — Catch security holes in your MCP server before you ship it. Static rules, GPT-5.6 review, and Docker
+- ★ [[postthread-uhgac6]] — PostThread is a web3 social media app that rewards it users instead of extracting from them. To do t
+- ★ [[sostenibl-es-akswzf]] — Enabling short commercial channels for farmers in need during Covid crisis
+- ★ [[faxi-16iecy]] — Faxi resurrects fax for seniors left behind digitally. Handwrite a request, fax it, and our AI turns
+- ★ [[supernova-p1tum5]] — End-to-end AI-generated ads – the world's influencers at your fingertips.
+- ★ [[ciclogreen]] — Using gamification to help cities and companies to promote active and safe mobility to reduce COVID 
+- ★ [[cartmate-mygdtk]] — An Ai-powered shopping experience
+- ★ [[rapydbot]] — RapydBot is a Conversational User Experience designed for Telegram Messenger applications.
+- ★ [[grocify]] — Track your pantry, ensure dietary restrictions, craft personalized recipes—ensuring zero waste, smar
+- ★ [[co2-aware-shopping-assistant]] — Get what you want for less CO2. We optimize products and shipping to lower emissions and cost while 
+- ★ [[bugflow-ai-regression-detective-ci-optimizer]] — Report one bug. Get ten fixes, sixty-three tests, and a faster pipeline - all from one @mention.
+- ★ [[smart-graahak]] — Smart Graahak allows users to search for products effortlessly, understand their benefits, and make 
+- ★ [[scrumpy]] — Recipes from your feed
+- ★ [[centivize-v5o4c1]] — Incentivizing smart healthcare and social good by strengthening relationships in virtual spaces.
+- ★ [[plateit-v8ptl7]] — From screen to plate: Extract any recipe from any video/text site.
+- ★ [[workpay]] — End-to-end digital finance management platform for companies and their employees.
+- ★ [[aerofreight-ai]] — AeroFreight AI: A multi-agent platform that plans smarter international shipments from origin to fin
+- ★ [[master-planner-your-all-in-one-fleet-management-solution]] — Imagine condensing an average 3-hour workload into a mere minute – Master Planner boosts efficiency 
+- ★ [[shylock-5af7cj]] — innovative DeFi project designed to facilitate cross-chain lending and borrowing. allows users to bo
+- ★ [[closet-a-i]] — Transform your closet into a personal stylist with AI-powered outfit recommendations, AR try-on acro
+- ★ [[pocket-plots]] — Making land ownership accessible and affordable to all
+- ★ [[safe-local]] — Contactless ordering, payment, provision of products for daily needs by participating local business
+- ★ [[the-new-you-lfu17v]] — YOUR PERSONAL AI STYLIST. UNLEASH THE NEW YOU.
+- ★ [[karinderya-bot]] — Carinderia PH is an on-demand food delivery service for the local Filipino eatery, similar to UberEa
+- ★ [[book-my-ride]] — Book My Ride is a one-stop application to book available vehicles from different vendors like Uber, 
+- ★ [[cardos]] — Applying for a credit card is painful & most rewards don’t fit individual needs. We’re solving this 
+- ★ [[help-me-delivery]] — Giving vulnerable populations an easy platform to identify local shops, build shareable shopping lis
+- ★ [[product-creator-temp-name-conu-x]] — You imagine it. We build it for you.
+- ★ [[fundget]] — fundget not only gets the fund but gives the trust.
+- ★ [[eazyform]] — The easiest and quickest way to create monday forms that look exactly the way you want them.
+- ★ [[moonwalk-tojsay]] — The Intelligent Desktop Agent for macOS.
+- ★ [[food-forward-c2swnz]] — FoodForward is an app that reduces food waste by enabling users to buy and sell food in their commun
+- ★ [[ecosage-so7nkb]] — AI-Powered Sustainability Companion
+- ★ [[agentguard-the-semantic-firewall-for-the-agentic-web]] — The SSL for AI Agents. A Semantic Firewall that uses Gemini 3.0 to distinguish helpful shoppers from
+- ★ [[whisper-care]] — An all-in-one inclusive mobile application that assist the visually impaired in-store to better acce
+- ★ [[urban-eco-adventures]] — Embark on a sustainable journey through Tokyo's bustling streets.
+- ★ [[shopsafe-21onk6]] — Convenient and Safe Shopping for Everyone
+- ★ [[signalforge-zblmcn]] — SignalForge is a Business & E-commerce AI workspace that turns messy competitor research into clear 
+- ★ [[how-did-i]] — How Did I? is an agentic ecommerce operator that diagnoses daily revenue leaks across carts, ads, in
+- ★ [[squaresense-ai-personalized-ecommerce-intelligence]] — SquareSense augments your Ecommerce Database with: AI Chat, Generative Interactive Charts, Data Insi
+- ★ [[beb-pay]] — Bringing fast, contactless payments to every store!
+- ★ [[places-new-autocomplete-javascript-library]] — A case study in leveraging direct Google Maps API integration to reduce operational costs, while con
+- ★ [[shop-simulator]] — Craft items. Sell them to customers. Hire workers. Customize your shop. Become The Merchant
+- ★ [[google-around]] — With Google ARound, you can easily navigate to your friends, family members, lovers, and anyone who 
+- ★ [[amethyst-wy3mjf]] — Don't let anyone to Dull your Sparkle
+- ★ [[rivel-io]] — A set of tools to make recurring payments in crypto easy.
+- ★ [[resonance-ai-1hjbf0]] — AI-powered political intelligence that creates culturally authentic campaign messaging
+- ★ [[evon]] — EVon is a redefined solution for tracking and analyzing electric charging stations. In our applicati
+- ★ [[consume-wise]] — Imagine going into any shop & being able to use your phone to find the most important details such a
+- ★ [[livedesign-pro]] — A streamlined event page design platform integrating ChatGPT and Midjourney for effortless image gen
+- ★ [[v-commerce-studio]] — V-Commerce Studio redefines e-commerce with AI personalized chat, proactive engagement, virtual try-
+- ★ [[beavous]] — Turn one approved product into a complete, product-true campaign—four concepts, 16 ratios, claim-saf
+- ★ [[spamrescue-ai]] — Stitching together 40 years of email technology to rescue leads from spam
+- ★ [[empunya]] — empunya. is a website that aims to provide a platform for women who want to showcase what they are c
+- ★ [[find-car]] — CallForYou learns what you want, finds your best-fit cars, calls every dealership, books your test d
+- ★ [[stablepay-alvfhb]] — StablePay turns overseas invoice payments from weeks to minutes. Your clients pay with stablecoins, 
+- ★ [[linked-items-for-monday]] — Connect tasks and get an overview of all their relations
+- ★ [[modern-full-stack-boilerplate-with-ai-search-deno-backend]] — My awesome boilerplate featuring AI-powered semantic search, Redis vector storage and automated deve
+- ★ [[kasha]] — Tired of doing mental math and nudging someone who owes you money? Kasha is an AI chat bot that trac
+- ★ [[dealforge-ub8mjf]] — DealForge turns messy commercial handoffs into trusted, signed agreements by separating AI interpret
+- ★ [[disposable-digital-wallets-pointcheckout]] — Financial Support distribution to the unbanked and non-tech is hard, micro funds can still be sent t
+- ★ [[ecospire-gna60h]] — While most applications solve problems for specific user groups, EcoSpire addresses the biggest chal
+- ★ [[diaper]] — Moolah is an all-in-one personal finance app that gives kids and teens their first debit card and gu
+- ★ [[product-vision-k0fgao]] — Need to see how things fit together? Nothing beats a vision board!
+- ★ [[lifelink-soibwr]] — Clinicians ask ASI:One for blood in plain English, a swarm of Fetch.ai agents finds blood centers, a
+- ★ [[based_smiles]] — AI-powered Chrome extension that adapts websites in real-time for users with ADHD, dyslexia, and sen
+- ★ [[one-take]] — One Take generates professional product demos in minutes. Provide your GitHub or website URL, One Ta
+- ★ [[g-kiosk]] — Convert any Google Form into a self service payment kiosk.
+- ★ [[night-s-watcher]] — Night's Watcher is an innovative blockchain security monitoring tool designed to provide users with 
+- ★ [[foodi-copilot]] — Foodi Copilot:Your AI-powered food assistant. Get personalized recipe suggestions, nutritional insig
+- ★ [[cart-to-kitchen-gke-ai-assistant]] — An AI assistant to spice up your online grocery shopping experience!
+- ★ [[depositcheck]] — Before you wire a rental deposit, drop in the listing's photo. Google Lens through SerpApi finds eve
+- ★ [[fitcast-fna8px]] — Dress for the weather. See it on you. Upload a photo, pick a city, and AI shows you the perfect outf
+- ★ [[browseblind]] — World's First AI Browser. Allowing blind people to interact for the first time with the internet. Al

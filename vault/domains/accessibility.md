@@ -1,0 +1,181 @@
+---
+facet: "domain"
+name: "accessibility"
+projects: 391
+winners: 391
+tags:
+  - "facet"
+  - "domain"
+---
+
+# accessibility
+
+`domain` · **391** projects, **391** of them winners.
+
+## Pairs with
+
+- [[realtime_stream]] — 227 together  <sub>(mechanism)</sub>
+- [[video_visual]] — 197 together  <sub>(substrate)</sub>
+- [[geospatial]] — 155 together  <sub>(substrate)</sub>
+- [[structured_db]] — 140 together  <sub>(substrate)</sub>
+- [[developer_tools]] — 131 together  <sub>(domain)</sub>
+- [[voice_speech]] — 126 together  <sub>(mechanism)</sub>
+- [[education]] — 117 together  <sub>(domain)</sub>
+- [[vision_ocr]] — 113 together  <sub>(mechanism)</sub>
+- [[web_dom]] — 110 together  <sub>(substrate)</sub>
+- [[educator_student]] — 108 together  <sub>(user)</sub>
+- [[developer]] — 85 together  <sub>(user)</sub>
+- [[health_clinical]] — 82 together  <sub>(domain)</sub>
+
+## Projects
+
+- ★ [[launchpad-7xkjwu]] — Launchpad organizes your college applications in one place. Build your profile, get AI analysis on y
+- ★ [[scholarstream]] — Need money for your school fee and upkeeps? ScholarStream finds immediate opportunities (scholarship
+- ★ [[frankenbook]] — Generate a children's book with a few simple ad-lib style prompts stitched together to form your own
+- ★ [[bookster-05sbyz]] — AI powered student marketplace & community hub for ISU students
+- ★ [[pneumonet-building-an-ai-covid-19-product-with-pytorch]] — In this tutorial, we’ll show you how to use Pytorch to build a machine learning web application to c
+- ★ [[lantern-jm9a5l]] — A language dies every two weeks. Lantern is Duolingo for dying languages: it turns the words a commu
+- ★ [[v-ident-real-time-identity-verification-mobile-application-19kdg7]] — V-Ident: Pulse + pixels = proof. On-device heartbeat detection & frequency forensics catch deepfakes
+- ★ [[access-ring-6pedfu]] — Discover and invoke UI elements near your cursor, without precise mouse targeting.
+- ★ [[kisan-mitra-ai]] — Built on AWS and powered by Amazon Nova Pro, the platform eliminates the literacy barrier with a voi
+- ★ [[suavekeys-voice-and-expression-controller-and-keyboard]] — SuaveKeys is a distributed voice and expression controller to enable people with physical impairment
+- ★ [[sestara-e3w1on]] — Access to private tutoring predicts exam outcomes more than ability. That's an infrastructure failur
+- ★ [[drishti-ai-navigator]] — Empowering digital independence through AI. Voice-powered web navigation using AWS Bedrock AgentCore
+- ★ [[pulsepoint-2hmejd]] — AI-powered medical triage at the speed of life from instant assessment to doctor in 60 seconds.
+- ★ [[mindstep-xwlpnr]] — Free, 5-minute dyslexia screening using Gemini Vision + Chat APIs to detect early signs with 85.71% 
+- ★ [[star-ex]] — a cross-gameplay, cross-chain, cross-platform, cross-story, cross-community, cross-dimensional game 
+- ★ [[lore-ide-the-first-ide-for-agentic-code]] — GitHub stores your code. Lore stores your reasons. The memory layer for Devin, Windsurf, and Claude 
+- ★ [[sai-m2wl0p]] — A voice-native OS agent that sees your screen. Powered by Amazon Nova Lite for routing and Nova Pro 
+- ★ [[compliance-sentinel]] — An Agentic, AI Red Team Approach for Proactive Geo-Compliance Risk Detection
+- ★ [[starknet-lightning-privacy-mixer]] — A decentralized privacy solution for STRK token transfers, combining zero-knowledge cryptography, At
+- ★ [[project-iris-edge-ai-aac-platform]] — Project Iris is a zero-latency, eye-tracking AAC platform powered by local WebGPU AI, featuring Live
+- ★ [[nerve-the-nervous-system-for-your-device-fleet]] — The nervous system for your device fleet — AI-native IoT telemetry monitoring that turns a firehose 
+- ★ [[anyform-ai-form-builder-30au41]] — AnyForm is an AI powered, tool-first platform that lets you build complex, validated forms in under 
+- ★ [[guide-your-guide]] — Access museums or cultural heritage sites remotely through your phone, without worrying about #socia
+- ★ [[tasktamer-hetu2y]] — TaskTamer turns your to-do list into an RPG adventure: complete tasks, battle zombies and bosses, ea
+- ★ [[spatialize]] — The floor plan that talks back.
+- ★ [[opioid-action-engine]] — The opioid epidemic doesn't wait for funding to catch up.
+- ★ [[handtrack-js-1-0-real-time-handtracking-in-the-browser]] — Handtrack.js is a library for prototyping realtime hand detection (bounding box), directly in the br
+- ★ [[compilanceos]] — A compliance agent that audits your code against real law, writes the fixes, and reads its own Phoen
+- ★ [[ekko-v9wkgy]] — Elevate your foreign language fluency with tailored guidance and individualized verbal conversation 
+- ★ [[simuniverse]] — All in one interactive simulations across STEM disciplines
+- ★ [[the-turbo-theme-by-clickray]] — TURBO gives websites a boost of power, strength, and speed- all that you need to skyrocket to succes
+- ★ [[unitset]] — UnitSet is the Frankenstein of UI creation, a stitched-together fusion of canvas, AI, code, and live
+- ★ [[studyblocks]] — Overwhelmed by studying? StudyBlocks combines AI-powered study guide generation, smart flashcards, a
+- ★ [[tonguekeeper]] — Every 2 weeks, a language dies. TongueKeeper deploys autonomous AI agents that compile and cross-ref
+- ★ [[department-of-incidents]] — Agent that wakes up before your on-call engineers do
+- ★ [[lock-in-7znf21]] — AI-driven personalized learning
+- ★ [[browseback]] — BrowseBack gives your browser a photographic memory powered by Chrome’s built-in AI. Search by conte
+- ★ [[rehabuild]] — Rebuilding Medical rehabilitation in a COVID world. Evidence-backed video therapies from the first d
+- ★ [[tailbind]] — The missing link for spatial creation.
+- ★ [[echo-the-bridge]] — Bridging Gaps Between Parents and Children Through AI-Powered Daily Quests
+- ★ [[askinbio]] — Ask In Bio helps creators to make more money. We're an AI link-in-bio where fans can ask creators qu
+- ★ [[cadence-y6i1cs]] — AI-powered web app that screens for Parkinson's disease from a 30-second voice sample, providing exp
+- ★ [[immunolynk]] — Immunity testing meets AI + Blockchain.
+- ★ [[perceiv-io]] — 🪶 PERCEIV/IO leverages AI image recognition and various LLMs to assist persons with visual and/or au
+- ★ [[melio-ai]] — Melio AI, built with Kiro IDE, is revolutionizing music education by making creativity accessible to
+- ★ [[province]] — An AI-native tax filing agent system that turns complex tax prep into a natural conversation by extr
+- ★ [[pixel-wars]] — 🔥 PIXEL WARS: The battle for territory starts NOW! Every pixel counts!
+- ★ [[neurostem-ai-powered-stem-for-every-mind]] — Empowering neurodivergent students through AI.
+- ★ [[precedent-y2fczw]] — Your organization already decided this. Precedent privately finds the decision before your team make
+- ★ [[echo-wejlo3]] — Automate anything. Just show Echo how.
+- ★ [[medibot-iq8lf0]] — Help us help you get the health care you deserve!
+- ★ [[kraken-r9tcp2]] — #cicdcatalog #ai Improve Attention on your webpage through an AI generated attention and relevance h
+- ★ [[caps-chromium-ai-plugin-skeletton]] — Let AI code for you. Plugins are hard to test, even harder for AI Tools. This project enables Kiro t
+- ★ [[creta-learning-pottery-through-the-past]] — Creta is an MR app teaching the craft of pottery with real clay, guided by an AI artisan mentor. Lea
+- ★ [[zombie-blaster]] — What if cleaning up AWS cloud identities was an 8-bit retro zombie game? Zombie Blaster is a cyberse
+- ★ [[shadespan]] — The same t-shirt is obvious on one customer and nearly invisible on another. ShadeSpan renders every
+- ★ [[ed4you]] — Automatic Digitization of Teaching Material and Immersive Gamification of Practical Education.
+- ★ [[nutshell-auftp2]] — Empowers users with motor disabilities to browse the web completely hands-free using just their head
+- ★ [[sentinel-uxz0ni]] — AI that catches problems before they become problems.
+- ★ [[documorph-ai-ernie-multimodal-document-transformer]] — Transform static PDFs into dynamic, responsive, and interactive HTML webpages with AI-powered semant
+- ★ [[pact-q8nvkb]] — Contract-based behavioral observability for AI agents, built natively on Splunk. Know not just that 
+- ★ [[project-dvomck5s9l3q]] — Educational Wins.
+- ★ [[htn-zq6138]] — Turning snapshots into spaces you can actually explore
+- ★ [[blindsight-virtual-eyes-through-haptic-feedback]] — Blindsight simulates a novel sense of sight with haptic feedback vibration motors and ML.
+- ★ [[psy_pal_mental_health_demo]] — psy pal is a one-stop solution for all your mental health needs. It tracks user data and provides in
+- ★ [[re-compress]] — A query-aware rewriting layer that extends compression into the regime deletion can't reach — distil
+- ★ [[helix-ai-zw1vfs]] — Free AI Sidebar Chatbot in any site to prompt, talk to your site, attach images comes with built-in 
+- ★ [[vidya-setu-b5xi0y]] — Bridging every learner to their potential — AI-powered gap detection, peer collaboration, silent saf
+- ★ [[chronos-legacy-code-archaeologist]] — Upload any ancient codebase. Get an AI-powered dependency map, plain-English excavation report, and 
+- ★ [[budgety-financial-management-assistant]] — Budgety is the ultimate financial management solution for Jira. With the power of the Rovo agent, ga
+- ★ [[ranger-6jkv5s]] — Audio is a luxury we take for granted, that deaf folks don't get. Ranger is a wearable AR solution a
+- ★ [[match-vision]] — Empowering blind and low-vision fans to follow the action, context, and emotion of live sports indep
+- ★ [[shard-2kvsch]] — Do you have a laptop? You're potentially losing on making at least $10/day side income with Shard. I
+- ★ [[nexusstem-your-socratic-ai-agent-for-stem]] — The AI Agent That Teaches You to Think
+- ★ [[fd-7g0sbo]] — Google gives you a list. Zen guides you through, tells you where you qualify, explains why in your l
+- ★ [[specterflow-turn-markdown-specs-into-spooky-living-grimoire]] — VSCode extension that transforms boring markdown specs into a spooky, living grimoire! SpecterFlow a
+- ★ [[jiggle-wiggle]] — any move, any coach, anytime.
+- ★ [[aster-sv8mi6]] — Aster speaks the part of a lecture nobody says out loud, so blind and low-vision students can follow
+- ★ [[measuring-taste-to-diagnose-diseases]] — You might have measured your eyesight or your hearing, but have you ever tested your taste ?
+- ★ [[ai-powered-job-application-assistant]] — AI-driven career acceleration: Optimize resumes, ace interviews, and land your dream job with intell
+- ★ [[whisper-hd54xc]] — Whisper: End-to-end encrypted messaging—no servers, no tracking, just pure privacy.
+- ★ [[ai-for-common-good]] — An exam hosting service for the visually impaired
+- ★ [[chatrealm]] — ChatRealm: Context-aware chat rooms powered by 5 AI agent bureaus and LinkedIn scraper service. Spec
+- ★ [[thermohalo-ai-firearm-detection-84vpze]] — ThermoHalo uses AI-powered thermal imaging to detect concealed weapons at school entrances. Safe, FE
+- ★ [[buddymate]] — Everyday Companion to Live Confidently and Feel Connected
+- ★ [[medicaid-analytics-agent]] — An AI-powered Medicaid analytics assistant for uncovering provider outliers, peer comparisons, and b
+- ★ [[split-sketch]] — A fast, two-player drawing game where one player selects a word draws half of it, the other complete
+- ★ [[loro-0pi6dv]] — Loro is a platform for providing a smart companion robot that serves as a connectivity hub for wheel
+- ★ [[my-slots]] — Service for non-digital local stores to provide bookable slots for customers
+- ★ [[dashagenttool-custom-tableau-mcp-tool]] — Because even good dashboards have blind spots. DashAgent is your AI BI Analyst. It challenges your d
+- ★ [[sayit-a5hodz]] — SayIt is an AI-powered communication app that helps people with speech or motor impairments express 
+- ★ [[mira-w65b0a]] — AI eldercare assistant that reconstructs 3D scenes, localizes lost objects, and alerts caregivers—al
+- ★ [[tarmac-w2gbli]] — An airline irregular-ops agent society: sealed-bid seat claims, a mediator with signed rulings, and 
+- ★ [[sketchrun]] — Transform wireframe sketches into production-ready Next.js code in seconds using GPU-accelerated AI 
+- ★ [[listenly-text-to-speech-for-confluence]] — Make your Confluence speak!
+- ★ [[hakivo]] — Hakivo, your personal AI-powered legislative aide. Track bills, get alerts, and listen to NPR-style 
+- ★ [[alttext-guardian]] — AltText Guardian detects image submissions lacking post description, generates auto-reply alt-text f
+- ★ [[jet-2340bw]] — A prediction market where you don't trade alone. Oracle gives you three AI analysts, each with a dis
+- ★ [[seance]] — Explore the world's darkest legends
+- ★ [[agrowise-4b2szv]] — AgroWise fuses low-cost root-zone sensors with AI and IVR to provide precision farming via any phone
+- ★ [[smart-shoe-module]] — A modular shoe attachment clipped to the wearer's shoe to help people adjusting to new blindness, ey
+- ★ [[project-chronos-mhri13]] — AI-powered ICU early warning system predicting sepsis, hypotension, & hemodynamic collapse 2-6 hours
+- ★ [[a11y-b8xg5i]] — A Google Chrome extension that elevates the limitations of people with disabilities and makes web pa
+- ★ [[aegis-dev]] — Fully autonomous software agent that detects, diagnoses, fixes, and deploys production bugs - with a
+- ★ [[a-eye-pk9sdw]] — We built a real-time tool that converts live camera input into audio instructions, helping the visua
+- ★ [[a-z-learn]] — Have you ever felt like traditional classes turn even the most interesting topics into nap time? A-Z
+- ★ [[hackutd-project-kbhins]] — Echo assists neurodivergent kids that struggle with alexithymia in learning how to differentiate fac
+- ★ [[sciforge-ai]] — An autonomous AI agent that adapts in real‑time to each student's mastery, tracks their progress acr
+- ★ [[signtech-sign-language-translator]] — "Signs are to eyes what words are to ears." - Deaf Proverbs Book Writer
+- ★ [[caregiver-ucdwz6]] — Caregiver is an AI-powered assistant for assisted living facilities, automating event tracking, resi
+- ★ [[netra-empowering-the-visually-impaired]] — Restoring independence through AI. Netra provides the visually impaired with a high-speed vision sys
+- ★ [[react-kiro-starter-modern-full-stack-template]] — Production-ready React template with Vite, TypeScript, Supabase, and shadcn/ui - featuring comprehen
+- ★ [[magical-girl-os]] — Where neurodivergent support creates a fun, engaging experience! Lumi Lens gamifies socialization an
+- ★ [[text-to-dot]] — Real time translation from text to braille.
+- ★ [[necromaniac]] — 🧟 NECROMANIAC - A haunting 3D model viewer built for Kiroween 2024 for Costume Contest category show
+- ★ [[mapdash]] — Indoor navigation for the visually impaired, made easy.
+- ★ [[cognipath]] — Cognipath: Transforming education with smart use of Data & AI. Featuring AI-driven storytelling, rea
+- ★ [[condensis]] — Condensis offers AI-generated notes to students who struggle with note-taking, helping promote acces
+- ★ [[junction2016-oxu41m]] — A virtual assistant for the blind!
+- ★ [[tether-n2kpha]] — A focus ritual for brains that freeze before they begin.
+- ★ [[spooky-user-interface]] — Eerie Weather App is a 3D Three.js experience featuring a spooky floating house that reacts to real-
+- ★ [[vision-app]] — Helping the visually impaired navigate their daily life - through sound.
+- ★ [[splunk-ai-refiner]] — A multi-agent AI tool that refines Splunk logs pre-ingestion. It identifies noise, auto-generates nu
+- ★ [[torch-drowsiness-monitor]] — Drowsiness and atention monitor for driving. Also detects objects at the blind spot via Pytorch-powe
+- ★ [[online-examination-software]] — Empowering secure and convenient online exams through audio and video proctoring.
+- ★ [[split-decision]] — Nine AI judges argue real Supreme Court cases, live on Alibaba Cloud. Two AI journalists cover the f
+- ★ [[baymax-your-personal-healthcare-companion]] — Our AI-powered robot arm is a personalized solution to restore physically impaired and elderly indiv
+- ★ [[iris-vlnzp0]] — Real-time vision for the blind.
+- ★ [[video-game-for-the-visually-impaired-and-sighted-people]] — "Attack of the Robots" is a video game designed to bridge the gap between visually impaired and sigh
+- ★ [[momental]] — Escape the noise. Momental helps you find your moment — whether it's to meditate, sleep or focus. On
+- ★ [[clearcall-7b8uhd]] — A public referee knowledge network where users share real game incidents, make structured calls, com
+- ★ [[helora]] — "Healora, powered by Nurse Joy, uses empathetic AI for symptom tracking and predictive analysis, hel
+- ★ [[anemochain]] — Non-invasive anemia screening from a single eye photo — powered by AI and secured with blockchain ta
+- ★ [[whisper-care]] — An all-in-one inclusive mobile application that assist the visually impaired in-store to better acce
+- ★ [[synapseai]] — Transforming Thoughts into Visual Expression - Empowering Minds Beyond Words
+- ★ [[erewhon]] — EMTs deserve better than a radio and a clipboard.
+- ★ [[nailprint]] — Feel beautiful anytime, anywhere with nail polish stencils. Inclusivity for all, always
+- ★ [[autosre-the-autonomous-on-call-engineer]] — AutoSRE is an autonomous on-call agent that diagnoses Dynatrace incidents in seconds and queues up t
+- ★ [[agent-sterling-the-social-media-smooth-talker]] — Meet your new AI bestie! Powered by Gemini Pro, this smooth-talking bot turns your social media game
+- ★ [[tactilify]] — Tactilify: Accessible STEM diagrams for every learner.
+- ★ [[squaresense-ai-personalized-ecommerce-intelligence]] — SquareSense augments your Ecommerce Database with: AI Chat, Generative Interactive Charts, Data Insi
+- ★ [[dsv-data-structure-visualizer-6ljave]] — FinSage is on a mission to democratize FINANCIAL LITERACY globally, empowering individuals everywher
+- ★ [[julia-wg9iku]] — Julia: A decision-intelligence copilot that refines raw founder ideas through strategic Q&A, separat
+- ★ [[dyslexicore-1r3v0a]] — Empowering neurodivergent learners through personalized skill-quests and intelligent screening tools
+- ★ [[beb-pay]] — Bringing fast, contactless payments to every store!
+- ★ [[armvision-assist-ai-vision-companion-for-the-blind]] — World's first offline real-time AI vision assistant that helps visually impaired users understand th
+- ★ [[dyslexicore-evwo9p]] — Empowering neurodivergent learners through personalized skill-quests and intelligent screening tools
+- ★ [[ta-da-intelligent-teaching-assistant]] — Why are students Googling mid-lecture? TA-DA keeps them in the room: AI teaching assistant built int
+- ★ [[amazing-grate]] — The grate of the future. No Cap. Yes Accessibility and Environmental Conscientiousness.
+- ★ [[raising-cane]] — A smart cane that guides indoor and outdoor navigation for blind people, costing ~1/20 of existing d

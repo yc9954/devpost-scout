@@ -1,0 +1,181 @@
+---
+facet: "domain"
+name: "mental_health"
+projects: 422
+winners: 422
+tags:
+  - "facet"
+  - "domain"
+---
+
+# mental_health
+
+`domain` · **422** projects, **422** of them winners.
+
+## Pairs with
+
+- [[realtime_stream]] — 193 together  <sub>(mechanism)</sub>
+- [[health_clinical]] — 159 together  <sub>(domain)</sub>
+- [[structured_db]] — 145 together  <sub>(substrate)</sub>
+- [[education]] — 133 together  <sub>(domain)</sub>
+- [[developer_tools]] — 131 together  <sub>(domain)</sub>
+- [[video_visual]] — 130 together  <sub>(substrate)</sub>
+- [[educator_student]] — 122 together  <sub>(user)</sub>
+- [[web_dom]] — 114 together  <sub>(substrate)</sub>
+- [[geospatial]] — 111 together  <sub>(substrate)</sub>
+- [[patient_family]] — 102 together  <sub>(user)</sub>
+- [[finance_payments]] — 96 together  <sub>(domain)</sub>
+- [[developer]] — 85 together  <sub>(user)</sub>
+
+## Projects
+
+- ★ [[launchpad-7xkjwu]] — Launchpad organizes your college applications in one place. Build your profile, get AI analysis on y
+- ★ [[scholarstream]] — Need money for your school fee and upkeeps? ScholarStream finds immediate opportunities (scholarship
+- ★ [[haven-w7mj9g]] — A Silent Shield, A Strong Voice.
+- ★ [[zenflow-your-calm-in-the-chaos]] — Burnout builds silently. ZenFlow is an AI workplace companion inside Slack that detects overload pat
+- ★ [[story-weave]] — AI storytelling meets immersive audio. Generate custom narratives with lifelike narration from any p
+- ★ [[lunsj-hbfni2]] — Automate routine knowledge sharing & social connection
+- ★ [[rayan-memory]] — Point your camera at life. Rayan builds a 3D palace from everything you see and hear, rooms you can 
+- ★ [[trustedrisk-care-engine]] — A2A federation that decomposes one clinical prompt into a multi-specialist consultation: 16 sub-agen
+- ★ [[gurwi-learn-anything]] — Gurwi makes mastering complex topics simple and engaging. Learn anything through our unique format o
+- ★ [[health-counseling-portal]] — Health counselling, preventive treatment, remediation using a decentralized Twitter application, DID
+- ★ [[pedirounds-ai-co-resident-for-pediatric-morning-rounds]] — The safety net between overnight and attending rounds. 4 AI agents catch deterioration, flag unsafe 
+- ★ [[legalmindz]] — Ethiopia has 2.5 million businesses but only 3,000 lawyers. Legalmindz brings Legal AI for 120 Milli
+- ★ [[mybubble-guiding-you-to-the-new-normal]] — MyBubble is the 'digital bubble' that keeps you alert, informed, and safe in the 'new normal'!
+- ★ [[pulsepoint-2hmejd]] — AI-powered medical triage at the speed of life from instant assessment to doctor in 60 seconds.
+- ★ [[unravel-7ak8lf]] — Five agents watch evolving variant evidence, re-score a clinic's uncertain DNA findings with a calib
+- ★ [[brightact-a7e5my]] — We streamline and gather support for victims of domestic violence, easy to find, & safe.Collaborativ
+- ★ [[compliance-sentinel]] — An Agentic, AI Red Team Approach for Proactive Geo-Compliance Risk Detection
+- ★ [[p-r-i-d-e]] — They say, "If you don't like what they are saying, change the conversation." So, that is what we did
+- ★ [[near-road-icm]] — Investigative case management solution for citizens, police officers and drivers to report and manag
+- ★ [[vitalflow-radar]] — VitalFlow Radar continuously monitors loved ones' vital signs without wearables, bands, or patches. 
+- ★ [[brightact-fqibsh]] — App for documentation and support for victims of domestic violence, gathering governments, authoriti
+- ★ [[guide-your-guide]] — Access museums or cultural heritage sites remotely through your phone, without worrying about #socia
+- ★ [[bvcaps-globalhack-vi]] — We use live updated data systems to track the homeless and to provide financial counsel to Bounce Ba
+- ★ [[tasktamer-hetu2y]] — TaskTamer turns your to-do list into an RPG adventure: complete tasks, battle zombies and bosses, ea
+- ★ [[bias-lab]] — Train a real classifier in your browser, drag one decision threshold, and watch accuracy hold still 
+- ★ [[electronic-medicine-trial-and-test-records-as-a-service]] — Tools to enable visualization, management for developers to build solutions in medicine, healthcare,
+- ★ [[studyblocks]] — Overwhelmed by studying? StudyBlocks combines AI-powered study guide generation, smart flashcards, a
+- ★ [[maternalguard-mcp-for-maternal-risk-on-sharp-fhir]] — 5-tool MCP server plus A2A orchestrator that gives healthcare AI the full mother-baby picture from a
+- ★ [[cvagent]] — 3-agent AI pipeline: Anna collects your story, Hannah expands it, CVAgent serves it. Nova 2 Lite + N
+- ★ [[unite-government-procurement-platform]] — A platform for public procurement of special orders during times of crisis - cutting through the bur
+- ★ [[ctrl-alt-heal]] — AI-powered clinical gap detection that finds the diagnoses hiding in your charts, so no condition go
+- ★ [[rehabuild]] — Rebuilding Medical rehabilitation in a COVID world. Evidence-backed video therapies from the first d
+- ★ [[shopguard]] — AI-powered behavioral wellness that helps you think twice before you buy.
+- ★ [[echo-the-bridge]] — Bridging Gaps Between Parents and Children Through AI-Powered Daily Quests
+- ★ [[green-space-suggestion-tool]] — A tool to combine datasets to generate green space suggestion heat map in cities.
+- ★ [[clinician-coronavirus-exposure-tracker]] — We track patient-clinician and clinician-clinician exposure and spread in hopsitals. We help pandemi
+- ★ [[roundreach]] — AI that finds investors who fund companies like yours and writes personalized outreach that gets res
+- ★ [[futureup-lab-mindset-development-coaching-for-educators-13b4qu]] — Empowering educators to navigate uncertainty and help their students thrive in difficult times, via 
+- ★ [[dhangyan-6b7w50]] — Don't teach financial literacy. Let people LIVE it.
+- ★ [[clearclause-zer4yh]] — AI-powered legal document analyser: upload any contract, get instant clause-by-clause risk analysis,
+- ★ [[empower-hacks-2-0-wip]] — So many immigrant, low-income, and first-generation college students are overwhelmed with paperwork:
+- ★ [[aminochain]] — Tokenizing Stem Cell Donations and Incentivizing Donors
+- ★ [[corazones-against-covid19-tech-to-increase-impact-of-money]] — Fintech innovations can multiply the impact of recovery funds for regional SMEs. Five regional gover
+- ★ [[forrus]] — Forrus is an AIoT device powered by TigerGraph and AWS EC2 DL1 for real-time alerts for wildfire mit
+- ★ [[dokanda-b7ngsd]] — The perfect doctor just for you...
+- ★ [[unlocking-moments]] — A platform for people that want to see and contribute to the human story of the essential worker com
+- ★ [[care-coordination-discharge-planner]] — Automates discharge coordination — reads clinical notes, validates CMS rules, and generates Standard
+- ★ [[johnkeats-ai]] — A voice-first AI companion that holds uncertainty instead of solving it. Built on Gemini 2.5 Flash N
+- ★ [[refound-journalism]] — A decentralized publishing platform and news marketplace with ability to create verifiable content. 
+- ★ [[orama-your-ai-powered-clinical-companion]] — An AI-powered clinical assistant that transforms complex patient data into actionable insights, help
+- ★ [[whisper-duq6f4]] — Sometimes a whisper reaches further than a scream. Find your person. Heal together.
+- ★ [[psy_pal_mental_health_demo]] — psy pal is a one-stop solution for all your mental health needs. It tracks user data and provides in
+- ★ [[craf-te]] — Design smarter, not harder . AI builds your canvas, you perfect every pixel.
+- ★ [[lookcloser]] — A multi-agent safety net for incidental imaging findings, because 1 in 5 follow-ups never happen, an
+- ★ [[maggy-ovyepd]] — Social distancing made easy! Maggy is a small wearable device helping you to maintain social distanc
+- ★ [[edify-ai-iea9ws]] — The shortest path from 'Student' to 'Hired'. Career paths aren't linear, but they shouldn't be a maz
+- ★ [[healthcare-worker-burnout-prevention-wellness-platform]] — AI-driven platform that predicts healthcare worker burnout risk, sends early alerts to managers, and
+- ★ [[vidya-setu-b5xi0y]] — Bridging every learner to their potential — AI-powered gap detection, peer collaboration, silent saf
+- ★ [[coronatracker-9nhoz0]] — CoronaTracker is an easy-to-use & accessible progressive web app that helps you monitor your wellnes
+- ★ [[wellbe-7fkox0]] — Wellbie - start with a simple challenge, finish with a marathon.
+- ★ [[heal-hale]] — Guided by Pega Bot, sentiments from NLP, suggestions through NBA, evidence utilizing Process AI, fee
+- ★ [[mental-health-hero]] — Using Tigergraph to solve mental health accessibility!
+- ★ [[nest-newborn-maternal-safe-transition]] — Fragmented charts cost lives. NEST saves mothers and newborns by orchestrating 5 AI agents that synt
+- ★ [[coronatracker-ynvrbc]] — CoronaTracker is an easy-to-use & accessible progressive web app that helps you monitor your wellnes
+- ★ [[rehearse-nzow16]] — Got an upcoming Interview or Presentation? Use Rehearse, an AI Powered practice platform. Rehearse..
+- ★ [[theracat]] — A band and a plush cat that catch anxiety in how you move — and interrupt it before it peaks. There'
+- ★ [[medical-intelligence-applied]] — Two-way health management platform for seniors and caregivers
+- ★ [[altiverse]] — AltiVerse: AI-powered simulations that let students fork decisions into living alternate realities w
+- ★ [[jiggle-wiggle]] — any move, any coach, anytime.
+- ★ [[reignitia]] — Power Your Potential.No Student Left Behind. No Talent Wasted.
+- ★ [[measuring-taste-to-diagnose-diseases]] — You might have measured your eyesight or your hearing, but have you ever tested your taste ?
+- ★ [[signet-app-identity]] — Did you know that officially approved solutions to privacy and impersonation risks in online communi
+- ★ [[straighty]] — Your AI Sloth Companion for Perfect Posture!
+- ★ [[keep-it-clean-b7suj8]] — SeedsONEarth is a p2p marketplace connecting humans (crypto-native, institutional sponsors, users) a
+- ★ [[dailyvibe]] — Once a day, Dailyvibe lets you choose between 4 emojis to describe how you are feeling. Your vibe is
+- ★ [[chatrealm]] — ChatRealm: Context-aware chat rooms powered by 5 AI agent bureaus and LinkedIn scraper service. Spec
+- ★ [[nextop]] — 200K veterans transition out every year — most without real support. NextOp is a private AI coach th
+- ★ [[commando-ai-h0vodb]] — Dead PRs. Missed deadlines. 5 tabs, zero answers. Commando AI runs Monte Carlo simulations on your l
+- ★ [[elara-x47age]] — Your guide to Natural Remedies - Learn What Works, Naturally
+- ★ [[mybubble-oaf2c4]] — The game where it's good to 'live in a bubble' -- MyBubble makes social distancing fun by earning re
+- ★ [[thermohalo-ai-firearm-detection-84vpze]] — ThermoHalo uses AI-powered thermal imaging to detect concealed weapons at school entrances. Safe, FE
+- ★ [[jugaad-dpmqi7]] — JUGAAD — Just-in-time University Guidance and Actionable Discovery — gives every Berkeley student th
+- ★ [[medicaid-analytics-agent]] — An AI-powered Medicaid analytics assistant for uncovering provider outliers, peer comparisons, and b
+- ★ [[immunoverse-composable-in-silico-gene-therapy-screening]] — A decentralized network of AI specialist agents running patient-specific, systems-level safety scree
+- ★ [[alzora-ai]] — Empowering families with AI-driven Alzheimer’s care
+- ★ [[first-plate]] — Choose a plate, go on a date! Swipe through restaurant options that align with your preferences and 
+- ★ [[my-slots]] — Service for non-digital local stores to provide bookable slots for customers
+- ★ [[sayit-a5hodz]] — SayIt is an AI-powered communication app that helps people with speech or motor impairments express 
+- ★ [[synth-u7a6pq]] — AI Medical Visit Assistant
+- ★ [[emotionsense-ai]] — Your personal emotional intelligence assistant. Elevate your communication skills and enhance your r
+- ★ [[listenly-text-to-speech-for-confluence]] — Make your Confluence speak!
+- ★ [[hakivo]] — Hakivo, your personal AI-powered legislative aide. Track bills, get alerts, and listen to NPR-style 
+- ★ [[infinite-memory-plnev8]] — Never Forget Again
+- ★ [[wayfinder-1y4xbe]] — Your personal AI caseworker for U.S. refugee benefits. Answer a few questions, see what you qualify 
+- ★ [[doc-home]] — A web app to help cope with the present pandemic
+- ★ [[learnables]] — Revolutionising education for children aged 4-14 using an educational tablet with exclusive educatio
+- ★ [[childgrowthmonitor]] — Quick, accurate data on malnutrition
+- ★ [[control-0kbjsx]] — Your AI companion for addiction recovery - available at 2am when no one else is
+- ★ [[gitdefender]] — An agent to help OSS maintainers cut through the noise, from triaging MRs to confidently merging the
+- ★ [[edutracker-kfpj0v]] — Fast tracking your education to success
+- ★ [[project-9qkyi4flrtpm]] — Citizens live eagerness to arrive on time, overcoming speed limits and not attending traffic rules. 
+- ★ [[ai-mental-health-chatbot-jimyr9]] — AI-Powered Care, Human-Centered Support
+- ★ [[patentbot]] — Patent creation can a be complex process often requiring legal expertise. To streamline this process
+- ★ [[eliza-exhumed]] — What if you could compare 1966 AI with 2025 AI, side by side, in the same conversation? Well...ELIZA
+- ★ [[the-cradle]] — You are expecting a baby? Congratulations, this is a special endeavour. You worry about missing an i
+- ★ [[not-my-nana]] — Protecting our loved ones from digital deception with the reasoning power of #AmazonNova.
+- ★ [[the-digital-volunteer-dym0xb]] — Automate mobilisation of community, solidarity and collaboration. Use non-smartphones to raise a tas
+- ★ [[mentation]] — Lana is an AI friend/therapist, tracking emotions, keeping a diary, affirming love, & learning from 
+- ★ [[ownemployed]] — Why stay unemployed when you can be ownemployed?
+- ★ [[rootcause-vlgd53]] — A FHIR-native multi-agent AI system that detects why dental patients stop coming in and automaticall
+- ★ [[my-pet-cat]] — Take care of your very own virtual pet Cat! Take your new pet on walks, go on adventures with it, an
+- ★ [[reverie-auf3w8]] — Every dream, a revelation.
+- ★ [[automatic-detection-of-covid-19-from-pocus-ultrasound-data]] — We want to provide a new AI-based diagnosis tool to screen Covid-19 at early stages in an easy, prec
+- ★ [[wemindyou-app-emotional-well-being-of-kids-during-covid-19]] — A digital workflow app to identify Emotional Well-Being of Kids through facial analysis & psych ques
+- ★ [[priorauth-agent]] — A voice-to-submission AI agent that converts a clinician's spoken case into a completed prior author
+- ★ [[healthier-w0baus]] — AI-powered elderly care app. Seniors scan pills/meals and chat with a voice agent. Healthcare provid
+- ★ [[vern-kore-botathon]] — VERN AI is emotion recognition technology leveraged into the Kore.ai ecosystem to provide world-clas
+- ★ [[tether-n2kpha]] — A focus ritual for brains that freeze before they begin.
+- ★ [[forged-in-code]] — There's a mystical sword which makes you a 10x developer, Only thing which stands in between are the
+- ★ [[sustain-a-thon]] — Sustain-a-thon gamifies saving the planet. Track real-time impact, earn XP & badges, and get AI coac
+- ★ [[women-in-need-0hiad4]] — A one-stop solution for victims of Domestic Abuse during Covid-19 to Log incidents, ask for assistan
+- ★ [[carebridge-4vm7on]] — Handoff is your Care Home Coordinator built inside Slack. It replaces sticky notes, binders, and tex
+- ★ [[gradientguard-dora-compliance-intelligence-platform]] — AI-powered DORA compliance platform for EU fintechs. 4 multi-agent system on DigitalOcean Gradient™ 
+- ★ [[activate-hackers]] — Moodify is a comprehensive web application that harnesses the power of ML, MongoDB and Google Cloud 
+- ★ [[affectlink]] — AffectLink provides real-time multimodal emotion insights for tele-health with HP AI Studio. Uncover
+- ★ [[mar]] — Families living in urban areas will turn this crisis into an opportunity to make their community gre
+- ★ [[echo-107u6c]] — I often feel overwhelmed by life's changes, but this app reminds me: You're not alone, proven with d
+- ★ [[bloom-today-8scpra]] — Because no mom should have to heal alone. Bloom Today is a postpartum emotional support platform tha
+- ★ [[coach-bnbw]] — Avoid psychological burnout by analyzing developer's behaviour based on their commits. Powered by AI
+- ★ [[theramind]] — Less paperwork, more patient care: the AI therapist's assistant.
+- ★ [[fitness-quest-31h2ci]] — FitQuest is an AI-powered fitness game that makes workouts fun, blending: AI Coach, Nutritionist AI,
+- ★ [[gotrail]] — Turn every hike into a discovery. Doctors get a tool they can actually prescribe to treat mental and
+- ★ [[bloom-dvjpea]] — The AI caretaker that enables seniors to be more independent and connected to their families.
+- ★ [[covid-challenges]] — Trace indoor exercise (rowing machine, exercise bike, running in circles) along real paths. Compete 
+- ★ [[teachxr]] — World's First AI Study Assistant in Extended Reality
+- ★ [[qw-qox4r8]] — mila stays close to you when you need it most, giving color to your voice and helping your healthcar
+- ★ [[coolspace-workspace]] — CoolSpace Workspace is a "Work from home" oriented workspace solving the problems associated with th
+- ★ [[health-care-a2kl1v]] — health is wealth
+- ★ [[nutricare-agents]] — Smart nutrition for all – multi-agent AI transforming public health
+- ★ [[dyslexiapilot-ai]] — The AI-Powered Companion that helps students with dyslexia study smarter, faster, calmer and It come
+- ★ [[hystandard]] — Air-purifying solution to reopen Europe’s restaurants
+- ★ [[doclyst]] — Doclyst is a purpose-built medical safety interpreter. It turns complex medical reports into clear, 
+- ★ [[dental-assessment-gpt]] — Dental GPT that generates evidence-based dental assessments and treatment plans from case data. Trea
+- ★ [[spothelp]] — help on the spot!
+- ★ [[hate-normal-text-classification]] — [Preventing Hate Speech] Harmful language detection with multiple NLP models.
+- ★ [[mindmapr]] — MindMapr is an application specifically designed for the (mental) wellness of students.
+- ★ [[clinicact]] — ClinicAct turns doctor-patient conversations into ready-to-sign EMR actions and clear patient follow
+- ★ [[self-care-for-devs-api]] — A collection of APIs dedicated to all fellow devs to take care of your well-being!
+- ★ [[foodi-copilot]] — Foodi Copilot:Your AI-powered food assistant. Get personalized recipe suggestions, nutritional insig
+- ★ [[mindtrace-ai-early-cognitive-stress-burnout-indicator]] — MindTrace AI uses behavioral data and machine learning to detect early cognitive stress and burnout 

@@ -1,0 +1,50 @@
+---
+slug: "retro-slide-puzzle"
+url: "https://devpost.com/software/retro-slide-puzzle"
+title: "Retro Slide Puzzle"
+hackathon: "Flutter Puzzle Hack "
+organization: "Google"
+winner: true
+words: 1302
+team_size: 1
+has_repo: true
+has_live: true
+has_video: true
+tags:
+  - "project"
+  - "mechanism/deterministic_policy"
+  - "mechanism/simulation_digital_twin"
+  - "domain/civic_government"
+  - "substrate/code_repository"
+  - "substrate/document_pdf"
+  - "substrate/structured_db"
+  - "substrate/video_visual"
+  - "substrate/web_dom"
+---
+
+# Retro Slide Puzzle
+
+> A retro-themed slide puzzle with a modern animated twist
+
+[Devpost](https://devpost.com/software/retro-slide-puzzle) · hackathon [[Flutter Puzzle Hack]]
+
+## Facets
+
+**mechanism** [[deterministic_policy]] [[simulation_digital_twin]]
+**domain** [[civic_government]]
+  <sub>weak: developer_tools</sub>
+  <sub>weak: developer</sub>
+**substrate** [[code_repository]] [[document_pdf]] [[structured_db]] [[video_visual]] [[web_dom]]
+
+**stack** cloudrun, dart, firebase, flutter, javascript, node.js, python, rive
+
+## How they structured the write-up
+
+- 🚀 features
+- 🛠️ building and compiling
+- 📓 developer notes
+- © copyright
+
+## Body
+
+🧩 Retro Slide Puzzle A retro-themed slide puzzle with a modern animated twist for the Flutter Puzzle Hack. The live build is available to try here ✨ 🚀 Features 【﻿ａｅｓｔｈｅｔｉｃ】🌆 Responsive design that can fit any screen dynamically 📱💻 Two different difficulties to test your skills- Easy (3x3) and Hard (4x4) Tiles can be moved with mouse click or taps, drags (flick or drag n drop), and keyboard arrow keys 🦾 Can also click/drag multiple tiles at once if the space permits 👀 Satisfying sounds and haptic feedback 🔊📳 Auto solves the puzzle for you in case you get tired 🤖 🛠️ Building and Compiling This project was created in Flutter 2.8.0 but the final build is produced with the latest version of 2.10.1. Please follow the official documentation to set up flutter in your system before proceeding. It also uses Firebase to create accounts and access the community scores. Please set up a Firebase project for your app by following the FlutterFire documentation . Clone the repository and open it in Terminal/CMD/Powershell. Run the following commands to get the app running: flutter pub get flutter run -d chrome Firebase This project uses firebase to anonymously sign in players and keep track of their scores in the firestore database. It also uses cloud functions to keep track of the community scores by pooling them in a single document for moves and times. Whenever a player creates a new score or breaks personal best, apart from updating their own user document in users' collections, the older stat is also removed and the newer one is added to the aforementioned pool. In order to achieve that, a very basic function is used here which fires on document updates of users' collection. This is done so that the rank can be easily calculated without having to pull in all the users' scores (document). The function can be found in the gist here . Remember to turn off eslint otherwise, it won't deploy. It is not the cleanest piece of code I have ever written but it is what it is 🙄 Important! When building for release, please make sure to enable the CanvasKit renderer otherwise the custom painter used in the project does not work as intended and produces artifacts in HTML mode (auto mode defaults to HTML renderer for mobile devices). flutter build web --web-renderer canvaskit 📓 Developer notes The app accounts for two types of screen sizes which are enough for any device where the app can be run- tall screens such as phones/tablets and wide screens such as laptops/desktops/tablets. Additionally, it can also handle certain scenarios where the screen might be resized to a square-like shape. The images in individual tiles are not computed or split by copying and cropping because it is a resource-intensive task and is not very user-friendly. It is simply achieved by wrapping the image (or any other widget) with an OverflowBox() and ClipRect() . The tile is zoomed and centered in its place using the Transform.scale() widget with a scale value of the grid size and an offset based on its default position. Even for a 15-puzzle (4x4), this simple task is quite intensive in certain scenarios so I had to not include the 24-puzzle variant (5x5). Any animation runtime libraries like Rive and Lottie simply fail to keep up their performance for the quality of animation that I intended to keep as the tile pieces. I sadly had to scrap that idea which I had envisioned since the beginning of the challenge. While I wanted to, I did not implement a feature to use images uploaded by the player because it would ruin the overall aesthetic of the game. The little 2x2 puzzle demonstrating the button's function was made in Rive along with all the other action buttons. The project for this can be found here . The toggle buttons are all custom made from the default material icons by exporting them as SVG and using Rive to animate their paths and shapes. A very basic state machine was implemented to switch between the two toggled states. This project can be found here . The background is generated by making small squares using a custom painter and having it wrapped with a transform widget. A single animation controller is passed into each of these widgets and they are flipped in either of the axes randomly at random times. When the player decides to use the AI to solve the puzzle, the squares are made to flip all the time to simulate that the game is working hard to solve the puzzle. There's also a radial gradient over the background that changes color and position based on the progress of the puzzle. The toolbar has a button to toggle the visibility of numbers on top of each of the tile pieces. This makes the puzzle much easier to solve so I made it enter practice mode where the scores are not taken into account for submission. On toggling it back off, the puzzle resets to the original state to avoid players cheesing their way into the leaderboards. The leaderboard system is very simple which fetches 50 user documents in the users' collection and orders them based on the least amount of time that they have taken to solve. In case multiple people share similar times, their number of moves decide who gets to be on top in the leaderboards. Why not use popular plugins like just_audio for sound? Well, soundpool is amazing with loading assets into memory and executing them in a jiffy which makes for a great playing experience. It can also fire multiple instances of the same audio file at the same time which other packages fail to do. This game runs on Android, iOS, and the web but has been only tested in web and android due to unavailability of a MacOS system. It is not really supposed to be multiplatform because not everything that is implemented here has support for all the platforms. soundpool for example has very experimental support for Windows and Linux. Firebase has issues in the said platforms as well. If given enough time and resources, these problems can be solved but it is currently not a priority at all for me. If I was to remove the sounds and Firebase integration for leaderboards, this app would become truly multiplatform and I don't see what else could be hindering it. The solving function used here incorporates the IDA* algorithm (with pattern database heuristic) written in python (code modified from Michael Schrandt ) which is executed in Google Cloud Run and is accessed via HTTP requests. After trying to implement the algorithm in dart and realizing that it could result in potential UI freezes in the web along with many other technical problems, I decided to outsource the computational task. For a puzzle of grid size 3, it is able to solve the puzzle within seconds. A grid size of 4 takes quite some time and 5 is beyond the scope of the algorithm which also contributed to not including the 24-puzzle in the final build. The solution is definitely not optimal (usually 50+ moves) and I am not even trying to go for it because it will take a lot more time (sometimes over 2 minutes to solve with the manhattan distance heuristic). Moreover, the player wouldn't even understand the moves the AI makes so it is not ideal to go for the optimal solutions anyway. It is a purely aesthetic feature that just looks "cool" and is extremely satisfying to watch. © Copyright Certain images and sounds used in this project have been acquired from sources that provide copyright-free services. Images are compiled from Pexels and Vecteezy . Sounds are compiled from Zapsplat , Mixkit and Pixabay . <div

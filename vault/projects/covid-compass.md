@@ -1,0 +1,53 @@
+---
+slug: "covid-compass"
+url: "https://devpost.com/software/covid-compass"
+title: "Compass"
+hackathon: "hack:now"
+winner: true
+words: 1481
+team_size: 5
+has_repo: false
+has_live: true
+has_video: true
+tags:
+  - "project"
+  - "domain/education"
+  - "domain/finance_payments"
+  - "domain/health_clinical"
+  - "domain/housing_homeless"
+  - "domain/scientific_research"
+  - "user/clinician"
+  - "user/educator_student"
+  - "user/patient_family"
+  - "substrate/genomic_bio"
+  - "substrate/structured_db"
+---
+
+# Compass
+
+> COVID-19 affects low-income minorities & we need population-specific solutions ASAP. Meet Compass, a physician-guided, SMS-based triaging platform that offers geographically-relevant patient support.
+
+[Devpost](https://devpost.com/software/covid-compass) · hackathon [[hack-now]]
+
+## Facets
+
+**domain** [[education]] [[finance_payments]] [[health_clinical]] [[housing_homeless]] [[scientific_research]]
+**user** [[clinician]] [[educator_student]] [[patient_family]]
+**substrate** [[genomic_bio]] [[structured_db]]
+
+**stack** azure, twilio
+
+## How they structured the write-up
+
+- compass: streamlining covid-19 diagnosis
+- inspiration
+- what is compass?
+- how we started
+- challenges
+- accomplishments
+- future steps
+- our team
+
+## Body
+
+Compass Logo Example of Compass' Output Visualization of Compass's Triaging Control Flow Compass: Streamlining COVID-19 Diagnosis Compass is a triaging platform designed specifically for low-income populations. After speaking to public health experts and physicians, we discovered that many low-income populations that use current triaging systems are unable to get tested due to a lack of insurance or Medicaid. We are changing this by renovating the operational workflow of COVID-19 testing. By partnering with local testing centers and community housing systems, we have created a network of testing centers under our platform that will test for COVID-19 regardless of a patient’s insurance or Medicaid status. Inspiration Knowing how saturated the triaging sector is, we were hesitant to pursue the idea. However, after speaking to a public health director at Washington University Brown School of Social Work, we heard that these triaging platforms were not inclusive towards dense, low-income population centers. The primary reason being that many of the people in these population centers do not have the proper insurance or Medicaid to get tested. So, even if they use a triaging system to get diagnosed, there was no way they could actually get tested. Our team is based in St. Louis, a city that is already struggling to provide healthcare towards low-income populations. We, therefore, decided to not only construct a technical solution but also revise the operational workflow of triaging to make it more inclusive. The primary way we did this was partnering with local testing centers and seeing whether we could create a risk assessment test that would allow anyone that uses our platform and receives a high-risk diagnosis to get tested at our partnering testing center. This way, Compass, our triaging system, not only addresses whether people should get tested but also, how they can get tested. What Is Compass? First, the patient uses our SMS system and answers specific questions that can assess the risk of having COVID-19. Once the risk assessment is complete, they receive their risk assessment and whether they should visit the clinic, the locations/phone numbers of our partner testing centers, and a four-digit authentication code that can be used by the testing center to validate that the patient used our system. The patient can then visit the clinic and give them a call when they are outside. The tester will validate the profile over the phone and then give the patient-specific PPE to prevent the spread of the virus in the clinic. The patient can then either get tested in the car or at the testing center. We are specifically solving the lack of triage testing due to a lack of insurance and Medicaid by partnering and working with local testing centers to provide a set of guidelines that indisputably allows a patient to get testing. In this sense, this is not just a technical solution, but rather an operational solution that addresses a systemic public health concern. How We Started We started by working with testing centers and physicians to construct a set of questions that can accurately assess risk specifically in low-income populations. We used these questions to construct an SMS flow using Twilio. We parse the patient's responses using Twilio's integrated NLP - we use these responses and a risk algorithm to assess whether a patient is at risk of having COVID-19. We are using Microsoft's Azure SQL Database to securely store the patient responses - this data can be accessed by a portal on the side of the testing center when a patient comes in to get tested. Our SMS platform also provides a random four-digit code to identify the patient and the profile that is stored in our database. This prevents any personal health information violations because a randomized four-digit code cannot be traced back to a person. Now, a patient has been given a unique identifier that our testing center also has, and they have also been given the locations of our testing centers they should visit. Finally, we have an input stream that allows either the patient or the test provider to enter the final result of the patient's COVID-19 test - this response is used to assess the accuracy of our system. Challenges One of the biggest challenges we ran into was how to assess the risk someone is at for having COVID. The symptoms for COVID are rather sporadic and there is no one clear set of symptoms that automatically qualifies as a positive test. We addressed the problem by working with physicians and testing centers to create the most comprehensive questionnaire set. We then implemented these questions through our SMS platform. Our solution could fail due to few users or a hard-to-integrate workflow into the healthcare system. We are addressing this by using SMS, an accessible medium, and by partnering with clinics and implementing their in-person triaging workflow in our application. Our numerous partnerships can help Compass gain credibility & traction with our targeted population, increasing its longevity. By using Twilio to analyze text and Azure to reliably store data, Compass is simple for clinics to incorporate. Accomplishments Recently, our team finished a prototype and are testing it. Currently, our supporters include Affinia Healthcare, United Way STL, LuminaireMed, Doorways Community Housing, physicians from Columbia, WUSM, Stanford and Harvard, and faculty from the Brown School of Social Work at Washington University. We will leverage these partners to run an early-stage pilot test and refine our model. Additionally, we were awarded the Microsoft prize at Berkeley hack:now. Future Steps After this week, we intend to implement our project for an early pilot test. Once our system has been validated, we will work with the St. Louis Health Department to secure more funding and scale the platform through Missouri. Our Team We are a team of five undergraduates studying Medicine, Natural Sciences, and Computer Sciences. We are all students with interdisciplinary backgrounds, focusing on diverse fields within health and technology. Additionally, we are geographically spread across the country, and have seen how COVID-19 has specifically been dealt with in our own communities. Below, we have included short bios of each team member, which features their educational background as well as their unique achievements. Tejas Sekhar is a fourth-year pre-med student at Northwestern University who is studying Neuroscience and English Literature. In addition to leading an international 501(c)(3) nonprofit organization, Tejas is a Research Assistant with the Ophthalmology Department at the Medical School at Washington University in St. Louis and previously conducted research in their Nephrology and Urology Departments as well as the Molecular Biology Department at Northwestern University. Jessika Baral is currently a third-year student at Washington University in St. Louis who is studying Biology and Computer Science. She is highly involved in cancer research with the Medical School at Washington University in St. Louis as well as her own 501(c)(3) focused on health and fitness. She is similarly involved with health-focused groups in college. Previously, she was selected for the MIT Research Science Institute program, one of the most prestigious research programs in the country. Neha Venkatesh is currently a third-year student studying Electrical Engineering and Computer Science at the University of California, Berkeley, with a specific focus on design and innovation. Her current research involves the intersectionality of health and tech, as she works to develop one of the only portable and affordable aerobiome sampling devices for use in field lab testing. She is also part of the Fung Fellowship, a groundbreaking entrepreneurship and innovation program at UC Berkeley, that connects undergraduate students with industry partners to help apply technology-inspired solutions to societal problems. She has worked with several different startups, helping them re-establish their products through innovation and technology. Prathamesh Chati is currently a second-year student at Washington University in St. Louis who is studying Biochemistry and Computer Science. Prathamesh serves as a life sciences consultant for Sling Health, a biomedical healthcare venture; has been published 3 times in the journal Gastroenterology; is a research assistant under Harvard Medical School; and has also founded an early stage startup that aims to find a method to rapidly diagnose cardiac damage using a cardiac protein biomarker - his startup, Kyron, was selected as one of the top 42 international startups and given an opportunity to present at the Rice Business Plan Competition. Surabhi Mundada is currently a third-year student at Stanford University studying Computer Science, with a track focus in Artificial Intelligence. Surabhi’s main interest and experience lies in the intersection of health and technology. She has taken several classes at Stanford in this field, including Global Health and Technology in Low Resource Settings, Artificial Intelligence in Healthcare, and Biodesign courses. She is currently doing health-tech research with a lab at Stanford Medicine and with the mentorship of Apple Health teams where she is developing an app for tracking postoperative opioid use, as well as building the gap in healthcare communication between patients and clinicians. <div

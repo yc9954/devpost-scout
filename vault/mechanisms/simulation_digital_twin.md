@@ -1,0 +1,181 @@
+---
+facet: "mechanism"
+name: "simulation_digital_twin"
+projects: 694
+winners: 694
+tags:
+  - "facet"
+  - "mechanism"
+---
+
+# simulation_digital_twin
+
+`mechanism` · **694** projects, **694** of them winners.
+
+## Pairs with
+
+- [[realtime_stream]] — 385 together  <sub>(mechanism)</sub>
+- [[geospatial]] — 242 together  <sub>(substrate)</sub>
+- [[developer_tools]] — 228 together  <sub>(domain)</sub>
+- [[video_visual]] — 220 together  <sub>(substrate)</sub>
+- [[structured_db]] — 210 together  <sub>(substrate)</sub>
+- [[sensor_telemetry]] — 184 together  <sub>(substrate)</sub>
+- [[education]] — 166 together  <sub>(domain)</sub>
+- [[educator_student]] — 164 together  <sub>(user)</sub>
+- [[finance_payments]] — 158 together  <sub>(domain)</sub>
+- [[developer]] — 157 together  <sub>(user)</sub>
+- [[web_dom]] — 143 together  <sub>(substrate)</sub>
+- [[code_repository]] — 132 together  <sub>(substrate)</sub>
+
+## Projects
+
+- ★ [[ailearning]] — aiLearning is an AI-based solution for simplifying educational activities, focusing on exams correct
+- ★ [[matic-mike-nft-game]] — Matic Mike is a 100% on-chain generative NFT on the Polygon chain with a Polygon <-> Ethereum bridge
+- ★ [[zenflow-your-calm-in-the-chaos]] — Burnout builds silently. ZenFlow is an AI workplace companion inside Slack that detects overload pat
+- ★ [[agentic-contract-framework]] — Contract-based observability for AI agents. Monitor if your agents fulfill their commitments and gai
+- ★ [[xtf-dexes]] — Crypto fund indexes rely on managers or third-party providers to select assets, lacking a decentrali
+- ★ [[taief-the-all-in-one-academic-assistant]] — From academic research to Olympiad problems, TaiefMind is your AI co-pilot. Upload papers, extract d
+- ★ [[mnemosyne-ubotlw]] — The AI that remembers every failure — predicts outages, annotates risky code inline, gates CI pipeli
+- ★ [[clan-wars-tcg]] — Prepare to enter the captivating world of Clan Wars TCG, a revolutionary NFT-based trading card game
+- ★ [[pneumonet-building-an-ai-covid-19-product-with-pytorch]] — In this tutorial, we’ll show you how to use Pytorch to build a machine learning web application to c
+- ★ [[gauntlet-wlv7og]] — Adversarial fuzz-testing for AI agents using Elasticsearch Agent Builder, ES|QL and Workflows. Watch
+- ★ [[forge-field-operations-real-time-guidance-engine]] — Voice AI co-pilot for hands-busy industrial technicians: one Qwen-Omni-Realtime session listens, see
+- ★ [[dreammeridian-geoai-on-pi]] — When disasters strike, networks fail first. DreamMeridian runs LLM-powered spatial queries entirely 
+- ★ [[access-ring-6pedfu]] — Discover and invoke UI elements near your cursor, without precise mouse targeting.
+- ★ [[takegraph]] — TAKEGRAPH is a self-healing build system for generative media that regenerates only what changed, re
+- ★ [[nova-architect]] — An autonomous AI cloud engineer that designs and deploys AWS infrastructure directly in your console
+- ★ [[stock-market-forecasing-with-ml]] — We developed an application to forecast NYSE stock returns and risks using ML models along with an A
+- ★ [[pulsepoint-2hmejd]] — AI-powered medical triage at the speed of life from instant assessment to doctor in 60 seconds.
+- ★ [[pneumoscan-an-ai-radiology-tool-for-covid-19-pandemics]] — CovidScan.ai is developed to be a secured AI platform with the purpose to assist radiologists with f
+- ★ [[robotixfunnel]] — AI-powered e-commerce platform with robotic warehouse fulfillment, digital twin visualization, and i
+- ★ [[star-ex]] — a cross-gameplay, cross-chain, cross-platform, cross-story, cross-community, cross-dimensional game 
+- ★ [[pickli]] — Disrupting streaming platform silos on content discoverability and traditional history-based recomme
+- ★ [[apex-qkmxa0]] — A reimagined way to enjoy motorsports
+- ★ [[multival]] — The first agent-eval platform built for multi-agent orchestration. Graph + Gantt trace viewer, A/B c
+- ★ [[compliance-sentinel]] — An Agentic, AI Red Team Approach for Proactive Geo-Compliance Risk Detection
+- ★ [[nusic-layer-1-for-music]] — Open audio fingerprints and creator metadata layer for Web 3.0 encrypted music distribution and info
+- ★ [[kassi-synthetic-load-generation]] — An AI agent on an audited state machine: it load-tests a code change, correlates the regression with
+- ★ [[robofi]] — RoboFi is a robotic economy ecosystem where robotic entities can create certificates of the origin o
+- ★ [[agentdeck-command-your-ai-fleet]] — Mission control for your AI coding fleet. Glanceable status tiles, one-tap approvals, dial-driven di
+- ★ [[rollercoastar]] — Create a rollercoaster simulator in AR. Using the back camera, users can build and customize their c
+- ★ [[gridveda]] — GridVeda gives powerline operators predictive failure detection at edge. Ensemble AI monitors 20 tra
+- ★ [[tunnel-dqv1k4]] — AI Agents for Simulated Market Research
+- ★ [[relay-real-time-voice-vision-lab-tutor-for-electronics]] — Relay watches your breadboard through your webcam and talks you through building circuits in real ti
+- ★ [[nerve-the-nervous-system-for-your-device-fleet]] — The nervous system for your device fleet — AI-native IoT telemetry monitoring that turns a firehose 
+- ★ [[giftmaxxing]] — Tinder for gift taste — swipe to teach it yours, share a link to learn anyone else's, and never give
+- ★ [[fin-wise-o9p4av]] — Gamified financial literacy for teens — learn budgeting, saving, and investing through interactive l
+- ★ [[unsinkable-ship]] — Two lines of code make LLM apps unsinkable. Unsinkable routes any OpenAI-SDK app through TrueFoundry
+- ★ [[ceptor-tech-ccid-for-players-and-gamemasters]] — On-chain TTRPG experiences through Art, Tech, and Games. Meet the Ceptor Club ID (CCID) our cross ch
+- ★ [[aftershock-em9cju]] — A disaster-struck town run by a society of Qwen agents that split tasks, negotiate scarce rescue res
+- ★ [[opioid-action-engine]] — The opioid epidemic doesn't wait for funding to catch up.
+- ★ [[polkastream]] — Real-time, per-second money streaming powered by Polkadot's sub-second finality and ink! smart contr
+- ★ [[ekko-v9wkgy]] — Elevate your foreign language fluency with tailored guidance and individualized verbal conversation 
+- ★ [[simuniverse]] — All in one interactive simulations across STEM disciplines
+- ★ [[claimsphere-ai-automated-claim-processing-agent]] — AI-powered insurance claim processing system with Camel-AI powered agent, automated OCR extraction, 
+- ★ [[travel-guild]] — 12 Qwen agents that don't just plan your trip - they safely book it. Real budget-capped checkout, de
+- ★ [[miirps]] — Collect, care, upgrade, and battle.
+- ★ [[rpc3]] — A Proof-of-Concept for decentralized remote procedure calls, leveraging IPFS and privacy-enabled blo
+- ★ [[reefmind]] — Reef restoration experiments take 7 years in the real ocean. ReefMind runs 10,000 overnight
+- ★ [[hype-the-culture-exchange]] — HYPE is a culture exchange where users list, trade, sponsor, and analyze internet trends with play m
+- ★ [[omnom-hg16v3]] — OmNom is your late night food savior, autonomously navigating a variety of outdoor and indoor enviro
+- ★ [[pols-15]] — toolbox for aspiring politicians to campaign, stress-test their policies, and run ads on social medi
+- ★ [[direct-request-coordinator-drcoordinator]] — A framework that enables dynamic LINK payments on Direct Request, syncing the price with the network
+- ★ [[amanuensis]] — AI-enabled physician assistant for automated clinical summarization and question generation. Empower
+- ★ [[woodpecker-ai-finds-hidden-hotspots-in-power-lines]] — Power line failures spark billions in damage.Woodpecker AI, like a woodpecker spotting hidden hotspo
+- ★ [[gridpulse]] — From power cuts to smart flows — GridPulse predicts, optimizes, and stabilizes the grid.
+- ★ [[synapse-jok1ec]] — Never lose draft again - AI that drafts like a champion, one pick at a time.
+- ★ [[polka-blue]] — Bringing Proof of Location into the Substrate Ecosystem
+- ★ [[cadence-y6i1cs]] — AI-powered web app that screens for Parkinson's disease from a 30-second voice sample, providing exp
+- ★ [[dhangyan-6b7w50]] — Don't teach financial literacy. Let people LIVE it.
+- ★ [[sitesync-ai-u7j86v]] — "🏗️ Sync the vision. Build the truth ." SiteSync AI is not just a "viewer" it is an active participa
+- ★ [[vettra]] — Vettra lets AI agents earn trust in real time by intercepting actions, scoring risk, requiring human
+- ★ [[zpuzzle]] — Play a sliding puzzle with 3D like effect animations. Pick almost any widget as a background for you
+- ★ [[kraken-r9tcp2]] — #cicdcatalog #ai Improve Attention on your webpage through an AI generated attention and relevance h
+- ★ [[optimate]] — Smarter underwriting through AI-powered dashboards, deep insights, and reinforcement learning.
+- ★ [[creta-learning-pottery-through-the-past]] — Creta is an MR app teaching the craft of pottery with real clay, guided by an AI artisan mentor. Lea
+- ★ [[zombie-blaster]] — What if cleaning up AWS cloud identities was an 8-bit retro zombie game? Zombie Blaster is a cyberse
+- ★ [[vaidyasaarathi]] — "Your Intelligent Healthcare Companion" - Breaking language barriers, preserving privacy, empowering
+- ★ [[the-orchestration-company-of-palo-alto]] — OS of tomorrow, Claude Code of today
+- ★ [[edupiano]] — Asian = Good at piano Tf, you suck? use this and make your mom proud :)
+- ★ [[le]] — A fun Alexa kids game that truly educates, entertains, and engages
+- ★ [[batteryforgeai]] — Multi-agent battery intelligence. Specialized AI for vision-based defect detection, charging optimiz
+- ★ [[massventilatorsystem-with-individual-ventilation-parameters]] — The Mass Ventilator System ventilates up to 50 or more people at once, supports invasive/non-invasiv
+- ★ [[pact-q8nvkb]] — Contract-based behavioral observability for AI agents, built natively on Splunk. Know not just that 
+- ★ [[alpharesearch-9fwk4m]] — Recursive Sandboxed Agents for Autonomous Research at Scale
+- ★ [[nivesh-ai]] — NiveshAI: Empowering retail investors with secure, risk-matched stock simulations and explainable AI
+- ★ [[htn-zq6138]] — Turning snapshots into spaces you can actually explore
+- ★ [[flowhale-ai-powered-korean-listening-vocabulary-game]] — Six Months to Decode Korean
+- ★ [[skillscan-ai-career-intelligence-for-students-sigtmc]] — AI that scans your resume, finds exact skill gaps, runs a mock interview, predicts your salary, and 
+- ★ [[orama-your-ai-powered-clinical-companion]] — An AI-powered clinical assistant that transforms complex patient data into actionable insights, help
+- ★ [[blindsight-virtual-eyes-through-haptic-feedback]] — Blindsight simulates a novel sense of sight with haptic feedback vibration motors and ML.
+- ★ [[ugonz-alzheimers-ai-prediction-model]] — Explainable AI for early Alzheimer's detection—fusing cognitive, imaging, and genetic biomarkers to 
+- ★ [[domaintwin-ai]] — Detect DNS drift, explain it with AI, restore trusted state through Name.com, and prove recovery wit
+- ★ [[tradepilot-charting-ui-options-autopilot]] — A deterministic trading terminal where Autopilot, Backtesting, Workflows, and Global Search are full
+- ★ [[qalammr-ilvpy9]] — The world first Spatial Calligraphy Workshop. MX Ink becomes a reed pen—write with real ink physics,
+- ★ [[jobiri-the-first-ai-based-digital-career-advisor]] — Jobiri helps both jobseekers to land jobs faster and Institutions to digitalize their employment ser
+- ★ [[novamind-ai-powered-stem-adventure]] — The free virtual STEM lab for every student who never had one.
+- ★ [[project-n1fsk7]] — Sentinel Protocol: An indestructible, offline-first vault. Hardware-accelerated AES-GCM ensures zero
+- ★ [[paragon-5vmb83]] — Paragon predicts a vehicle's drag coefficient (Cd) in seconds from a simple STL upload, using AutoML
+- ★ [[chronos-legacy-code-archaeologist]] — Upload any ancient codebase. Get an AI-powered dependency map, plain-English excavation report, and 
+- ★ [[wellbe-7fkox0]] — Wellbie - start with a simple challenge, finish with a marathon.
+- ★ [[heal-hale]] — Guided by Pega Bot, sentiments from NLP, suggestions through NBA, evidence utilizing Process AI, fee
+- ★ [[torq]] — Turn any car into a self-driving vehicle with the Jetson Thor. Retrofit autonomy, enable rideshare, 
+- ★ [[aorta-real-time-hospital-admission-sepsis-monitoring]] — Aorta: Real-time clinical streaming that predicts sepsis. We combine Confluent Kafka, XGBoost, and G
+- ★ [[kodafinance]] — An agentic AI cross-platform finance app that helps users track spending and set goals with smart ac
+- ★ [[shard-2kvsch]] — Do you have a laptop? You're potentially losing on making at least $10/day side income with Shard. I
+- ★ [[sliding-puzzle-dctghu]] — A puzzle game made on live-stream, demonstrating what can be achieved with just Dart code in vanilla
+- ★ [[buidl-protocol]] — Decentralized and composable on-chain fundraising for web3 developers. Leverage Defi, mint dynamic o
+- ★ [[onlinesafetygame]] — Welcome to the exciting world of our app, where online safety meets thrilling gameplay.
+- ★ [[rehearse-nzow16]] — Got an upcoming Interview or Presentation? Use Rehearse, an AI Powered practice platform. Rehearse..
+- ★ [[theracat]] — A band and a plush cat that catch anxiety in how you move — and interrupt it before it peaks. There'
+- ★ [[nexusstem-your-socratic-ai-agent-for-stem]] — The AI Agent That Teaches You to Think
+- ★ [[altiverse]] — AltiVerse: AI-powered simulations that let students fork decisions into living alternate realities w
+- ★ [[gridsense-ri49gk]] — 30–60 minutes before the power goes out, your neighborhood already knows. GridSense listens.
+- ★ [[ai-powered-job-application-assistant]] — AI-driven career acceleration: Optimize resumes, ace interviews, and land your dream job with intell
+- ★ [[cricible]] — Crucible is a resilience testing layer for AI agent workflows.
+- ★ [[linkswap-2vtm5j]] — LinkSwap 🔗🔄 - Secure cross-chain token transfers across different blockchain networks with ease, lev
+- ★ [[placeholder-9rsnc5]] — Maestro Case turns a single fraud call into a live multi-agent investigation: AI scoring, parallel S
+- ★ [[argus-475hkv]] — HA web servers run on N machines. Why don't agents? Argus is a dual-cognition SRE agent that investi
+- ★ [[scisim]] — An AI-powered virtual science lab. Run chemistry, physics, and biology simulations with an AI tutor 
+- ★ [[scup-smart-checkup]] — Smart telemedicine platform, based on IoT devices that provide Vital signs and historical values.
+- ★ [[vision-mama-llm-vision-pro-agents-fun-learning]] — Remember Cooking Mama? We turned it into a Conversational Agent for Vision Pro that teaches cooking!
+- ★ [[commando-ai-h0vodb]] — Dead PRs. Missed deadlines. 5 tabs, zero answers. Commando AI runs Monte Carlo simulations on your l
+- ★ [[lumina-s-trace-draw-the-laws-of-physics]] — Guide light through ruins using the MX Ink stylus your hand pressure physically bends the laws of op
+- ★ [[sehat-guftagu]] — Contextual Human-Assisted Protection and Anomaly Learning
+- ★ [[xiaoqiang]] — Four lost ancient Chinese machines reborn as physically-simulated, source-cited interactive exhibits
+- ★ [[sli]] — Protocol offers slashing insurance for Ethereum stakers. Uses Aave to fund payouts so deposits are r
+- ★ [[gem-run]] — MLB AI: Personalized insights powered by gcloud
+- ★ [[alzora-ai]] — Empowering families with AI-driven Alzheimer’s care
+- ★ [[sage-yvlpqb]] — Grounded AI tutoring, built on your curriculum, Interactive Learning
+- ★ [[riot-aws-power-rankings-including-2023-worlds-predictions]] — Powered by AWS, we've created an intuitive tool that predicts global, tournament, and custom ranking
+- ★ [[dashagenttool-custom-tableau-mcp-tool]] — Because even good dashboards have blind spots. DashAgent is your AI BI Analyst. It challenges your d
+- ★ [[mira-w65b0a]] — AI eldercare assistant that reconstructs 3D scenes, localizes lost objects, and alerts caregivers—al
+- ★ [[sustainup]] — A gamified learning experience on sustainable decision making during the life cycle of a product
+- ★ [[zombie-explorer]] — Internet Explorer 6 rises from the grave as a cursed Zombie Browser, AI-powered browser that combine
+- ★ [[diffusion-earth]] — Infinite Environments, Endless Exploration
+- ★ [[eid-vl-duplicate-detection-agent]] — AI-powered multi-agent system detecting duplicate HIV test records in Kenya, saving $195K annually t
+- ★ [[dr-mcquery]] — Smarter searches, better care
+- ★ [[loanflow-ai-intelligent-loan-management-trading-platform]] — 📊📈 NovaFlow AI is a comprehensive, AI-powered loan management and trading platform that revolutioniz
+- ★ [[retro-slide-puzzle]] — A retro-themed slide puzzle with a modern animated twist
+- ★ [[fury-racing]] — Fury Racing is an on-chain racing manager strategy game leveraging Chainlink VRF V2.5, Chainlink Fun
+- ★ [[submission-guard]] — Devvit Web port of `nosleepautobot`, plus the stateful tier AutoModerator still can't do.
+- ★ [[waver-finance]] — The first decentralized quantitative trading platform that provides secure, transparent, intelligent
+- ★ [[infermary]] — Simulating virtual cities to outsmart viral outbreaks
+- ★ [[botlink]] — BoTLINK is a platform that NFTizes offline assets and connects blockchains with the Internet of Thin
+- ★ [[inflation]] — Project Stable is a decentralized, on-chain, price-history and inflation dashboard that track prices
+- ★ [[blow-soap-bubbles-in-ar]] — In the pursuit of making augmented reality experiences more physical, Data Sapiens have created an I
+- ★ [[shipsense-ai-novel-data-augmentation-protocol]] — Mitigating overfishing through AI-augmented satellite imagery and data viz dashboard. Novel few-shot
+- ★ [[web3wheels]] — A decentralized autonomous Uber service using blockchain and AI. Mint, own, and trade car NFTs. Real
+- ★ [[birdbox-6r59dj]] — This project applies SNA methodologies and Big Data tools, used to analyze social networks to study 
+- ★ [[last-bottle]] — Make your last single use bottle, your last. Explore a plastic bottle's recycling journey, exposing 
+- ★ [[blk-exchange-blkx]] — Trade 36 Black-economy companies. Real cultural news moves the market. AI teaches 23 investing conce
+- ★ [[project-varuna-h945ni]] — Project Varuna is an artificial intelligence-based decision support tool that makes predictions abou
+- ★ [[project-varuna-v5k2mn]] — Project Varuna is an artificial intelligence-based decision support tool that makes predictions abou
+- ★ [[ballar]] — Unite AR and electro-stimulation to perfect your beer pong game.
+- ★ [[drip-6ao9m2]] — Every AI prompt wastes water. We engineered a system where every prompt generates it instead.
+- ★ [[project-chronos-mhri13]] — AI-powered ICU early warning system predicting sepsis, hypotension, & hemodynamic collapse 2-6 hours
+- ★ [[sentinel-ai-rzp29l]] — Autonomous Drones that you can control with Natural Language.
+- ★ [[trialscope-ai]] — Your AI-driven clinical trial intelligence platform that reviews, benchmarks, and regenerates protoc
+- ★ [[blockchain-dk03ru]] — Combating charity donation fraud by improving financial security and transparency through blockchain
+- ★ [[sisyphus-protocol-c9egl8]] — Sisyphus Protocol is a decentralized social protocol based on blockchain technology, to help self-im
+- ★ [[traider]] — Trade smarter not harder! Upgrade your financial literacy with traider

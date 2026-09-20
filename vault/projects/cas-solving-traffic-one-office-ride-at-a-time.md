@@ -1,0 +1,52 @@
+---
+slug: "cas-solving-traffic-one-office-ride-at-a-time"
+url: "https://devpost.com/software/cas-solving-traffic-one-office-ride-at-a-time"
+title: "CAS - Solving Traffic, one office ride at a time!"
+hackathon: "Hack to the Future 4"
+organization: "Finastra"
+winner: true
+words: 1452
+team_size: 6
+has_repo: false
+has_live: false
+has_video: true
+tags:
+  - "project"
+  - "mechanism/cross_origin_web"
+  - "mechanism/sensor_fusion"
+  - "domain/civic_government"
+  - "domain/climate_energy"
+  - "domain/finance_payments"
+  - "domain/transportation"
+  - "substrate/financial_record"
+  - "substrate/geospatial"
+  - "substrate/web_dom"
+---
+
+# CAS - Solving Traffic, one office ride at a time!
+
+> Solves Traffic by motivating our employees to bike for work. We believe we can motivate our cyclist not just by giving them money incentives but by giving them investment possibilities also!
+
+[Devpost](https://devpost.com/software/cas-solving-traffic-one-office-ride-at-a-time) · hackathon [[Hack to the Future 4]]
+
+## Facets
+
+**mechanism** [[cross_origin_web]] [[sensor_fusion]]
+**domain** [[civic_government]] [[climate_energy]] [[finance_payments]] [[transportation]]
+**substrate** [[financial_record]] [[geospatial]] [[web_dom]]
+
+**stack** android-studio, css, ffdc, git, googlefit, javascript, jquery, machine-learning, php, qr-code
+
+## How they structured the write-up
+
+- inspiration
+- what it does
+- how we built it
+- challenges we ran into
+- accomplishments that we're proud of
+- what we learned
+- what's next for cas - solving traffic, one office ride at a time!
+
+## Body
+
+App version Our tag line Inspiration In the light of current COVID-19 recovery, lots of businesses are now re-opening again. Employees now coming back to work. Indeed, this is a welcome development for our country and for the whole world. But along with this journey is the common enemy called Traffic which is one of opponents of a smooth economy recovery which we are all wishing to happen. In the Philippines, JICA had previously estimated in 2018 that ₱3.5 billion is lost daily due to traffic congestion And if it worsens, could go to as much as ₱5.4 billion daily " https://www.cnnphilippines.com/transportation/2018/02/23/JICA-P3.5-billion-traffic.html " Based on survey conducted by Social Weather Stations (SWS) released in 2021, 87% of Filipinos want our government to focus on giving priority for bicycle (lanes, benefits etc). " https://newsinfo.inquirer.net/1389930/87-of-filipinos-want-govt-priority-on-public-transport-bikes-over-private-vehicles ". This just shows how willing they are to cycle for work. Indeed, there are other alternatives like motor-bike but the gas prices right now are rising and it can further contribute to pollution which eventually worsens climate change. Currently bicycle lanes were constructed around the country and the missing piece is the additional motivation such as money incentives. But we will not just give them money, we will also give them chance to make investments from it . By creating an app that links cycling with banking investments, we are practically giving amazing motivation for employees to cycle to work and thus lessens the number of vehicles clogging our dearest roads. CAS (Cycling as a Service), an app that lets them earn CAS coins out of the blue by just cycling to work (1 km travelled = 1 CAS coin = 2 PHP) and of course lets them transact directly to our beloved banks by converting the CAS coins to the country’s currency and allowing them to invest! The latest FusionFabric.cloud retail international which is a well-known platform of functionality is used make this cycling and banking love team possible. Machine Learning is then implemented to calculate the appropriate conversion amount of CAS coin earned to Country's currency (in our case PHP in Philippines), this ensures sustainability of the app. These are the potential investors/sponsors . This app also gives employers a way to have a healthier and engaged employees, not to mention the potential of minimizing the usual excuse of being late. App advertisers can have another platform to sell their wide range of products such as bicycle parts, clothes, bike computers, shoes and the list can go on and on. NGOs can contribute to minimizing climate change by supporting this app. And lastly, our government can better manage our traffic situation, one obvious reason, the more employees ride bicycle to work, the less are the private cars in our roads. Another benefit is that the app can give data to our government containing the list of roads that needs to be improved to be bicycle friendly ie. build bicycle lanes. With that said, we believe that our app can live to its tag line: “Solving Traffic, one office ride at a time” What it does Employees that ride bicycle to work earns CAS coins (1km = 1 CAS coin = 2 PHP). These CAS coins are then converted to Country’s currency (conversion rate depends on Machine Learning). The converted amount is then available for several investment options (we are not just giving money incentives but giving a way to invest these incentives also) Main Page The main page of the app lets the employee map his ride. It is integrated with Google Fit. Using Google Fit's sensor API to detect if the employee is really Cycling. The Google Fit's Recording and History APIs are also used to save and retrieve the kilometers cycled which is then converted to CAS coins. The employee/cyclist has the option to save this map for his next office ride. Wallet Page This page shows the total distance travelled, total CAS coins earned, converted amount and available amount in Country's currency. In our case, the app uses this conversion: 1 KM = 1 CAS coin = 2 PHP. But this conversion varies, it depends on CAS' current sponsorship, earnings and usage. Machine Learning is implemented to take the said parameters in calculating the CAS coin conversion rate per Month. The most important amount in this page is the Current Available Amount . The employee gets to select his desired investment based on this amount There are three options: Low Risk - Savings account product, Medium Risk - Time deposit, High Risk - Foreign Exchange. Savings Adding some savings is a low risk option as it can be used anytime and less volatile. Employee enters his desired amount to add to his investment. Once successful, a confirmation email is then sent to the employee's registered email. Time Deposit The next investment option is Medium Risk as it has to be held in the system based on the agreed terms ex. 1 Year. This investment has higher rate than Savings. Employee enters his desired deposit on this page Forex The last investment is Forex. The highest risk but also the highest reward of the three. These transactions are possible because of FusionFabric.cloud APIs from Finastra. Namely: Term Deposit and Fixed Deposit Accounts, Foreign-Exchange for Payments, Current and Savings Account Onboarding Portfolio This page shows the total Time Deposit, Forex and Savings of the employee. Employee can withdraw his investments in this page. Savings investment has the most flexible options of the three. It also allows the employee to donate some of his savings. Another unique option for Savings investment is the ability to use its balance for transactions in our partnered stores. These includes Bicycle shops, Groceries and Coffee Shops. The Savings account QR Code will be scanned on these stores and the transaction amount is deducted to the Savings investment. Donate Employee provides the QR code of his desired institution. FusionFabric.cloud's Internal Transfers API is then used for this transaction. How about that? We mainly solve Traffic by motivating our employees to bike for work! We believe we can motivate our cyclist not just by giving them money incentives but because of these investment possibilities! This Cycling and Banking Love Team is possible because of FFDC! Demo shows the web app version, this has an equivalent mobile version also How does CAS earns App advertisements, App monetization and Transaction fees How we built it CAS makes us of the latest FusionFabric.cloud retail international, Google Fit, Machine Learning, QR code technology, Git, Javascript, PHP, jQuery, CSS and Android Studio FusionFabric.cloud FusionFabric.cloud Equation System guarantees functionality with the utmost quality to offer. The following modules were used: Current and Savings Account Onboarding (1.1.2) - Creates Savings account for the employee Term Deposit and Fixed Deposit Accounts (0.1.0) - Create Time Deposit for the employee Foreign-Exchange for Payments (1.0.8) - Creates Forex transaction for the employee Internal Transfers (1.1.0) - Used in Donations Google Fit The app uses the ff. APIs:  Sensor – to automatically detect if the employee is cycling.  Recording – to save the number of kilometers reached by cycling to work.  History – to retrieve the ride history and converts this to CAS coins. Machine Learning Used to determine the appropriate conversion rate of CAS coins to Country’s currency. The parameters used are the ff:  Current sponsorship, Earnings and App Usage This is vital in maintaining CAS’ sustainability. This will be executed every Month. QR Code Employee is given a QR Code upon registration. The employee can then use this to pay items bought in partnered bicycle stores, coffee shops and groceries. The amount paid will be deducted to his Savings investment Challenges we ran into Most of our members are relatively new in Finastra Familiarization with the needed FFDC APIs Familiarization with Google Fit APIs Machine Learning Projects and BAUs constraints. Accomplishments that we're proud of Most of us are relatively new in Finastra but we are proud that we were able to develop an app that resolves an ongoing issue (Traffic) with the use of FFDC. Creating a business model and prototype to resolve a ongoing specific issue of our country such as traffic involves a lot of brainstorming coming from members of different backgrounds. But the result is worth it to be proud of knowing the possibility of making a difference through this app. What we learned Being juniors and new joiners are not a barrier in joining hackathon and making a difference FFDC APIs Google Fit APIs Machine Learning concepts What's next for CAS - Solving Traffic, one office ride at a time! We want to fully develop it, look for sponsors (employers, app advertisers, NGO/Government) that will appreciate/support the value of this app <div

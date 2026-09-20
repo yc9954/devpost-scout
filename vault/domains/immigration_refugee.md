@@ -1,0 +1,181 @@
+---
+facet: "domain"
+name: "immigration_refugee"
+projects: 178
+winners: 178
+tags:
+  - "facet"
+  - "domain"
+---
+
+# immigration_refugee
+
+`domain` · **178** projects, **178** of them winners.
+
+## Pairs with
+
+- [[finance_payments]] — 74 together  <sub>(domain)</sub>
+- [[realtime_stream]] — 72 together  <sub>(mechanism)</sub>
+- [[developer_tools]] — 69 together  <sub>(domain)</sub>
+- [[geospatial]] — 60 together  <sub>(substrate)</sub>
+- [[video_visual]] — 58 together  <sub>(substrate)</sub>
+- [[web_dom]] — 58 together  <sub>(substrate)</sub>
+- [[structured_db]] — 54 together  <sub>(substrate)</sub>
+- [[developer]] — 52 together  <sub>(user)</sub>
+- [[financial_record]] — 47 together  <sub>(substrate)</sub>
+- [[education]] — 43 together  <sub>(domain)</sub>
+- [[educator_student]] — 39 together  <sub>(user)</sub>
+- [[document_pdf]] — 39 together  <sub>(substrate)</sub>
+
+## Projects
+
+- ★ [[launchpad-7xkjwu]] — Launchpad organizes your college applications in one place. Build your profile, get AI analysis on y
+- ★ [[amanat]] — Privacy-first AI agent for humanitarian organizations that scans cloud services for sensitive data e
+- ★ [[extopay-the-last-mile-solution-for-digitizing-cash]] — Next-Generation CBDC solution for digitizing cash: A Highly Secure Mobile and Non-Mobile Solution wi
+- ★ [[clan-wars-tcg]] — Prepare to enter the captivating world of Clan Wars TCG, a revolutionary NFT-based trading card game
+- ★ [[test-3cmsd4]] — When your childhood paint app went to college, got a CS degree and came back with AI superpowers
+- ★ [[forge-field-operations-real-time-guidance-engine]] — Voice AI co-pilot for hands-busy industrial technicians: one Qwen-Omni-Realtime session listens, see
+- ★ [[dreammeridian-geoai-on-pi]] — When disasters strike, networks fail first. DreamMeridian runs LLM-powered spatial queries entirely 
+- ★ [[v-ident-real-time-identity-verification-mobile-application-19kdg7]] — V-Ident: Pulse + pixels = proof. On-device heartbeat detection & frequency forensics catch deepfakes
+- ★ [[health-counseling-portal]] — Health counselling, preventive treatment, remediation using a decentralized Twitter application, DID
+- ★ [[ketopay]] — We are a service like PayPal (send/receive money) with no transaction fees ( due to our unique busin
+- ★ [[aiditto-turn-good-intentions-into-valuable-giving]] — AID IT TO is a SaaS-solution that enables municipalities source what is needed by easily, quickly an
+- ★ [[pulsepoint-2hmejd]] — AI-powered medical triage at the speed of life from instant assessment to doctor in 60 seconds.
+- ★ [[seethru-price-transparency-marketplace]] — SeeThru is a blockchain-enabled platform that prioritizes price transparency to change the ecosystem
+- ★ [[brightact-a7e5my]] — We streamline and gather support for victims of domestic violence, easy to find, & safe.Collaborativ
+- ★ [[dispatch-wedj2m]] — No Borders. No limits. Just Remit.
+- ★ [[sai-m2wl0p]] — A voice-native OS agent that sees your screen. Powered by Amazon Nova Lite for routing and Nova Pro 
+- ★ [[starknet-lightning-privacy-mixer]] — A decentralized privacy solution for STRK token transfers, combining zero-knowledge cryptography, At
+- ★ [[time-ranger]] — An extension made for Devpost that can quickly & effectively change time within 50 timezones, bookma
+- ★ [[ghostsofthepast]] — Exploring the fragmentation of my identity through the subversion of structures, Dadaism, augmented 
+- ★ [[brightact-fqibsh]] — App for documentation and support for victims of domestic violence, gathering governments, authoriti
+- ★ [[refugee-restrooms]] — Refuge Restrooms provides safe restroom access for transgender and gender nonconforming people. The 
+- ★ [[anyform-ai-form-builder-30au41]] — AnyForm is an AI powered, tool-first platform that lets you build complex, validated forms in under 
+- ★ [[scifunmily]] — Virtual/Online Museum and Science Center tools for the whole family to support parents taking the ma
+- ★ [[ekko-v9wkgy]] — Elevate your foreign language fluency with tailored guidance and individualized verbal conversation 
+- ★ [[trial-match-ai]] — Agentic pattern AI that actively searches for and identifies trial-qualified patients on its own.
+- ★ [[alyosha]] — The help for life after prison already exists. It's just scattered. Alyosha turns it into one guided
+- ★ [[retailsync-ai-aehob5]] — RetailSync AI is an AI-powered retail media advertisement creation platform that transforms how reta
+- ★ [[zpuzzle]] — Play a sliding puzzle with 3D like effect animations. Pick almost any widget as a background for you
+- ★ [[nazar]] — Scan a homework problem and instantly generate a novel, interactive learning environment from it in 
+- ★ [[mirror-living-organisational-conscience-rfov1t]] — Every organisation has two versions of itself; the one it describes in all-hands meetings, and the o
+- ★ [[medibot-iq8lf0]] — Help us help you get the health care you deserve!
+- ★ [[vigilance-q-the-pharma-quality-watchtower]] — Agentic Quality Case Management - AI investigates. Human decides. Patients stay protected.
+- ★ [[empower-hacks-2-0-wip]] — So many immigrant, low-income, and first-generation college students are overwhelmed with paperwork:
+- ★ [[aminochain]] — Tokenizing Stem Cell Donations and Incentivizing Donors
+- ★ [[sunday-94odas]] — Sunday is the friend in the group chat who actually makes things happen — plans the dinner, orders t
+- ★ [[maxapply]] — AI-powered LinkedIn job automation using Amazon Nova 2 Lite
+- ★ [[wecare-0fjkb9]] — WeCare is a privacy-preserving app & page that keeps you & your family safer. You can track the heal
+- ★ [[voxelize]] — A real-time AR voxel scanner with 3D model export as .glb
+- ★ [[hallosophia]] — Platform to close the service gap of small businesses (financial instruments & external knowledge) t
+- ★ [[blindsight-virtual-eyes-through-haptic-feedback]] — Blindsight simulates a novel sense of sight with haptic feedback vibration motors and ML.
+- ★ [[eleeos]] — Trustworthy, transparent, and accessible impact funds. Eleeos breaks down borders and opens up impac
+- ★ [[sliding-puzzle-dctghu]] — A puzzle game made on live-stream, demonstrating what can be achieved with just Dart code in vanilla
+- ★ [[theracat]] — A band and a plush cat that catch anxiety in how you move — and interrupt it before it peaks. There'
+- ★ [[specterflow-turn-markdown-specs-into-spooky-living-grimoire]] — VSCode extension that transforms boring markdown specs into a spooky, living grimoire! SpecterFlow a
+- ★ [[signet-app-identity]] — Did you know that officially approved solutions to privacy and impersonation risks in online communi
+- ★ [[1_040_c_b-waitingqueue]] — Our realtime queue system managers that people arrive just-in-time at the doctor
+- ★ [[buildit-urw59q]] — The majority of STEM resources are one-size-fits-all and English-only. BuildIt fixes that by generat
+- ★ [[j-jzktbg]] — Fluent.ly revolutionizes the ability to refine language ability. The synergy between our mission and
+- ★ [[kigaru-talks]] — Kigaru Talks is the app that gets you speaking Japanese with confidence. It’s a safe space to practi
+- ★ [[meridian-uw62z5]] — Meridian: an agentic UiPath Maestro system that automates maritime voyage compliance AI agents run d
+- ★ [[freshair]] — Track air pollution across the world and see its impact instantly. How can we keep our air FRESH?
+- ★ [[zombie-explorer]] — Internet Explorer 6 rises from the grave as a cursed Zombie Browser, AI-powered browser that combine
+- ★ [[sketchrun]] — Transform wireframe sketches into production-ready Next.js code in seconds using GPU-accelerated AI 
+- ★ [[wayfinder-1y4xbe]] — Your personal AI caseworker for U.S. refugee benefits. Answer a few questions, see what you qualify 
+- ★ [[mr-packard-s-mansion]] — Play as either a treasure-hunting Intruder or a protective Ghost in this classic arcade-style game. 
+- ★ [[artee-ai]] — Endless AI-Generated Tees
+- ★ [[project-9qkyi4flrtpm]] — Citizens live eagerness to arrive on time, overcoming speed limits and not attending traffic rules. 
+- ★ [[equinox-flow]] — Balance Your Financial Equinox Across Globe
+- ★ [[scrumpy]] — Recipes from your feed
+- ★ [[the-cradle]] — You are expecting a baby? Congratulations, this is a special endeavour. You worry about missing an i
+- ★ [[not-my-nana]] — Protecting our loved ones from digital deception with the reasoning power of #AmazonNova.
+- ★ [[the-digital-volunteer-dym0xb]] — Automate mobilisation of community, solidarity and collaboration. Use non-smartphones to raise a tas
+- ★ [[lostdog-mx]] — we want to create a huge pet lover community
+- ★ [[ownemployed]] — Why stay unemployed when you can be ownemployed?
+- ★ [[luffy-protocol]] — Private and transparent fantasy sports solution using zero knowledge cryptography
+- ★ [[type-to-death]] — Strengthen your typing ability through immersive, pressure-based learning.
+- ★ [[saga-7fivyd]] — Custom, user driven bedtime stories for children using generative AI -- Saga makes reading more fun 
+- ★ [[covid19-alert]] — Contact tracing
+- ★ [[pinboard_consulting]] — Connect the unconnected! Source, clean and load UN data for the environment, the economy, health, re
+- ★ [[eazyform]] — The easiest and quickest way to create monday forms that look exactly the way you want them.
+- ★ [[sustain-a-thon]] — Sustain-a-thon gamifies saving the planet. Track real-time impact, earn XP & badges, and get AI coac
+- ★ [[intelligent-incident-resolution-system]] — 48 million Americans get sick from food every year. Our agents find the source before the body count
+- ★ [[art-heist-bo01jw]] — Connecting Art, Artists and Audiences through an online virtual marketplace
+- ★ [[diligence-doer]] — Prevent breaking changes. Due diligence for Data Teams.
+- ★ [[yumma]] — “Yumma” (a play on words, “yum” + “umma” [Mom in Korean]) forms bonds between Asian American Gen Z a
+- ★ [[alight]] — An Interactive Web Applications that Connects Refugees with Nonprofit Alight Refugees Supports Team 
+- ★ [[rumornet]] — RumorNet detects misinformation in 100+ languages. By analyzing cultural context, we catch disinform
+- ★ [[poppedcorn-word-game-to-guess-blockbuster-from-cryptic-plot]] — Play a Fun Word Game right in your Subreddit with Top Grossing Hollywood Blockbuster movies guessabl
+- ★ [[converse-xash34]] — A one-stop Interactive Voice Response (IVR) chatbot hosted on an actual phone number for reliable in
+- ★ [[uawelcome-graph]] — A graph-based crowdsourcing platform connecting refugees with those who can help, optimizing limited
+- ★ [[contractful-hiring-agreements]] — contractful provides peer-2-peer, safe and secure Hiring Agreements for everyone to use.
+- ★ [[rivel-io]] — A set of tools to make recurring payments in crypto easy.
+- ★ [[stablepay-alvfhb]] — StablePay turns overseas invoice payments from weeks to minutes. Your clients pay with stablecoins, 
+- ★ [[kasha]] — Tired of doing mental math and nudging someone who owes you money? Kasha is an AI chat bot that trac
+- ★ [[risklens-ad]] — An interpretable Alzheimer’s risk stratification system that combines cognitive scores and age-adjus
+- ★ [[disposable-digital-wallets-pointcheckout]] — Financial Support distribution to the unbanked and non-tech is hard, micro funds can still be sent t
+- ★ [[whaley-s-bins-waste-sorting]] — Whaley's Bins game turns players into eco-heroes, educating them on recycling through fun gameplay. 
+- ★ [[polyvent-ultimate-global-ventilator-design-formula]] — PolyVent is a mechanical ventilator design formula, which provides needed functionality, flexibility
+- ★ [[deal-with-aleas-save-lifes]] — Integrate different hazards impacts (border closing, warehouse restriction, lack of transport capaci
+- ★ [[circle-lhf970]] — Belonging: the invisible force behind every child who thrives, and every one who doesn't.
+- ★ [[the-giving-tree-x0a5hk]] — Intelligent, Efficient, Crypto Donation Platform powered by AI agents
+- ★ [[sharood]] — Food sharing communities for vegans and neighbors: share the food you cook and join when others cook
+- ★ [[covid-19-challenge]] — We connect Health Professionals and accurate information with possible COVID19 victims in Europe thr
+- ★ [[the-portal-563g1u]] — Animal Crossing meets Roblox – bringing our metaverse project to Solana. Explore, build, chat, hango
+- ★ [[prospera-1bpnya]] — Prospera helps immigrants boost their FICO score by analyzing income, spending, and dependents. With
+- ★ [[the-conpiracy-theory]] — Where does the cover up end and the conspiracy begin?
+- ★ [[refugee-legal-navigator]] — Empowering the displaced with Amazon Nova-driven legal aid, 22+ language support, and agentic UI aut
+- ★ [[duet-0tbkxe]] — Creativity is inherent, but expressing it is hard. Duet reads live brainwaves via EEG and uses AI to
+- ★ [[fraud-detection-ai]] — A fraud detection AI that uses machine intelligence to analyze past transaction data and detect frau
+- ★ [[x-defi]] — A blockchain-based payment gateway system to enable centralized financial institutions to participat
+- ★ [[carryover]] — Visa intelligence that protects migrants from agency fraud. Three AI agents on Elasticsearch + Gemin
+- ★ [[bocabot]] — Speak to anyone in the world, in any language, in real-time for FREE!
+- ★ [[flank-bet]] — crypto-powered esports micro-betting platform
+- ★ [[sting-bfqvia]] — STING is AI anti-scam protection that protects elderly and naive users from phishing, fake stores, a
+- ★ [[streak-counter]] — Streaks, reimagined. 30+ unlockable badges, stats tracking, and friendly competition. See who respon
+- ★ [[beehyv]] — Agentic cross-pollination breaking the frontiers of research, literally.
+- ★ [[borderx]] — A smart electronic declaration of priority transport service tailored to border crossing that enable
+- ★ [[payguard-qj08ie]] — PayGuard is a free, privacy-first platform for smarter international payments. Compare fees, detect 
+- ★ [[passa]] — Founded in 2025, Passapay emerged from a simple observation: event ticketing was broken. Fraud, scal
+- ★ [[express]] — Express Yourself. Enabling AAC.
+- ★ [[homestead-hfgjmn]] — All in one, data-driven mortgage assistance and calculation
+- ★ [[superposition-v6xo8d]] — Solana's first decentralised fixed income protocol. We enable users to tokenize and trade their futu
+- ★ [[diaspora-bank-project]] — Building a community neo bank that serves the African immigrant communities and expats. Using a mult
+- ★ [[geoworx]] — A geo-localized service based marketplace to get things done!
+- ★ [[mirror-l89356]] — The portal for your bright future: a decentralized app for those starting a new life to securely sto
+- ★ [[artifacts-heist]] — Infiltrate an Art Gallery! Steal up to 9 artifacts while dodging security. Reach the exit within 6 m
+- ★ [[lendx]] — Making SMB lending transparent and efficient with on-chain loan tracking on the XRP Ledger
+- ★ [[tapped-in]] — Real-time map for community events around you.
+- ★ [[hallmark]] — Governed AI creative: generate ad campaigns that can prove where they came from.
+- ★ [[my-pod]] — Play any podcast, audio links, RSS and Google Drive links and read any web page through your Amazon 
+- ★ [[aitinerary-with-ai]] — AITINERARY is a smart, AI-powered travel planner that creates immersive, personalized itineraries us
+- ★ [[d-day-simulator]] — Survive the largest amphibious assault in human history and GET OFF THE BEACH. The fate of Europe is
+- ★ [[spendthebits-retail-cbdc-solution]] — Our retail CBDC portal is tailor-made for regional banks & MSBs to easily send cross-border payments
+- ★ [[the-village-keogvw]] — WorldSchool - A Revolutionary Global Learning Ecosystem connecting families teachers & children thro
+- ★ [[impactmarket]] — Decentralized Basic Income system to support vulnerable communities and people living in extreme pov
+- ★ [[airship]] — Airship is a flight agent that can assist you with tracking flights prices, purchase based on your n
+- ★ [[chromachord]] — Real-time music chord suggestions based on the elegant theory of 24D chroma vectors, enhanced with t
+- ★ [[entelecheia]] — Online child exploitation cases jumped from 675 to 24,000+ since 2019. Overseer.exe is a Roblox game
+- ★ [[buddy-bank]] — Social Banking - Get cash directly from People or Shops near you. Create a financial support communi
+- ★ [[worrybox]] — A compassionate social platform providing a safe place to store your worries and get them out of you
+- ★ [[crash-out-bte6q0]] — lets you crash out, whenever, wherever, whatever (on the drums).
+- ★ [[detecting-hate-speech-made-easy]] — Lets Stop Hate Spread!! 🙅
+- ★ [[health-passport-5kxist]] — Immunisation Pass is a mobile application that uses proven and secure blockchain technology to start
+- ★ [[cashflow-7xqoc4]] — International money transfer made easy.
+- ★ [[cleangetaway]] — Multiplayer Agentic AI NPCs with shared conversational memory across all players.
+- ★ [[voider]] — Voider is a voice-first shopping brain that orchestrates cross-platform price comparisons and secure
+- ★ [[prupay]] — An efficient and secure way for modern businesses to pay invoices
+- ★ [[arts4refugees]] — Dealing with 44bn dollars worth of pollution using blockchain type tech
+- ★ [[uniaid-tvojlk]] — Real student insights for better University choices
+- ★ [[fibril]] — Decentralized global creator support platform that allows fans to support Creators with Cryptocurren
+- ★ [[flutter-hack-challenge]] — Breaking glass animation with 2 playful enjoyable backgrounds
+- ★ [[mapping-19th-century-jewish-charity-in-new-york]] — An interactive historical map tracing the divide between poverty and philanthropy in immigrant-era M
+- ★ [[dao-gigs]] — Secure P2P escrow cross border payment for knowledge workers.
+- ★ [[openmeal]] — Openmeal.org is a platform that allows financially capable people to buy a meal for someone in need 
+- ★ [[bru-finance-dmsbwc]] — Bru Finance is bridging CeFi with DeFi by linking real-world assets ranging from agricultural commod
+- ★ [[send-it-cash]] — Revolutionizing cross-border remittance for all, with simple web2 social login, shared collateral, l
+- ★ [[mediglot-ai]] — Enabling medical care across the language barrier
+- ★ [[blockjam-a-community-powered-puzzle]] — Slide & Solve, Build & Share!
+- ★ [[check-in-cheque-out]] — Our mobile app improves the consumer dining experience by reducing the friction faced when trying to
+- ★ [[sharedata]] — The future of secure file sharing. ShareData is a decentralized file-sharing platform.

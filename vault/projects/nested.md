@@ -1,0 +1,48 @@
+---
+slug: "nested"
+url: "https://devpost.com/software/nested"
+title: "Nested"
+hackathon: "Google AI Hackathon"
+organization: "Google"
+winner: true
+words: 1258
+team_size: 2
+has_repo: true
+has_live: false
+has_video: true
+tags:
+  - "project"
+  - "mechanism/measured_ablation"
+  - "user/clinician"
+  - "substrate/code_repository"
+  - "substrate/geospatial"
+  - "substrate/structured_db"
+---
+
+# Nested
+
+> Nested: Move to a new city with ease, assisted by tailored suggestions based on your lifestyle and Google Maps history—find nearby grocery stores, gyms, museums, and more!
+
+[Devpost](https://devpost.com/software/nested) · hackathon [[Google AI Hackathon]]
+
+## Facets
+
+**mechanism** [[measured_ablation]]
+**user** [[clinician]]
+**substrate** [[code_repository]] [[geospatial]] [[structured_db]]
+
+**stack** firebase, flask, generative-language, google-distance-matrix, google-drive-api, google-geocoding, google-maps, google-oauth, google-people, google-places, identity-toolkit, materialui, python, react
+
+## How they structured the write-up
+
+- inspiration
+- what it does
+- how we built it
+- challenges we ran into
+- accomplishments that we're proud of
+- what we learned
+- what's next for nested
+
+## Body
+
+Analyzing Google Maps Data Onboarding Flow Explore Page Saved Places Inspiration 27 million people move to cities every year in the US, and moving is listed as one of the top 5 most stressful life events according to verywellmind.com. Each of our team members has moved in the past year, and we all felt overwhelmed as we not only had to move our stuff, but also move our habits and routines. We had to answer the questions: where should I buy groceries, where will I get my haircut, what doctor should we see, and more? And it would take a few months to find these answers, often requiring asking friends for advice, and spending hours on forums and navigation tools. We wondered, is there a more efficient way to discover the nest of places that will make up our lives in a new city? What it does So we built Nested. Nested helps you move to a new city with ease by matching you with places based on your lifestyle. It analyzes your google maps search history to understand your preferences, and then provides tailored suggestions to nearby grocery stories, gyms, museums, or any type of place you can think of! How we built it We developed Nested as a desktop-first web application using a Typescript React client, Python Flask server, and Firebase for authentication and database functionalities. Our building process was strategically divided into three main parts. First, we dove into prompt engineering and A/B testing to determine the most effective methods for generating personalized recommendations for new locations. This phase involved critical thinking about what makes a recommendation valuable and how we could enhance the user's exploration experience. Next, we focused on the onboarding flow. Motivated by our desire to push the boundaries of what AI can achieve, we experimented with using Gemini AI to automate the creation of user profiles during the onboarding process. We were pleasantly surprised by the accuracy of the AI's output, but we also recognized the importance of allowing users to manually edit and refine these suggestions, maintaining a balance between automation and user control. The final touch was the addition of the "My Nest" feature, where users can save locations, post comments, and rate their experiences. This feature not only fosters user engagement but allows us to make our recommendations better. All of these parts plus the magic of UI designing created Nested! Challenges we ran into The first challenge was how to use Gemini to get an accurate profile and recommendations. To tackle this, we employed Google AI Studio, experimenting with various prompts, models, and parameters. This process allowed us to refine our prompt engineering approach, tailoring it to fit the unique needs of our application. Another major challenge was managing the performance issues associated with the generated content, such as 'Deadline Exceeded', 'Resource Overloaded', and latency in response times. To address these issues, particularly how to handle concurrent requests efficiently, we implemented a retry mechanism. This functionality intelligently waits a few seconds before attempting to process the request again, thus smoothing out the load and improving user experience. Lastly, we faced the challenge of presenting AI-generated content in a user-friendly manner. It was crucial to display information helpfully without being overwhelming or overly directive. Our solution was to utilize Gemini AI to generate probabilistic outcomes, which provided users with suggested actions based on their data. We also ensured users could easily modify or correct this AI-generated content, maintaining a balance between automated suggestions and user control. Accomplishments that we're proud of One of our key achievements with Nested is the creation of an application that resonates not only with us but also with our beta testers (our friends) who were able to try it firsthand while we developed it. The seamless integration with Google accounts enabled immediate accessibility, allowing them to effortlessly begin using Nested. We're also particularly proud of how we've managed to effectively combine Google Takeout data to generate accurate and personalized results using generative AI. The onboarding process, designed to be seamless and almost magical, has been a standout feature, simplifying user interaction while employing sophisticated AI technology. As mentioned in our video, our commitment to using only Google services has not only streamlined operations but also ensured that Nested remains a robust tool for anyone deeply integrated into the Google ecosystem. Lastly, we are proud of our commitment to the user experience with AI-assisted applications. We have prioritized user autonomy, allowing users complete control over their data and how it is represented within their profiles, reinforcing trust and personalization. What we learned The development of Nested provided our team with invaluable insights into the practical application of AI within web applications. One of the most significant breakthroughs we experienced was discovering that AI excels in pattern recognition. This insight led us to leverage AI to identify patterns and routines in user locations, enhancing our app’s functionality. We've become proficient in using Google AI Studio, which was instrumental in refining our AI strategies and understanding the nuances of prompt engineering. This experience has been instrumental in optimizing the performance and relevance of our AI implementations through trial and error. Our exploration of various APIs within the Google Cloud Project significantly expanded our technical repertoire, offering a wide array of tools that enriched our development process. The breadth and variety of APIs available were both impressive and educational, providing us with numerous opportunities to integrate and experiment with different functionalities. Additionally, encountering new technologies such as Firebase was initially challenging but ultimately rewarding. Learning how to implement these technologies not only added a layer of complexity to our project but also contributed greatly to our professional growth and satisfaction. This hackathon was an enriching experience, pushing our boundaries and enhancing our capabilities in developing AI-driven applications. What's next for Nested As Nested continues to evolve, our focus is on expanding its capabilities and enhancing its performance to better meet the needs of our users. Here’s what’s on the horizon: Enhanced Exploration Features: After the initial onboarding, we plan to enhance the user's city exploration experience. One of the new features will include a query field where users can input what they'd like to do on a given day. Nested will then generate personalized suggestions for places to visit and activities to enjoy based on this input, further tailoring the exploration experience to individual preferences and spontaneous desires. Technical Improvements: Improving Recommendations: We aim to refine the accuracy and relevance of our recommendations by incorporating more sophisticated AI algorithms. This will involve using machine learning to analyze user comments and ratings to understand preferences more deeply and predict future interests. Dynamic Suggestions: We will focus on enhancing the AI’s ability to offer unique and dynamic suggestions that evolve with the user’s tastes and feedback. This means not only adapting to users' changing preferences but also introducing them to new and exciting experiences. Feedback Integration: Allowing users to give direct feedback on AI-generated suggestions will enable continuous learning and improvement of our AI models, ensuring that Nested becomes more intuitive and responsive over time. Expansion into New Use Cases: We are exploring the potential of Nested as a travel companion and a tool for evaluating residential locations. This would transform Nested from a city exploration app to an essential utility for travelers and those considering moving to a new home or apartment. By analyzing extensive data on neighborhoods, amenities, and local insights, Nested could provide invaluable assistance in making informed decisions about where to travel or live. <div

@@ -1,0 +1,181 @@
+---
+facet: "user"
+name: "researcher"
+projects: 599
+winners: 599
+tags:
+  - "facet"
+  - "user"
+---
+
+# researcher
+
+`user` · **599** projects, **599** of them winners.
+
+## Pairs with
+
+- [[realtime_stream]] — 288 together  <sub>(mechanism)</sub>
+- [[structured_db]] — 283 together  <sub>(substrate)</sub>
+- [[educator_student]] — 232 together  <sub>(user)</sub>
+- [[education]] — 230 together  <sub>(domain)</sub>
+- [[developer_tools]] — 221 together  <sub>(domain)</sub>
+- [[geospatial]] — 212 together  <sub>(substrate)</sub>
+- [[video_visual]] — 179 together  <sub>(substrate)</sub>
+- [[developer]] — 161 together  <sub>(user)</sub>
+- [[web_dom]] — 154 together  <sub>(substrate)</sub>
+- [[document_pdf]] — 152 together  <sub>(substrate)</sub>
+- [[finance_payments]] — 140 together  <sub>(domain)</sub>
+- [[health_clinical]] — 137 together  <sub>(domain)</sub>
+
+## Projects
+
+- ★ [[artharaksha]] — When Gen-AI Rescues You from Financial Fraud and Creates Social Impact
+- ★ [[ailearning]] — aiLearning is an AI-based solution for simplifying educational activities, focusing on exams correct
+- ★ [[asap-1h45pk]] — Empowering industries with AI-driven insights through Retrieval Augmented Generation (RAG), simplify
+- ★ [[launchpad-7xkjwu]] — Launchpad organizes your college applications in one place. Build your profile, get AI analysis on y
+- ★ [[gemini-movie-detectives]] — A gateway to AI-driven educational content in schools and universities with Gemini and RAG! Challeng
+- ★ [[scholarstream]] — Need money for your school fee and upkeeps? ScholarStream finds immediate opportunities (scholarship
+- ★ [[trudi-threat-response-unit-for-digital-investigation]] — Built on the idea that we're all smarter than any of us: TRUDI pairs an autonomous DFIR agent with a
+- ★ [[agri-able]] — A tool to help the African farming community to optimize crop production
+- ★ [[proofsift]] — Evidence-proven autonomous DFIR triage that confirms findings only with traceable forensic artifacts
+- ★ [[openmed-gtp792]] — A modular AI-driven diagnostic system that intelligently selects specialized models for each case, o
+- ★ [[camel]] — A 'code-mode' MCP server that allows LLMs to safely generate and execute JavaScript code that calls 
+- ★ [[community-driven-platform-for-identifying-fake-news]] — A community-driven platform to identify fake news
+- ★ [[story-weave]] — AI storytelling meets immersive audio. Generate custom narratives with lifelike narration from any p
+- ★ [[taief-the-all-in-one-academic-assistant]] — From academic research to Olympiad problems, TaiefMind is your AI co-pilot. Upload papers, extract d
+- ★ [[biasight-words-matter]] — BiaSight analyzes websites for gender bias, promoting equality in digital content. It scores stereot
+- ★ [[lantern-jm9a5l]] — A language dies every two weeks. Lantern is Duolingo for dying languages: it turns the words a commu
+- ★ [[test-3cmsd4]] — When your childhood paint app went to college, got a CS degree and came back with AI superpowers
+- ★ [[v-ident-real-time-identity-verification-mobile-application-19kdg7]] — V-Ident: Pulse + pixels = proof. On-device heartbeat detection & frequency forensics catch deepfakes
+- ★ [[gurwi-learn-anything]] — Gurwi makes mastering complex topics simple and engaging. Learn anything through our unique format o
+- ★ [[collision-cloud]] — A calm, clear journey from raw CCTV footage to a complete accident reconstruction report
+- ★ [[skyscore]] — AI-powered property tool that scores 290+ neighbourhoods in London and NYC for aircraft noise, affor
+- ★ [[l-l-a-m]] — Save crops from locust attacks. Track locust movement realtime and predict the possibility of attack
+- ★ [[fairwell-a-tool-to-bid-goodbye-to-unknown-ai-biasness]] — Integrate fairness into machine learning pipelines with FairWell: a highly accessible & user-friendl
+- ★ [[pneumoscan-an-ai-radiology-tool-for-covid-19-pandemics]] — CovidScan.ai is developed to be a secured AI platform with the purpose to assist radiologists with f
+- ★ [[pedestrian-flow-analysis]] — Instantly transform an unwalkable street. 🪄
+- ★ [[novaflow-the-autonomous-bi-pipeline]] — NovaFlow is an autonomous, self-healing BI pipeline. It cleans data, corrects its own SQL, builds in
+- ★ [[brightact-a7e5my]] — We streamline and gather support for victims of domestic violence, easy to find, & safe.Collaborativ
+- ★ [[apex-qkmxa0]] — A reimagined way to enjoy motorsports
+- ★ [[multival]] — The first agent-eval platform built for multi-agent orchestration. Graph + Gantt trace viewer, A/B c
+- ★ [[compliance-sentinel]] — An Agentic, AI Red Team Approach for Proactive Geo-Compliance Risk Detection
+- ★ [[kassi-synthetic-load-generation]] — An AI agent on an audited state machine: it load-tests a code change, correlates the regression with
+- ★ [[argus-it-never-forgets-59fuin]] — Data is gold, but stays passive in chats. Argus is a proactive Gemini 3 agent that connects past Wha
+- ★ [[bookexchange]] — Every book deserves another reader
+- ★ [[phantomguard]] — Norn: Real-time quality & security monitoring for Strands agents. Powered by Nova Lite for live scor
+- ★ [[cloak-0k2ojh]] — Privacy Layer for Polkadot's Multi-Chain Ecosystem
+- ★ [[vitalflow-radar]] — VitalFlow Radar continuously monitors loved ones' vital signs without wearables, bands, or patches. 
+- ★ [[pneumoscan-an-ai-tool-for-ppe-check-covid19-testing]] — PneumoScan.ai is developed to be a secured AI tool with the purpose to assist radiologists with COVI
+- ★ [[corovent]] — EU-tested ICU ventilator that offers patients with the most severe respiratory failures the same qua
+- ★ [[lingai]] — The All-In-One Writer's Productivity Toolkit
+- ★ [[medgraphagent-1e4ps2]] — Better data means better decisions. And better decisions save lives
+- ★ [[scifunmily]] — Virtual/Online Museum and Science Center tools for the whole family to support parents taking the ma
+- ★ [[orbit-8kd3re]] — maps the orbit of your thinking, so you can see when an idea is yours versus AI's
+- ★ [[loopguard-passport-governed-clinical-loop-closure]] — Prevent the diagnostic harm that begins the moment a follow-up falls silent.
+- ★ [[warden-ny9uwa]] — Warden is the runtime firewall that stops AI agents from being hijacked by blocking prompt injection
+- ★ [[forklift-ai-powered-github-fork-analysis-tool]] — AI-powered GitHub fork analysis tool that discovers valuable features across thousands of forks in m
+- ★ [[opioid-action-engine]] — The opioid epidemic doesn't wait for funding to catch up.
+- ★ [[school-quiz]] — With many children still learning from home or months behind the planned curriculum Learning Out Lou
+- ★ [[dataset-trust-auditor]] — Know what's in your data before you train on it. Dataset Trust Auditor scores datasets across 8 trus
+- ★ [[promise-erftax]] — A blockchain service for founders, creators and regular users. Built to help improve trust in our di
+- ★ [[compilanceos]] — A compliance agent that audits your code against real law, writes the fixes, and reads its own Phoen
+- ★ [[ekko-v9wkgy]] — Elevate your foreign language fluency with tailored guidance and individualized verbal conversation 
+- ★ [[ask-the-world-anything]] — Explore global perspectives on any question using AI-powered analysis and Voice Commands
+- ★ [[doch]] — Manage your entire PyTorch work flow with a single python abstraction and a beautiful functional API
+- ★ [[argus-it-never-forgets-rd6k70]] — Data is gold, but stays passive in chats. Argus is a proactive Gemini 3 agent that connects past Wha
+- ★ [[prepify-ai-7nymoa]] — Prepify AI transforms how students learn STEM — turning lecture notes into structured summaries, qui
+- ★ [[studyblocks]] — Overwhelmed by studying? StudyBlocks combines AI-powered study guide generation, smart flashcards, a
+- ★ [[reefmind]] — Reef restoration experiments take 7 years in the real ocean. ReefMind runs 10,000 overnight
+- ★ [[tonguekeeper]] — Every 2 weeks, a language dies. TongueKeeper deploys autonomous AI agents that compile and cross-ref
+- ★ [[maternalguard-mcp-for-maternal-risk-on-sharp-fhir]] — 5-tool MCP server plus A2A orchestrator that gives healthcare AI the full mother-baby picture from a
+- ★ [[dynamic-w3a0hg]] — Dynamic represents the solution to maintain social distances between students, teachers and staff wi
+- ★ [[mixingjays]] — live music visualization generation and editing tools -- industry-grade and AI-powered
+- ★ [[endopath]] — AI-powered endometriosis companion. Predict. Confirm. Understand. Manage. Recover.
+- ★ [[lock-in-7znf21]] — AI-driven personalized learning
+- ★ [[browseback]] — BrowseBack gives your browser a photographic memory powered by Chrome’s built-in AI. Search by conte
+- ★ [[hype-the-culture-exchange]] — HYPE is a culture exchange where users list, trade, sponsor, and analyze internet trends with play m
+- ★ [[echo-the-bridge]] — Bridging Gaps Between Parents and Children Through AI-Powered Daily Quests
+- ★ [[kronia]] — Agriculture that Works for Future
+- ★ [[cadence-y6i1cs]] — AI-powered web app that screens for Parkinson's disease from a 30-second voice sample, providing exp
+- ★ [[tileserver]] — A dynamic tileserver built for exploring massive spatial datasets
+- ★ [[immunolynk]] — Immunity testing meets AI + Blockchain.
+- ★ [[solocoin]] — Get rewarded to shop locally with your friends. Helping SMBs and local businesses towards economic r
+- ★ [[codebreaker-la]] — AI-Native CyberSec — detect, validate, and fix vulnerabilities with agent intelligence, powered by a
+- ★ [[testera]] — It knows what you're bad at. It remembers what you'll forget. It speaks back. That's Testera. 📚
+- ★ [[delta-cyber-reasoning-system]] — Automated security localization, fuzzing, and triage for every commit and MR. LLMs analyze diffs, ge
+- ★ [[vigilance-q-the-pharma-quality-watchtower]] — Agentic Quality Case Management - AI investigates. Human decides. Patients stay protected.
+- ★ [[dotrep]] — Decentralized reputation system built on Polkadot, enabling cryptographically verifiable reputation 
+- ★ [[aminochain]] — Tokenizing Stem Cell Donations and Incentivizing Donors
+- ★ [[a-p1lt2h]] — Claim-level truth forensics–trace any idea back to its origin and know what's actually true. Powered
+- ★ [[scambaitai]] — ScamBait AI is an intelligent, AI-powered honeypot designed to combat digital fraud by engaging scam
+- ★ [[storybook-orbc8j]] — Turn learning into story driven adventures
+- ★ [[care-coordination-discharge-planner]] — Automates discharge coordination — reads clinical notes, validates CMS rules, and generates Standard
+- ★ [[aimassist]] — Chatbot to help VCT managers and coaches create the best team. Powered by AWS.
+- ★ [[chatedu-0k4dgx]] — ChatEDU takes anything you want to learn, and turns it into a focused tutoring session. Instead of r
+- ★ [[communipute]] — Share compute power throughout your community when you're not using it through our distributed compu
+- ★ [[batteryforgeai]] — Multi-agent battery intelligence. Specialized AI for vision-based defect detection, charging optimiz
+- ★ [[wecare-9sgke7]] — Care. Serve. Humanity
+- ★ [[sentinel-uxz0ni]] — AI that catches problems before they become problems.
+- ★ [[documorph-ai-ernie-multimodal-document-transformer]] — Transform static PDFs into dynamic, responsive, and interactive HTML webpages with AI-powered semant
+- ★ [[alpharesearch-9fwk4m]] — Recursive Sandboxed Agents for Autonomous Research at Scale
+- ★ [[procsee]] — PROCSee turns your system into a crime scene — and autonomously investigates every process
+- ★ [[vigilante-xkf7s9]] — Combat misinformation through flagged Tweets and grounded sources, and reference a realtime dashboar
+- ★ [[project-dvomck5s9l3q]] — Educational Wins.
+- ★ [[chameleon-iukahc]] — IPFS-Powered Topographic Data Library for Earth & Plant Science-Oriented Research
+- ★ [[launch-control-bgp8az]] — AI-powered release gate that evaluates merge requests with four chained agents and policy-as-code ri
+- ★ [[whisper-duq6f4]] — Sometimes a whisper reaches further than a scream. Find your person. Heal together.
+- ★ [[greenops]] — Greenops helps to measure the footprints of deep learning models at training, testing and evaluating
+- ★ [[argos-ic2tyk]] — Local-first system scoring insider trading on cryptocurrency. A LangGraph supervisor with 5 sub-agen
+- ★ [[medalysis]] — An API that helps one observe the growing trends of diseases and epidemics worldwide, by tracking lo
+- ★ [[t-lgqf6x]] — An AI-driven stock market prediction tool based on the sentiment of the Spotify daily top songs and 
+- ★ [[aidbind-g3k5f0]] — We cover the information gap between the demand, supply and funding of medical equipment, procured b
+- ★ [[instant-sars-cov-2-breathalyzer]] — Optical detection of airborne virus-bearing aerosols (micro-/nano-droplets) using fluorescent marker
+- ★ [[vidya-setu-b5xi0y]] — Bridging every learner to their potential — AI-powered gap detection, peer collaboration, silent saf
+- ★ [[quoram]] — Quorum is a validation layer for multi-agent AI systems, running on platforms like Fetch.ai's ASI:On
+- ★ [[invasion-dawn]] — Invasion Dawn lets the players feel like they are a true element & the game. This game is as immersi
+- ★ [[chainhealth]] — Securing Patient Data with Chainlink. Validate FHIR resources, and ensure data integrity, privacy, a
+- ★ [[agent-builder]] — Build powerful AI agent workflows through natural conversation. Simply describe what you need, and w
+- ★ [[promp2slip]] — This library is testing the ethics of language models by using natural adversarial texts. This tool 
+- ★ [[jop]] — An AI assistant helping teachers, parents and kids.
+- ★ [[trishna-climate-smart-kisan-companion]] — Trishna: Multilingual AI super-app for farmers & gardeners. Get hyper-local weather alerts, instant 
+- ★ [[planet-ar-y]] — An immersive augmented reality experience paired with Alexa to engage and teach kids about our solar
+- ★ [[measuring-taste-to-diagnose-diseases]] — You might have measured your eyesight or your hearing, but have you ever tested your taste ?
+- ★ [[placeholder-9rsnc5]] — Maestro Case turns a single fraud call into a live multi-agent investigation: AI scoring, parallel S
+- ★ [[whisper-hd54xc]] — Whisper: End-to-end encrypted messaging—no servers, no tracking, just pure privacy.
+- ★ [[kip-protocol]] — KIP Protocol is the decentralised base layer that AI models, apps & data owners build on, to safely 
+- ★ [[chatrealm]] — ChatRealm: Context-aware chat rooms powered by 5 AI agent bureaus and LinkedIn scraper service. Spec
+- ★ [[bountai]] — Blockchain based ML MarketPlace that trustlessly connects Devs to ML enthusiasts and Data Scientists
+- ★ [[buildit-urw59q]] — The majority of STEM resources are one-size-fits-all and English-only. BuildIt fixes that by generat
+- ★ [[chemshooter]] — Engaging youth with chemistry through a 2D RPG.
+- ★ [[jugaad-dpmqi7]] — JUGAAD — Just-in-time University Guidance and Actionable Discovery — gives every Berkeley student th
+- ★ [[fangorn]] — Fangorn is a permissionless threshold encryption network that enables programmable access control fo
+- ★ [[medicaid-analytics-agent]] — An AI-powered Medicaid analytics assistant for uncovering provider outliers, peer comparisons, and b
+- ★ [[covid-19-prognosis]] — COVID-19 Prediction Powered by AI
+- ★ [[peer-review]] — Restoring integrity to academic publishing
+- ★ [[temp-5dincy]] — We extract an essential measure of heart failure patients from medical charts, left ventricular ejec
+- ★ [[sparky-y1ud59]] — "Every child can learn. Not every child learns the same way."
+- ★ [[skyrocket-your-team]] — We improve team feeling and communication in remote teams through online escape rooms
+- ★ [[meridian-uw62z5]] — Meridian: an agentic UiPath Maestro system that automates maritime voyage compliance AI agents run d
+- ★ [[dashagenttool-custom-tableau-mcp-tool]] — Because even good dashboards have blind spots. DashAgent is your AI BI Analyst. It challenges your d
+- ★ [[freshair]] — Track air pollution across the world and see its impact instantly. How can we keep our air FRESH?
+- ★ [[cfo2]] — Reducing the risk of wildfires and emissions is highly relevant. This project assists indigenous ste
+- ★ [[sustainup]] — A gamified learning experience on sustainable decision making during the life cycle of a product
+- ★ [[harmoniq-06o1e9]] — Regulatory intelligence for clinical trials.
+- ★ [[root-cause-analysis]] — Unleashing the Power of LLM's to Empower Businesses in Understanding Customer Conversations
+- ★ [[era-ga6bj7]] — Authenticity for a New Age
+- ★ [[berea-college-q-a-4yzxgm]] — Berea College Q&A: Ask anything. Get answers straight from berea.edu
+- ★ [[my-et-economic-times-reimagined]] — AI-powered financial news assistant that translates complex articles into any language, verifies fac
+- ★ [[hivemind-18cula]] — HiveMind: Your Second Brain for Smarter Learning.
+- ★ [[flowsense-intelligent-fowboards]] — Designing user-friendly software can be tough. FlowSense makes it easier by assisting and guiding yo
+- ★ [[nova-multi-agent-compliance-intelligence-on-aws-nova]] — Four specialized agents analyze SEC filings, market signals, enforcement history, and earnings calls
+- ★ [[voicebot-for-ongoing-assistance-to-covid-19-patients]] — A system for effective remote monitoring of ambulant Covid-19 patients by automated phone calls to e
+- ★ [[pikaplace-pokedex]] — Decentralized NFT Monster Game powered by Chainlink Randomness.
+- ★ [[ricoshot-earth-s-last-hope]] — The Earth is on the brink of destruction... it's only hope: The USS Ricoshot! Visit unknown worlds a
+- ★ [[humans-ai]] — Providing income using mobile based Data Labelling game in India
+- ★ [[birdbot-computer-vision-that-enables-citizen-science]] — BirdBot is an avian wildlife camera that helps environmentally conscious professionals contribute to
+- ★ [[findtruman-6aed38]] — FindTruman is a STEAM-like Story-gameplay Co-creation Platform in Web3.
+- ★ [[jet-2340bw]] — A prediction market where you don't trade alone. Oracle gives you three AI analysts, each with a dis
+- ★ [[shipsense-ai-novel-data-augmentation-protocol]] — Mitigating overfishing through AI-augmented satellite imagery and data viz dashboard. Novel few-shot
+- ★ [[chatedu-mt379l]] — Copilot for students that learns and works with them, not for them.
+- ★ [[project-varuna-h945ni]] — Project Varuna is an artificial intelligence-based decision support tool that makes predictions abou
+- ★ [[project-varuna-v5k2mn]] — Project Varuna is an artificial intelligence-based decision support tool that makes predictions abou

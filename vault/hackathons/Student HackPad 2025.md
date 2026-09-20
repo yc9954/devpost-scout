@@ -1,0 +1,162 @@
+---
+hackathon: "Student HackPad 2025"
+organization: "Student Hackpad"
+projects: 130
+tags:
+  - "hackathon"
+---
+
+# Student HackPad 2025
+
+Student Hackpad  ·  130 collected projects
+
+## What this field was made of
+
+- [[educator_student]] × 99
+- [[education]] × 98
+- [[realtime_stream]] × 60
+- [[web_dom]] × 49
+- [[structured_db]] × 47
+- [[developer_tools]] × 43
+- [[document_pdf]] × 36
+- [[geospatial]] × 33
+- [[video_visual]] × 32
+- [[researcher]] × 27
+- [[developer]] × 22
+- [[cross_origin_web]] × 19
+- [[vision_ocr]] × 19
+- [[finance_payments]] × 19
+- [[mental_health]] × 18
+
+## Projects
+
+- ★ [[dyslexiapilot-ai]] — The AI-Powered Companion that helps students with dyslexia study smarter, faster, calmer and It come
+- ★ [[studysync-ai-v86jts]] — Detects when you're confused and adapts instantly, tracks your focus, predicts when you'll forget. U
+- ★ [[mindmesh-k9wgbc]] — MindMesh turns any topic into an interactive concept map using AI, complete with adaptive quizzes, s
+- ★ [[unibridge-rcg83p]] — Your personal AI college counselor, helping students discover the right universities, craft better a
+- ★ [[studforce-sat-gcse-snbt]] — Study like you compete in a ranked game.
+- ★ [[scholarstream]] — Need money for your school fee and upkeeps? ScholarStream finds immediate opportunities (scholarship
+- ★ [[reignitia]] — Power Your Potential.No Student Left Behind. No Talent Wasted.
+- ★ [[syllabye]] — Say bye to syllabus's. Say syllabye
+- ★ [[pathlearn]] — PathLearn uses DRL, RNNs, and RAG with Arch-Router-1.5B to create a deeply personalized, career-alig
+- ★ [[pathguide]] — PathGuide AI guides students with personalized roadmaps, skill tests, industry insights, and univers
+- ★ [[stellarlearn-zg69ej]] — Your AI-Powered Study Companion
+- ★ [[studypulse]] — StudyPulse is a smart student dashboard that adjusts the users assignments, projects and home works.
+- ★ [[iot-desk-assistant]] — Desk Assistant designed to make students more focused and productive.
+- ★ [[clearpolicy-cp]] — CP translates policy & ballot measures into plain language with adjustable reading levels- empowerin
+- ★ [[launchpad-7xkjwu]] — Launchpad organizes your college applications in one place. Build your profile, get AI analysis on y
+- ★ [[hackaton-blyvrk]] — All your study tools. None of the distractions.
+- ★ [[notebot-6xj542]] — The ultimate student OS built for hackathon. AI-powered summaries & quizzes. Quick Connect: Temporar
+- ★ [[synapsehub-w2gl6z]] — 90% of student startup ideas die from lack of support, not lack of merit. SynapseHub changes that: g
+- ★ [[cyberquestjr-ayzhc4]] — CyberQuestJR is an interactive, story driven cyber safety lab that teaches kids how to stay safe onl
+- ★ [[mind-map-alj6vm]] — Instant mindmaps from any content
+- ★ [[echolens-dixcuz]] — ScholarMatch: Unlocking the $100 Million. We use AI to instantly match students with the scholarship
+- ★ [[studentdevhackthing2025]] — Stay Focused With Friends
+- ★ [[schema-genius]] — AI-powered platform that turns plain English prompts into production-ready backends — schema, APIs, 
+- ★ [[student-hackpad]] — Find global teams in mins, flex wins 🏆, AI plans your project.No adults allowed 😭DM @cinqhub_ “legen
+- ★ [[elvo-your-upskilling-coach]] — People get lost trying to learn alone. Elvo fixes that with a personal, conversational coach that gu
+- ★ [[mindmapr]] — MindMapr is an application specifically designed for the (mental) wellness of students.
+- ★ [[study-forge-0u3nzf]] — AI-powered study automation that adapts to you — not the other way around.
+- ★ [[debate-buddy]] — *Debate Buddy** is an AI-powered debate training tool that helps students and debaters strengthen th
+- ★ [[campus-hub-e7a2vy]] — “Campus Hub is a unified student community platform where learners connect, chat, share resources, e
+- ★ [[focus-flow-l14izr]] — AI study buddy that catches you picking up your phone so you can actually finish your homework.
+- ★ [[learnai-70l698]] — LIVE AI student learning tool
+- ★ [[studyroom-0dbcjp]] — a virtual study room app to help students understand and improve their study habits
+- ★ [[syllabus-unifier]] — todo
+- ★ [[semestra]] — Your semester, simplified. Semestra uses AI to read your syllabuses, organize deadlines, and forecas
+- ★ [[zeural]] — Zeural - Explore Everything, From Ancient Myths to Modern Neural Networks, and Build Along the Way.
+- ★ [[notehub-n7r542]] — NoteHUB is a student-built vault for class notes - organized, accessible, and easy to share. Missed 
+- ★ [[syllaboard]] — One upload for who, what, where, and when of every class.
+- ★ [[study-spotify]] — You know how students struggle to focus and end up doom-scrolling instead of studying? Study Spotify
+- ★ [[wellmind-y3dg05]] — Fast wellbeing for busy students.
+- ★ [[budgex]] — Helping students master financial literacy through short and simple lessons
+- ★ [[focusflow-the-ultimate-student-dashboard]] — FocusFlow: The all-in-one student productivity dashboard. Manage tasks with kanban boards, smart cal
+- ★ [[project-1-w2ql1s]] — Marlin is the dedicated student's all-in-one productivity tool. Whether it's entering your notes, jo
+- ★ [[hintogram]] — Want hints? This chrome extension will give you exactly what you want to help you in your homework. 
+- ★ [[smartnotes-p2s8om]] — AI-powered study companion that transforms your notes into summaries, flashcards, and mini quizzes
+- ★ [[school-agent-h2cqvw]] — School Co-Pilot is a private AI tutor that uses only your school's documents. It provides safe, curr
+- ★ [[studyshare-jm6h84]] — StudyShare — Student NOTES for student GOATS
+- ★ [[cerebro-9n2xf8]] — An AI-powered learning companion that organizes your knowledge, strengthens your memory, and adapts 
+- ★ [[studicircle]] — Study Better, Together
+- ★ [[intellinotes-8gkmvd]] — A unified database where a community of students can upload/access notes on a variety of subjects wi
+- ★ [[subrevision]] — Upload. Learn. Revise. Repeat.
+- ★ [[alectrix]] — A retro-themed, 8-bit study companion that makes learning engaging through interactive tools and men
+- ★ [[chaotiq]] — ChaotIQ turns any learning topic into a fast-paced multiplayer quiz with powerups, sabotages, and re
+- ★ [[flowmate-l94iv1]] — Your intelligent productivity assistant.
+- ★ [[studybuddypro]] — AI-powered study management platform that helps students beat procrastination, track progress, and m
+- ★ [[quizzr-prsxik]] — Quizzr is an app that enables students to efficiently learn and thrive by helping retention through 
+- ★ [[studentfocus]] — A smart student productivity hub that organizes tasks, exams, and study plans in one clean, AI-assis
+- ★ [[a-2bxqe0]] — Say it once, remember it forever.
+- ★ [[study-plan-generator-bskf4a]] — "Study Smarter, Not Harder"
+- ★ [[remindmap]] — An intelligent app that transforms your notes and ideas into a glowing mind map, revealing connectio
+- ★ [[refinelab]] — A writing growth engine for students that analyzes essays, teaches skills, tracks growth, and helps 
+- ★ [[aceup-interview]] — AI-powered system interview platform with automated grading, real-time proctoring, and interactive A
+- ★ [[studynest-u642m0]] — StudyNest is a web app made to help students achieve their goals with a study routine and tools like
+- ★ [[rancho-restroom-radar]] — A mobile web app that tracks opened and closed bathrooms in Rancho Cotate High School.
+- ★ [[artifical-guruji]] — Clarity, Discipline, Insight — On Demand
+- ★ [[clarify-8c4equ]] — Stop just reading. Start understanding. Clarify is the app that reads text aloud with natural voices
+- ★ [[ai-study-tutor]] — AI Study Tutor helps students learn smarter with AI-powered summaries, quizzes, quick-fire challenge
+- ★ [[bonfire-of-thoughts]] — Bonfire of Thoughts is a web app where students reflect on their struggles and share anonymous one-l
+- ★ [[rankify-ltzavm]] — 𝐓𝐮𝐫𝐧 𝐀𝐧𝐲 𝐏𝐃𝐅 𝐢𝐧𝐭𝐨 𝐚𝐧 𝐈𝐧𝐭𝐞𝐫𝐚𝐜𝐭𝐢𝐯𝐞 𝐌𝐨𝐜𝐤 𝐓𝐞𝐬𝐭 [CBT]
+- ★ [[mentor-bridge-nu9ivj]] — Empowering Students, One Connection at a Time.
+- ★ [[ai-powered-resume-analyzer-and-generator]] — “Your Resume, Reimagined with AI.”
+- ★ [[understandly]] — Understandly-The App That Makes Sure You Understand Key Concepts,Not Just Passing Exams.
+- ★ [[student-command-centre]] — Smarter tasks, cleaner notes, better learning
+- ★ [[unimatch-htc5l9]] — Discover the Magic Behind Global UniMatch
+- ★ [[student-focus-shield]] — A browser extension to help students beat distractions. Features timed focus, a custom blocklist, an
+- ★ [[ai-study-companion-zemv9c]] — AI Study Companion: Transform notes, lectures, and textbooks into summaries, flashcards, quizzes, mi
+- ★ [[studyblocks]] — Overwhelmed by studying? StudyBlocks combines AI-powered study guide generation, smart flashcards, a
+- ★ [[peerlink]] — Connect.Share.Belong
+- ★ [[study-simplifier]] — AI tool that simplifies, summarizes, and extracts keypoints from text, generating flashcards for fas
+- ★ [[insight-ai-9hijxc]] — Insight.AI is a Chrome extension that simplifies PDFs, videos, and web content into instant summarie
+- ★ [[studyhub-3wgbi9]] — StudyHub: Fewer apps, more focus.
+- ★ [[us-law-reference]] — US Law Reference: A fast, offline legal pocket guide with searchable US Code, Constitution, and DMV 
+- ★ [[students-multitask-tools-page]] — Includes a tool which have been aggressively modified to help to save time and neck when copying not
+- ★ [[nexevent]] — A clean, minimal event management system built for developers, meetups, and hackathons
+- ★ [[minimood-student-wellness-tracker]] — A minimal mood-tracking and stress-relief web app for students, featuring mood logging, breathing ex
+- ★ [[smartcareer]] — SmartCareer is an AI-powered tool that instantly creates and optimizes ATS-friendly resumes with rea
+- ★ [[artifex-eykgb4]] — AI Repair Assistant
+- ★ [[tasktamer-hetu2y]] — TaskTamer turns your to-do list into an RPG adventure: complete tasks, battle zombies and bosses, ea
+- ★ [[v-focused-ai-powered-productivity-and-timer-app]] — VFocused — Your AI-powered Pomodoro companion. Track focus, get personalized insights, and level up 
+- ★ [[classk]] — Classk is a mission-based platform where students help each other, earn points for completed mission
+- ★ [[ai-notes-generator]] — Study smarter, stress less
+- ★ [[boostiq-ilh9co]] — BoostIQ is an AI-powered learning tool that enhances memory retention (turn knowledge into memory) u
+- ★ [[asd-4sn7l5]] — Turn any topic into an engaging AI-generated study reel with gameplay visuals, character dialogue, a
+- ★ [[mindful-you-ckqj2p]] — AI-powered personalized wellness for individuals — offering guided micro-meditations and interactive
+- ★ [[campus-companion-making-student-life-easy]] — The simplest way to manage college life — instantly.
+- ★ [[taskflow-i94lju]] — The all-in-one student planner that organizes tasks, builds smart schedules, and adapts to how you s
+- ★ [[bookster-05sbyz]] — AI powered student marketplace & community hub for ISU students
+- ★ [[study-scheduler-jgf1u7]] — It automatically creates a weekly study timetable based on your availability and workload—so you kno
+- ★ [[borrow-me-nl425s]] — BorrowMe is a campus rental platform built for Xiamen University Malaysia, helping students easily b
+- ★ [[berea-college-q-a-4yzxgm]] — Berea College Q&A: Ask anything. Get answers straight from berea.edu
+- ★ [[bfs-buddy-for-study]] — Focus. Organize. Breathe.
+- ★ [[carelink-family-health-management-system]] — A unified digital health platform that connects families, doctors, and medical records — empowering 
+- ★ [[bhashabytes]] — Code, Create, Connect – Bringing Regional Languages to Life!
+- ★ [[benchmark-szxakm]] — Overwhelmed by projects and hobbies? BENCHMARK is a simple, 100% private dashboard to track your tas
+- ★ [[study-flow-ue29iz]] — Your intelligent study companion. Track progress, collaborate with peers, and unlock your academic p
+- ★ [[vigihood]] — An application that filters the 'noise' from neighborhood groups to transmit only vital emergency al
+- ★ [[easy-learn-ai]] — Comet is an AI study assistant that creates plans, explains topics, summarizes content, and quizzes 
+- ★ [[angeticai]] — Save time and make more money
+- ★ [[aquin-qy1she]] — floating AI assistant that co-works with you across all apps & sites, learns all the context so you 
+- ★ [[phone-shop-website]] — An online platform to book mobile repairs and buy phone accessories instantly.
+- ★ [[cognilink-ai]] — CogniLink AI orchestrates multiple specialized AIs to solve complex tasks by breaking down prompts i
+- ★ [[scrapp]] — Eliminate confusion with waste disposal using image recognition.
+- ★ [[tokentalk-u6lqvz]] — Anonymous chat system
+- ★ [[trailblazer-2r0gta]] — A mindmap maker that uses Generative AI to produce exceptional results
+- ★ [[go-fix]] — Go-Fix: Connecting landlords, tenants, and skilled artisans for fast, reliable home repairs and comm
+- ★ [[tech-sentinel]] — Your all-in-one AI-powered cybersecurity shield.
+- ★ [[taief-the-all-in-one-academic-assistant]] — From academic research to Olympiad problems, TaiefMind is your AI co-pilot. Upload papers, extract d
+- ★ [[clarity-docs-8k3cz4]] — ClarityDocs: “Understand, Act, and Negotiate Your Documents with Confidence.”
+- ★ [[empowernet-ai-scam-detection-platform-ocm25l]] — "Detect. Alert. Protect — Stay Safe Online.”
+- ★ [[aquasentry-na2vtk]] — Generic apps fail in floods. AquaSentry's Dual-AI (river + rain) gives reliable alerts, offline cont
+- ★ [[studybuddy-ai-powered-student-planner]] — An AI-assisted planner that helps students manage study schedules, track assignments, and stay produ
+- ★ [[airlytics-2uyegx]] — Transforming airline passenger experience through predictive analytics—Airlytics uses voting classif
+- ★ [[aayulink-4d3nhx]] — Built on abha id, stores all the medical info of a person and lets the hospitals access it. its like
+- ★ [[vibecode-6zuf3y]] — VibeCode — A smart cloud native IDE with AI and dedicated workspaces for ideation, environment setup
+- ★ [[go-fix-am34h9]] — Go-Fix: Connecting landlords, tenants, and skilled artisans for fast, reliable home repairs and comm
+- ★ [[twin-aluminia]] — Twin Aluminia is a smart web platform connecting the aluminium industry with AI-powered insights, pr
+- ★ [[digital-patient-care-system-5-0-dpcs-5-0]] — DPCS 5.0 is a smart healthcare ecosystem designed to monitor, analyze, and respond to patient health
+- ★ [[synapse-ai-powered-cognitive-retraining-platform]] — Synapse is a revolutionary AI-driven cognitive training platform specifically designed for children 
+- ★ [[synapse-68lvmt]] — AI-powered cognitive retraining platform for children with ADHD, autism, and learning disabilities, 
+- ★ [[sleep-fixer-b2p4xj]] — Sleep Fixer doesn’t just track sleep, it helps you fix it. Get a personalized, day by day science-ba
+- ★ [[automated-detection-of-tumors-in-brain-mri-oqwr92]] — Automated MRI tumor detection platform using AI and image processing to deliver fast, reliable, and 

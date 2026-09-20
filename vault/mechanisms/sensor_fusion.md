@@ -1,0 +1,181 @@
+---
+facet: "mechanism"
+name: "sensor_fusion"
+projects: 633
+winners: 633
+tags:
+  - "facet"
+  - "mechanism"
+---
+
+# sensor_fusion
+
+`mechanism` · **633** projects, **633** of them winners.
+
+## Pairs with
+
+- [[realtime_stream]] — 391 together  <sub>(mechanism)</sub>
+- [[video_visual]] — 279 together  <sub>(substrate)</sub>
+- [[geospatial]] — 250 together  <sub>(substrate)</sub>
+- [[sensor_telemetry]] — 245 together  <sub>(substrate)</sub>
+- [[structured_db]] — 217 together  <sub>(substrate)</sub>
+- [[developer_tools]] — 207 together  <sub>(domain)</sub>
+- [[health_clinical]] — 177 together  <sub>(domain)</sub>
+- [[vision_ocr]] — 131 together  <sub>(mechanism)</sub>
+- [[transportation]] — 125 together  <sub>(domain)</sub>
+- [[developer]] — 122 together  <sub>(user)</sub>
+- [[patient_family]] — 118 together  <sub>(user)</sub>
+- [[simulation_digital_twin]] — 117 together  <sub>(mechanism)</sub>
+
+## Projects
+
+- ★ [[extopay-the-last-mile-solution-for-digitizing-cash]] — Next-Generation CBDC solution for digitizing cash: A Highly Secure Mobile and Non-Mobile Solution wi
+- ★ [[agri-able]] — A tool to help the African farming community to optimize crop production
+- ★ [[agentic-contract-framework]] — Contract-based observability for AI agents. Monitor if your agents fulfill their commitments and gai
+- ★ [[story-weave]] — AI storytelling meets immersive audio. Generate custom narratives with lifelike narration from any p
+- ★ [[forge-field-operations-real-time-guidance-engine]] — Voice AI co-pilot for hands-busy industrial technicians: one Qwen-Omni-Realtime session listens, see
+- ★ [[v-ident-real-time-identity-verification-mobile-application-19kdg7]] — V-Ident: Pulse + pixels = proof. On-device heartbeat detection & frequency forensics catch deepfakes
+- ★ [[kisan-mitra-ai]] — Built on AWS and powered by Amazon Nova Pro, the platform eliminates the literacy barrier with a voi
+- ★ [[mybubble-guiding-you-to-the-new-normal]] — MyBubble is the 'digital bubble' that keeps you alert, informed, and safe in the 'new normal'!
+- ★ [[pulsepoint-2hmejd]] — AI-powered medical triage at the speed of life from instant assessment to doctor in 60 seconds.
+- ★ [[agile-planning-tool]] — Real-time collaborative sprint planning that brings Product Owners, Dev teams, and Operations togeth
+- ★ [[the-fashion-art-designer]] — Design Fast, Create with Vision: AIBrandWizard, where AI Meets Artistic Vision for Fashion Designers
+- ★ [[agrimind-97zntd]] — AgriMind combines a robotic guardian with live farm sensors and AI video/image analysis to cut water
+- ★ [[lyfe-trak]] — Lyfe Trak is your voice-activated accountability buddy for tracking and checking progress towards yo
+- ★ [[apex-qkmxa0]] — A reimagined way to enjoy motorsports
+- ★ [[road-incident-predictor]] — Monitoring tools for road incident management. Crowdsourcing information sharing for safer roads wit
+- ★ [[kassi-synthetic-load-generation]] — An AI agent on an audited state machine: it load-tests a code change, correlates the regression with
+- ★ [[argus-it-never-forgets-59fuin]] — Data is gold, but stays passive in chats. Argus is a proactive Gemini 3 agent that connects past Wha
+- ★ [[forge-z8v4qm]] — 30 million underserved patients. No engineers. Forge lets safety-net clinics build permanent, verifi
+- ★ [[agentdeck-command-your-ai-fleet]] — Mission control for your AI coding fleet. Glanceable status tiles, one-tap approvals, dial-driven di
+- ★ [[project-iris-edge-ai-aac-platform]] — Project Iris is a zero-latency, eye-tracking AAC platform powered by local WebGPU AI, featuring Live
+- ★ [[gridveda]] — GridVeda gives powerline operators predictive failure detection at edge. Ensemble AI monitors 20 tra
+- ★ [[tunnel-dqv1k4]] — AI Agents for Simulated Market Research
+- ★ [[nerve-the-nervous-system-for-your-device-fleet]] — The nervous system for your device fleet — AI-native IoT telemetry monitoring that turns a firehose 
+- ★ [[near-road-icm]] — Investigative case management solution for citizens, police officers and drivers to report and manag
+- ★ [[project-hpfwsu51xila]] — Autonomous SRE that watches your Dynatrace tenant 24/7, diagnoses production incidents from real spa
+- ★ [[vitalflow-radar]] — VitalFlow Radar continuously monitors loved ones' vital signs without wearables, bands, or patches. 
+- ★ [[medgraphagent-1e4ps2]] — Better data means better decisions. And better decisions save lives
+- ★ [[freeze-optimizer]] — Reduce the consumption of refrigerators by just circulating the air in the rear.
+- ★ [[unsinkable-ship]] — Two lines of code make LLM apps unsinkable. Unsinkable routes any OpenAI-SDK app through TrueFoundry
+- ★ [[tasktamer-hetu2y]] — TaskTamer turns your to-do list into an RPG adventure: complete tasks, battle zombies and bosses, ea
+- ★ [[electronic-medicine-trial-and-test-records-as-a-service]] — Tools to enable visualization, management for developers to build solutions in medicine, healthcare,
+- ★ [[waterbody-monitoring]] — As climate change accelerates, water usage planning is crucial for small communities who depend on w
+- ★ [[handtrack-js-1-0-real-time-handtracking-in-the-browser]] — Handtrack.js is a library for prototyping realtime hand detection (bounding box), directly in the br
+- ★ [[simuniverse]] — All in one interactive simulations across STEM disciplines
+- ★ [[argus-it-never-forgets-rd6k70]] — Data is gold, but stays passive in chats. Argus is a proactive Gemini 3 agent that connects past Wha
+- ★ [[travel-guild]] — 12 Qwen agents that don't just plan your trip - they safely book it. Real budget-capped checkout, de
+- ★ [[omnom-hg16v3]] — OmNom is your late night food savior, autonomously navigating a variety of outdoor and indoor enviro
+- ★ [[woodpecker-ai-finds-hidden-hotspots-in-power-lines]] — Power line failures spark billions in damage.Woodpecker AI, like a woodpecker spotting hidden hotspo
+- ★ [[echo-the-bridge]] — Bridging Gaps Between Parents and Children Through AI-Powered Daily Quests
+- ★ [[green-space-suggestion-tool]] — A tool to combine datasets to generate green space suggestion heat map in cities.
+- ★ [[polka-blue]] — Bringing Proof of Location into the Substrate Ecosystem
+- ★ [[solocoin]] — Get rewarded to shop locally with your friends. Helping SMBs and local businesses towards economic r
+- ★ [[beef-xk5pif]] — For leaders in high-performance environments, we aggregate real-time wearable data from teams, provi
+- ★ [[nomi-aoim58]] — A Multi-Sensor Network System for Seniors
+- ★ [[waste-classification]] — Sustainable Waste Management
+- ★ [[marionette-the-on-device-multimodal-ai-agent]] — Marionette is a Chrome extension that automates the web entirely offline using Gemini Nano and Chrom
+- ★ [[zpuzzle]] — Play a sliding puzzle with 3D like effect animations. Pick almost any widget as a background for you
+- ★ [[nazar]] — Scan a homework problem and instantly generate a novel, interactive learning environment from it in 
+- ★ [[claracare]] — AI companion that calls seniors daily, detects cognitive changes, and gives families peace of mind v
+- ★ [[nalog-agent]] — Production Qwen MemoryAgent on Alibaba Cloud for Thai smallholder farmers to check water from their 
+- ★ [[creta-learning-pottery-through-the-past]] — Creta is an MR app teaching the craft of pottery with real clay, guided by an AI artisan mentor. Lea
+- ★ [[forrus]] — Forrus is an AIoT device powered by TigerGraph and AWS EC2 DL1 for real-time alerts for wildfire mit
+- ★ [[vaidyasaarathi]] — "Your Intelligent Healthcare Companion" - Breaking language barriers, preserving privacy, empowering
+- ★ [[arduino-controlled-electrolysis-system-for-bleach-production-kodm9u]] — Imagine producing your own bleach right at home, simply by adding salt to water and pressing a butto
+- ★ [[compost-professor]] — The Compost Professor analyzes your compost to provide custom recommendations & take the guesswork o
+- ★ [[batteryforgeai]] — Multi-agent battery intelligence. Specialized AI for vision-based defect detection, charging optimiz
+- ★ [[gemini-3-desktop-ai-agent]] — A voice & gesture-controlled desktop AI that sees your screen, controls your laptop, and responds in
+- ★ [[massventilatorsystem-with-individual-ventilation-parameters]] — The Mass Ventilator System ventilates up to 50 or more people at once, supports invasive/non-invasiv
+- ★ [[voxelize]] — A real-time AR voxel scanner with 3D model export as .glb
+- ★ [[memoray]] — Memory just moved from your brain to your frames. Your memories are getting a firmware update. Memor
+- ★ [[pulsewalk]] — Our cutting-edge shoe enhances awareness for the visually impaired by combining haptic, pressurebase
+- ★ [[alpharesearch-9fwk4m]] — Recursive Sandboxed Agents for Autonomous Research at Scale
+- ★ [[therms-thermoregulation-wearables-with-ai-powered-insights]] — A non-invasive wearable using novel thermoregulation research to provide precise heating/cooling to 
+- ★ [[heartstart]] — Emergency Detection. Autonomous Robot CPR.
+- ★ [[dejavu]] — Eliminating déjà vu by reviving memories one video at a time
+- ★ [[blindsight-virtual-eyes-through-haptic-feedback]] — Blindsight simulates a novel sense of sight with haptic feedback vibration motors and ML.
+- ★ [[touche-cfp6hs]] — Safe Access control to fight COVID-19 - enabling effective deconfinement
+- ★ [[qalammr-ilvpy9]] — The world first Spatial Calligraphy Workshop. MX Ink becomes a reed pen—write with real ink physics,
+- ★ [[hera-women-s-health-intelligence-platform]] — The health intelligence women have always deserved.
+- ★ [[maggy-ovyepd]] — Social distancing made easy! Maggy is a small wearable device helping you to maintain social distanc
+- ★ [[kori]] — A little pixel companion who studies with you, works with you, rests with you, and helps you take ca
+- ★ [[testbutler-iot-testing-made-easier]] — Enabling your software to be directly tested on your hardware in real-life conditions with GitLab CI
+- ★ [[barrio-decentralized-classified-ads]] — A multi-purpose ecosystem where you can help reduce landfill waste by buying and selling pre-loved i
+- ★ [[ranger-6jkv5s]] — Audio is a luxury we take for granted, that deaf folks don't get. Ranger is a wearable AR solution a
+- ★ [[wellbe-7fkox0]] — Wellbie - start with a simple challenge, finish with a marathon.
+- ★ [[torq]] — Turn any car into a self-driving vehicle with the Jetson Thor. Retrofit autonomy, enable rideshare, 
+- ★ [[leavitt]] — Leavitt reads every observability signal you have, metrics, logs, client-side load, and deployment c
+- ★ [[ally-kmoagt]] — Ally makes drone data management simple, giving non-technical people easy access to automated workfl
+- ★ [[pushpa-pyro-uav-system-for-high-risk-patrol-and-alerting]] — PUSHPA gives firefighters eyes on the ground and in the air. Smart glasses steer drones for real-tim
+- ★ [[theracat]] — A band and a plush cat that catch anxiety in how you move — and interrupt it before it peaks. There'
+- ★ [[medical-intelligence-applied]] — Two-way health management platform for seniors and caregivers
+- ★ [[trishna-climate-smart-kisan-companion]] — Trishna: Multilingual AI super-app for farmers & gardeners. Get hyper-local weather alerts, instant 
+- ★ [[cas-solving-traffic-one-office-ride-at-a-time]] — Solves Traffic by motivating our employees to bike for work. We believe we can motivate our cyclist 
+- ★ [[health-monitor-it92fn]] — Measure heart rate anytime, anywhere with just your phone camera. Includes HRV analysis, facial vita
+- ★ [[antrum-mk-1]] — Lost underground? No GPS, no signal. Our handheld devices track each other using motion sensors and 
+- ★ [[gridsense-ri49gk]] — 30–60 minutes before the power goes out, your neighborhood already knows. GridSense listens.
+- ★ [[measuring-taste-to-diagnose-diseases]] — You might have measured your eyesight or your hearing, but have you ever tested your taste ?
+- ★ [[argus-475hkv]] — HA web servers run on N machines. Why don't agents? Argus is a dual-cognition SRE agent that investi
+- ★ [[scup-smart-checkup]] — Smart telemedicine platform, based on IoT devices that provide Vital signs and historical values.
+- ★ [[kegomate]] — Kegomate collects data from a flow sensor to track coffee consumption by individuals then informs th
+- ★ [[project-avia-autonomous-vigilance-insights-for-aviation]] — Leveraging healthcare data to improve the performance of fighter jet pilots
+- ★ [[waste2taste-etwp34]] — Measuring plate waste in dining halls so chefs serve what students enjoy.
+- ★ [[thermohalo-ai-firearm-detection-84vpze]] — ThermoHalo uses AI-powered thermal imaging to detect concealed weapons at school entrances. Safe, FE
+- ★ [[fun-dashboard]] — A platform that supports data center technicians in a multitude of daily tasks, from planning out op
+- ★ [[sentineldesk]] — SentinelDesk turns MX Creative Console & Master 4 into a tactile CCTV cockpit. Scrub footage with th
+- ★ [[loro-0pi6dv]] — Loro is a platform for providing a smart companion robot that serves as a connectivity hub for wheel
+- ★ [[mira-w65b0a]] — AI eldercare assistant that reconstructs 3D scenes, localizes lost objects, and alerts caregivers—al
+- ★ [[disaster-brain]] — When the internet dies and lives are on the line, Disaster Brain is the only AI that still works.
+- ★ [[recycling-trashcan-ar-map]] — Guide students towards the closest recycling trashcan location on campus by an AR map app (Geospatia
+- ★ [[botlink]] — BoTLINK is a platform that NFTizes offline assets and connects blockchains with the Internet of Thin
+- ★ [[ricoshot-earth-s-last-hope]] — The Earth is on the brink of destruction... it's only hope: The USS Ricoshot! Visit unknown worlds a
+- ★ [[humans-ai]] — Providing income using mobile based Data Labelling game in India
+- ★ [[birdbot-computer-vision-that-enables-citizen-science]] — BirdBot is an avian wildlife camera that helps environmentally conscious professionals contribute to
+- ★ [[weight-coach]] — AI-powered meal planner with voice cooking assistant. Turns your inventory into personalized recipes
+- ★ [[agrowise-4b2szv]] — AgroWise fuses low-cost root-zone sensors with AI and IVR to provide precision farming via any phone
+- ★ [[maskcam]] — Camera-enabled IoT device powered by AWS SageMaker to detect if people are wearing masks when access
+- ★ [[agent-vjpz7q]] — FamCare helps you organise your health documents, ai chat to better understand records, create medic
+- ★ [[ballar]] — Unite AR and electro-stimulation to perfect your beer pong game.
+- ★ [[drip-6ao9m2]] — Every AI prompt wastes water. We engineered a system where every prompt generates it instead.
+- ★ [[smart-shoe-module]] — A modular shoe attachment clipped to the wearer's shoe to help people adjusting to new blindness, ey
+- ★ [[sentinel-flood-watch-agent]] — An AI agent that proactively monitors Accra's ecological sites using remote sensing data and advance
+- ★ [[childgrowthmonitor]] — Quick, accurate data on malnutrition
+- ★ [[petfit-ai]] — Compassion Meets AI, Accessible Pet Care for All.
+- ★ [[sentinel-ai-rzp29l]] — Autonomous Drones that you can control with Natural Language.
+- ★ [[a-eye-pk9sdw]] — We built a real-time tool that converts live camera input into audio instructions, helping the visua
+- ★ [[lighthouse-llm-observability]] — A Datadog-powered strategy for monitoring safety, consistency, and quality in creative AI for kids.
+- ★ [[100-weapons-goofy-madness]] — We packed in tons of progression features and infused humor and shareable moments into one of our mo
+- ★ [[mediq-nop156]] — Fetch once. Learn forever. MediQ transforms hospital data into instant answers using agentic AI, MCP
+- ★ [[iot-water-level-anomaly-detector]] — Monitor water levels with an IoT sensor connected over cellular to Azure Anomaly Detector API
+- ★ [[neurolens-2qgdm8]] — An agentic system that models visual attention and neural engagement to autonomously optimize your c
+- ★ [[as-yet-untitled]] — Hangout chill world to explore, play Trivia games, a timed Gingerbread Hunt, fight enemies or play H
+- ★ [[punjab-sabak-portal]] — A safe AI study platform with course-locked guardrails. Generates targeted MCQs, checks handwritten 
+- ★ [[sciforge-ai]] — An autonomous AI agent that adapts in real‑time to each student's mastery, tracks their progress acr
+- ★ [[plumber]] — Data Pipelines for Monday
+- ★ [[d3cision]] — Solving the triage challenge by transforming raw security logs into explainable, gravity-sorted atta
+- ★ [[civora]] — Civora: AI command center catching safety risks 18 min early, cutting 142 tCO₂e, turning every site 
+- ★ [[project-farmspeak]] — We offer a patented farm management system to mitigate climate-related losses, turning unpredictable
+- ★ [[geosentinel]] — GeoSentinel — Turning Earth’s data into early warnings that save lives.
+- ★ [[closet-a-i]] — Transform your closet into a personal stylist with AI-powered outfit recommendations, AR try-on acro
+- ★ [[recs-proof-of-reserves-e-nfts-and-e-tokens-u9ewdx]] — IoT data-driven RECs (Clean Energy Certificates) Proof of Reserves 🌳 e-NFTs as RWA "solar bonds" for
+- ★ [[edith-zbd6pg]] — do anything from anywhere
+- ★ [[mapdash]] — Indoor navigation for the visually impaired, made easy.
+- ★ [[e-ink-sim]] — Turns every thing to eink, for web developers to test and optimize their web applications for e-ink 
+- ★ [[wemindyou-app-emotional-well-being-of-kids-during-covid-19]] — A digital workflow app to identify Emotional Well-Being of Kids through facial analysis & psych ques
+- ★ [[priorauth-agent]] — A voice-to-submission AI agent that converts a clinician's spoken case into a completed prior author
+- ★ [[neurocast-ai-autonomous-stroke-intervention-system]] — NeuroCast: Autonomous stroke intervention—safe, fast, anywhere.
+- ★ [[trashe]] — Trashé is a SmartBin which aim to help you get better at recycling. Making use of Azure IoT Edge we'
+- ★ [[healthier-w0baus]] — AI-powered elderly care app. Seniors scan pills/meals and chat with a voice agent. Healthcare provid
+- ★ [[tether-n2kpha]] — A focus ritual for brains that freeze before they begin.
+- ★ [[xdc-eco-logically-driven-nft-s]] — Drive ecologically to a sustainable future.
+- ★ [[product-creator-temp-name-conu-x]] — You imagine it. We build it for you.
+- ★ [[ar-guide]] — We develop an augmented reality guide(incl. payment option) so lines at the cashpoint and grouping a
+- ★ [[vision-app]] — Helping the visually impaired navigate their daily life - through sound.
+- ★ [[torch-drowsiness-monitor]] — Drowsiness and atention monitor for driving. Also detects objects at the blind spot via Pytorch-powe
+- ★ [[vaporvision]] — Sense the Unseen.
+- ★ [[naterida-microbots]] — NATERIDA — The AI-powered exploration robot that thinks, adapts, and protects while gathering smart 
+- ★ [[bitflow-bitcoin-payment-streaming-on-starknet]] — Stream Bitcoin payments in real-time with ultra-low fees on Starknet. First Bitcoin payment streamin
+- ★ [[sustain-a-thon]] — Sustain-a-thon gamifies saving the planet. Track real-time impact, earn XP & badges, and get AI coac
+- ★ [[aura-7iml9d]] — AI-powered independence for the visually impaired
+- ★ [[cyclimate]] — With CYCLIMATE we can calculate carbon footprint in cities while promoting and rewarding healthy pra

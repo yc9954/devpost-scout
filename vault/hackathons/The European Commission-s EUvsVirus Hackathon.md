@@ -1,0 +1,149 @@
+---
+hackathon: "The European Commission's EUvsVirus Hackathon"
+organization: "European Commission"
+projects: 117
+tags:
+  - "hackathon"
+---
+
+# The European Commission's EUvsVirus Hackathon
+
+European Commission  ·  117 collected projects
+
+## What this field was made of
+
+- [[civic_government]] × 55
+- [[finance_payments]] × 49
+- [[web_dom]] × 46
+- [[labor_employment]] × 46
+- [[general_public]] × 43
+- [[health_clinical]] × 41
+- [[education]] × 35
+- [[geospatial]] × 30
+- [[educator_student]] × 28
+- [[structured_db]] × 27
+- [[developer]] × 26
+- [[mental_health]] × 26
+- [[patient_family]] × 25
+- [[realtime_stream]] × 24
+- [[researcher]] × 22
+
+## Projects
+
+- ★ [[team-discover-qg7kn3]] — We give nurses SUPERPOWERS!
+- ★ [[linistry-for-safe-retail]] — Retailers need to solve the following issues for a safer retail: limit the number of customers in-st
+- ★ [[aidbind-g3k5f0]] — We cover the information gap between the demand, supply and funding of medical equipment, procured b
+- ★ [[the-village-keogvw]] — WorldSchool - A Revolutionary Global Learning Ecosystem connecting families teachers & children thro
+- ★ [[double-guarantee-late-payment-factoring-kxo301]] — Financing for SME's that are experiencing cash-flow issues during COVID-19 using a guarantee from it
+- ★ [[sewers4covid]] — Sewers4COVID: Integrating sewer surveillance and machine learning for an early warning on pandemic o
+- ★ [[arts4refugees]] — Dealing with 44bn dollars worth of pollution using blockchain type tech
+- ★ [[refresherboxx]] — Face maks disinfection in 30 minutes. No water, no chemicals to kill the Corona-Virus and microorgan
+- ★ [[covid-genomics]] — We are analysing SARS-CoV-2 mutations in order to develop stochastic & ML models to predict future g
+- ★ [[compellio-ml-ai-for-covid19-targeted-testing-deconfinement]] — The tool is built using risk assessment models common in fintech & credit scoring. It enables policy
+- ★ [[covid-heal]] — An all-in-one tool, COVID-HEAL reminds you every time you touch your face, will keep you updated to 
+- ★ [[ownemployed]] — Why stay unemployed when you can be ownemployed?
+- ★ [[massventilatorsystem-with-individual-ventilation-parameters]] — The Mass Ventilator System ventilates up to 50 or more people at once, supports invasive/non-invasiv
+- ★ [[robinhood4business-avj92c]] — Digitalization brought to SMEs. Local stores, restaurants, hairdressers and many more, will get onli
+- ★ [[city-quarter-exit-from-covid-19-solution]] — Divide the City into Quarters and set up a "First to Know" Group for each Quarter. The City can send
+- ★ [[european-covid19-insurance-platform]] — Easily accessible platform for immediate and affordable health coverage for people presenting alread
+- ★ [[loewi-covid-19-antibodytesting-from-home]] — We enable widespread, high-quality ELISA, testing for SARS-CoV-2 antibodies from the comfort of your
+- ★ [[hallosophia]] — Platform to close the service gap of small businesses (financial instruments & external knowledge) t
+- ★ [[test-rg4elc]] — A data driven approach to map from occupations and skills at risk to those in demand - today and dur
+- ★ [[the-covid-climate-toolbox]] — Making Climate Data available to civil society, innovators, partners, and investors across Europe to
+- ★ [[greenbytes-g13wzm]] — GreenBytes tells restaurants the right amount of food to order based future food consumption predict
+- ★ [[covid19-alert]] — Contact tracing
+- ★ [[covifight]] — CoviFight showcases how the integration of Bluetooth with Social Networking Analysis makes contact t
+- ★ [[d3p]] — With D3P, Datafolio brings a new way to insure ourselves, based on solidarity & mutual assistance, a
+- ★ [[le-team]] — Our vision is to be EU's most trusted and transparent crowdfunding-marketplace focused on healthcare
+- ★ [[corovent]] — EU-tested ICU ventilator that offers patients with the most severe respiratory failures the same qua
+- ★ [[interactive-education-platform]] — Connect primary and secondary students with volunteer mentors through a mobile app so they can help 
+- ★ [[safeline-2wdluf]] — An application that aims to decrease the chances of Covid-19 contamination by deleting all waiting l
+- ★ [[tutify]] — A community driven, open source project that enables everybody to run a free tutoring platform in th
+- ★ [[viratrace-afgjmy]] — Infection Model that goes beyond the first degree of interaction, allowing for up to 3x increase in 
+- ★ [[opengate]] — Open the Gates during Covid-19 crisis with paperless traveling based on biometrics, artificial intel
+- ★ [[qesadila]] — Voting system for governments, city councils, corporations or anyone using Qualified electronic sign
+- ★ [[what-s-on-the-menu]] — itda is a local community platform where students can get connected again. Students can study togeth
+- ★ [[dynamic-w3a0hg]] — Dynamic represents the solution to maintain social distances between students, teachers and staff wi
+- ★ [[rehabuild]] — Rebuilding Medical rehabilitation in a COVID world. Evidence-backed video therapies from the first d
+- ★ [[childgrowthmonitor]] — Quick, accurate data on malnutrition
+- ★ [[voicebot-for-ongoing-assistance-to-covid-19-patients]] — A system for effective remote monitoring of ambulant Covid-19 patients by automated phone calls to e
+- ★ [[effiscienc-y]] — Leverage mass testing in a context of limited resources
+- ★ [[how-to-change-the-world]] — Virtualising our established in-person experiential Learning Journey for students and professionals 
+- ★ [[aiditto-turn-good-intentions-into-valuable-giving]] — AID IT TO is a SaaS-solution that enables municipalities source what is needed by easily, quickly an
+- ★ [[pvt-covid]] — Effective treatment to save lives from COVID lung damage
+- ★ [[sers4sars]] — Fast and reliable tests, with existing equipment
+- ★ [[touche-cfp6hs]] — Safe Access control to fight COVID-19 - enabling effective deconfinement
+- ★ [[test-project-2a4vxf]] — Giving students exams at home while discouraging cheating.
+- ★ [[unlocking-moments]] — A platform for people that want to see and contribute to the human story of the essential worker com
+- ★ [[dono-4e563v]] — a Charity gift card and platform to bring accesibility to donors and centralize cost effectiveness
+- ★ [[instant-sars-cov-2-breathalyzer]] — Optical detection of airborne virus-bearing aerosols (micro-/nano-droplets) using fluorescent marker
+- ★ [[senswear]] — A wearable device for early detection of COVID19 symptoms
+- ★ [[sostenibl-es-akswzf]] — Enabling short commercial channels for farmers in need during Covid crisis
+- ★ [[sprovid]] — Temporary laid-off because of COVID-19? Ask your landlord to lower the rent in the right way
+- ★ [[art-heist-bo01jw]] — Connecting Art, Artists and Audiences through an online virtual marketplace
+- ★ [[scifunmily]] — Virtual/Online Museum and Science Center tools for the whole family to support parents taking the ma
+- ★ [[birdbox-6r59dj]] — This project applies SNA methodologies and Big Data tools, used to analyze social networks to study 
+- ★ [[prevention-of-domestic-violence-yana-help]] — We are a passionate group aiming to create a platform - for survivors, oppressors and the community 
+- ★ [[ailearning]] — aiLearning is an AI-based solution for simplifying educational activities, focusing on exams correct
+- ★ [[qpon]] — A gamified crowdfunding platform connecting loyal clients to their favourite venues
+- ★ [[guide-your-guide]] — Access museums or cultural heritage sites remotely through your phone, without worrying about #socia
+- ★ [[jobiri-the-first-ai-based-digital-career-advisor]] — Jobiri helps both jobseekers to land jobs faster and Institutions to digitalize their employment ser
+- ★ [[mar]] — Families living in urban areas will turn this crisis into an opportunity to make their community gre
+- ★ [[deal-with-aleas-save-lifes]] — Integrate different hazards impacts (border closing, warehouse restriction, lack of transport capaci
+- ★ [[fresh-air-upznhf]] — Design, build and quickly distribute a cheap, safe PAPR system to the medical staff to ease their fi
+- ★ [[techforall]] — Our idea is to create a Voice Assistant using AI, to deeply explain to the elderly generations, how 
+- ★ [[borderx]] — A smart electronic declaration of priority transport service tailored to border crossing that enable
+- ★ [[mementoring]] — a solution providing students a one-to-one mentoring journey.
+- ★ [[co-llectif]] — Deliver to those who need it, "Let's be co-llectif!"
+- ★ [[measuring-taste-to-diagnose-diseases]] — You might have measured your eyesight or your hearing, but have you ever tested your taste ?
+- ★ [[maggy-ovyepd]] — Social distancing made easy! Maggy is a small wearable device helping you to maintain social distanc
+- ★ [[sfb2-x19omt]] — A Simplified, Secure & Transparent distribution, access and consumption of Government welfare funds 
+- ★ [[skyrocket-your-team]] — We improve team feeling and communication in remote teams through online escape rooms
+- ★ [[each-covi19]] — Cards of Kindness lets you send a postcard to front-line heroes, who in turn can spread delight to t
+- ★ [[hystandard]] — Air-purifying solution to reopen Europe’s restaurants
+- ★ [[automatic-detection-of-covid-19-from-pocus-ultrasound-data]] — We want to provide a new AI-based diagnosis tool to screen Covid-19 at early stages in an easy, prec
+- ★ [[ciclogreen]] — Using gamification to help cities and companies to promote active and safe mobility to reduce COVID 
+- ★ [[keexle-end-to-end-encrypted-remote-working-solution]] — End-to-end encrypted, Open Source remote working solution
+- ★ [[a-peer-to-peer-solution-for-help-insurance]] — Blockchain and P2P technologies to help financially in case of infection
+- ★ [[platex-reusable-face-masks]] — Let's spread masks - not viruses!
+- ★ [[break-even]] — Most of us want to support suffering businesses but do not know exactly how. Imagine if there was an
+- ★ [[rmlc-visor]] — A medical visor design which seeks a good compromise between lowest cost, easiest manufacture, weare
+- ★ [[we-stay-liquid]] — from WeStayLiquid to LiquiNow
+- ★ [[brightact-fqibsh]] — App for documentation and support for victims of domestic violence, gathering governments, authoriti
+- ★ [[teachers-lead-tech]] — A guided learning tool for teachers to teach technology creation
+- ★ [[stayhome-staysmart]] — Smart Coach to support people to lower the level of stress related to moments of crisis through pers
+- ★ [[nocrowd-social-distancing-made-simple]] — Award winning mobile app, a turnkey social distancing solution. It helps us avoid queuing and crowds
+- ★ [[jop]] — An AI assistant helping teachers, parents and kids.
+- ★ [[yc]] — An assessment tool to help people control the impact of the coronavirus on their mental health. A do
+- ★ [[performance-tracking-and-recommendation-tool]] — We use business data and guided analytics to provide business insights and recommendations in a comm
+- ★ [[futureup-lab-mindset-development-coaching-for-educators-13b4qu]] — Empowering educators to navigate uncertainty and help their students thrive in difficult times, via 
+- ★ [[corazones-against-covid19-tech-to-increase-impact-of-money]] — Fintech innovations can multiply the impact of recovery funds for regional SMEs. Five regional gover
+- ★ [[helpregistry]] — The central, intuitive European registry to find Coronavirus-related help initiatives.
+- ★ [[serratus]] — Ultra-deep homology search to discover new Coronavirus species
+- ★ [[path2integrity]] — Reach 1.000.000 citizens until August 2020 with our tool "TRUST IN SCIENCE" to support decreasing th
+- ★ [[xt-bioe-3noifp]] — Enabling the rapid scaling of vaccine and antibody test production
+- ★ [[smartphones4good-s4g]] — Donate old phones to us. We collect'n'sell them to fund smartphones for those that don’t have them. 
+- ★ [[reasoned-sharing]] — Defeating fake news starts from people. Think critically before sharing!
+- ★ [[zero_project]] — New safe ways of traveling in a post-COVID19 europe
+- ★ [[community-exchange-incentivization]] — We match needs and skills within communities and help heroes get the recognition they deserve.
+- ★ [[holocare-nkbycz]] — In an pandemic, HoloCare can deliver a solution that maintains the quality of treatment in hospitals
+- ★ [[signet-app-identity]] — Did you know that officially approved solutions to privacy and impersonation risks in online communi
+- ★ [[disposable-digital-wallets-pointcheckout]] — Financial Support distribution to the unbanked and non-tech is hard, micro funds can still be sent t
+- ★ [[transparency-ubn85q]] — Visualizing financial transactions
+- ★ [[health-passport-5kxist]] — Immunisation Pass is a mobile application that uses proven and secure blockchain technology to start
+- ★ [[eurocovidbusters]] — IFFA, the Integrated Fast Financial Aid, is a flexible & innovative platform that governments can us
+- ★ [[unite-government-procurement-platform]] — A platform for public procurement of special orders during times of crisis - cutting through the bur
+- ★ [[matikain-learn-with-friends-although-you-are-each-at-home]] — How to motivate kids at primary and secondary schools to learn during staying at home and keep conta
+- ★ [[solocoin]] — Get rewarded to shop locally with your friends. Helping SMBs and local businesses towards economic r
+- ★ [[polyvent-ultimate-global-ventilator-design-formula]] — PolyVent is a mechanical ventilator design formula, which provides needed functionality, flexibility
+- ★ [[project-lockdown]] — An interactive map measuring the impact of worldwide NPIs on Human and Digital Rights.
+- ★ [[mybubble-guiding-you-to-the-new-normal]] — MyBubble is the 'digital bubble' that keeps you alert, informed, and safe in the 'new normal'!
+- ★ [[ed4you]] — Automatic Digitization of Teaching Material and Immersive Gamification of Practical Education.
+- ★ [[lunsj-hbfni2]] — Automate routine knowledge sharing & social connection
+- ★ [[my-slots]] — Service for non-digital local stores to provide bookable slots for customers
+- ★ [[impactmarket]] — Decentralized Basic Income system to support vulnerable communities and people living in extreme pov
+- ★ [[balancever-your-balanced-daily-routine]] — Balancever is a platform to help remote workers improve their well-being and productivity by enhanci
+- ★ [[uml]] — Disinfect public spaces & buildings like hospitals autonomously using a swarm of drones controlled b
+- ★ [[m-i-broke-financial-status-analysis]] — Helping small businesses to quickly assess their financial status. By providing the most comprehensi
+- ★ [[covid-19-growth-modeling-forecasting]] — COVID-19 Growth Modeling/Forecasting with Logistic, Hill Equations and Prophet
+- ★ [[community-driven-platform-for-identifying-fake-news]] — A community-driven platform to identify fake news

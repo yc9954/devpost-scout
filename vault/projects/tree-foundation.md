@@ -1,0 +1,54 @@
+---
+slug: "tree-foundation"
+url: "https://devpost.com/software/tree-foundation"
+title: "TREE Foundation"
+hackathon: "TRON Grand Hackathon - Season 3"
+organization: "TRON DAO"
+winner: true
+words: 1562
+team_size: 2
+has_repo: false
+has_live: true
+has_video: true
+tags:
+  - "project"
+  - "domain/climate_energy"
+  - "domain/developer_tools"
+  - "domain/finance_payments"
+  - "domain/retail_commerce"
+  - "user/developer"
+  - "user/general_public"
+  - "user/patient_family"
+  - "substrate/code_repository"
+  - "substrate/financial_record"
+  - "substrate/regulation_legal_text"
+  - "substrate/web_dom"
+---
+
+# TREE Foundation
+
+> The greenest digital token, backed by physical forest.
+
+[Devpost](https://devpost.com/software/tree-foundation) · hackathon [[TRON Grand Hackathon - Season 3]]
+
+## Facets
+
+**domain** [[climate_energy]] [[developer_tools]] [[finance_payments]] [[retail_commerce]]
+**user** [[developer]] [[general_public]] [[patient_family]]
+**substrate** [[code_repository]] [[financial_record]] [[regulation_legal_text]] [[web_dom]]
+
+**stack** carrd, solidity, synthesia
+
+## How they structured the write-up
+
+- what is tree and why do we exist?
+- what does tree look like under the hood?
+- tree’s business model & value proposition
+- is tree user friendly?
+- practicality & use case
+- how does tree contribute to the larger crypto ecosystem?
+- milestones for next 30 days:
+
+## Body
+
+What is TREE and why do we exist? An increasing number of individuals and companies are pledging to help stop climate change by decreasing emissions and offsetting what they cannot eliminate. The demand on the voluntary carbon offset market is growing rapidly and is fueled by net-zero pledges. As a result, the annual market for offset credits is expected to grow 50X in the coming 10 years and novel solutions to meet demand are needed. However, the traditional “donation model” does not scale, and insight into how the money is used and its actual impact is limited. Trees are the most efficient carbon sequesters but due to the high demand of timber and urban growth we still cut more forest than we plant. Investing in forest is considered one of the easiest and most tangible ways to offset carbon emissions but acquiring and managing a forest is costly, a cumbersome process and a long-term commitment. Forest funds are a good alternative and have been around for decades but investing in them is clunky. The notable disadvantages include high minimum investment requirements, annual fees, various ownership related regulations and their illiquid nature. This is why TREE was founded. A new way of offsetting carbon emissions through forest investment, made accessible to all. TREE is an asset backed digital token where every coin is backed by 1 m2 of forest, owned and managed by the TREE Foundation. It is a stable and green investment through which individuals and companies alike can positively impact their carbon footprint and be part of a new movement to combat climate change and preserve biodiversity. Buying TREE coins enables the TREE Foundation to acquire high quality forest land for carbon sequestering and conservation and through staking of the TREE coins the TREE coin holders can generate legitimate carbon offset credits - in the form of NFTs - which they can retire, gift or sell. Through utilizing blockchain technology TREE simplifies buying, owning and selling forest. The token model and its inclusive access creates huge economies of scale. What does TREE look like under the hood? TREE token is a stablecoin, with a fixed price of $0.50/token and minted on demand to ensure scalability. Every coin is backed by 1m2 of carbon sequestering forest, owned and managed by the token issuer, the TREE Foundation. The TREE Foundation is in the process of producing the world’s first continuous reserve/asset audit based on ISRS 4400 model (tokens vs forest holdings). This will be created together with a global auditor (TBA). We believe this added transparency will allow us to reach a wider audience of token holders and especially business clients who are looking for a scalable and cost-effective way to offset their emissions. Technically TREE is very simple. We use smart contracts for minting, buying & selling tokens. The same goes for staking coins and minting NFTs as offset credits mature. A blackhole wallet is used for retiring the credits so there is always 100% transparency into what is minted, retired, traded, and sold. At launch we will only support crypto payments for acquiring tokens but very soon we will start accepting fiat payments (debit / wire). A TREE holder doesn’t have to be a seasoned crypto veteran or even have their own wallet. We allow users to create a wallet connected to their phone number, so familiarity with web3 is not required in order to join TREE. TREE’s Business Model & Value Proposition The demand for carbon offset is growing rapidly. Currently the market of offset services faces criticism of uncertainty as to their effectiveness. Planting a tree in Africa sounds great but what if it gets chopped down and is used as fuel (like 70% of trees in Africa)? The carbon your tree sequestered gets released back into the atmosphere and your impact on fighting climate change is annihilated. TREE offers a novel, cost effective and transparent alternative. Instead of buying offset you can be generating it. This is how it works: Buy TREE tokens. The TREE tokens are a highly liquid and stable asset . They are backed by forest (land) which is a much more stable asset than e.g. gold, and the price is fixed. One TREE token is always backed by 1m2 of land and we provide regular audits for an extra layer of transparency. Stake TREE tokens . By staking your tokens you generate carbon offset credits. Credits are minted as NFTs and are typically valid for 3 years from mint. The TREE Foundation owns and controls all its forest and hence can guarantee the carbon sequestered is permanently removed . The public ledger guarantees the validity of all credits. Retire, gift, or sell carbon credit NFTs . Many holders want to offset their carbon footprint so they can retire their offset credit NFTs after they have been minted. If the holders generate more than they need, they can gift them (e.g. to employees or family members) or hold on to them. The value of the offset credit NFTs is expected to grow with demand. A third alternative is selling the NFTs to non-holders or undercompensating holders.TREE is constantly innovating new use cases for its tokens and NFTs to match developing market demands e.g. as carbon offsetting may become mandatory. TREE will build its own marketplace, the TREE Platform, but is looking into listing the utility NFTs on already popular marketplaces. The TREE Foundation makes its revenue from transactions of the tokens (1% per transaction), sales of unallocated offset credits (generated by non-staked tokens) and through a sales commission (20%) on offset credit NFTs sold through the TREE Platform. Is TREE user friendly? The objective behind TREE is to offer something that is in high demand globally and anyone and everyone is the target group - a stable; liquid and; green investment. Therefore the user experience is being designed so that no previous blockchain/crypto experience is required and to attract also crypto skeptics. To become a TREE holder you don’t have to know what blockchain is. Our intuitive user interface will allow people to buy with their debit card like they were shopping online. The “new to crypto” users only need to give us their phone number and all communication can be done via SMS. For the “crypto veterans” acquiring TREE is like using a standard swap. Practicality & Use Case TREE was founded to give environmentally conscious people a new way to take action in the fight against climate change. The demand for carbon offsetting is rapidly growing and TREE tackles many of the problems current players battle with (e.g. cost, impact and transparency). For companies carbon offsetting is today, in accounting terms, a cost.TREE turns it into an asset. An asset that yields offset credits. Imagine if exchanging some US dollars to Euro would pay for your electric bill. That’s exactly what TREE does for your carbon offset costs. You can easily exchange it back when needed, and all this without taking a currency exchange risk. Tron being the blockchain of choice for TREE will create some great long term benefits for its community. This type of project is highly interesting from a media perspective so it will definitely increase Tron's visibility. TREE choosing to build its platform on Tron is a testimony of its developer friendliness. TREE is a great case study for demonstrating how blockchain technology can be utilized to simplify complex transactional work (like automatically minting offset NFTs to token stakers) and increasing transparency and trust in a fund-like corporate constellation. We obviously also want to become the defacto offset partner for all crypto projects to help eliminate the (sometimes unfair) emission stigma the industry carries. How does TREE contribute to the larger Crypto Ecosystem? On top of our main mission - helping people offset their carbon emissions in a smarter way - we want to be educators and a low barrier entry point into the crypto and blockchain world. We feel like blockchain projects often are over mystifying themselves by using industry specific lingo and hence making many things harder to understand than what they in reality are. We designed TREE from a perspective where our users do not even have to know they own cryptocurrency and transact through smart contracts and that their carbon offset credits are actually transactable NFTs that can instantly be verified as genuine and sold on various marketplaces around the world thanks to it being a non-fungible token on a blockchain. Milestones for next 30 days: Staking contract to earn offset NFTs NFT minting contract NFT visual design Proof of Reserves - an ISRS 4400 (or equivalent) voluntary reserve audit for validating that foundations forest ownership matches tokens in circulation. Launch swap UI on website Go live and start trading TREE Smart Contract: [link( https://tronscan.org/#/token20/TNwGb86RXsRSmN4vEJCsyNH2pkPsGKVEeJ ) Contract deployed: 11/11/2022 Initial mint: 600 000 TREE Foundation Forest Reserve: +600 000 m2 of forest Minting of tokens is currently disabled - enabled again at launch Social media: Telegram: link Twitter: link Join us on our mission to supercharge the green revolution! Follow our Telegram and Twitter channel for frequent updates. We will be holding a lottery amongst all those who have joined our community and will be giving away 10.000 TREE tokens. That’s considered enough tokens to make the average person living in the Western World perpetually carbon compensated. Yes, you read correctly, compensated for life. <div

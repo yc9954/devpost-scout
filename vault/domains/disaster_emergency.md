@@ -1,0 +1,181 @@
+---
+facet: "domain"
+name: "disaster_emergency"
+projects: 274
+winners: 274
+tags:
+  - "facet"
+  - "domain"
+---
+
+# disaster_emergency
+
+`domain` · **274** projects, **274** of them winners.
+
+## Pairs with
+
+- [[realtime_stream]] — 168 together  <sub>(mechanism)</sub>
+- [[geospatial]] — 157 together  <sub>(substrate)</sub>
+- [[video_visual]] — 122 together  <sub>(substrate)</sub>
+- [[structured_db]] — 87 together  <sub>(substrate)</sub>
+- [[developer_tools]] — 85 together  <sub>(domain)</sub>
+- [[health_clinical]] — 68 together  <sub>(domain)</sub>
+- [[civic_government]] — 68 together  <sub>(domain)</sub>
+- [[frontline_worker]] — 67 together  <sub>(user)</sub>
+- [[web_dom]] — 65 together  <sub>(substrate)</sub>
+- [[finance_payments]] — 63 together  <sub>(domain)</sub>
+- [[sensor_fusion]] — 63 together  <sub>(mechanism)</sub>
+- [[transportation]] — 58 together  <sub>(domain)</sub>
+
+## Projects
+
+- ★ [[amanat]] — Privacy-first AI agent for humanitarian organizations that scans cloud services for sensitive data e
+- ★ [[scholarstream]] — Need money for your school fee and upkeeps? ScholarStream finds immediate opportunities (scholarship
+- ★ [[frankenbook]] — Generate a children's book with a few simple ad-lib style prompts stitched together to form your own
+- ★ [[bookster-05sbyz]] — AI powered student marketplace & community hub for ISU students
+- ★ [[extopay-the-last-mile-solution-for-digitizing-cash]] — Next-Generation CBDC solution for digitizing cash: A Highly Secure Mobile and Non-Mobile Solution wi
+- ★ [[time-traveler-w3cxp0]] — AI agents that preview risky DB migrations in isolated Docker clones before they merge — audit, depl
+- ★ [[community-driven-platform-for-identifying-fake-news]] — A community-driven platform to identify fake news
+- ★ [[rayan-memory]] — Point your camera at life. Rayan builds a 3D palace from everything you see and hear, rooms you can 
+- ★ [[test-3cmsd4]] — When your childhood paint app went to college, got a CS degree and came back with AI superpowers
+- ★ [[dreammeridian-geoai-on-pi]] — When disasters strike, networks fail first. DreamMeridian runs LLM-powered spatial queries entirely 
+- ★ [[skyscore]] — AI-powered property tool that scores 290+ neighbourhoods in London and NYC for aircraft noise, affor
+- ★ [[l-l-a-m]] — Save crops from locust attacks. Track locust movement realtime and predict the possibility of attack
+- ★ [[dropshop]] — cop de-Drop
+- ★ [[aiditto-turn-good-intentions-into-valuable-giving]] — AID IT TO is a SaaS-solution that enables municipalities source what is needed by easily, quickly an
+- ★ [[pulsepoint-2hmejd]] — AI-powered medical triage at the speed of life from instant assessment to doctor in 60 seconds.
+- ★ [[disavu]] — DisaVu is a disaster response solution that helps direct relief resources to where they are needed m
+- ★ [[pneumoscan-an-ai-radiology-tool-for-covid-19-pandemics]] — CovidScan.ai is developed to be a secured AI platform with the purpose to assist radiologists with f
+- ★ [[gridveda]] — GridVeda gives powerline operators predictive failure detection at edge. Ensemble AI monitors 20 tra
+- ★ [[vitalflow-radar]] — VitalFlow Radar continuously monitors loved ones' vital signs without wearables, bands, or patches. 
+- ★ [[pneumoscan-an-ai-tool-for-ppe-check-covid19-testing]] — PneumoScan.ai is developed to be a secured AI tool with the purpose to assist radiologists with COVI
+- ★ [[aftershock-em9cju]] — A disaster-struck town run by a society of Qwen agents that split tasks, negotiate scarce rescue res
+- ★ [[ecolafaek]] — Guarding Timor's Beauty
+- ★ [[prepify-ai-7nymoa]] — Prepify AI transforms how students learn STEM — turning lecture notes into structured summaries, qui
+- ★ [[travel-guild]] — 12 Qwen agents that don't just plan your trip - they safely book it. Real budget-capped checkout, de
+- ★ [[uml]] — Disinfect public spaces & buildings like hospitals autonomously using a swarm of drones controlled b
+- ★ [[woodpecker-ai-finds-hidden-hotspots-in-power-lines]] — Power line failures spark billions in damage.Woodpecker AI, like a woodpecker spotting hidden hotspo
+- ★ [[kronia]] — Agriculture that Works for Future
+- ★ [[green-space-suggestion-tool]] — A tool to combine datasets to generate green space suggestion heat map in cities.
+- ★ [[sitesync-ai-u7j86v]] — "🏗️ Sync the vision. Build the truth ." SiteSync AI is not just a "viewer" it is an active participa
+- ★ [[traffiq]] — TraffiQ protects applications from large spikes in traffic by providing an intermediate queue servic
+- ★ [[forrus]] — Forrus is an AIoT device powered by TigerGraph and AWS EC2 DL1 for real-time alerts for wildfire mit
+- ★ [[project-existence]] — Blockchain-based document management for secure and transparent storage.
+- ★ [[tetra-odyssey]] — Tetra Odyssey is a Web3 RPG where players learn, compete, and earn. With skill-based games, blockcha
+- ★ [[batteryforgeai]] — Multi-agent battery intelligence. Specialized AI for vision-based defect detection, charging optimiz
+- ★ [[massventilatorsystem-with-individual-ventilation-parameters]] — The Mass Ventilator System ventilates up to 50 or more people at once, supports invasive/non-invasiv
+- ★ [[dot-bringing-humanity-to-in-home-care]] — Agentified personal in-home care for the elderly. Multimodal S2S agent system handles patient charts
+- ★ [[heartstart]] — Emergency Detection. Autonomous Robot CPR.
+- ★ [[via-dappia]] — Revolutionizing road infrastructure: This project tokenizes roads, decentralizing ownership & upkeep
+- ★ [[vidya-setu-b5xi0y]] — Bridging every learner to their potential — AI-powered gap detection, peer collaboration, silent saf
+- ★ [[chronos-legacy-code-archaeologist]] — Upload any ancient codebase. Get an AI-powered dependency map, plain-English excavation report, and 
+- ★ [[monoland]] — A tropical island adventure RPG featuring character customization where Jira Issues become farms to 
+- ★ [[ally-kmoagt]] — Ally makes drone data management simple, giving non-technical people easy access to automated workfl
+- ★ [[pushpa-pyro-uav-system-for-high-risk-patrol-and-alerting]] — PUSHPA gives firefighters eyes on the ground and in the air. Smart glasses steer drones for real-tim
+- ★ [[anchor-mesh]] — Turns every smartphone into a rescue Beacon that works without Internet
+- ★ [[people-2-people-disaster-relief-and-response]] — People 2 People is a collection of integrated Quick Base apps to collect both food and financial don
+- ★ [[dailyvibe]] — Once a day, Dailyvibe lets you choose between 4 emojis to describe how you are feeling. Your vibe is
+- ★ [[geovision-3-0]] — Geovision 3.0 uses AI and satellite data to identify underserved areas lacking schools, and infrastr
+- ★ [[covifight]] — CoviFight showcases how the integration of Bluetooth with Social Networking Analysis makes contact t
+- ★ [[commando-ai-h0vodb]] — Dead PRs. Missed deadlines. 5 tabs, zero answers. Commando AI runs Monte Carlo simulations on your l
+- ★ [[xiaoqiang]] — Four lost ancient Chinese machines reborn as physically-simulated, source-cited interactive exhibits
+- ★ [[mairucli]] — A CLI with a costume—polished Halloween UI that makes terminal safety unforgettable.
+- ★ [[buddymate]] — Everyday Companion to Live Confidently and Feel Connected
+- ★ [[fantom-adventure-rpg]] — An RPG game, reflecting how I (player) first get into the Fantom world, accompanied by a Fantom pet,
+- ★ [[pickyourplace]] — Pick a place to live based on property value, safety, and accessibility.
+- ★ [[cfo2]] — Reducing the risk of wildfires and emissions is highly relevant. This project assists indigenous ste
+- ★ [[disaster-brain]] — When the internet dies and lives are on the line, Disaster Brain is the only AI that still works.
+- ★ [[infermary]] — Simulating virtual cities to outsmart viral outbreaks
+- ★ [[sentinel-flood-watch-agent]] — An AI agent that proactively monitors Accra's ecological sites using remote sensing data and advance
+- ★ [[plot-3pi8c4]] — Plot delivers comprehensive insights on any location. Whether you're scouting investments or shaping
+- ★ [[iot-water-level-anomaly-detector]] — Monitor water levels with an IoT sensor connected over cellular to Azure Anomaly Detector API
+- ★ [[protestlink]] — Secure, real-time protest coordination via encrypted mesh and AI insights
+- ★ [[morro]] — The geoengineering operating system for climate renewal. Predict natural disasters, pick from a suit
+- ★ [[duckstar]] — Dreaming of becoming a pop or rock star? Co-create incredible music with your AI PopStars & AI Music
+- ★ [[skysplat]] — drones + gaussian splatting = automated, AI-powered 3D modeling of any environment for disaster reco
+- ★ [[wildfire-mitigation-computer-vision-id-of-hazard-fuels]] — To aid land managers in quickly identifying and responding to tree disease and mortality, we develop
+- ★ [[geosentinel]] — GeoSentinel — Turning Earth’s data into early warnings that save lives.
+- ★ [[xdc-eco-logically-driven-nft-s]] — Drive ecologically to a sustainable future.
+- ★ [[unified-disaster-intelligence-adaptive-response-system]] — UDIARS unifies flood, wildfire, and earthquake intelligence into one live map that shows you real-ti
+- ★ [[splunk-ai-refiner]] — A multi-agent AI tool that refines Splunk logs pre-ingestion. It identifies noise, auto-generates nu
+- ★ [[meshnet]] — network to relay messages and crisis alerting without wifi through BLE
+- ★ [[naterida-microbots]] — NATERIDA — The AI-powered exploration robot that thinks, adapts, and protects while gathering smart 
+- ★ [[agentropolis]] — We replaced everyone in Toronto with their AI doppelgängers.
+- ★ [[tl-digital-waste-monitoring-network]] — AI agents and community reporting to transform Timor-Leste's waste management through intelligent an
+- ★ [[moonwalk-tojsay]] — The Intelligent Desktop Agent for macOS.
+- ★ [[aura-7iml9d]] — AI-powered independence for the visually impaired
+- ★ [[dot-arena]] — Hyper-casual battle royale with real stakes. Risk DOT, eliminate opponents, claim rewards. Fast matc
+- ★ [[aquasentry-na2vtk]] — Generic apps fail in floods. AquaSentry's Dual-AI (river + rain) gives reliable alerts, offline cont
+- ★ [[onepath-ai]] — In critical moments, OnePath AI unites Service Cloud, Slack, and Agentforce to instantly brief, assi
+- ★ [[mar]] — Families living in urban areas will turn this crisis into an opportunity to make their community gre
+- ★ [[vanguard-telematics]] — Fire truck crash? Radio too slow. Rescuers in danger!We build smart tech. Fast sensors feel crash ri
+- ★ [[erewhon]] — EMTs deserve better than a radio and a clipboard.
+- ★ [[trustos]] — Seven Gemini 3 agents move 82,500 World Cup fans to MetLife Stadium — reasoning over live MongoDB At
+- ★ [[armvision-assist-ai-vision-companion-for-the-blind]] — World's first offline real-time AI vision assistant that helps visually impaired users understand th
+- ★ [[qw-qox4r8]] — mila stays close to you when you need it most, giving color to your voice and helping your healthcar
+- ★ [[tracemark-flow]] — TraceMark™ Flow is a Google powered next-generation traffic monitoring and insights tool for public 
+- ★ [[team-outliers]] — Defeating the 911 queue: An AI triage system that intercepts overflow, dynamically clusters duplicat
+- ★ [[dispatch-ai]] — An empathic agent eliminating 911 wait times during critical emergencies.
+- ★ [[disastersai]] — Revolutionizing Catastrophe Prediction with Machine Learning
+- ★ [[quantumfinance-ai]] — Your AI copilot for the stock market. Get instant analysis, news summaries, and trading strategies t
+- ★ [[baymax-1wumi3]] — Baymax is a network of hospital AI agents that supports abrupt crises using weather, disease, and in
+- ★ [[spothelp]] — help on the spot!
+- ★ [[survivex]] — Your hands-free conversational survival assistant. Powered by on device LLM inference, offering step
+- ★ [[emergencyact]] — Creating an aware and safer world by identifying emergencies which can improve mobility, public spac
+- ★ [[earthview-ai]] — An AI-powered perspective on regional climatic shifts on Earth.
+- ★ [[clearance]] — AI-powered body camera intelligence that sees threats in real-time, calls for backup hands-free, sto
+- ★ [[reliefmap-gph36j]] — ReliefMap is a mobile-first app that helps disaster victims quickly find nearby resources like shelt
+- ★ [[quake-3h029g]] — 🆘 Using geospatial data and real-world risk factors, Quake helps people escape safely after an earth
+- ★ [[keyforge]] — A self-hosted key management platform that keeps your secrets on your infrastructure while providing
+- ★ [[disaster-detection-platform-on-kubernetes]] — GPU-accelerated AI platform on Kubernetes for real-time disaster detection. Identifies floods, fires
+- ★ [[whispercash]] — WhisperCash is an offline payment solution for CBDCs using secure hardware and a unique value transf
+- ★ [[the-giving-tree-x0a5hk]] — Intelligent, Efficient, Crypto Donation Platform powered by AI agents
+- ★ [[zeroday]] — Bot issues flood your Slack. SpectreAI investigates autonomously, converses with users, and fixes bo
+- ★ [[first30-ai]] — Web app that tells you exactly what to do when someone needs emergency help so you can act according
+- ★ [[terra-presidential-command-simulation]] — A real-time geopolitical strategy game where you play as the President of the United States. Make de
+- ★ [[universal-parametric-climate-insurance-utilizing-cbdcs]] — Climate insurance is out of the reach of the majority of the world's population, particularly those 
+- ★ [[safe2go-0rexcb]] — HelmSense turns any helmet into an AI‑powered crash guardian that detects serious impacts and auto‑a
+- ★ [[towerguard-xcpi7u]] — TowerGuard quantifies the Cost of Doing Nothing in America's air-traffic-controller staffing crisis.
+- ★ [[truth_chain-23hqyw]] — Deepfakes spread faster than we can debunk them. AI can't reliably detect AI. So I built TruthChain—
+- ★ [[global-fire-spread-prediction-system]] — The tech team at Satellite Vu applied our knowledge of wildfires, satellite imagery and machine lear
+- ★ [[seismoarch-iot-model-bvp3gj]] — SeismoArch is a building-level IoT system that detects early seismic signals and triggers real-time 
+- ★ [[canary-lrg3ep]] — Satellite-enabled wireless sensor network for early wildfire detection.
+- ★ [[containos]] — Physics-Grounded Multi-Agent Copilot for Rapid Wildfire Containment.
+- ★ [[medknight]] — A one-of-a-kind, AR assistant medical system is made to guide first emergency first responders throu
+- ★ [[jarvis-mhfy78]] — Monitoring the Health and Safety of First Responders and Military Personnel
+- ★ [[monderstruct-tools-for-construction-field-workers]] — End-to-end OHS (Occupational Health & Safety) Auditing (fire alarms, fire exits, lift service, fire 
+- ★ [[lifeline-zi2jt7]] — A novel approach to connecting remote communities during natural disasters and transforming emergenc
+- ★ [[firstresponder]] — Free crisis coordination for Slack. Upload your org's data and it runs the response to any emergency
+- ★ [[ripplerelief]] — Every donation, tracked and trusted.
+- ★ [[talent-token]] — Empower your professional journey with Talent Token! Manage your profile, share and receive endorsem
+- ★ [[sera-lvthzo]] — Because good music gives us sera-tonin :)
+- ★ [[syncops-fo5ria]] — SyncOps: An AI-powered collaboration tool with features like data insights, idea generation, and rea
+- ★ [[blackout-4ergbc]] — AI That Works & Learns Even When the Internet Doesn't
+- ★ [[lighting-prediction-in-india-using-ml]] — By finding correlations between the atmospheric conditions at the time of the lightning strike, we w
+- ★ [[procrasti-hator]] — The only productivity tool that hates you. Uses AI vision to catch slacking (phones, sleep, games) a
+- ★ [[localpulse-uwr83x]] — At LocalPulse, our mission is to put the power of community insights in the palm of your hand.
+- ★ [[city-quarter-exit-from-covid-19-solution]] — Divide the City into Quarters and set up a "First to Know" Group for each Quarter. The City can send
+- ★ [[fred-bpszwn]] — FRED is a satellite-powered emergency response tool that allows users in remote areas to send GPS co
+- ★ [[alerto-emergency-response-app]] — One life lost to delay was enough — Alerto ensures no one waits in silence.
+- ★ [[blueprint-ai-property-due-diligence]] — Seven AI agents read public records on any US address, permits, flood zones, EPA data, then run an a
+- ★ [[droneformer]] — Controlling UAVs with natural language!
+- ★ [[aegis-jtde8o]] — A real-time 911 dispatch co-pilot that transcribes, translates, and protocol-grounds every call, the
+- ★ [[good-samaritan-29zp5x]] — Allowing bystanders to provide informed first-aid care to those experiencing medical emergencies wit
+- ★ [[intelligent-fall-detection-system]] — AI-powered fall detection with real-time alerts and emergency coordination.
+- ★ [[womanism]] — “Womanism is an all-in-one wellness platform empowering woman with period tracking, mental health to
+- ★ [[ai-wonder-girls-disaster-response]] — And all women team doing AI for social good, one project at a time
+- ★ [[spell-swiper]] — Spell Swiper is an arcade-style, pick up and play mobile game where you trace shapes with your finge
+- ★ [[canibuild-yc2okp]] — Know What's Possible Instantly
+- ★ [[wildfire-insurance-claim-tracker]] — Streamline your wildfire insurance claims with easy tracking and secure document uploads.
+- ★ [[aegis-autonomous-multi-agent-crisis-command]] — An autonomous multi-agent command center that prevents 911 collapse by triaging thousands of distres
+- ★ [[dygnify-protocol]] — Defi protocol for real world lending - A decentralised credit infrastructure for connecting digital 
+- ★ [[tide-alert-6rsnop]] — Flooding caused by typhoons in Hong Kong is a severe issue. There is a lack of information, with cit
+- ★ [[himrelief-osgv86]] — An embedded system to rescue people in avalanche conditions in mountain areas, saving many precious 
+- ★ [[eco-shift]] — EcoShift provides crypto wallets with ethical rules built in. EcoShift wallets bring together commun
+- ★ [[alpharescue]] — First to know, First to act!
+- ★ [[autonomous-ai-society]] — An autonomous system of AI agents performing an intelligent disaster response from analyzing the dis
+- ★ [[symphony-e1ldi4]] — Five Qwen-powered specialist agents debate, vote, and veto over scarce disaster resources, the only 
+- ★ [[karo-trj4av]] — Delegate tasks to anyone from your contacts. We get it to them if they aren't on the app (via WhatsA
+- ★ [[issue-merger-for-jira-b6uxk7]] — In today’s world, time is of the essence. With the new Issue Merger and Rovo Agent introduction, we 
+- ★ [[earthlink-ai-cf6ord]] — 🛰️ An AI agent that thinks in maps transforming raw Sentinel-2 satellite data into live, explainable
+- ★ [[pathu]] — Realtime Supply Chain Threat Monitoring Engine

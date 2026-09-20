@@ -1,0 +1,51 @@
+---
+slug: "xeat"
+url: "https://devpost.com/software/xeat"
+title: "Xeat"
+hackathon: "TRON Grand Hackathon - Season 3"
+organization: "TRON DAO"
+winner: true
+words: 1495
+team_size: 2
+has_repo: false
+has_live: true
+has_video: true
+tags:
+  - "project"
+  - "mechanism/realtime_stream"
+  - "domain/developer_tools"
+  - "domain/finance_payments"
+  - "domain/legal_justice"
+  - "domain/security_privacy"
+  - "user/developer"
+  - "substrate/financial_record"
+  - "substrate/structured_db"
+  - "substrate/web_dom"
+---
+
+# Xeat
+
+> Get concert, travel, and park tickets easily and quickly, save your tickets as an NFT collection.
+
+[Devpost](https://devpost.com/software/xeat) · hackathon [[TRON Grand Hackathon - Season 3]]
+
+## Facets
+
+**mechanism** [[realtime_stream]]
+**domain** [[developer_tools]] [[finance_payments]] [[legal_justice]] [[security_privacy]]
+**user** [[developer]]
+**substrate** [[financial_record]] [[structured_db]] [[web_dom]]
+
+**stack** canva, ethereum, evm, figma, nft, react, smart-contract, solidity, web3
+
+## How they structured the write-up
+
+- video presentation of our project
+- what our project is meant to do?
+- how do we envision it being built?
+- how would our project work?
+- proposal for converting to tron/bttc
+
+## Body
+
+Video presentation of our Project Video presentation of our project is different from our demo video above, it describes how our project business plan. https://youtu.be/1tPs_-NwwFc What our project is meant to do? 1. Product idea background Based on work written by James T. Reese, Jr. and Derek Thomas, entitled "Ticketing Operations History and Background", humans have used the ticket system as a marker of ownership of their right to enter an event since 1732. Each ticket has a unique marker that makes the difference between each ticket issued to buyers. Not only as a sign of ownership, for some people, tickets are also a memory of memorable events that they have gone through such as winning a favorite football team match, or a music festival full of romance. At the beginning of ticket development, the community used a paper-based ticketing system as a token of ownership. However, there are many issues to complain about with paper-based tickets which can be lost, damaged by water, and destroyed. In addition, the organizers are also unable to definitively determine the authenticity of the ticket because paper tickets are very easy to fake. For this reason, people are starting to switch to using QR codes as a new ticket ownership marker system. Using a QR code system can make it easier for event organizers to identify the authenticity of tickets that have been circulated. In addition, users also find it easier because they don't have to worry that their tickets are damaged or lost. However, the use of the QR code system that has been developed has not been able to solve existing security problems. There are still many reports of cases of data theft, identity theft, and ticket fraud for ticket buyers. Because if the QR code that is owned as a sign of ownership is spread to other people, the ticket can still be used even if that person is not the legal owner of the ticket. In addition to data security issues, the current ticket system is also still vulnerable to fraud by brokers. The brokers resell the tickets they have bought to potential buyers at a price that is quite high when compared to the original price. This forces people who want to buy tickets to have to spend a lot of money to get tickets for the event they want to attend. According to (Action Fraud and NFIB), The Latest reporting period in 2020 shows a 54% (2,567 cases) rise in the number of ticket fraud reports and an increased recorded loss of 201% (£3,326,412) compared to the previous reporting period. This is also supported by a summary of data from the NFIB in April 2017-May 2020 which shows that: Between 1 April 2017 and 31 March 2018, 6,486 reports of ticket fraud, with a total reported loss £3,344,835. Between 1 April 2018 and 30 April 2019, 4,755 reports of ticket fraud, with a total reported loss £1,654,888. Between 1 May 2019 and 31 May 2020, 7,322 reports of ticket fraud, with a total reported loss £4,981,300. In addition to the problem of ticket fraud, we also saw that there were several events that sold additional tickets that exceeded the optimal capacity of the venue to get more profit. As recently happened at The music concert with the theme 'Berdendang Bergoyang' at the Istora Gelora Bung Karno which sparked a crowd surge that with in hundreds of injuries at Istora Gelora Bung Karno Stadium. Based on data from VOI News It is estimated that the normal capacity for the venue is only 10,000 visitors, but there were additional ticket sales that brought the number of visitors to 21,000. Because of this, many visitors jostled and resulted in a bloody tragedy. 2. Product Description As a solution to the problem of circulating ticket fraud and brokers, we created Xeat. Xeat was created as a web application-based product on software that utilizes blockchain technology to purchase NFT-based event tickets so that it can provide security and ease of purchasing tickets online. With Xeat, all event tickets purchased by users will be in the form of NFT, so that the authenticity of the ticket is proven to be valid because all data contained in the blockchain can be seen by the owner and historical data on the ownership of the NFT. Aside from being an identity marker, the event organizer can also customize the shape of the NFT that will be sold so that it can become a unique souvenir for visitors to commemorate the event. To prevent corruption in event ticket sales, we also present a feature for sharing sales results with event stakeholders by the percentage determined by the organizers. 3. Our Vision It is hoped that with Xeat, it can improve the entertainment industry after it was previously stopped due to the covid-19 outbreak by providing a sense of security and comfort to buyers and organizers in holding an event with a blockchain system. In addition, we also focus on providing a better experience for visitors to get closer to their idols with exclusive merchandise and meet-and-greet features. By implementing a blockchain system, we also hope to reduce cases of fraud and the secondary market that raises the selling price too high. How do we envision it being built? The architecture developed on the Xeat system is divided into 3 main parts, the first service is the backend which will contain the service logic of the website work, built with the help of the Laravel framework and the PostgreSQL database. The second part is the part to integrate the tickets that are on Xeat into the smart contract system that is based on blockchain technology, built with the help of the Ethereum Network testnet and the Inter Planetary File System (IPFS) to store the smart contracts that are on each ticket. The third part is the part that will be the live viewable interface that we built with the nextJS Typescript framework. In addition to the three main sections, there is also the use of the metamask wallet as a cryptocurrency wallet that will assist in the creation of tokens every time a ticket purchase occurs. By connecting to the metamask wallet, the smart contract that has been built in the system will create a new node in the chain every time a transaction occurs. How would our project work? We use agile software development methods in product creation. In our opinion, this method is very suitable for our startup because it is adaptive and responsive to changing times. In manufacturing the product, we need a computer/laptop in the process of writing program code and buying a server to release the website online. As for the distribution chain, we start by collaborating with the event organizers to register tickets to be sold on our platform. Furthermore, prospective buyers can access our website to purchase event tickets. Furthermore, buyers can check the availability of their tickets in the form of NFT on the Opensea website. When a buyer wants to enter the event, the event organizer can check the authenticity of the ticket by checking the hash code contained on the ticket and providing a check-in sign on each NFT ticket purchased. To prevent corruption of event ticket sales, we also present a feature for sharing sales results in real-time to event stakeholders according to a percentage that the organizers have determined. Proposal for converting to TRON/BTTC In the early stages of website development, we created a smart contract on the Ethereum network that was created in the Remix IDE. Remix IDE is an open source web and desktop application. It fosters a fast development cycle and has a rich set of plugins with intuitive GUIs. Remix is ​​used for the entire journey of contract development with Solidity language as well as a playground for learning and teaching Ethereum. *you can see the smart contract that we have built above. Next, we will propose to convert the smart contract into the Tron Network system using the TRC Standards. Tron-IDE is an online editor that helps developers develop smart contracts. It has the characteristics of modularity and provides editing, compiling, and deploying smart contracts in the form of plugins. After successfully converting the smart contract to the Tron system. We will develop the back-end, front-end, and database preparation. In the backend which will contain the service logic of the website work, we built it with the help of the Laravel framework and the PostgreSQL database. In the front-end that will be the live viewable interface that we built with the nextJS typescript framework. After we have developed all of these parts, we will try to connect our website with the smart contract that has been created by compiling the Tron smart contract so that we will get the Application Binary Interface (ABI) and smart contract address to be able to connect the existing smart contract with the back-end. end and front-end that we have developed. <div

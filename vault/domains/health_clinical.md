@@ -1,0 +1,181 @@
+---
+facet: "domain"
+name: "health_clinical"
+projects: 997
+winners: 997
+tags:
+  - "facet"
+  - "domain"
+---
+
+# health_clinical
+
+`domain` · **997** projects, **997** of them winners.
+
+## Pairs with
+
+- [[patient_family]] — 546 together  <sub>(user)</sub>
+- [[realtime_stream]] — 478 together  <sub>(mechanism)</sub>
+- [[structured_db]] — 422 together  <sub>(substrate)</sub>
+- [[geospatial]] — 380 together  <sub>(substrate)</sub>
+- [[clinician]] — 359 together  <sub>(user)</sub>
+- [[video_visual]] — 338 together  <sub>(substrate)</sub>
+- [[developer_tools]] — 303 together  <sub>(domain)</sub>
+- [[finance_payments]] — 238 together  <sub>(domain)</sub>
+- [[web_dom]] — 236 together  <sub>(substrate)</sub>
+- [[sensor_telemetry]] — 214 together  <sub>(substrate)</sub>
+- [[developer]] — 208 together  <sub>(user)</sub>
+- [[document_pdf]] — 195 together  <sub>(substrate)</sub>
+
+## Projects
+
+- ★ [[veterinary-four-color-triage-app]] — Built by a veterinarian & practice owner with no coding experience, this app turns clinical triage e
+- ★ [[asap-1h45pk]] — Empowering industries with AI-driven insights through Retrieval Augmented Generation (RAG), simplify
+- ★ [[launchpad-7xkjwu]] — Launchpad organizes your college applications in one place. Build your profile, get AI analysis on y
+- ★ [[amanat]] — Privacy-first AI agent for humanitarian organizations that scans cloud services for sensitive data e
+- ★ [[auditguardx]] — Enterprise compliance in minutes, not months at 1% of the cost.
+- ★ [[trudi-threat-response-unit-for-digital-investigation]] — Built on the idea that we're all smarter than any of us: TRUDI pairs an autonomous DFIR agent with a
+- ★ [[agri-able]] — A tool to help the African farming community to optimize crop production
+- ★ [[proofsift]] — Evidence-proven autonomous DFIR triage that confirms findings only with traceable forensic artifacts
+- ★ [[time-traveler-w3cxp0]] — AI agents that preview risky DB migrations in isolated Docker clones before they merge — audit, depl
+- ★ [[haven-w7mj9g]] — A Silent Shield, A Strong Voice.
+- ★ [[chinwag-zp4jds]] — AI production workspace for research, media, and publishing.
+- ★ [[zenflow-your-calm-in-the-chaos]] — Burnout builds silently. ZenFlow is an AI workplace companion inside Slack that detects overload pat
+- ★ [[openmed-gtp792]] — A modular AI-driven diagnostic system that intelligently selects specialized models for each case, o
+- ★ [[camel]] — A 'code-mode' MCP server that allows LLMs to safely generate and execute JavaScript code that calls 
+- ★ [[story-weave]] — AI storytelling meets immersive audio. Generate custom narratives with lifelike narration from any p
+- ★ [[mnemosyne-ubotlw]] — The AI that remembers every failure — predicts outages, annotates risky code inline, gates CI pipeli
+- ★ [[pneumonet-building-an-ai-covid-19-product-with-pytorch]] — In this tutorial, we’ll show you how to use Pytorch to build a machine learning web application to c
+- ★ [[pvt-covid]] — Effective treatment to save lives from COVID lung damage
+- ★ [[test-3cmsd4]] — When your childhood paint app went to college, got a CS degree and came back with AI superpowers
+- ★ [[forge-field-operations-real-time-guidance-engine]] — Voice AI co-pilot for hands-busy industrial technicians: one Qwen-Omni-Realtime session listens, see
+- ★ [[dreammeridian-geoai-on-pi]] — When disasters strike, networks fail first. DreamMeridian runs LLM-powered spatial queries entirely 
+- ★ [[trustedrisk-care-engine]] — A2A federation that decomposes one clinical prompt into a multi-specialist consultation: 16 sub-agen
+- ★ [[epictetus]] — Get practical Stoic advice from Epictetus for your daily problems. Your chats stay fully private wit
+- ★ [[blockdrive]] — Lifebank helps local communities create a virtuous circle of value exchange between three parties — 
+- ★ [[skyscore]] — AI-powered property tool that scores 290+ neighbourhoods in London and NYC for aircraft noise, affor
+- ★ [[nova-architect]] — An autonomous AI cloud engineer that designs and deploys AWS infrastructure directly in your console
+- ★ [[health-counseling-portal]] — Health counselling, preventive treatment, remediation using a decentralized Twitter application, DID
+- ★ [[pedirounds-ai-co-resident-for-pediatric-morning-rounds]] — The safety net between overnight and attending rounds. 4 AI agents catch deterioration, flag unsafe 
+- ★ [[legalmindz]] — Ethiopia has 2.5 million businesses but only 3,000 lawyers. Legalmindz brings Legal AI for 120 Milli
+- ★ [[mybubble-guiding-you-to-the-new-normal]] — MyBubble is the 'digital bubble' that keeps you alert, informed, and safe in the 'new normal'!
+- ★ [[cov2words]] — We're developing a smart hotline that can detect shortness of breath and coughing of a calling perso
+- ★ [[pulsepoint-2hmejd]] — AI-powered medical triage at the speed of life from instant assessment to doctor in 60 seconds.
+- ★ [[disavu]] — DisaVu is a disaster response solution that helps direct relief resources to where they are needed m
+- ★ [[pneumoscan-an-ai-radiology-tool-for-covid-19-pandemics]] — CovidScan.ai is developed to be a secured AI platform with the purpose to assist radiologists with f
+- ★ [[mindstep-xwlpnr]] — Free, 5-minute dyslexia screening using Gemini Vision + Chat APIs to detect early signs with 85.71% 
+- ★ [[seethru-price-transparency-marketplace]] — SeeThru is a blockchain-enabled platform that prioritizes price transparency to change the ecosystem
+- ★ [[unravel-7ak8lf]] — Five agents watch evolving variant evidence, re-score a clinic's uncertain DNA findings with a calib
+- ★ [[agrimind-97zntd]] — AgriMind combines a robotic guardian with live farm sensors and AI video/image analysis to cut water
+- ★ [[novaflow-the-autonomous-bi-pipeline]] — NovaFlow is an autonomous, self-healing BI pipeline. It cleans data, corrects its own SQL, builds in
+- ★ [[brightact-a7e5my]] — We streamline and gather support for victims of domestic violence, easy to find, & safe.Collaborativ
+- ★ [[caladrius]] — The Privacy-First AI Triage Assistant
+- ★ [[dovu-labs-h22]] — Insuring carbon removals through decentralized reputation. 🕊
+- ★ [[lore-ide-the-first-ide-for-agentic-code]] — GitHub stores your code. Lore stores your reasons. The memory layer for Devin, Windsurf, and Claude 
+- ★ [[road-incident-predictor]] — Monitoring tools for road incident management. Crowdsourcing information sharing for safer roads wit
+- ★ [[maraam]] — Smart Peer2Peer Resource Distribution: We don't let anyone stay alone during a crisis. We turn citiz
+- ★ [[cotg-cli-coding-on-the-go]] — use Claude Code and Gemini CLI from you mobile phone. Read files, git, do terminal and use file as c
+- ★ [[liliusmed]] — Intuitive decision making platform where government agencies, hospitals, and suppliers can quickly a
+- ★ [[kassi-synthetic-load-generation]] — An AI agent on an audited state machine: it load-tests a code change, correlates the regression with
+- ★ [[forge-z8v4qm]] — 30 million underserved patients. No engineers. Forge lets safety-net clinics build permanent, verifi
+- ★ [[project-iris-edge-ai-aac-platform]] — Project Iris is a zero-latency, eye-tracking AAC platform powered by local WebGPU AI, featuring Live
+- ★ [[gridveda]] — GridVeda gives powerline operators predictive failure detection at edge. Ensemble AI monitors 20 tra
+- ★ [[nerve-the-nervous-system-for-your-device-fleet]] — The nervous system for your device fleet — AI-native IoT telemetry monitoring that turns a firehose 
+- ★ [[near-road-icm]] — Investigative case management solution for citizens, police officers and drivers to report and manag
+- ★ [[phantomguard]] — Norn: Real-time quality & security monitoring for Strands agents. Powered by Nova Lite for live scor
+- ★ [[project-hpfwsu51xila]] — Autonomous SRE that watches your Dynatrace tenant 24/7, diagnoses production incidents from real spa
+- ★ [[vitalflow-radar]] — VitalFlow Radar continuously monitors loved ones' vital signs without wearables, bands, or patches. 
+- ★ [[pneumoscan-an-ai-tool-for-ppe-check-covid19-testing]] — PneumoScan.ai is developed to be a secured AI tool with the purpose to assist radiologists with COVI
+- ★ [[corovent]] — EU-tested ICU ventilator that offers patients with the most severe respiratory failures the same qua
+- ★ [[brightact-fqibsh]] — App for documentation and support for victims of domestic violence, gathering governments, authoriti
+- ★ [[medgraphagent-1e4ps2]] — Better data means better decisions. And better decisions save lives
+- ★ [[notary-an-ai-creative-review-board-for-generative-media]] — Screens every AI-generated take against brand and compliance rules, revises the failures with the re
+- ★ [[nocrowd-social-distancing-made-simple]] — Award winning mobile app, a turnkey social distancing solution. It helps us avoid queuing and crowds
+- ★ [[soulful-sessions]] — Gamified Pomodoro timer that turns your focus sessions into an RPG adventure. Complete work sessions
+- ★ [[orbit-8kd3re]] — maps the orbit of your thinking, so you can see when an idea is yours versus AI's
+- ★ [[loopguard-passport-governed-clinical-loop-closure]] — Prevent the diagnostic harm that begins the moment a follow-up falls silent.
+- ★ [[bias-lab]] — Train a real classifier in your browser, drag one decision threshold, and watch accuracy hold still 
+- ★ [[aftershock-em9cju]] — A disaster-struck town run by a society of Qwen agents that split tasks, negotiate scarce rescue res
+- ★ [[opioid-action-engine]] — The opioid epidemic doesn't wait for funding to catch up.
+- ★ [[electronic-medicine-trial-and-test-records-as-a-service]] — Tools to enable visualization, management for developers to build solutions in medicine, healthcare,
+- ★ [[ekko-v9wkgy]] — Elevate your foreign language fluency with tailored guidance and individualized verbal conversation 
+- ★ [[farmops-desk]] — The operating system for Nigerian poultry and catfish farms. Ops, feed, money, and AI in one calm vi
+- ★ [[claimsphere-ai-automated-claim-processing-agent]] — AI-powered insurance claim processing system with Camel-AI powered agent, automated OCR extraction, 
+- ★ [[time-out-1wvxhm]] — Surgeons pause before every incision. Med spas don't. Time-Out checks who is injecting, what they're
+- ★ [[pytorchxai]] — Q&Aid is the healthcare assistant that democratizes access to high-quality diagnoses. It comforts pa
+- ★ [[prepify-ai-7nymoa]] — Prepify AI transforms how students learn STEM — turning lecture notes into structured summaries, qui
+- ★ [[uml]] — Disinfect public spaces & buildings like hospitals autonomously using a swarm of drones controlled b
+- ★ [[maternalguard-mcp-for-maternal-risk-on-sharp-fhir]] — 5-tool MCP server plus A2A orchestrator that gives healthcare AI the full mother-baby picture from a
+- ★ [[unite-government-procurement-platform]] — A platform for public procurement of special orders during times of crisis - cutting through the bur
+- ★ [[department-of-incidents]] — Agent that wakes up before your on-call engineers do
+- ★ [[endopath]] — AI-powered endometriosis companion. Predict. Confirm. Understand. Manage. Recover.
+- ★ [[cloutvocate]] — A matchmaking platform designed to connect nonprofit organizations with influencers and sponsors to 
+- ★ [[faco-fight-against-corona-jfcza9]] — A contactless digital healthcare solution to assist doctors and empower patients to diagnose and man
+- ★ [[ctrl-alt-heal]] — AI-powered clinical gap detection that finds the diagnoses hiding in your charts, so no condition go
+- ★ [[rehabuild]] — Rebuilding Medical rehabilitation in a COVID world. Evidence-backed video therapies from the first d
+- ★ [[orion-operating-room-intelligent-orchestration-node]] — A voice-directed surgical co-pilot for robotic surgery. Surgeons can speak naturally & instantly rec
+- ★ [[sentinel-c8ki50]] — Full-stack AI for bare-metal embedded systems. Proven by shipping a complete bare-metal OS on Raspbe
+- ★ [[amanuensis]] — AI-enabled physician assistant for automated clinical summarization and question generation. Empower
+- ★ [[trial-match-ai]] — Agentic pattern AI that actively searches for and identifies trial-qualified patients on its own.
+- ★ [[echo-the-bridge]] — Bridging Gaps Between Parents and Children Through AI-Powered Daily Quests
+- ★ [[kronia]] — Agriculture that Works for Future
+- ★ [[zkp-services-fcu5bv]] — An open-source, scalable, and modular zero-knowledge integration protocol. Plug-and-play ZKPs with a
+- ★ [[green-space-suggestion-tool]] — A tool to combine datasets to generate green space suggestion heat map in cities.
+- ★ [[triage-y10mpq]] — An agent that reproduces your bugs by actually using your app.
+- ★ [[clinician-coronavirus-exposure-tracker]] — We track patient-clinician and clinician-clinician exposure and spread in hopsitals. We help pandemi
+- ★ [[cadence-y6i1cs]] — AI-powered web app that screens for Parkinson's disease from a 30-second voice sample, providing exp
+- ★ [[immunolynk]] — Immunity testing meets AI + Blockchain.
+- ★ [[alyosha]] — The help for life after prison already exists. It's just scattered. Alyosha turns it into one guided
+- ★ [[perceiv-io]] — 🪶 PERCEIV/IO leverages AI image recognition and various LLMs to assist persons with visual and/or au
+- ★ [[sphere-dock]] — Turn Logitech MX into a deep-work AI console that restores your full coding workspace with one gestu
+- ★ [[beef-xk5pif]] — For leaders in high-performance environments, we aggregate real-time wearable data from teams, provi
+- ★ [[polaris-mh7rd8]] — Agentic-driven hospital paging system. Your north star in critical patient care.
+- ★ [[clearclause-zer4yh]] — AI-powered legal document analyser: upload any contract, get instant clause-by-clause risk analysis,
+- ★ [[nomi-aoim58]] — A Multi-Sensor Network System for Seniors
+- ★ [[codebreaker-la]] — AI-Native CyberSec — detect, validate, and fix vulnerabilities with agent intelligence, powered by a
+- ★ [[skindetect-ai]] — From just one photo, SkinDetect AI turns into your personal dermatologist, detecting skin diseases w
+- ★ [[medibot-iq8lf0]] — Help us help you get the health care you deserve!
+- ★ [[delta-cyber-reasoning-system]] — Automated security localization, fuzzing, and triage for every commit and MR. LLMs analyze diffs, ge
+- ★ [[swasthai-guardian-urzc29]] — A highly secure, offline-first AI platform connecting villagers, ASHA/NGOs, and hospital admins. It 
+- ★ [[claracare]] — AI companion that calls seniors daily, detects cognitive changes, and gives families peace of mind v
+- ★ [[vigilance-q-the-pharma-quality-watchtower]] — Agentic Quality Case Management - AI investigates. Human decides. Patients stay protected.
+- ★ [[traffiq]] — TraffiQ protects applications from large spikes in traffic by providing an intermediate queue servic
+- ★ [[aminochain]] — Tokenizing Stem Cell Donations and Incentivizing Donors
+- ★ [[corazones-against-covid19-tech-to-increase-impact-of-money]] — Fintech innovations can multiply the impact of recovery funds for regional SMEs. Five regional gover
+- ★ [[dokanda-b7ngsd]] — The perfect doctor just for you...
+- ★ [[vaidyasaarathi]] — "Your Intelligent Healthcare Companion" - Breaking language barriers, preserving privacy, empowering
+- ★ [[arduino-controlled-electrolysis-system-for-bleach-production-kodm9u]] — Imagine producing your own bleach right at home, simply by adding salt to water and pressing a butto
+- ★ [[unlocking-moments]] — A platform for people that want to see and contribute to the human story of the essential worker com
+- ★ [[project-existence]] — Blockchain-based document management for secure and transparent storage.
+- ★ [[neuroscan-ai-a5m32p]] — Over 30% of MRI review time is lost to inefficiencies. Our platform provides AI-powered, non-diagnos
+- ★ [[care-coordination-discharge-planner]] — Automates discharge coordination — reads clinical notes, validates CMS rules, and generates Standard
+- ★ [[maestlog-your-personal-symphony-journal]] — MaestLog is an elegant classical music concert diary designed for music lovers. Track your concert e
+- ★ [[communipute]] — Share compute power throughout your community when you're not using it through our distributed compu
+- ★ [[autopsy-zq5d84]] — Autopsy records every action your AI coding agent takes, autopsies the failures, builds a graph of w
+- ★ [[le]] — A fun Alexa kids game that truly educates, entertains, and engages
+- ★ [[batteryforgeai]] — Multi-agent battery intelligence. Specialized AI for vision-based defect detection, charging optimiz
+- ★ [[wecare-0fjkb9]] — WeCare is a privacy-preserving app & page that keeps you & your family safer. You can track the heal
+- ★ [[massventilatorsystem-with-individual-ventilation-parameters]] — The Mass Ventilator System ventilates up to 50 or more people at once, supports invasive/non-invasiv
+- ★ [[candoor-p0btxf]] — Candoor is a social networking site for people who would like to share or connect with others for an
+- ★ [[procsee]] — PROCSee turns your system into a crime scene — and autonomously investigates every process
+- ★ [[caregiver-agent-secure-ai-delegation-for-caregiving]] — AI caregiver agent using Auth0 Token Vault, FGA, and CIBA to securely delegate bill payments and med
+- ★ [[therms-thermoregulation-wearables-with-ai-powered-insights]] — A non-invasive wearable using novel thermoregulation research to provide precise heating/cooling to 
+- ★ [[armada-kqva1x]] — Hire autonomous AI employees that act on real events and earn your trust.
+- ★ [[dot-bringing-humanity-to-in-home-care]] — Agentified personal in-home care for the elderly. Multimodal S2S agent system handles patient charts
+- ★ [[heartstart]] — Emergency Detection. Autonomous Robot CPR.
+- ★ [[anatroc]] — An AI assistant which can read, understand and provide architecture diagram for you to understand on
+- ★ [[orama-your-ai-powered-clinical-companion]] — An AI-powered clinical assistant that transforms complex patient data into actionable insights, help
+- ★ [[nami-nova-agent-manager-interface]] — Mission control for AI coding agents. Parallel threads, sandboxed execution, reusable skills, and fi
+- ★ [[time-crystal]] — 1v1 Strategy Battler, using Functions and VRF for secret randomness, Automation for gameplay validat
+- ★ [[ugonz-alzheimers-ai-prediction-model]] — Explainable AI for early Alzheimer's detection—fusing cognitive, imaging, and genetic biomarkers to 
+- ★ [[touche-cfp6hs]] — Safe Access control to fight COVID-19 - enabling effective deconfinement
+- ★ [[psy_pal_mental_health_demo]] — psy pal is a one-stop solution for all your mental health needs. It tracks user data and provides in
+- ★ [[medalysis]] — An API that helps one observe the growing trends of diseases and epidemics worldwide, by tracking lo
+- ★ [[hera-women-s-health-intelligence-platform]] — The health intelligence women have always deserved.
+- ★ [[lookcloser]] — A multi-agent safety net for incidental imaging findings, because 1 in 5 follow-ups never happen, an
+- ★ [[aidbind-g3k5f0]] — We cover the information gap between the demand, supply and funding of medical equipment, procured b
+- ★ [[instant-sars-cov-2-breathalyzer]] — Optical detection of airborne virus-bearing aerosols (micro-/nano-droplets) using fluorescent marker
+- ★ [[healthcare-worker-burnout-prevention-wellness-platform]] — AI-driven platform that predicts healthcare worker burnout risk, sends early alerts to managers, and
+- ★ [[aimf]] — Built upon Pega's Powerful Intelligent Automation, Cosmos-UI, & Mashup capabilities, AIMF aids organ
+- ★ [[project-n1fsk7]] — Sentinel Protocol: An indestructible, offline-first vault. Hardware-accelerated AES-GCM ensures zero
+- ★ [[quoram]] — Quorum is a validation layer for multi-agent AI systems, running on platforms like Fetch.ai's ASI:On

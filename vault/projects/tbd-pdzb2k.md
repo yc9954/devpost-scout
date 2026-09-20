@@ -1,0 +1,50 @@
+---
+slug: "tbd-pdzb2k"
+url: "https://devpost.com/software/tbd-pdzb2k"
+title: "PolyCare (where orphanage meets oldage)"
+hackathon: "Polygon BUIDL IT : Summer 2022"
+organization: "Polygon"
+winner: true
+words: 679
+team_size: 1
+has_repo: true
+has_live: false
+has_video: true
+tags:
+  - "project"
+  - "mechanism/realtime_stream"
+  - "domain/developer_tools"
+  - "user/developer"
+  - "substrate/document_pdf"
+  - "substrate/structured_db"
+  - "substrate/video_visual"
+---
+
+# PolyCare (where orphanage meets oldage)
+
+> PolyCare is a donation & fundraising app to promote old age homes to provide daycare/childcare service to orphan kids. Also, it is a web3 version of web2 platform Ketto.org with governance, NFTs &more
+
+[Devpost](https://devpost.com/software/tbd-pdzb2k) · hackathon [[Polygon BUIDL IT - Summer 2022]]
+
+## Facets
+
+**mechanism** [[realtime_stream]]
+**domain** [[developer_tools]]
+**user** [[developer]]
+**substrate** [[document_pdf]] [[structured_db]] [[video_visual]]
+
+**stack** ant-design, hardhat, ipfs/filecoin, mongodb, moralis, openzeppelin, polygon-mumbai, react, solidity
+
+## How they structured the write-up
+
+- overview
+- inspiration
+- how it works
+- how i built it
+- challenges i ran into
+- accomplishments that i am proud of
+- what i learned
+
+## Body
+
+Logo Donation Tab Statistics Tab Mint NFT Tab Governance Tab Overview PolyCare is the first fully decentralized charity & fundraising application which is focused on two main aspects: Bringing orphanages and old age homes together by providing financial assistance to old age homes who are willing to provide daycare/childcare services to orphanages. It is also a Web3 version of https://www.ketto.org/ Web2 platform where if you have donated to the protocol, you can start a proposal for raising funds for any medical treatment or other causes. Inspiration My project is inspired by a Linkedin post which stated that somewhere they combined nursing homes with the orphanages. The result exceeded all expectations! Elders found grandchildren, orphans experienced the love and care of a parent. The idea seemed brilliant but at the end of the day to provide childcare service needs financial assistance. Also, currently there is no decentralized way to support any social cause like these. PolyCare aims to provide a platform where you can donate funds and participate in governance to ensure that your funds reaches to the cause that you support. Disclaimer : This project is a proof of concept. The full-blown application is on the roadmap. GitHub links PolyCare UI -> https://github.com/ShivaliLN/UI-PolyCare.git PolyCare Contracts -> https://github.com/ShivaliLN/PolyCare.git How it works Step 1 - Under Donate tab - Donate to PolyCare as little as 0.0001 Matic. You can choose if you wish to participate in the Governance Protocol. If yes, PolycareToken(PCT) tokens will be minted depending upon your donation amount. Step 2 - Under Governance tab - users with certain amount of Polycare Tokens can create a proposal (assumption is you or someone you know volunteers and works with the old age Homes and Orphanage is your area, determine the expenditure amount and submit proposal with supporting documents ) Step 3 - Proposal goes through governance process where users with PCT token can delegate vote to someone or themself and participate in governance. Step 4 - If the proposal is passed, funds are released to the old age home. Step 5 - Under PolyCare Statistics tab - see the latest statistics for total donation amount till date, total balance remaining and total amount released to passed proposals. Step 6 - Under Mint NFT tab - if you are a donor to PolyCare you can add NFT to the contract which will then be available for minting. Just provide, organization name that received the funds, image CID and amount that was donated. Step 7 - Mint SVG NFT - if you read this far, here is one more surprise for you (kidding). If you donated to the protocol, you can mint 100% on-chain svg badge as token of thank you with the 'Name' of the organization that received the funds by providing the token id. How I built it PolyCare is comprised of 5 contracts deployed on the Polygon Mumbai testnet. This dApp is built on Moralis using features like moralis-react, web3, authentication, event logging, cloud functions, IPFS file save to store and request the token metadata. PolyCare Architecture Contracts on blockchain The contracts are as below: PolyCareMain : Donation and token contract GovernorContract : Governance contract to create and execute proposals Treasury : PolyCare treasury contract that is being governed via timelock contract PolyCareNFT & PolyCareSVG : For minting NFTs Database To store off-chain data for proposals created and event sync, using Moralis provided mongo-db instance. IPFS/Filecoin All the NFT images are stored on IPFS/Filecoin The metadata JSON files are uploaded using Moralis saveIPFS() method. Challenges I ran into The UI developed is by a backend developer attempting front-end so there are still some real-time data display open items that I need to work on. Accomplishments that I am proud of The idea creation, planning, development and executing it within one month as I participated in the hackathon little late. Did 'on-the-job' front-end learning to design my dApp Solo developer to build the prototype in a short span What I learned Learned new solidity concepts for smart contract writing, svg NFTs Building a DAO governance protocol Beginner level React <div

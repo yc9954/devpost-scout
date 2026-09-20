@@ -1,0 +1,52 @@
+---
+slug: "forestall"
+url: "https://devpost.com/software/forestall"
+title: "ForeStall"
+hackathon: "TreeHacks 2023"
+organization: "Stanford TreeHacks"
+winner: true
+words: 1367
+team_size: 3
+has_repo: true
+has_live: false
+has_video: false
+tags:
+  - "project"
+  - "domain/health_clinical"
+  - "domain/labor_employment"
+  - "domain/legal_justice"
+  - "user/clinician"
+  - "user/patient_family"
+  - "substrate/code_repository"
+  - "substrate/structured_db"
+  - "substrate/video_visual"
+  - "substrate/web_dom"
+---
+
+# ForeStall
+
+> Forestall predicts a patient's risk level to medication at a macro (across all patient data) and micro scale (across subset of patient data specific to practitioner) to mitigate medical errors.
+
+[Devpost](https://devpost.com/software/forestall) · hackathon [[TreeHacks 2023]]
+
+## Facets
+
+**domain** [[health_clinical]] [[labor_employment]] [[legal_justice]]
+**user** [[clinician]] [[patient_family]]
+**substrate** [[code_repository]] [[structured_db]] [[video_visual]] [[web_dom]]
+
+**stack** figma, integratedml, intersystems, openfda, python, react.js, sql
+
+## How they structured the write-up
+
+- inspiration
+- what it does
+- how we built it
+- challenges we ran into
+- accomplishments that we're proud of
+- what we learned
+- what's next for forestall
+
+## Body
+
+Trained ML Models and Final Predictions Drugs and Adverse Reactions Train Test Data and SQL Table Commands ML Models Validation Progression Inspiration On average, every patient in the United States will experience one significant diagnostic error in their lifetime, incurring potentially devastating effects on the patient, their loved ones, and healthcare professionals. [1] Diagnostic errors are a common issue in healthcare and can lead to significant medical, legal, and financial consequences. [2] Every year, nearly 400,000 hospitalized patients suffer from medical harm that could have been avoided. [3] Errors in medical practice contribute to approximately $20 billion in costs each year. [4] Medical errors in hospitals and clinics contribute to approximately 100,000 deaths each year. [5] As a result, there remains an urgent need for research to identify the predictors of diagnostic errors in order to develop effective interventions that can improve diagnostic accuracy, preventing these errors from occurring in the first place. What it does ForeStall works to predict potential diagnosis errors through analyzing a patient’s risk level to a certain medication at both a macro and micro scale. The interface provides a searchable macro dashboard that identifies high risk patients across entire hospitals, while its micro dashboard identifies high risk patients for individual practitioners. ForeStall finds mappings of allergies to medication as well as mappings of medications that are incompatible, then uses a function that takes in the allergies of patients as parameters and outputs non-compatible medications. Given a patient’s profile (age, weight, sex) and a medication that they are taking. ForeStall uses InterSystems Integrated ML to output a patient’s risk level and other high risk medications (that are not definitively known as incompatible). High risk is identified by calculating potential combinations of allergies that have overlapping drug instances, which could potentially lead to fatal results for patients. Medical errors commonly occur through patient misidentification, wrong dosage regimen, and wrong medication administration; ForeStall mitigates these issues through clear, clickable profiles that identify each patient with multiple factors (photo, age, sex, demographic) and provide detailed, easy-to-understand medication information for practitioners. Each patient profile includes a thread of patient notes so that practitioners can remain on the same page when a patient is passed down. ForeStall also introduces an anonymous error reporting feature, addressing the stigma of not reporting medical errors due to fear of backlash. This function will mitigate future medical errors, as multiple studies have identified that if error-prone situations are reported and managed by a modification of the system, a decrease in the frequency of the error and concomitant errors will ensue. How we built it Our team built an innovative machine learning model that predicts the risk of severity of drug adverse effects. We started by querying 100,000 patient drug adverse effect profiles from the openFDA database, and then extracted and used patient demographic information, medications, and reported symptoms. We created a scale from 1 to 5 to assess the severity of adverse effects, ranging from low severity to death. Using Intersystems Integrated ML, we trained an optimized model with the top 50 most common symptoms and the top 50 most commonly prescribed drugs in the dataset. Our team spent considerable time fine-tuning the model and trying various configurations, which ultimately paid off. We achieved a remarkable predictive power of 73% of the variance. Overall, we built a refined model that will help healthcare professionals assess the risk of drug adverse effects, which could have a significant impact on patient care and safety. In addition to building the backend machine learning model, our team also implemented the frontend. To begin, we used Figma to create wireframes that allowed us to visualize the layout and design of the website. We then used React.js to develop the frontend, which included a user-friendly interface for healthcare professionals to input patient information and receive predictions about the severity of potential drug adverse effects. One of the key features of the website was the use of generative AI to create patient medical profiles. This allowed us to generate realistic and detailed profiles that could be used to demonstrate the functionality of the website. Throughout the development process, we focused on creating a clean and intuitive design that would be easy to use for healthcare professionals of all levels of technical expertise. Challenges we ran into The first and foremost challenge we encountered was wrangling the data set, which involved querying the openFDA API, understanding the JSON elements, and extracting essential calls for the machine learning (ML) model. The difficulty was that we had to represent adverse drug effects quantitatively in a way that could be incorporated effectively into an ML model. Additionally, determining the most common drugs and reactions, as well as deciding on the optimal number of drugs and reactions to include in the model, was a complex undertaking due to the large number of unique drugs (3176 unique drugs and 2286 different adverse reactions across the dataset)/ Moreover, we had to learn SQL on the fly and become proficient in InterSystem's API. Learning InterSystem was particularly challenging because we had to iteratively conform the data preprocessing to the environment and data formatting requirements of InterSystem. Finally, after trying multiple different models with varying combinations of reactions, drugs, and model configurations, we had to figure out the optimal model to increase predictive power from 2% to 73% of the variance. The biggest challenge we faced was connecting the different components of our project, as each aspect required different technical skills and expertise. Despite these challenges, we adapted to the pressure of the tight timeline and completed our project through perseverance and collaboration. Accomplishments that we're proud of We're proud of creating an app with the potential to save lives through harnessing ML. It was a crazy challenge learning how to apply ML in less than 2 days, but it was amazing that it pulled through. We're also proud of the clean and logical site UI, which makes practitioners’ harried lives easier through its intuitive design. What we learned Developed skills in SQL and InterSystemsML for creating an optimal model with high predictive power Learned effective feature extraction and data processing techniques and importantly how to iteratively improve them alongside what is most predictive for the ML model Gained experience utilizing advanced hooks and state management techniques in React to implement complex UI/UX design across multiple pages Learned how to adapt & problem-solve quickly in the face of a tight deadline! (fueled by lots of Pocari Sweat) What's next for ForeStall We feel very passionate about exploring this project in more depth by applying more complex ML models to create more accurate predictions and increase mitigation of medical errors. We would also like to deploy this service in real hospitals to test our technology with the collection of actual data and test the effectiveness of its ability to make real-life medication predictions. In response to this testing, we would like to flesh out front end and add polish ML predictive features. Our end goal is to open source ForeStall for doctors and medical workers to use free of charge to access guidance and resources that will assist them in making the best possible medication decisions. Citations Committee on Diagnostic Error in Health Care, Board on Health Care Services, Institute of Medicine, The National Academies of Sciences, Engineering, and Medicine. Improving diagnosis in health care. In: Balogh, EP, Miller, BT, Ball, JR, editors. Improving diagnosis in health care [Internet]. Washington, D.C.: National Academies Press; 2015. http://www.nap.edu/catalog/21794 . Brown, TW, McCarthy, ML, Kelen, GD, Levy, F. An epidemiologic study of closed emergency department malpractice claims in a national database of physician malpractice insurers. Acad Emerg Med 2010;17:553–60. https://doi.org/10.1111/j.1553-2712.2010.00729.x . James, J. T. A new, evidence-based estimate of patient harms associated with hospital care. J Patient Saf. 2013 Sep;9(3):122-8. Henriksen, K., Battles, J. B., Keyes, M. A., & Grady, M. L. (Eds.). (2008). Chapter 2: The need for a national focus on patient safety. In Advances in patient safety: New directions and alternative approaches (Vol. 1: Assessment). Agency for Healthcare Research and Quality (US). https://www.ncbi.nlm.nih.gov/books/NBK499956/ . Singh H, Schiff GD, Graber ML, Onakpoya I, Thompson MJ. The global burden of diagnostic errors in primary care. BMJ Qual Saf. 2017 Jun;26(6):484-494. <div

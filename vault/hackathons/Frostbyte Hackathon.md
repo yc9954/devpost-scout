@@ -1,0 +1,378 @@
+---
+hackathon: "Frostbyte Hackathon"
+organization: "FrostByte Club"
+projects: 346
+tags:
+  - "hackathon"
+---
+
+# Frostbyte Hackathon
+
+FrostByte Club  ·  346 collected projects
+
+## What this field was made of
+
+- [[realtime_stream]] × 236
+- [[structured_db]] × 146
+- [[geospatial]] × 117
+- [[video_visual]] × 109
+- [[health_clinical]] × 101
+- [[developer_tools]] × 99
+- [[sensor_telemetry]] × 87
+- [[finance_payments]] × 83
+- [[document_pdf]] × 69
+- [[developer]] × 68
+- [[education]] × 67
+- [[educator_student]] × 65
+- [[vision_ocr]] × 64
+- [[patient_family]] × 61
+- [[sensor_fusion]] × 60
+
+## Projects
+
+- ★ [[remindar-94vnz5]] — RemindAR is an assistive AR system that helps people with memory challenges recognise faces and reca
+- ★ [[barrelproof]] — AI Driven Structural Risk Intelligence for Modern Portfolios.
+- ★ [[parallax-edge]] — The "Absolute Zero" for price. Parallax Edge scans every delivery and e-commerce app to find the mat
+- ★ [[sparsh-mukthi-ay0cwf]] — Embracing Touchless Technology!
+- ★ [[crisisavert]] — CrisisAvert is a sophisticated emergency management platform that leverages agentic AI to simulate a
+- ★ [[healix-ai-high-fidelity-clinical-intelligence-for-inclusion]] — High-fidelity clinical agent for blind and deaf users. Uses $T=0.0$ RAG and Vision Transformers to p
+- ★ [[vaidyasaarathi]] — "Your Intelligent Healthcare Companion" - Breaking language barriers, preserving privacy, empowering
+- ★ [[skillscan-ai-career-gap-analyzer-for-students-vw8imb]] — AI that scans your resume, finds your skill gaps, builds your learning roadmap, and scores your job 
+- ★ [[sitesync-ai-u7j86v]] — "🏗️ Sync the vision. Build the truth ." SiteSync AI is not just a "viewer" it is an active participa
+- ★ [[xcrunchhub]] — XCrunchHub is an AI-powered DeFi analytics platform that delivers real-time insights, fraud detectio
+- ★ [[fambai-cv-btnw54]] — An offline AI advisor that helps Zimbabwean farmers diagnose livestock diseases and get crop guidanc
+- ★ [[smartcare-fs8pkr]] — A vital signs monitoring platform using Explainable AI to instantly assess patient health risks and 
+- ★ [[intelligent-fall-detection-system]] — AI-powered fall detection with real-time alerts and emergency coordination.
+- ★ [[fortress-ai]] — Autonomous AI Cybersecurity for SMEs
+- ★ [[scambaitai]] — ScamBait AI is an intelligent, AI-powered honeypot designed to combat digital fraud by engaging scam
+- ★ [[smartkisan]] — SmartKisan: An AI-powered digital assistant that helps Indian farmers make smarter decisions with re
+- ★ [[repo-recon]] — CodeRecon helps developers understand, improve, and secure their code using AI. Instead of manually 
+- ★ [[cashcult]] — Know your cash flow either inflow or outflow today with CashCult.
+- ★ [[trajaudit]] — Detects adversarial conversational agents via behavioral trajectories — not single messages.
+- ★ [[climateiq]] — ClimateIQ is a decision-support system that translates regional climate model outputs into actionabl
+- ★ [[memri]] — Helping memories become immersive experiences, where every moment of nostalgia transforms into vivid
+- ★ [[aether-health-ai-iceum6]] — Trusted healthcare AI, grounded in science and nature.
+- ★ [[juris-gene]] — JurisGenie turns legal documents into executable contract state machines with AI extraction, human v
+- ★ [[argus-it-never-forgets-rd6k70]] — Data is gold, but stays passive in chats. Argus is a proactive Gemini 3 agent that connects past Wha
+- ★ [[project-chronos-t7fq4j]] — AI-powered ICU early warning system predicting sepsis, hypotension, & hemodynamic collapse 2-6 hours
+- ★ [[ai-study-buddy-dt9vlk]] — Turn raw study notes into summaries, quizzes, and flashcards instantly with AI
+- ★ [[finguard-ai-jdy8zp]] — Your finances, gamified — spend smart, earn XP, level up to Financial Overlord
+- ★ [[finmate-jvmehk]] — FinMate is an AI financial companion that captures receipts, tracks spending, and turns data into sm
+- ★ [[bekaei-pulse]] — bekaei.Pulse: Precision Insights for Every Phase. Elevator Pitch: bekaei.Pulse is a high-performance
+- ★ [[ai-cybershield-real-time-scam-fraud-detection-system]] — AI CyberShield protects users in real time by detecting scams, phishing, and malicious links with ex
+- ★ [[krishivseth-ai-ai-for-farmers-and-agriculture-lxekmh]] — KrishivSeth AI is an offline farming assistant that detects crop diseases,predicts risks,irrigation 
+- ★ [[medvault-3nwvsj]] — Encrypted health records in your pocket. Share with any doctor in 10 seconds, in any language. Works
+- ★ [[krishivseth-ai-ai-for-farmers-and-agriculture-vh68ag]] — LifeLink - When every second decides life or death,AI instantly matches verified donors, scans blood
+- ★ [[reflexionos-the-self-improving-agentic-operating-system-s94vle]] — An autonomous, self-correcting agent loop that reflects on its own failures to evolve strategy in re
+- ★ [[schema-assist]] — An automated SOS app for public safety using AI
+- ★ [[chainpilot-ai-yg2coj]] — Autonomous AI Risk Intelligence for Secure Web3 Applications
+- ★ [[warden-ny9uwa]] — Warden is the runtime firewall that stops AI agents from being hijacked by blocking prompt injection
+- ★ [[geosentinel]] — GeoSentinel — Turning Earth’s data into early warnings that save lives.
+- ★ [[carely-ai]] — A dual-agent WhatsApp CRM that automates customer support and delivers real-time business intelligen
+- ★ [[patentguard-ai]] — An AI-powered patent intelligence assistant that helps inventors determine whether their idea is alr
+- ★ [[urbanpulse-india-digital-twin]] — “UrbanPulse is an AI-powered digital twin that predicts urban risks like traffic congestion and floo
+- ★ [[temporal-blindspot]] — Paste any AI response. We extract every factual claim, score how outdated it probably is, and show y
+- ★ [[nexora-the-autonomous-payroll-protocol]] — Nexora is an AI-powered treasury that streams payroll per second on-chain while monitoring risk, for
+- ★ [[labsafe-xr-zm5ilo]] — Immersive Lab Safety Training Platform
+- ★ [[sentinel-0qh4l2]] — YOLO-powered threat detection engine combining computer vision, persistent tracking, and adaptive th
+- ★ [[metallisense-oti3f0]] — AI-powered real-time alloy optimization for smarter foundry operations.
+- ★ [[mediq-nop156]] — Fetch once. Learn forever. MediQ transforms hospital data into instant answers using agentic AI, MCP
+- ★ [[sceneiq-1hjz8t]] — SceneIQ turns hours of video into instantly searchable moments. Using AI scene intelligence, it dete
+- ★ [[neurotrack-ai]] — AI-Powered Cognitive Fatigue & Focus Detection System
+- ★ [[mindful-fh80qg]] — A minimalist mental health tracker empowering students to navigate academic stress.
+- ★ [[mindbridge-ai-wellness-companion-for-students-ad8s4c]] — AI that detects student burnout 14 days before it peaks.
+- ★ [[stock-market-forecasing-with-ml]] — We developed an application to forecast NYSE stock returns and risks using ML models along with an A
+- ★ [[safesign-ai-gesture-based-patient-assistance-system]] — SafeSign uses computer vision to understand gestures, facial expressions, and body movements to dete
+- ★ [[project-n1fsk7]] — Sentinel Protocol: An indestructible, offline-first vault. Hardware-accelerated AES-GCM ensures zero
+- ★ [[yo-zfqlao]] — CERBERUS learns normal system behavior and detects ransomware instantly when abnormal entropy patter
+- ★ [[prepx-y4kfst]] — PrepX - The Smartest Way to Land Dream Job
+- ★ [[climatelens-8ru15o]] — Track environmental change through AI-powered satellite analysis.
+- ★ [[planix-ai-the-learning-operating-system-xgtd1f]] — Planix AI turns learning goals into structured execution plans. Enter a skill and available time, an
+- ★ [[riveth]] — A local Ethereum smart contract development toolkit that runs in the browser.
+- ★ [[monky-ai-coding-assistant-mfuw8q]] — Debug smarter. Code faster
+- ★ [[aidverify]] — AidVerify is a blockchain-powered platform that ensures transparent, fraud-free aid distribution thr
+- ★ [[aegis-lock-zero-trust-encryption]] — Database-agnostic field-level encryption. Keep your data searchable, and leave hackers with nothing.
+- ★ [[ontime-2og4ms]] — Because “I’ll send it later” needed a system. Split later, but onTime.
+- ★ [[duty-of-life]] — Smaller action.Lighter footprints.Better Change for Future!
+- ★ [[deshitrip]] — Offline-first AI travel companion for low-connectivity regions—bilingual assistance, synced squad ex
+- ★ [[heart-disease-risk-prediction-system]] — Clinical ML tool for heart disease risk prediction
+- ★ [[ai-sustainable-cloud-detection-weather-routing]] — Dense cloud formations and sudden weather disturbances pose serious challenges for commercial aviati
+- ★ [[trashmate-2wcvy5]] — Because Clean Cities Begin With You
+- ★ [[armvision-assist-ai-vision-companion-for-the-blind]] — World's first offline real-time AI vision assistant that helps visually impaired users understand th
+- ★ [[sustain-uhrgfy]] — sustAIn makes AI more sustainable by compressing prompts without hurting quality, reducing token usa
+- ★ [[c-25vw9t]] — An Alzheimer-Friendly Voice Agent When Memories Feel Distant
+- ★ [[corelytics]] — Corelytics is an AI-powered email generation system that replaces manual prompting with a structured
+- ★ [[contenthub-x402-enabled-decentralized-media-marketplace]] — A decentralized, premium content marketplace built on Base Sepolia empowering creators to monetize h
+- ★ [[visicore-ai-retinal-health-screening-platform-kpxmly]] — AI-powered Diabetic Retinopathy detection from retinal images using a Vision Transformer, with a loc
+- ★ [[predvisit]] — The AI copilot for hospital staff — patient records, readmission risk scoring, and clinical guidance
+- ★ [[siemshield]] — SIEMShield is a lightweight cybersecurity monitoring system that performs network scanning, detects 
+- ★ [[intake-ai-next-gen-nutrition-tracker]] — Stop typing, start snapping. Intake AI uses Google Gemini to instantly extract macros from food phot
+- ★ [[elevator-lwj5ug]] — An AI-native learning platform combining intelligent tutoring,VR collaboration,gamified competitions
+- ★ [[deepx-chestxray]] — DeepX is an AI-powered diagnostic tool that analyzes chest X-ray images to detect pneumonia and gene
+- ★ [[loan-collection-agentic-voicebot]] — An agentic voicebot for helping banks and organizations by providing with call based automations.
+- ★ [[erns]] — An institutional-grade earnings intelligence terminal that levels the playing field for retail inves
+- ★ [[brain-ai]] — Where Teams Talk, Work, and Win.
+- ★ [[autonomous-tech-pack-generator]] — Designed and developed an AI agent deeply integrated with the laptop operating system to autonomousl
+- ★ [[monet-we062k]] — Monet embeds an invisible cryptographic fingerprint into creative files. If your work is stolen onli
+- ★ [[khula-hwtnpx]] — Khula Tutor is an AI academic companion that transforms study material into personalized tutoring, a
+- ★ [[devos-juczta]] — An AI-powered OS for developers to track hackathons, jobs, learning & goals with a Claude AI coach t
+- ★ [[fractionrealmrise]] — FractionRealmRise turns real estate into programmable assets on Aptos with fractional ownership, 3D 
+- ★ [[medicine-app-v2mwk1]] — A user-friendly web app that provides medicine information, side effects, dosage guidance, health ti
+- ★ [[robotixfunnel]] — AI-powered e-commerce platform with robotic warehouse fulfillment, digital twin visualization, and i
+- ★ [[v-ident-real-time-identity-verification-mobile-application-19kdg7]] — V-Ident: Pulse + pixels = proof. On-device heartbeat detection & frequency forensics catch deepfakes
+- ★ [[transsmart-smarter-routes-better-logistics]] — AI-powered logistics platform that optimizes routes, matches trucks with loads, and enables real-tim
+- ★ [[momentum-ai-l8fmqu]] — Canadian Brain. Indian Hands.
+- ★ [[terraguard-taf0u5]] — 9 AI agents audit corporate sustainability reports for greenwashing, compliance gaps & climate risk 
+- ★ [[borrowiq-ai-powered-on-chain-credit-intelligence]] — BorrowIQ is an AI-powered on-chain credit engine that analyzes wallet behavior to generate credit sc
+- ★ [[climabyte]] — ClimaByte is your pocket AI coach that watches what you buy, eat, and travel, then gives you one tin
+- ★ [[ai-desktop-companion-glitch]] — Meet Glitch: The JARVIS you dreamed of. A multimodal agent that doesn't just chat—it acts. Sees your
+- ★ [[boxoffice-ai]] — We turn one-time viewers into loyal customers. Our XGBoost engine predicts customer retention so Cin
+- ★ [[project-varuna-v5k2mn]] — Project Varuna is an artificial intelligence-based decision support tool that makes predictions abou
+- ★ [[health-pulse-ai-tbd4y5]] — "Smart AI Triage System that identifies critical patients early and helps hospitals treat the right 
+- ★ [[fufu]] — Decentralized intellectual property management on Creditcoin: register IP assets (ERC-6551), mint li
+- ★ [[onchainvampiresurvivors-1phbfa]] — OnchainVampireSurvivors is a time survival game with minimal gameplay and roguelite elements.
+- ★ [[dhangyan-6b7w50]] — Don't teach financial literacy. Let people LIVE it.
+- ★ [[ace-adaptive-cognitive-engine-lugvmj]] — A next generation AI execution engine that brings deterministic reasoning, self-adaptation, and scal
+- ★ [[justice-emergency-medical-response-system]] — Justice is a real-time emergency medical platform that connects ambulances and hospitals, enabling f
+- ★ [[echo-alert]] — We don't watch for danger. We listen for danger.
+- ★ [[echoalert-o95h0t]] — "Security cameras only work if the danger is in frame and someone is looking at the screen.We built 
+- ★ [[study-hub-5nk0xq]] — Study smarter, not harder — with AI that knows your plan.
+- ★ [[docagent]] — AI that acts, not just answers. DocAgent triages symptoms, finds nearby doctors, provides mental wel
+- ★ [[carboniq-o19k04]] — A dark-luxury carbon tracker with glassmorphic UI, real-time API calculations, AI-powered recommenda
+- ★ [[zeroth-ai-90becn]] — An autonomous AI coding agent that generates edge cases, stress-tests solutions, and iteratively fix
+- ★ [[cycleglow]] — AI Period & Skin Intelligence - cycle-synced skincare, nutrition, and hormone tracking
+- ★ [[sentinel-eye]] — AI Visual Security Inspector - Gemini Live Agent Challenge submission
+- ★ [[multimodal-healthcare-ai-agent-with-emergency-assistance]] — Multimodal healthcare AI agent that understands speech and images, delivers voice responses, enables
+- ★ [[bekaei-codelab]] — Bekaei-CodeLab is a web platform where programmers can code together in real time. It makes collabor
+- ★ [[hera-women-s-health-intelligence-platform]] — The health intelligence women have always deserved.
+- ★ [[operationscheduler]] — 🚀 A modern web app to book, schedule & manage operations with ease.
+- ★ [[showfarm]] — ShowFarm is a decentralized tracker platform for self-taught learning built by Hedera. Record milest
+- ★ [[agroguard-1ylp8j]] — AI-powered crop health, straight from the field.
+- ★ [[synth-u7a6pq]] — AI Medical Visit Assistant
+- ★ [[doctorlib]] — AI-powered clinical intelligence platform that assist doctors with diagnosis, risk, discharge summar
+- ★ [[shieldai-6x2z1q]] — Open-source correlation engine for cyber threat intelligence. 14 zero-auth APIs, 5 analysis layers, 
+- ★ [[actisolve-ai]] — Turning complex problems into clear, executable action plans — automatically.
+- ★ [[heartguard-ai-cardiovascular-risk-prediction-system]] — HeartGuard AI predicts cardiovascular disease risk using clinical data, ECG deep learning, and expla
+- ★ [[mokshai]] — An AI-powered EQ growth platform that helps you understand yourself deeply, connect better with othe
+- ★ [[edify-ai-iea9ws]] — The shortest path from 'Student' to 'Hired'. Career paths aren't linear, but they shouldn't be a maz
+- ★ [[commando-ai-h0vodb]] — Dead PRs. Missed deadlines. 5 tabs, zero answers. Commando AI runs Monte Carlo simulations on your l
+- ★ [[mindspace-4st6ld]] — **MindSpace is an AI-powered mental health app for mood tracking, journaling, and instant coping too
+- ★ [[airable-3gbmf5]] — "Breathe smarter🌬️. Move safer🛣️. Live better👨‍👩‍👧‍👦."
+- ★ [[clearclause-zer4yh]] — AI-powered legal document analyser: upload any contract, get instant clause-by-clause risk analysis,
+- ★ [[cos-3j8uqc]] — CLI-OS — Simplifying the Command Line
+- ★ [[argos-ic2tyk]] — Local-first system scoring insider trading on cryptocurrency. A LangGraph supervisor with 5 sub-agen
+- ★ [[clawscholar-autonomous-research-engine]] — ClawScholar is an AI-driven autonomous research engine that synthesizes academic knowledge, uncovers
+- ★ [[spectra-xfwq56]] — Developer-First Analytics & User Behavior Platform.
+- ★ [[vangaurd-a-decentralized-invoice-funding-platform-to7jdz]] — Transforming unpaid invoices into instant liquidity. Secure, NFT-backed debt on Shardeum,Arweave. Br
+- ★ [[soilsense-i4opsh]] — LinguaBridge — Breaking language barriers anywhere, anytime, even offline.
+- ★ [[skyroute-ai-delivery]] — Redefining last-mile delivery with intelligent solar drone fleets.
+- ★ [[calmnest-9rho0a]] — Calm Mind. Strong You
+- ★ [[memexllm]] — Your Personal AI assistant
+- ★ [[flowfocus]] — automated scheduling system
+- ★ [[autoaegis]] — AutoAegis-"Self-Diagnostic Immunity System" that eliminates the Watermelon Effect by using Zero-Touc
+- ★ [[vanmeet-fctsv7]] — A trusted van-life community app for nomadic dating, activity-based friendships, verified builder co
+- ★ [[stepsure]] — Your AI Physiotherapist for Gait Improvement in your pocket
+- ★ [[julia-wg9iku]] — Julia: A decision-intelligence copilot that refines raw founder ideas through strategic Q&A, separat
+- ★ [[gemini-3-desktop-ai-agent]] — A voice & gesture-controlled desktop AI that sees your screen, controls your laptop, and responds in
+- ★ [[speaksilent]] — Approximately 11 million people in the US are deaf. Our website translates sign language into text a
+- ★ [[bloodlink-vxj8rb]] — A hospital blood management system that tracks inventory, predicts expiry, reduces blood wastage, an
+- ★ [[solarvision-ign0ro]] — Analyze rooftop solar potential instantly using satellite data, climate intelligence, and AI.
+- ★ [[vidyachitra]] — AI study companion that turns any Indian school textbook PDF into a summary, animated video, audio n
+- ★ [[bloodlink-9i5s3c]] — BloodLink: An intelligent blood bank platform that connects donors, hospitals, and inventory in real
+- ★ [[safe2go-0rexcb]] — HelmSense turns any helmet into an AI‑powered crash guardian that detects serious impacts and auto‑a
+- ★ [[agentic-security-llm-vulnerability-scanner-aggregator]] — Agentic Security is an agentic LLM vulnerability scanner that simulates jailbreaks, prompt injection
+- ★ [[aaas-labs-automated-security-workflow-studio]] — AaaS Labs lets you talk to your code and domains, then run no‑code security workflows that trigger O
+- ★ [[threat-feeds-ai-powered-threat-report-explorer]] — Threat Feeds aggregates threat intel reports lets users search and ask questions over them auto extr
+- ★ [[heatshield]] — HeatShield AI predicts neighborhood-level heat risk, estimates potential ER pressure, simulates inte
+- ★ [[mindguard-ai-9fjt23]] — AI That Protects Your Focus.
+- ★ [[control-0kbjsx]] — Your AI companion for addiction recovery - available at 2am when no one else is
+- ★ [[based_smiles]] — AI-powered Chrome extension that adapts websites in real-time for users with ADHD, dyslexia, and sen
+- ★ [[geodrive-ai]] — GeoDrive AI – Turning Real‑Time Automotive Sentiment into Actionable Intelligence.
+- ★ [[neurocrypt]] — Behavioral biometrics for medicine. Capture cognitive patterns in 60 seconds, authenticate with ML. 
+- ★ [[roomerit-the-future-of-hotel-management]] — Roomerit is a QR-based hotel service platform that helps guests order anything they need from their 
+- ★ [[memorylens-augmented-social-memory-ai]] — MemoryLens uses computer vision and speech AI to recognize faces and recall past conversations in re
+- ★ [[sympvis-triage-coach]] — SympVis is a modern web application designed to provide users with health clarity through intelligen
+- ★ [[nexus-ai-interview-prep]] — Beyond generic mocks, Nexus deep-scans your GitHub and LinkedIn to grill you on your actual project 
+- ★ [[operation-ghost]] — Operation Ghost is a C++ & AI gesture system using MediaPipe and Gemini. Control your PC via hand/vo
+- ★ [[nexarch-ukoica]] — Build to Scale Together
+- ★ [[blindnav-g2qa5y]] — Digital eyes for what’s ahead.”
+- ★ [[pulmonai-jefryq]] — Helping doctors diagnose lung conditions faster, smarter, and anywhere!
+- ★ [[fraudsense-ai]] — An enterprise-grade ML risk platform that detects fraud in real time, automates decisions, monitors 
+- ★ [[auditease-4ub1mj]] — Eco Friendly AI-Powered Compliance Platform
+- ★ [[getfake-ai]] — AI Powered Universal Luxury Authentication System
+- ★ [[businessradar-ufmjvh]] — BusinessRadar: AI scans Tashkent via OpenStreetMap & BigData to find 100% profit spots 🎯 Real-time s
+- ★ [[fraud-detection-ai]] — A fraud detection AI that uses machine intelligence to analyze past transaction data and detect frau
+- ★ [[cropguard-ai-tvc9fp]] — We empower smallholder farmers to detect 15+ crop diseases instantly on their smartphones—no interne
+- ★ [[edugrant-ai]] — “Smarter Scholarships. Zero Stress.”
+- ★ [[poc-proof-of-consent]] — AI-powered, blockchain-anchored medical consent system that verifies patient understanding before si
+- ★ [[vfashionx-qov9j7]] — "See it, Create it,Own it".
+- ★ [[cardioguard-ai-intelligent-heart-risk-prediction-rk3uhb]] — An interpretable machine learning system that predicts cardiovascular disease risk using real clinic
+- ★ [[microsmart-0o9zu3]] — What if we could diagnose malaria in seconds? MicroSmart PF uses AI computer vision to instantly spo
+- ★ [[caspercrediq]] — AI-Gated On-Chain Credentials for Fraud-Resistant Digital Trust
+- ★ [[roi-merger]] — An AI-driven enterprise analytics platform that combines ROI and equity merger analysis with real-ti
+- ★ [[northernstar]] — NorthernStar — Guiding Your Growth, One Habit at a Time.
+- ★ [[sentinelnet-ai-defended-secure-communication-platform]] — SentinelNet is a defence-grade encrypted communication platform that uses AI to detect OPSEC leaks, 
+- ★ [[aura-7iml9d]] — AI-powered independence for the visually impaired
+- ★ [[smarttriage-ai]] — SmartTriage AI helps remote clinics prioritize patients instantly, using AI to detect urgent cases, 
+- ★ [[sentinelai-lk2w1c]] — AI-Powered Threat Detection at Machine Speed
+- ★ [[career-architect]] — Stop guessing your future. Career Architect uses AI to analyze your interests, identify your ideal c
+- ★ [[take-it-right]] — A safety-first medication risk analyzer that uses deterministic medical logic to detect overdoses, i
+- ★ [[deal-flow]] — Traditional insurance is plagued by slow, manual claim verification and opaque rejection reasons. de
+- ★ [[medextract]] — "Turning messy clinical notes into structured medical intelligence, instantly"
+- ★ [[vistaforge-360]] — Type It. See It. Live It — Transforming Words into Fully Immersive 360° Worlds Where Your Imaginatio
+- ★ [[signmeup-ku5b8z]] — Adapting technology to the user: A unified AI ecosystem for accessibility, safety, and shared peace 
+- ★ [[flowagent]] — Flow Agent uses AI, IoT, and simple SMS to turn any rural water point into an autonomous, transparen
+- ★ [[asktra-the-cognitive-librarian-for-software-systems-mbx6zo]] — Asktra uses Gemini 3 to reconcile fragmented truths across Slack, Jira, and Git. It identifies "Why"
+- ★ [[mind-ai-app]] — Mind AI - AI-Powered Multilingual Mental Health Support Platform For Students
+- ★ [[arps-core-causal-ai-for-revenue-integrity]] — An ROI-aware reasoning engine using Gemini 3 to explain why revenue is at risk and decide the highes
+- ★ [[fatigue-monitoring-system]] — ProxErgo, a privacy-first smart monitor using front-facing webcams to prevent poor ergonomics. Here,
+- ★ [[ecotrace-carbon-footprint-tracker]] — Track, understand, and reduce your personal carbon footprint with smart insights, real-time calculat
+- ★ [[antarys-ai]] — A hackable vector db built on top of uSearch+rocksdb, for you to break it down, dissect and scale on
+- ★ [[green-community]] — An interactive web platform that tracks daily habits, calculates personal environmental impact, and 
+- ★ [[triax-ai]] — AI-powered 3D CAD education that runs on any device free for everyone.
+- ★ [[detection-of-microplastics-in-water]] — MY PROJECT DETECTS THE MICROPLASTIC ITEMS IN WATER AND DECREASE THE DISEASES CAUSED BY IT .
+- ★ [[farmmind-lite]] — FarmMind Lite helps small farmers optimize water, detect diseases, and track market prices. Connect 
+- ★ [[maybefair]] — The operating system for executive productivity. AI that handles email so you can focus on what matt
+- ★ [[anemiaguard]] — Turning smartphones into early allies against childhood anemia.
+- ★ [[cropchain-b0hcgm]] — CropChain is a multilingual agri marketplace connecting farmers and buyers with AI price optimizatio
+- ★ [[trusttrace-multimedia-deepfake-detection-platform]] — “TrustTrace is a unified AI platform that instantly detects deepfakes across images, audio, and vide
+- ★ [[buildiq]] — BuildIQ integrates IoT monitoring and sustainability insights to optimize energy consumption, enhanc
+- ★ [[stratify-ai]] — Turn economic indicators into crypto insights. Local AI analyzes FRED data, news, market trends → pr
+- ★ [[usagi]] — 🚦 Usagi AI uses YOLO + OCR to detect helmetless riders and read number plates in real time, helping 
+- ★ [[docmindai-tjv1ar]] — DocMind AI uses OCR and AI to automatically verify receipts, categorize expenses, and flag suspiciou
+- ★ [[talentos]] — From resume to interview — get placement-ready faster.
+- ★ [[speakconfident-ai]] — An AI app that listens to your presentation and turns it into actionable feedback on confidence, cla
+- ★ [[virtual-quantum-lab]] — Turning abstract physics into interactive 3D experiences with AI-guided learning
+- ★ [[galuxium-the-ai-that-builds-startups-autonomously-zxg8rp]] — Galuxium is an autonomous multi-agent AI platform that transforms any idea into a complete startup —
+- ★ [[moodmap-pxt3cn]] — Understand how users feel.
+- ★ [[coco-mail-agent]] — Transform Email, Amplify Productivity
+- ★ [[certcat]] — Beautiful Certificates Delivered Instantly
+- ★ [[eidos-alpha]] — Turn live lectures into study-ready kits
+- ★ [[sehat-guftagu-health-talks]] — Apki Sehat, Humari tarji (Your Health, Our Priority)
+- ★ [[sehat-guftagu]] — Contextual Human-Assisted Protection and Anomaly Learning
+- ★ [[trustecg]] — Explainable AI for 12-lead ECG classification
+- ★ [[bookexchange]] — Every book deserves another reader
+- ★ [[signspeak-ai]] — Bridging the gap between the Deaf and hearing worlds with real-time AI translation.
+- ★ [[arduino-controlled-electrolysis-system-for-bleach-production-kodm9u]] — Imagine producing your own bleach right at home, simply by adding salt to water and pressing a butto
+- ★ [[taskwise-beydzx]] — See your projects in full spectrum)))
+- ★ [[model-drift-prediction-system]] — We built a behavior-centric monitoring system that continuously observes how a deployed AI model’s d
+- ★ [[aegis-dev]] — Fully autonomous software agent that detects, diagnoses, fixes, and deploys production bugs - with a
+- ★ [[arcticcare-earth-guardian]] — Every report counts. Every action protects and cares.
+- ★ [[ai-health-assistant-kpn0sa]] — An AI-powered assistant that provides instant symptom analysis and basic health guidance.
+- ★ [[medisystem]] — making the communication for patient with the hospital a lot easier
+- ★ [[asteroid-kn6xjh]] — A revolutionary music platform creating a better music experience for fans and emerging artists.
+- ★ [[axiom-linear-engine-v1]] — Logos Dual Genesis X Aymptotic Linear Engine for Genomic Stabilization, AI Noise Reduction, and O7-8
+- ★ [[proofstack-ai-trust-verification-engine]] — ProofStack verifies AI-generated security answers by breaking them into claims, checking each claim 
+- ★ [[machine-guard-ai]] — AI-Powered IoT Driving Climate-Smart, Sustainable Industrial Intelligence: Real-time monitoring and 
+- ★ [[chainpay-automatic-payroll]] — Decentralized payroll system using Solidity smart contracts and Chainlink Automation. Employers depo
+- ★ [[ecoledger-tp6ngc]] — Verified Carbon. Empowered Farmers. Transparent Climate Markets.
+- ★ [[mindguard-ai-cph72j]] — A privacy-first AI that detects mental health risks through on-device behavioral scanning — weeks be
+- ★ [[quantum-enabled-anamoly-detection]] — Quantum-powered intelligence to detect cyber threats before they strike.
+- ★ [[turkmenistan-s-medicinal-plants-app]] — Offline multilingual herbal encyclopedia with AI guidance, insights on Turkmen medicinal plants, and
+- ★ [[bloom-ml0zi8]] — Data-Driven Decisions for a Food-Secure Tomorrow
+- ★ [[upishield]] — A real-time UPI fraud intelligence system that combines graph analytics and machine learning to iden
+- ★ [[plateit-v8ptl7]] — From screen to plate: Extract any recipe from any video/text site.
+- ★ [[earthlink-ai-cf6ord]] — 🛰️ An AI agent that thinks in maps transforming raw Sentinel-2 satellite data into live, explainable
+- ★ [[intrusion-detection-in-anonymous-iot-traffic-using-ml]] — An intelligent system that detects cyberattacks in IoT networks by learning traffic patterns and ada
+- ★ [[verse-vectors]] — a dive into how poetry encapsulates emotions in clusters, and keeping a track of words or themes use
+- ★ [[collision-cloud]] — A calm, clear journey from raw CCTV footage to a complete accident reconstruction report
+- ★ [[health-monitor-it92fn]] — Measure heart rate anytime, anywhere with just your phone camera. Includes HRV analysis, facial vita
+- ★ [[forensicrag]] — A production-grade hybrid RAG system and Heretic-LLM that combines vector search, BM25 retrieval, an
+- ★ [[studymate_ai]] — “Ask. Understand. Master.”
+- ★ [[scrideo-ai-captioning-for-inclusive-access-n0u9eh]] — AI powered tool that makes videos accessible to 466M deaf and hard-of-hearing people worldwide. Uplo
+- ★ [[anyform-ai-form-builder-30au41]] — AnyForm is an AI powered, tool-first platform that lets you build complex, validated forms in under 
+- ★ [[gendetective-ai-content-detector-iy25rh]] — GenDetective is a multi-modal AI content detector that uses statistical and stylometric analysis as 
+- ★ [[heal-nest]] — “From doctor discovery to medicine delivery—healthcare, unified.” Our Motto - Healthcare access shou
+- ★ [[stubblex]] — Transform crop waste into cash with AI-driven marketplace connecting farmers to industries.
+- ★ [[neurosketch]] — NeuroSketch: An AI-powered screening tool that helps paramedical workers detect early signs of Parki
+- ★ [[greentail-9scg67]] — GreenTail turns everyday lifestyle choices into measurable climate action by tracking carbon footpri
+- ★ [[eco-quest-htuvns]] — EcoQuest is your gamified AI sustainability app. Complete eco-challenges, scan receipts, get smart s
+- ★ [[befit-cpo9tz]] — Intelligent AI-powered workout Coach
+- ★ [[hiredesk]] — HireDesk is an ML-powered hiring platform that intelligently streamlines job postings, ranks candida
+- ★ [[karvyapaar]] — karVyapaar – Digitalizing Local Commerce
+- ★ [[usaid-nsel9u]] — Experience the future before you choose it
+- ★ [[shelfengine-rv9cde]] — Local-first semantic search for your bookmarks: import once, find anything by natural language.
+- ★ [[retailsync-ai-aehob5]] — RetailSync AI is an AI-powered retail media advertisement creation platform that transforms how reta
+- ★ [[memora-nqg2ra]] — Making memories visible, making images accessible.
+- ★ [[one-mile-left]] — Projects fail not from execution, but unclear planning. Our AI turns goals into clear milestones, hi
+- ★ [[human-medicine]] — while we have advanced medical treatments for chronic illnesses like cancer and respiratory diseases
+- ★ [[octoops]] — OctoOps is a multi-agent AI project manager that understands projects, predicts risks, assigns tasks
+- ★ [[phonoscript]] — Unlock the Voice of Your Screenplay
+- ★ [[yes-ai-master-edition-r091sa]] — An unbreakable, multi‑agent, multi-brain, self-healing AI operating system. Designed to auto-failove
+- ★ [[stresssense-387p4e]] — AI-Powered Multimodal Stress Intelligence for Real-Time Mental Wellness.
+- ★ [[prescriptly-k683qm]] — Prescriptly is an AI-powered prescription assistant that digitizes medicines, explains dosages, and 
+- ★ [[repopilot-ai]] — RepoPilot anchors AI generation in your live repository, ensuring every suggestion matches your exis
+- ★ [[vitabeat-zcko7e]] — VitaBeat is an AI-powered cardiovascular screening system that combines ECG signals and clinical dat
+- ★ [[sign-cast]] — Bridging the gap between sound and sign—Real-time, Privacy-First, and AI-Powered Accessibility.
+- ★ [[sayit-a5hodz]] — SayIt is an AI-powered communication app that helps people with speech or motor impairments express 
+- ★ [[mindstep-xwlpnr]] — Free, 5-minute dyslexia screening using Gemini Vision + Chat APIs to detect early signs with 85.71% 
+- ★ [[socratic-mirror-agent-36bs5k]] — AI coach with a 3D avatar that reads your stress via webcam and adapts its teaching in real time
+- ★ [[money-council]] — Money Council gives students and young professionals instant, AI-powered financial plans. Build your
+- ★ [[ai-x-artisans]] — AI-X-Artisans: Where Global Innovation Meets Local Heritage
+- ★ [[gait-pro]] — Turn any webcam into an autonomous 24/7 caregiver. Our browser-based AI tracks daily activity, detec
+- ★ [[trishna-climate-smart-kisan-companion]] — Trishna: Multilingual AI super-app for farmers & gardeners. Get hyper-local weather alerts, instant 
+- ★ [[ecoroute-pkxwyh]] — EcoRoute is a navigation app that prioritizes the environment and takes into account transport modes
+- ★ [[cognicam-ai-powered-cctv-intelligence-platform]] — A software-only AI system that transforms CCTV feeds into real-time incident detection, behavioral a
+- ★ [[smart-retina-analyzer]] — Python-based AI tool for analyzing retinal images captured through ophthalmoscopy to detect early si
+- ★ [[seismoarch-iot-model-bvp3gj]] — SeismoArch is a building-level IoT system that detects early seismic signals and triggers real-time 
+- ★ [[medirep-ai-hnw72y]] — AI-native medical intelligence for fast, grounded decisions across chat, vision, and voice.
+- ★ [[elementum-y73s4x]] — An intelligent chemical data analyzer that extracts deep, real-time molecular insights and safety pr
+- ★ [[findx-4dvnf5]] — FindX is an AI-powered lost and found platform that uses Google Gemini AI to automatically analyze p
+- ★ [[safesteps-9x4o7i]] — SafeStep is an AI-powered care companion designed to restore dignity and joy to the caregiver-recipi
+- ★ [[aurascan_elite]] — MediVerify Pro: A secure MERN-stack platform to combat counterfeit medicine. Instant serial verifica
+- ★ [[pawpal-ai-smarter-pet-care-for-new-dog-parents]] — Empowering dog owners with instant AI health and behavior guidance to promote happier pets and healt
+- ★ [[genie-1muk2z]] — turn context into full websites
+- ★ [[lumina-legal-ai-powered-indian-legal-assistant]] — An intelligent legal assistant that instantly identifies applicable IPC and IT Act sections from pla
+- ★ [[agentic-self-healing-platform]] — What if your infrastructure could feel pain, diagnose itself, and heal autonomously? Now it can :) !
+- ★ [[dms-4096-zoejya]] — “DMS4096 is a security-first encryption system that increases cryptographic strength without sacrifi
+- ★ [[flowpilot-9s31zg]] — Design. Automate. Track.
+- ★ [[mindtrace-ai-early-cognitive-stress-burnout-indicator]] — MindTrace AI uses behavioral data and machine learning to detect early cognitive stress and burnout 
+- ★ [[padhai]] — PadhAI: From prompt to narrated and animated lectures, instantly.
+- ★ [[ndunari]] — Shielding Africa from the dual threat of counterfeit drugs and AMR through AI-driven verification an
+- ★ [[ai-tele-triage-system-d40u9x]] — AI tele-triage assistant that listens to patients, detects risk from speech and sounds, and automati
+- ★ [[pharmaledger-smart-blockchain-inventory-for-healthcare]] — PharmaTrack Lite is blockchain-powered platform that ensures transparent, tamper-proof tracking medi
+- ★ [[advision-2b04ns]] — From AI-generated ads to performance insights and side-by-side comparisons—see what works, scale wha
+- ★ [[ecotrack-ai-1zl2xj]] — An AI-powered carbon footprint tracker that turns daily activities into actionable sustainability in
+- ★ [[coreloop-vq57n8]] — Turning Proof of Work, into Proof of Good. Building a blockchain-based system that lets community vo
+- ★ [[shadowbid-r9f26v]] — ShadowBid is a fully functional sealed-bid auction protocol deployed on Solana Devnet that demonstra
+- ★ [[sympsense-observability-first-health-ai]] — A transparency-first AI health assistant that transforms symptom checking into structured, explainab
+- ★ [[safeserve-mbg]] — The unified AI command center for the Makan Bergizi Gratis program. Real-time oversight for 83 milli
+- ★ [[spark-stackable-physical-algorithms-for-robotics-kids]] — A hands-on robotics kit that teaches kids how to code using physical blocks, and real robot behavior
+- ★ [[tutorgetter-ai]] — High-integrity hiring at scale. TutorGetter AI uses video-proctored assessments to rank candidates o
+- ★ [[ai-mental-health-chatbot-jimyr9]] — AI-Powered Care, Human-Centered Support
+- ★ [[wastewise-z0edvw]] — Know if you'll actually use it- before you buy it
+- ★ [[pravasi-swasth-jao8sw]] — secure Health data like Bitcoin
+- ★ [[cardioinsight-ai-interpretable-cardiovascular-risk]] — An AI-powered cardiovascular risk prediction system that estimates 10-year CVD risk, explains key co
+- ★ [[arogyaverse-zbc98f]] — ArogyaVerse is an AI-powered health risk prediction platform that analyzes daily lifestyle and sympt
+- ★ [[greenratchet-k40npr]] — Make your cloud sustainable.
+- ★ [[medisense-2n4qpt]] — Tap, don't type—AI-powered symptom analysis that speaks your language and respects your heritage.
+- ★ [[qr-guard]] — QR-Guard is a specialized security application designed to mitigate the risks associated with Quick 
+- ★ [[gitcanopy]] — Electron-based Intelligent Git Client designed for speed, architectural clarity, stable FPS virtuali
+- ★ [[kincare-doctor]] — Early health insights. Smarter care decisions
+- ★ [[r3kon-gpt]] — An offline first Cybersecurity AI assistant
+- ★ [[urbansentinel-lrot7n]] — “Urban Sentinel: Real-time intelligence for resilient cities.”
+- ★ [[adex-adaptive-data-extraction-system]] — Adex leverages temporal redundancy in video streams to mitigate stochastic noise. By analyzing multi
+- ★ [[bubbdy-ai-lancher]] — Turn your phone into a tool, not a trap. A minimal AI launcher that feels your vibe, automates your 
+- ★ [[cartify-c7dmlr]] — AI agent that solves shopping confusion, time waste, forgetfulness & budget stress.
+- ★ [[zesty-i9vjha]] — The Unrecommendation Engine that flips your feed
+- ★ [[agroguard-ai]] — AgroGuard AI: Simple Dashboard to help farmers monitor their fields
+- ★ [[clinicact]] — ClinicAct turns doctor-patient conversations into ready-to-sign EMR actions and clear patient follow
+- ★ [[dyslexicore-evwo9p]] — Empowering neurodivergent learners through personalized skill-quests and intelligent screening tools
+- ★ [[leleaf-loop-ai]] — Our project, ReLeafLoop AI, focuses on making eco-friendly and low-cost paper using fallen leaves an
+- ★ [[mimic-bt1jr4]] — Mimic — From prompts to personalities
+- ★ [[real-time-detection-nudity-and-violence-images-2oga16]] — Real-time AI image & Video analysis to detect nudity and violence, helping keep digital content safe
+- ★ [[neuroscan-ai-shb8ag]] — An AI Powered Brain Tumor Detector for Radiologists
+- ★ [[edgeledger]] — Turn loan documents into clear insights Actionable intelligence from loan documents Understand loan 
+- ★ [[edgeledger-2-0]] — Turn loan documents into clear insights Actionable intelligence from loan documents Understand loan 
+- ★ [[stellar-insight-labs]] — AI that sees beyond the stars — accelerating exoplanet discovery through explainable machine learnin
+- ★ [[alphasharp-a7nhfm]] — AlphaSharp is a fintech decision-support and research platform designed to model market behavior, ri
+- ★ [[silent-speech-recognition-for-the-voiceless]] — When speech fails, lips speak. We use AI to convert silent lip movements into real-time text for ass
+- ★ [[dyslexicore-1r3v0a]] — Empowering neurodivergent learners through personalized skill-quests and intelligent screening tools
+- ★ [[digitwin-hsf378]] — An autonomous "Ambient Guardian" using VLMs and MoveNet. It blends vision, emotion, and web data to 
+- ★ [[localconnect-ucphiz]] — To connect local vendor and make trust between customer and vendor
+- ★ [[maskvision-crhgqa]] — Protecting people through intelligent, real-time face mask detection.
+- ★ [[sukrit]] — Where emotions meet understanding!
+- ★ [[fluxgloves-qy1g9l]] — THE INTERFACE IS YOU.
+- ★ [[verifymedai]] — Killing Ghost Networks with AI.
+- ★ [[auralysis]] — Auralysis is an AI medical imaging system that diagnoses MRI/X-ray scans, generates reports, explain
+- ★ [[evenly-0qrcyk]] — Evenly on IOS: Scan receipts, split bills fairly, and send payment requests instantly. No math, no a

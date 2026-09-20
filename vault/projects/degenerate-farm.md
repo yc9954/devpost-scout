@@ -1,0 +1,69 @@
+---
+slug: "degenerate-farm"
+url: "https://devpost.com/software/degenerate-farm"
+title: "DegenerateFarm.eth"
+hackathon: "Chainlink Fall Hackathon 2021"
+organization: "Chainlink"
+winner: true
+words: 3811
+team_size: 3
+has_repo: true
+has_live: false
+has_video: true
+tags:
+  - "project"
+  - "mechanism/provenance_signing"
+  - "mechanism/realtime_stream"
+  - "mechanism/retrieval_grounding"
+  - "domain/agriculture_food"
+  - "domain/labor_employment"
+  - "user/educator_student"
+  - "user/patient_family"
+  - "substrate/financial_record"
+  - "substrate/geospatial"
+  - "substrate/sensor_telemetry"
+  - "substrate/video_visual"
+  - "substrate/web_dom"
+---
+
+# DegenerateFarm.eth
+
+> Proxy-free upgradeable NFTs that use Chainlink VRF for both generative mints, and upgrades.
+
+[Devpost](https://devpost.com/software/degenerate-farm) · hackathon [[Chainlink Fall Hackathon 2021]]
+
+## Facets
+
+**mechanism** [[provenance_signing]] [[realtime_stream]] [[retrieval_grounding]]
+**domain** [[agriculture_food]] [[labor_employment]]
+**user** [[educator_student]] [[patient_family]]
+**substrate** [[financial_record]] [[geospatial]] [[sensor_telemetry]] [[video_visual]] [[web_dom]]
+
+**stack** bootstrap, javascript, solidity
+
+## How they structured the write-up
+
+- background
+- problem
+- solution
+- mint process
+- upgrade process
+- purpose
+- new to chainlink vrf
+- bugs found
+- step-by-step process and technical discussion
+- characters and personality
+- pig jong un
+- donald oinkler
+- che chicharrón
+- jamón castro
+- augusto cochinillo
+- hugo oincéz
+- leonid bacon
+- joseph snortin
+- queen swill ii
+- napoleon saveloy
+
+## Body
+
+DegenerateFarm's Cast of Characters DegenerateFarm's Logo Odds of Generating a Specific Background How a Degenerate Pig Is Born Token ID Format Background Degenerate Farm is based on the artistic career and vision of Russian artist Nadia Khuzina with allusions to the book Animal Farm. A survivor of the Soviet Union, political censorship, and corporate copyright infringement, Nadia began her journey in crypto from the standpoint of rights management, seeking to preserve her rights as an artist. Her artwork covering North Korea, and Kim Jong Un, was ranked ahead of Bitcoin in South Korea's Gentleman Magazine in 2013, and her derivative app Slot Dictator was covered in the main Chinese newspapers. Nadia was a co-founder, and the sole artist of EtherCats.io, the first NFT project to use Chainlink VRF. This project was a bid to bring people together away from the divisive politics inflamed by the global pandemic, but with Degenerate Farm, it serves as a progression to unite under the original ideological principles of crypto. While EtherCats brought some of the most spectacularly animated NFTs to the market in a provably random way, and brought along with it other NFT innovations, it lacked the ability to be upgraded. EtherCats also did not allow for random generative properties of the cats. They came with only a rating and multiplier with the intent to be used in a card game (currently being play tested). It was a proof of concept of sorts for Chainlink VRF, and the rapidly growing need for a unique digital identities became much more clear shortly thereafter. Problem While the ERC721 and ERC1155 are permissive standards that allow for mutable metadata, it has not yet been agreed upon how upgrades in real time to NFTs should best be carried out. Current upgradeable patterns revolve around redemptions for different tokens, proxy contracts, and simply minting new tokens. All of these strategies impact the provenance of the NFT, and make it difficult to understand for the end user what is what. Solution Degenerate Farm turns that on its heads with the novel process of how it tracks upgrades. It also iterates on the pattern of using the token ID to be the properties of the NFT itself. Instead of rending the NFT as an image, it takes advantage of the animation_url metadata property to render the NFT as an HTML5 app with a conglomerated group of sprites that are chosen from the JavaScript file by reading the filename (which is the token ID). The idea of making the NFT as a web app was first used by Ether Cards (which this project will be merging with after the hackathon), but with Degenerate Farm we take it further by embedding AlchemyWeb3.js into the NFT. These calls go directly to the mapping of each unique ERC721 token ID's upgrades and are rendered in real time on the NFT. Alchemy's reliability is important because without it, the NFTs will fail to display the upgrades. Mint Process The hackathon release will feature the first animal of the project, pigs. In future releases (on Ether Cards), different animals and characters will be available for minting. The pigs are limited to 1024 total NFTs. To reward DegenerateFarm.eth, EtherCats.io, and Ether Cards fans, we will mint the first 16 pigs to be given away in different pre-published ways. This is necessary because in order to activate our OpenSea collection beforehand, we need to mint ourselves first. It would not be fair to hold back these low numbered pigs for ourselves later. It is easiest to give them away. When a user mints a pig, it sends a request to Chainlink VRF to call the contract back with a random number. Only the VRF coordinator can actually call the function that triggers the mint function. This means there is a delay between when a user's mint transaction is confirmed, and the NFT is actually minted. There also is an additional delay if you want to see it on OpenSea, because OpenSea must then ingest the NFT into their system by parsing the metadata. This is very processor intensive so in peak periods it can take up to an hour, although usually it takes about 1 minute. The mint function takes the returned random number and uses that to build the pig. Each token ID has 10 property numbers, and the token ID itself prepended to that. This means that each pig will have a incremental order of mint in the name of the NFT, and will also come with all the properties that make up the pig. Most of the generative parts of the pig are linear. We have 10 sprites for each relevant body part. This is to keep things simple with the contract, and avoid modulo bias in the least amount of gas. Chainlink VRF currently has a 200,000 gas limit. That means you have some constraint in the operations you can do in calculating the properties of an NFT. In this case, we have a lookup table for only the background, which has offers a 1 in 100 chance of getting a Level 10 background, along with an increasing difficulty up to that point for the other levels. The subsequent properties are all a linear 1 in 10 to get. Once the pig is minted by the VRF coordinator calling back, NFT indexers like OpenSea will see the mint event and begin to parse the metadata. In EtherCats, we enumerated all possible token IDs and pre-published them on IPFS. Degenerate Farm, however, has zillions of possible permutations in the token ID, or more specifically 1024 * 10^10. We were already at the limits of IPFS with 4,500 EtherCats metadata files. The only solution is an API, which unfortunately has to be centralized at this point in time, at least for the duration of minting. Our API is quite simple and uses AWS Lambda. The biggest problem with a centralized API thankfully isn't censorship just yet, but a DDoS attack. AWS has advanced tools for rate limiting, and distributing things to make it harder to pull off. When called, the API replies with the JSON metadata of the token ID requested. Instead of generating all possible combinations of token IDs, we only build the one requested, and only when requested. There's one small, but clever step before anyone fetches the metadata for the pig, and that's the HTML file generation. We also use Alchemy on our nodejs backend to listen for mint events. When a pig is minted our server automatically generates an HTML file that is linked to in the metadata. The clever part is that every HTML file for each and every pig is exactly the same. The only difference is the name of the HTML file. The base script can build any pig. It does this by reading the file name from the HTML file, which you guessed it, is the token ID. This means that once you build one pig, you've built them all. The token ID is just the input. After minting is finished, both the base metadata URI, and HTML files can be pointed to IPFS. Once everything is done that needs to be done in the project, then the ability to change the pointer can be permanently disabled in the contract. Upgrade Process Upgrading is the hook of this hackathon entry besides the wonderful art. Generative pigs are fun, but leveling up your pig, and trying to get the highest score is what will keep people interested. Having rarity be a dynamic thing encourages people to participate and reach limited time rewards milestones not present in other generative projects. After a pig is minted it starts with 1,000 chips, depicted in the NFT as a single yellow 1,000 chip, and a random card hand. These cards come from a random 1,000,000 card shoe, meaning it is possible to have duplicate cards of the same suit. If the hand happens to be two aces, then a 25,000 plaque is awarded. In this case it will start with 26,000 points. When an owner upgrades their pig, they ask Chainlink VRF for another number. After the VRF coordinator calls back, the contract maps the request so that when the VRF coordinator calls back that it triggers an upgrade. When the upgrade function is called, they get an extra chip added to their stack (1,000 for the first 100 chips, and 5,000 after that up to a maximum of 600,000 total chips). Then they get an entirely new card hand each time they upgrade. If on any hand they get aces, the pig gets a 25,000 plaque added. It's not so simple to max out the stack of plaques though. Once you get three plaques, you will need your aces to have matching suits in order to level up the plaque. (Aces without matching suits are still added to the total aces count.) If you are lucky enough to acquire seven plaques, it then gets very difficult to continue your journey to the maximum 10 plaques. You will need to get matching diamond aces to top up your stack of plaques further. While the total chip stack is intended as the main rarity metric, the stats of total aces, matching aces, and diamond aces are tracked for the purpose of rarity tie-breaking. If there are two pigs with the maximum number of chip/plaques, then the pig with the most diamond aces will be the rarest. If the total of aces is still tied, then the pig with more matching aces is considered rarest, and if that is also tied, then it is resolved by the total aces count. If the tie still cannot be broken, then the pig with the lower mint number will edge out the other. The rarity ranking is just for fun, but might be used as the basis for giveaways, airdrops, and access to certain products in the future. (Note: Below is a technical step-by-step explanation of how this process functions in tutorialized form, including how we use Alchemy for Web3 calls from inside the NFT.) Purpose The main purpose of this hackathon entry is to show an alternate way of engineering NFT upgrades in a verifiably random fashion. Like the EtherCats Founders Series, it is a demonstration of what's possible more than a perfection of the technology. We hope this project will influence the thought of not only creators, but infrastructure providers like Alchemy in developing solutions to issues faced by NFT projects in the future. New to Chainlink VRF The official docs of Chainlink VRF do not tell people that they can use VRF for different function calls. We believe our code should be added as an example of how to differentiate callbacks to fulfillRandomness, which is the only function the VRF Coordinator can call. //The VRF Coordinator only calls the function named fulfillRandomness. It doesn't know whether it is providing a random number for a mint or an upgrade. The contract must interpret this from the requestID by checking which mapping it is a part of. function fulfillRandomness(bytes32 requestId, uint256 randomNumber) internal override { require(msg.sender == vrfCoordinator, "Only the VRF Coordinator may call this function."); if (tokenToUpgrade[requestId] != 0) { upgradePig(tokenToUpgrade[requestId], randomNumber); } else { mintPig(minterAddress[requestId], randomNumber); } } Bugs Found 1) The animation_url isn't respected as the preview image on indexers like OpenSea. This means OpenSea shows a blank image on mint. We have finished a local version that listens for events and builds a preview image of the minted pig, but need more time to implement on the backend. The need for this is moot once minting is complete, so it is not a top-priority as nobody is going to sell on OpenSea before minting finishes. 2) Alchemy and OpenSea did not imagine such a pattern, so we are working with them to fix both API whitelisting and UX. We hope our project is successful so they can progress forward with the gamified future of NFTs. 3) Web3 is a bit of a joke for login management. While we have used socketio and nonce message signing to authenticate users, DegenerateFarm only needs to know the root account logged in and the network. Unfortunately, our code that worked in the past we realized had some issues. Web3 also doesn't allow for a dapp to log people out. That can only be a user choice. This makes managing state challenging. There are third party services that simplify this, but at the expense of decentralization, so we spent some time refactoring. 4) WebKit. Y

@@ -1,0 +1,48 @@
+---
+slug: "app-reviews"
+url: "https://devpost.com/software/app-reviews"
+title: "App Reviews"
+hackathon: "Codegeist 2021"
+organization: "Atlassian"
+winner: true
+words: 1422
+team_size: 1
+has_repo: false
+has_live: true
+has_video: true
+tags:
+  - "project"
+  - "domain/developer_tools"
+  - "domain/finance_payments"
+  - "domain/supply_logistics"
+  - "user/developer"
+  - "substrate/structured_db"
+---
+
+# App Reviews
+
+> Make better roadmap decisions, prioritize what to build next, and understand what users need based on your app reviews. Share updates with your users by replying to their reviews without leaving Jira!
+
+[Devpost](https://devpost.com/software/app-reviews) · hackathon [[Codegeist 2021]]
+
+## Facets
+
+**domain** [[developer_tools]] [[finance_payments]] [[supply_logistics]]
+**user** [[developer]]
+**substrate** [[structured_db]]
+
+**stack** apollo, atlaskit, forge, framer-motion, hasura, rds, react, s3, typescript, vite
+
+## How they structured the write-up
+
+- inspiration
+- what it does
+- how we built it
+- challenges we ran into
+- accomplishments that we're proud of
+- what we learned
+- what's next for app reviews
+
+## Body
+
+Inspiration The mobile team I previously worked with was very obsessed with customer reviews, and that paid off well. Our app had over 125k users, more than 1k reviews, and a rating of 4.7 ⭐. Things didn't look that pretty internally. We did use a review management platform, but the team had to jump between our project management software and the platform so we can tag reviews as we receive them. We would then use these tags to send out replies to customers to notify them of feature releases and bug fixes. Oh, and we had to do that manually since bulk replies were locked behind an Enterprise plan, which our tiny team couldn't afford. What it does App Reviews addresses all our pain points and more! 🗃️ Unify your feedback channels Aggregate and analyze user reviews for all of your apps across all app stores and have them translated into a language you understand. Allow your users to provide input directly into your backlog, get actionable feedback, and use it to inform product decisions! 🔗 Link reviews with your roadmap Ever spent a lot of time, effort, and budget on a feature that users didn’t really care about? App Reviews makes it easier to actually understand user needs from their point of view based on real and relevant customer feedback. It also helps you gather more contextual insights so you can spend less time troubleshooting and more time getting bugs fixed. 💬 Reply effortlessly People who leave a negative review are likely to change it to a positive one when they feel listened to. We make it easy to close the feedback loop and show your users that you care by allowing you to respond to their reviews directly from Jira! 📄 Increase productivity with reply templates Deliver replies with a consistent tone, no matter who’s writing! Increase your CX team's productivity by reusing your best performing templates, streamline your workflows and reduce your team's response times! 🪄 Send personalized replies using variables Create advanced templates and send powerful replies that sound natural. Use variables to grab details from the review and manipulate them using filters. You can also add conditions to apply custom logic and make each response unique. App Reviews would have entirely replaced our review management platform and the existing workflow, which would dramatically reduce the time and money we spent maintaining that! How we built it While Forge supports other web frameworks as well, we chose React mainly to be able to use Apollo's hooks to send GraphQL queries and mutations. React also allowed us to take advantage of Atlassian's AtlasKit, which we used for two obvious reasons: because it shaved significant time off of our development process, and to provide users with an experience that is consistent with their favorite project management software. Aside from that, we have made some early technical decisions that turned out to be the best bets we ever made! Hasura I always hated abstractions, no one wants to have less control over software they're already familiar with... But Hasura was different: It connects to your own Postgres instance, has minimal lock-in and you could even self-host it! The main reason that led us to try Hasura initially was the realtime features, which we needed to allow mobile teams to collaborate more efficiently on handling their user reviews. It also offered super granular access control, which was huge for us since there was a distinction between Jira admins and other roles. The use of standards like GraphQL and JWT was also a plus, since they were common and we were able to generate scoped tokens and send queries/mutations from Forge functions without any issues! Vite It felt safer to just rely on the CRA toolchain to build our Forge app but we really wanted to see what the hype was about. So, how fast was Vite? Blazingly fast! This was probably the most impactful transition, since our CRA setup would start the dev environment in ~9 seconds while Vite would take less than a second! Vite also offered almost instant updates when we edited our project files. npm workspaces Forge's structure works really well with this architecture! Monorepos helped us share common assets and components between the different Forge modules which helped reduce repetition and enable powerful features like updating dependencies across modules using 1 single command. The workspaces setup and Vite's dev server config also allowed us to run our Forge modules concurrently on different ports, which are mapped to their corresponding resources in our Forge manifest . This allowed us to have all our Forge modules up and ready in seconds by only running npm run dev in the project's root folder! Did I just build the perfect React x Forge development environment? Challenges we ran into The original plan was to build direct integrations with all major app stores, only to find out that this wasn't an easy task since Apple offered APIs to allow developers to manage almost everything about their apps, except reviews... Review management platforms used some hacky workarounds where they would ask for your Apple ID and password, implementing that would have been a compliance nightmare for us. These platforms also offered APIs and most mobile teams are already familiar with them, so we decided to integrate them instead! When it comes to Forge, it's actually more mature than ever and it always keeps improving! There are even some Forge features that shipped during the development that we wouldn't launch without today: Automatic resizing for custom UI apps (17 August 2021) This one was a huge improvement to the user interface, we had to rely on some nasty scrollbars before this was implemented. Forge Secure Storage API (7 September 2021) I actually wasn't aware that Forge had a storage API until recently, storing platform credentials in our database would have been a concern for our users. Glad that was released before the deadline! Accomplishments that we're proud of Integrating all these different APIs and making the authentication experience consistent wasn't easy, but this one is particularly impressive: It took me less than 24 hours to implement reply templates! Gotta give credit to AtlasKit for making it significantly easier to build complex UIs, but the crazy part is that this feature alone would usually cost mobile teams an extra $69-$99 per month to use on other platforms... 🤯 What we learned Codegeist was a great opportunity to get up to date and explore all these new tools. It also changed my perspective on the web development landscape! Vite got me excited to see how new web standards keep improving our tooling, and Forge was also an inspiration and proof that we can build secure integrations for enterprise cloud platforms without sacrificing the developer experience. Outside of my skillset? I spent 14 hours last week switching between Adobe Photoshop and Davinci Resolve to create that 3 minutes video. I learned a lot during the process and I enjoyed every bit of it! That was just me trying to make the most out of Codegeist when I decided to do it myself :D What's next for App Reviews We only built mobile apps for Android, so implementing the Google Play Console integration alone would have eliminated our pain points and would satisfy the hackathon's requirement for an app that addresses an internal need, but we went out of our way to integrate a bunch of other review management platforms because we knew that other mobile teams have similar workflows, and we had to support apps from other app stores to enable those teams to use our Jira integration. Mobile leaders including Snapchat, Lyft and Discord are already using these platforms; And while they already offer integrations for tools like Trello, Tableau and Zendesk, none of these platforms supported Jira. Well, we fixed that! And we're hoping that this would make Jira an enticing choice for mobile teams. That is why the next step for us would be getting App Reviews listed on the Marketplace so it can be discoverable by a wide range of other mobile teams. We already started working on that and it should be available to install from the Marketplace in a few weeks! Since App Reviews is something that I use personally, I don't see myself stopping the development anytime soon, and I actually have a bunch of features planned for it like auto-replies on status change and more integrations with other platforms. Super excited about what the future holds for App Reviews! <div

@@ -1,0 +1,71 @@
+---
+slug: "anyform-ai-form-builder-30au41"
+url: "https://devpost.com/software/anyform-ai-form-builder-30au41"
+title: "anyform(AI form builder)"
+hackathon: "Frostbyte Hackathon"
+organization: "FrostByte Club"
+winner: true
+words: 2182
+team_size: 1
+has_repo: false
+has_live: true
+has_video: true
+tags:
+  - "project"
+  - "mechanism/cross_origin_web"
+  - "mechanism/measured_ablation"
+  - "mechanism/on_device_local"
+  - "mechanism/provenance_signing"
+  - "mechanism/realtime_stream"
+  - "mechanism/retrieval_grounding"
+  - "mechanism/structural_withholding"
+  - "mechanism/vision_ocr"
+  - "mechanism/voice_speech"
+  - "domain/accessibility"
+  - "domain/developer_tools"
+  - "domain/education"
+  - "domain/finance_payments"
+  - "domain/immigration_refugee"
+  - "domain/security_privacy"
+  - "user/developer"
+  - "user/educator_student"
+  - "user/small_business"
+  - "substrate/code_repository"
+  - "substrate/document_pdf"
+  - "substrate/financial_record"
+  - "substrate/geospatial"
+  - "substrate/structured_db"
+  - "substrate/transcript_audio"
+  - "substrate/video_visual"
+  - "substrate/web_dom"
+---
+
+# anyform(AI form builder)
+
+> AnyForm is an AI powered, tool-first platform that lets you build complex, validated forms in under 30 seconds just by describing them no drag-and-drop required
+
+[Devpost](https://devpost.com/software/anyform-ai-form-builder-30au41) · hackathon [[Frostbyte Hackathon]]
+
+## Facets
+
+**mechanism** [[cross_origin_web]] [[measured_ablation]] [[on_device_local]] [[provenance_signing]] [[realtime_stream]] [[retrieval_grounding]] [[structural_withholding]] [[vision_ocr]] [[voice_speech]]
+**domain** [[accessibility]] [[developer_tools]] [[education]] [[finance_payments]] [[immigration_refugee]] [[security_privacy]]
+**user** [[developer]] [[educator_student]] [[small_business]]
+**substrate** [[code_repository]] [[document_pdf]] [[financial_record]] [[geospatial]] [[structured_db]] [[transcript_audio]] [[video_visual]] [[web_dom]]
+
+**stack** cloudinary, gemini3, next, postgresql, pusher, resend, tailwind, typescript, vercel
+
+## How they structured the write-up
+
+- inspiration
+- what it does
+- how i built it
+- challenges i ran into
+- accomplishments that i'm proud of
+- - < 3 clicks to accomplish any task
+- what i learned
+- what's next for anyform
+
+## Body
+
+Landing page User Dashboard page Form Builder page Form Settings page Form Analytics page Privacy Settings page Form Sharing options Inspiration The inspiration for AnyForm came from watching non-technical users struggle with existing form builders. Teachers wanted to create quizzes but got lost in dropdown menus. Event organizers needed registration forms but spent hours on setup. Small business owners needed contact forms but hired developers instead. What it does AnyForm is an AI-powered form builder that transforms natural language into fully functional, production-ready forms in seconds. 🎯 Core Features: 1. Revolutionary Voice Mode (Unique Feature!) 🎤 Speak your form requirements hands-free Smart auto-stop after 3 seconds of silence Real-time transcription with audio visualization Works on all devices (mobile + desktop) Zero backend configuration - runs entirely in the browser No API keys needed for speech recognition 2. Multiple Input Methods Voice Mode : Speak your form requirements (hands-free!) Text : Type your requirements naturally File Upload : Upload documents, CSVs, or PDFs URL Import : Scrape content from websites Image Scan : Take a photo of a paper form and convert it 3. Natural Language Form Generation Describe your form in plain English AI understands context and creates appropriate fields Automatically generates validation rules and logic 95%+ accuracy in understanding user intent 4. Intelligent Form Types Contact forms Registration forms Surveys & feedback Quiz mode with automatic scoring Multi-step forms with progress tracking Conditional logic (show/hide fields based on answers) 5. Advanced Features Real-time Collaboration : Multiple users can edit simultaneously Smart Scheduling : Auto-open/close forms at specific times Response Limits : Limit to one response per user Analytics Dashboard : Track submissions, completion rates, and insights Export Options : Download as JSON, CSV, or integrate with Google Sheets Embed Anywhere : Generate embed codes for any website How I built it 🏗️ System Architecture: The architecture consists of three main layers: Client Layer : Next.js app with React components, running on Vercel Edge AI Layer : Natural language processing for intelligent form generation Data Layer : PostgreSQL database with Prisma ORM Tech Stack: Frontend: Next.js 16 (App Router) - React framework with server components TypeScript - Type safety throughout the entire codebase Tailwind CSS - Custom "paper wireframe" theme with hand-drawn aesthetic React Hooks - State management (useState, useEffect, useCallback, useMemo) Backend: Next.js API Routes - Serverless functions deployed on Vercel Edge Prisma ORM - Type-safe database access with auto-generated types PostgreSQL - Production database (Vercel Postgres) NextAuth.js - Authentication with Google OAuth and credentials AI Integration: Google Gemini 3 API - Natural language processing and form generation Function Calling - Structured JSON output for reliable form generation Vision API - Image analysis for scanned forms (OCR) Embeddings - Semantic search and context understanding Voice Technology (The Game-Changer): Web Speech API - Browser-native speech recognition (zero backend!) Web Audio API - Real-time audio level visualization Custom React Hooks - Voice state management and auto-stop logic Mobile Optimizations - iOS/Android specific handling Real-Time Features: Pusher - WebSocket-based real-time collaboration SWR - Data fetching with caching and revalidation 🔧 Key Implementation Details: 1. Zero-Config Voice Mode (Main Innovation): The voice mode works entirely client-side with zero backend configuration: User Speech → Web Speech API → Text Transcript ↓ AI Processing → Form Structure → React Components Key Innovation: Smart auto-stop detects 3 seconds of silence and automatically stops recording, making it feel natural and intuitive. No need to manually click "stop"! Why this matters: No server costs for speech processing Works instantly on any Vercel deployment Privacy-first (speech never leaves the device) Works offline for voice capture (processes online) 2. Mobile Voice Optimizations: Mobile browsers have drastically different speech recognition implementations: iOS Safari: // iOS doesn't support continuous mode recognition.continuous = false; // Auto-restart after each utterance recognition.onend = () => { if (shouldKeepListening) { setTimeout(() => recognition.start(), 300); } }; Android Chrome: // Continuous mode works but needs restarts recognition.continuous = true; // Handle unexpected stops recognition.onend = () => { if (shouldKeepListening && restartAttempts < 5) { setTimeout(() => recognition.start(), 150); } }; 3. Smart Form Generation Pipeline: When you describe a form, the system: Analyzes user intent and context Generates appropriate field types (text, email, number, date, dropdown, etc.) Adds validation rules automatically (email format, required fields, min/max values) Creates conditional logic when needed Suggests quiz scoring if educational context is detected 4. Real-Time Collaboration Architecture: Implemented operational transformation for conflict-free editing: Optimistic UI updates for instant feedback "Last write wins" conflict resolution Visual indicators for collaborator presence < 100ms latency for updates 5. Performance Optimizations: Lazy loading : Voice module loads on demand (~35KB, only when needed) Code splitting : Separate bundles for different features Debounced updates : Interim transcripts debounced to 100ms Optimized audio processing : FFT size of 64-128 for efficient monitoring Memoization : React.memo and useMemo to prevent unnecessary re-renders Challenges I ran into 1. Voice Recognition on Mobile Browsers Problem: iOS Safari doesn't support continuous voice mode, causing recognition to stop after each utterance. Android had its own quirks with unexpected timeouts. Solution: Device detection with user agent sniffing Platform-specific implementations (iOS single-shot, Android continuous) Auto-restart mechanism with retry logic (exponential backoff up to 5 attempts) Battery-efficient audio monitoring (150ms intervals on mobile vs 50ms on desktop) Graceful degradation with clear error messages This was the hardest challenge - making voice work seamlessly across all devices without any backend dependency. 2. Smart Auto-Stop Algorithm Problem: How do you know when someone is "done" speaking? Too short and you cut them off. Too long and the experience feels laggy. Solution: Implemented 3-second silence detection threshold Audio level monitoring with Web Audio API Visual feedback showing silence countdown Different thresholds for mobile (3.5s) vs desktop (3s) due to processing differences User testing with 50+ people to fine-tune timing 3. AI Response Consistency Problem: AI sometimes returned forms in inconsistent formats, making it difficult to reliably parse the output. Solution: Strict JSON schema validation using Zod Function calling to enforce structured output Fallback parsing with error recovery for edge cases Comprehensive prompt engineering with examples Multi-attempt parsing with progressive relaxation of requirements 4. Real-Time Collaboration Conflicts Problem: Multiple users editing the same form simultaneously caused data conflicts and race conditions. Solution: Operational transformation for conflict-free editing Optimistic UI updates for instant feedback Conflict resolution strategy with "last write wins" Visual indicators for collaborator presence and cursor positions Transaction-based updates to prevent partial states 5. Performance with Large Forms Problem: Forms with 50+ fields caused slow rendering and poor UX. Solution: Virtualized long form lists (only render visible items) Lazy loaded form builder components Memoized expensive computations Prevented unnecessary re-renders with React.memo Reduced bundle size from 280KB to 145KB with code splitting 6. Embed Security & Cross-Origin Issues Problem: Embedded forms needed to work across domains without security vulnerabilities. Solution: Proper CORS headers for cross-origin requests Iframe-based embedding with sandboxing Content Security Policy (CSP) headers Isolated embedded forms from parent page scripts XSS protection with input sanitization Accomplishments that I'm proud of 🏆 Technical Achievements: 1. Industry-First Zero-Config Voice Mode Works on Vercel without any backend setup No API keys needed for speech recognition 100% browser-native technology Works flawlessly on iOS Safari, Android Chrome, and desktop browsers Smart auto-stop with 3-second silence detection 2. Exceptional User Experience < 500ms voice activation (from click to recording) < 1000ms transcription latency (speech to text) < 3 seconds average form generation time 95%+ accuracy in understanding natural language Real-time visual feedback for all interactions 3. Mobile-First Voice Implementation Device-specific optimizations for iOS and Android Battery-efficient audio monitoring Graceful fallbacks for unsupported browsers Touch-optimized UI (48px minimum touch targets) Works in both portrait and landscape orientations 4. Production-Ready Real-Time Collaboration Multiple users can edit simultaneously without conflicts Instant updates across all clients (< 100ms latency) Operational transformation for conflict-free editing Visual presence indicators showing active collaborators Works with 100+ simultaneous users (stress tested) 5. Clean, Maintainable Codebase TypeScript throughout (100% type coverage) Comprehensive error handling with user-friendly messages Accessibility features (ARIA labels, keyboard navigation, screen reader support) SEO optimized (meta tags, sitemap, robots.txt) Lighthouse Score: 95+ (Performance, Accessibility, Best Practices, SEO) 🎨 Design Achievements: 1. Unique "Paper Wireframe" Theme Hand-drawn aesthetic with Patrick Hand font Black & white color scheme (clean and professional) No shadows, clean 2px borders Consistent 8px spacing grid Stands out from generic SaaS designs 2. Intuitive User Experience One-click form creation (no multi-step wizards) Inline editing (no modal popups) Progressive disclosure (advanced features hidden until needed) Clear visual feedback for all actions - < 3 clicks to accomplish any task What I learned 1. Browser APIs Are Incredibly Powerful The Web Speech API enables voice recognition with zero backend Web Audio API provides real-time audio analysis and visualization Browser capabilities often exceed what developers think is possible Platform differences (iOS vs Android) require significant adaptation 2. Voice UX Requires Obsessive Attention to Detail 3-second silence detection feels natural through extensive user testing Mobile browsers have significant quirks that must be handled individually Users expect instant feedback (delays kill the experience) Error messages must be device-specific and actionable Visual feedback is essential (users need to know the system is listening) 3. AI Integration is More Than Just API Calls Prompt engineering significantly impacts output quality and consistency Structured outputs (function calling) are essential for reliability Schema validation catches edge cases and prevents errors Fallback strategies are critical for production readiness Few-shot learning with examples dramatically improves results 4. Performance Optimization Has Compounding Returns Lazy loading saved 35KB but also improved perceived performance Debouncing prevents excessive re-renders (100ms sweet spot) Code splitting enabled faster initial page loads Memoization prevents unnecessary React re-renders Every 100ms improvement increases user satisfaction measurably 5. Real-Time Features Transform User Experience WebSockets enable magical collaborative experiences Optimistic updates make apps feel instant Presence indicators create social connection Conflict resolution is complex but essential Latency < 100ms feels synchronous to users 6. Accessibility Cannot Be A

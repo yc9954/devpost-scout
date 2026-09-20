@@ -1,0 +1,52 @@
+---
+slug: "people-2-people-disaster-relief-and-response"
+url: "https://devpost.com/software/people-2-people-disaster-relief-and-response"
+title: "People 2 People - Disaster Relief and Response"
+hackathon: "Quick Base Virtual Hackathon"
+organization: "Quickbase"
+winner: true
+words: 1437
+team_size: 1
+has_repo: false
+has_live: true
+has_video: false
+tags:
+  - "project"
+  - "mechanism/structural_withholding"
+  - "domain/agriculture_food"
+  - "domain/disaster_emergency"
+  - "domain/finance_payments"
+  - "substrate/sensor_telemetry"
+  - "substrate/video_visual"
+---
+
+# People 2 People - Disaster Relief and Response
+
+> People 2 People is a collection of integrated Quick Base apps to collect both food and financial donations and distribute meals and financial support to those hit hard by natural disasters.
+
+[Devpost](https://devpost.com/software/people-2-people-disaster-relief-and-response) · hackathon [[Quick Base Virtual Hackathon]]
+
+## Facets
+
+**mechanism** [[structural_withholding]]
+**domain** [[agriculture_food]] [[disaster_emergency]] [[finance_payments]]
+**substrate** [[sensor_telemetry]] [[video_visual]]
+
+**stack** api, automations, connected-tables, cross-app-tables, eoti, icon-library, json, mailchimp, pipelines, quickbase, restful-api
+
+## How they structured the write-up
+
+- inspiration
+- what it does
+- how we built it
+- pipelines:
+- json restful api wrapped in pipelines
+- quick base features:
+- challenges we ran into
+- accomplishments that we're proud of
+- what we learned
+- what's next for people 2 people - disaster relief and response
+
+## Body
+
+People 2 People Logo People 2 People Solution Architecture Diagram People 2 People Solution Stack Inspiration Local Disaster Relief Applied on a Global Scale Leveraging our prior experience in the Houston, TX, with gulf coast Hurricanes, COVID-19 disasters and local support and relief efforts, and our experience activating restaurants, donors, and supporters in the local community to meet real financial and nutritional needs, we wanted to build something on a grand scale that could be leveraged to support disaster relief around the country, and potentially around the globe. What it does Our People 2 People Application Stack is an integrated collection of 5 apps to: 1) track disasters 2) collect meal and financial support applications from people in need 3) collect resource partners to supply food and donations for financial relief 4) provide meal support management...matching food requests with partners supplying food support 5) provide financial support management...matching financial support requests with donations received from financial support partners How we built it We met as a team to brainstorm what could be a world-changing application, especially in light of recent disasters such as hurricanes, devastating fires, and the Covid-19 pandemic. During this process, we decided that one app wasn't sufficient to handle the scope and scale of what we wanted to achieve. So, we collaborated to design a 5-App integrated solution that together would allow people to help people using a highly efficient and scalable model. Our Disaster Tracker app, allows us to manage and track disasters around the globe. Each Disaster entry feeds into the other apps so this one application and its data can be leveraged across our solution. Changes in this app are seen in the others making it highly scalable and efficient. Our "People in Need" Collector app uses an Everyone On The Internet form to receive applications for food and/or financial support, associated with an active disaster. Our "Resource Partner" Collector app uses an Everyone On The Internet form to receive food and financial support donations from "partners" around the globe, also associated with an active disaster. Related Disasters flow INTO these collector apps. Applicants, Partners, and Disasters flow into our two Management apps. We built a Meals Support Management app to receive the applicants needing meal support and partners offering to supply meals. We built a review, approval, and meal pickup process, driven by dashboard reports to guide response team work and to efficiently schedule meal pickups for people in need. We built KPI dashboards to monitor the aggregate numbers. We built a Financial Support Management app to receive the applicants needing financial support and partners donating money for a particular disaster. We built a review, approval, and financial disbursement process, driven by dashboard reports to guide response team work and to efficiently distribute money to people in need. We built KPI dashboards to monitor the aggregate numbers. To centralize and see the big picture results, we connected and summarized Disaster related metrics from our management apps back up to the Disaster Tracker app. This allows our team to see how many families we’ve helped and how many partners have supported our efforts, both on a per-disaster basis, as well as in aggregate for all disasters being tracked. Since we were building a 5-app, integrated solution, using consistent branding, logos, page layouts, and styling across all 5 apps was paramount. We used a separate icon/image app to make future logo and branding changes possible in one place. We wanted users of the system to not have to think about learning multiple apps, but rather focusing on helping connect “People 2 People”. And so we also built navigation buttons within each app to the other apps to allow team members to move back and forth as needed. Instead of feeling like 5 separate apps, it feels and works like a cohesive system, creating “application transparency”. We also added pipelines integration between the applicant and partner collector apps to mailchimp to enable email updates on a campaign level. Pipelines were also used to sync new entries from one app to the others. In all, the following technologies and solutions were built into our apps: Pipelines: Everyone On The Internet (EOTI) Form Collection to Mailchimp Integration Table to Table Import JSON RESTful API wrapped in Pipelines Quick Base Features: Cross-App Relationships Connected Tables Automations to Create Child Records for Relief Disbursement Dashboards, KPIs, Notifications, Search Boxes Everyone On The Internet (EOTI) Forms Dynamic Form Rules to Ease Data Entry and Guide User Custom Branding with Logo, Color Scheme, and Consistently Styled Tabs and Buttons Centralized Icon/Image App for Consistent Branding Customized Roles and Permissions Challenges we ran into Time Time was always a factor. There never seems to be enough of it. We planned a schedule for our entire team to work together each week and feel like we always ran out of time. It was only through consistent work over the hackathon development period that we were able to get it all done in time. Communication While our team worked together during our hackathon working sessions, due to covid not everyone was in the office all at the same time. And team members were working on different parts of the system concurrently. Since information was flowing from one app to another, making sure the sender/receiver were talking and on the same page was challenging at times. Lastly, knowing the completion status of various parts during the project wasn’t obvious. We used email, hangouts, and google docs to keep everyone working together. Thought Leadership Getting everyone on the same page with the “vision”, and translating that vision into reality was a challenge. We had to listen to one another and ask questions to make sure we all “got it”. We had to be vigilant against making assumptions about certain details, how it was going to work, etc. Managing Scope and Quality Control We had to delicately balance scope and quality control. Ie. We wanted to do so much, and so much more. We had to continually ask “can we get this done in time” while making sure the enhancements could be executed well. At several points during development, we had to say “let’s do this part next time”, so we could focus on making what we DID do an awesome experience. In other words, we were tempted to overreach, and possibly end up with a bigger system full of problems. We managed the scope well so we could deliver a great solution that worked well. Accomplishments that we're proud of We are exceptionally proud of how our team worked together. We leaned on each person’s unique gifts and abilities. We didn’t step on each other’s feet. We ended up building not 1 app, but 5 apps...integrated together into a cohesive whole. Like each team member, each part of our solution serves a highly valuable and distinct purpose, and when brought together, focused on a common purpose, the result is magical! What we learned By considering the scale of the solution we were working to build, it also gave us a greater awareness of needs around the world. It got us thinking about problems we can solve as active participants in our community. It helped us see people in different parts of the world, regardless of gender, race, ethnicity, or affiliation, as one people...all trying to live our lives, with our families...in safety and security, with food on our table, and enough money to pay our bills. And when such lives are upended due to a natural disaster, loving people come together to care for one another in our time of need. Creating a solution that enables people to help people is a worthy pursuit. What's next for People 2 People - Disaster Relief and Response One of our specialties at VARC Solutions is connecting Quick Base to QuickBooks for accounting purposes. And since our Disaster Relief and Response system receives money and disburses money, a natural next step would be to connect Quick Base to QuickBooks to streamline our accounting department workflow. Syncing donations to QuickBooks and syncing disbursements to QuickBooks to ensure our “checkbook” continues to balance each month would be awesome. We can also see how integrating Tsheets with Quick Base to track volunteer hours back to each disaster would allow us to communicate to donor partners the efficiency of our operation. Creating a tight integration between our app and social media would not only give us another channel to reach people in need, but would also give us a worldwide audience upon which to raise awareness, tell our humanitarian story, and facilitate connecting people with resources to meet those needs. <div

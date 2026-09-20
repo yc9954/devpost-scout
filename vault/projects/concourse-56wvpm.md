@@ -1,0 +1,50 @@
+---
+slug: "concourse-56wvpm"
+url: "https://devpost.com/software/concourse-56wvpm"
+title: "Concourse"
+hackathon: "DigitalOcean Gradient™ AI Hackathon"
+organization: "DigitalOcean"
+winner: true
+words: 1368
+team_size: 1
+has_repo: false
+has_live: false
+has_video: false
+tags:
+  - "project"
+  - "mechanism/retrieval_grounding"
+  - "domain/transportation"
+  - "user/legal_professional"
+  - "substrate/geospatial"
+  - "substrate/structured_db"
+  - "substrate/video_visual"
+---
+
+# Concourse
+
+> This is an AI-powered full-stack airport food concierge for infrequent flyers, turning flight details into time-smart, gate-aware recommendations so you never risk missing a flight for good eats.
+
+[Devpost](https://devpost.com/software/concourse-56wvpm) · hackathon [[DigitalOcean Gradient- AI Hackathon]]
+
+## Facets
+
+**mechanism** [[retrieval_grounding]]
+**domain** [[transportation]]
+**user** [[legal_professional]]
+**substrate** [[geospatial]] [[structured_db]] [[video_visual]]
+
+**stack** all-minilm-l6-v2, aviationstack, digitalocean, git, javascript, json, llama3-8b-instruct, mapbox, next.js, next.js-16-(app-router), node.js, postgresql, react, shadcn/ui
+
+## How they structured the write-up
+
+- my (sorta) inspirational story
+- so what does my app do?
+- how my project was built
+- challenges i ran into
+- accomplishments that i'm proud of
+- what did i learn from this?
+- some possible next steps
+
+## Body
+
+My (sorta) inspirational story I'm a newly frequent flyer, and though I'm excited and grateful to travel, there's some things that I just find purely annoying. For example, anytime I enter a new airport, I have to spend time lugging around 2-3 pieces of baggage just to search for a place to eat. One time, I spent over 30 minutes wandering aimlessly to find a dinner spot and ended up walking halfway to another terminal just for a quick bite. Unfortunately, this is a problem that I think a lot of younger flyers face, as it's often irritating to not be able to have that insight, especially when the only guide is an LCD screen placed in the most inconvenient spot. Concourse started from the feeling that modern air travel gives you endless options but almost no guidance when you need it most, which is the off-hours between security and boarding. I’ve had too many flights where I either grabbed terrible food right next to the gate or misjudged a “quick” walk and ended up sprinting to board. I wanted to make a fast, reliable tool that understood time, distance, terminal layout, and personal taste well enough to act like a seasoned local who knows every airport concourse. So what does my app do? Concourse is a flight‑aware, time‑aware airport companion : Understands your flight : terminal, gate, departure time, and boarding window. Maps your options : shows nearby food spots on a terminal map with realistic walk times. Personalizes recommendations : applies your dietary, cuisine, price, and service preferences. Plans your pre‑boarding window : helps you decide whether you have “plenty of time,” it’s “tight but doable,” or you should “stay near gate.” Lets you chat : a chat interface where you can ask follow‑ups (“vegan breakfast near A8 under 10 minutes round‑trip?”) and get narrative, confidence‑aware answers. Basically, I created an orchestration layer over airport travel operations , tuned for the wait time before you board a flight. How my project was built DigitalOcean Gradient (Agent Platform & Knowledge Base) : I modeled Concourse as a lead agent backed by airport/food knowledge subagents. The JSON airport dataset in docs/knowledge-base/concourse-airports-jfk-lga-ewr-rdu.json is loaded into a Gradient Knowledge Base , and the Concourse agent uses that RAG layer to answer questions about gates, terminals, and vendors. Types and helpers for flights, recommendations, and trip‑planning logic (time budget, walk time, round‑trip safety margin), are called through DO Agent Routes . Recommendations API : A Next.js route ( /api/recommendations ) that takes flight and preference data, queries the knowledge base, scores options on time, distance, and match to constraints, and returns structured recommendations. DigitalOcean App Platform (deployment target) : The Next.js app is configured to run on App Platform , so the same repo can be deployed as a DO app that the Gradient agent and Functions call into over HTTPS. Terminal Map : Mapbox GL JS with a custom “terminal map” layer and markers for gate + vendors. Dynamic styling for light/dark themes and a resize‑aware container so it behaves nicely inside the bento grid. DigitalOcean Spaces (Static Assets) : I planned Concourse around a Spaces bucket for heavier static content, with hero images, future terminal map overlays, and downloadable artifacts for the Gradient knowledge base, so the app can stay lean while DigitalOcean handles durable object storage. DigitalOcean Managed Database (PostgreSQL) : The architecture includes a Managed PostgreSQL instance for persisting flight searches, user preference filters, and recommendation analytics, giving Gradient agents and web functions a single source of truth to read/write structured data. AviationStack API (live flight data) : For flight‑aware behavior, Concourse integrates the AviationStack API to pull real‑time departure, terminal, and gate information; that data flows into the recommendations engine, trip planner, and terminal map. Next.js + React App : On top of those DigitalOcean pieces, I built the web client in Next.js/React with API routes for recommendations and tooling for preferences, trip planning , chat, and the terminal map. The trip planner combines your time‑until‑boarding with walking times to suggest safe pre‑boarding moves, and the Concourse chat window sits alongside it as a fixed‑height, scrollable space where the Gradient agent can explain and refine those plans in natural language. Challenges I ran into Time + Distance Modeling : Translating airport maps and public wayfinding data into something approximate but useful was kinda tricky. The challenge I faced was to be honest about uncertainty (“schematic only”) while still giving concrete walk and round‑trip estimates. UI Density vs Clarity : The results page packs a lot of info, like flight status, filters, recommendations, map, trip planner, chat into a single view. Tuning the bento grid (column spans, fixed heights, scroll behaviors) to avoid awkward whitespace or cramped content took a few iterations. Map Reactive layout : Mapbox GL expects a stable container size at init. Getting it to resize correctly when tiles changed from half‑width to full‑width, and when themes toggled, required explicit ResizeObserver hooks and style updates. Theme Coherence : Making dark and light themes feel intentional across cards, map, chat bubbles, badges, and markers (including switching Mapbox styles) surfaced a lot of “little” inconsistencies that had to be smoothed out. Balancing Realism with mock data : The product narrative pushes toward realism (actual gates, walk times, vendor locations), but some pieces are necessarily mocked. Keeping that boundary clear while still shipping something that feels believable was important to me. New tech stack inexperience : I have never worked with or touched any DigitalOcean tools so getting used to them was challenging at first. Accomplishments that I'm proud of A Fully Fleshed-out MVP : The app is a single, integrated product rather than a collection of widgets. Flight lookup, preferences, recommendations, map, and chat work together so the whole flow, from entering a flight to getting time-aware food options and asking follow-up questions, feels like one solution. Terminal Map Integration : Even as a schematic, putting your gate and recommended vendors on one map makes the product more useful than lists alone and shows the real problem I'm solving: “Where can I eat and still make my flight?” Extensibility : The recommendations API and the GPU-inference guide are built so Concourse can grow from heuristic scoring to on-prem or GPU-backed reranking and richer explanations without a full rewrite. Product-Level Polish : I spent hours perfecting my vision so that the app I developed could come across as a real product, not just a demo. What did I learn from this? I started out thinking the job was “show good food nearby.” What I learned was that the real question users have is “will I make my flight if I do this?” Once I framed it that way, surfacing time pressure became as important as the recommendations themselves, and that shift came from treating the product as a journey problem, not just a discovery one. I was tempted to reach for the biggest models for recommendations and explanations. What I learned building Concourse is that a well-tuned reranker or a compact LLM, paired with a solid structured knowledge base, could deliver most of the value without the cost and latency of frontier models. I used to treat defaults as “whatever the backend returns.” Building preferences and trip-planning logic showed me that thoughtful defaults (e.g. sensible time buckets, filter presets) keep first-time users moving quickly while still giving power users room to tweak. Some possible next steps Better coverage and data : Expand the airport knowledge base to more hubs, refine walking times, and add more granular locations (security checkpoints, restrooms, lounges). Live integrations : Plug into live flight and gate change feeds so Concourse can proactively warn you when your plan no longer works or when a gate move opens up better options. On‑droplet intelligence : Finish wiring in the GPU Droplet inference path so we can experiment with on‑premise reranking and richer, latency‑sensitive explanations alongside managed Gradient models. Collaborative planning : Extend from a single traveler to small groups (families, coworkers) so multiple people can coordinate food choices and meeting points around shared flights. Mobile‑first polish : Push the layout and interactions further for phones in one‑handed, on‑the‑move scenarios, where Concourse is arguably most useful. <div

@@ -1,0 +1,48 @@
+---
+slug: "prodigypm-kaqe09"
+url: "https://devpost.com/software/prodigypm-kaqe09"
+title: "ProdigyPM"
+hackathon: "HackUTD 2025: Lost in the Pages"
+organization: "hackutd"
+winner: true
+words: 1204
+team_size: 1
+has_repo: false
+has_live: false
+has_video: false
+tags:
+  - "project"
+  - "mechanism/realtime_stream"
+  - "domain/developer_tools"
+  - "substrate/code_repository"
+  - "substrate/document_pdf"
+  - "substrate/sensor_telemetry"
+  - "substrate/video_visual"
+---
+
+# ProdigyPM
+
+> ProdigyPM automates product docs- upload a PDF, and it extracts details, creates department subprojects with effort estimates, syncs to Jira, and tracks progress automatically
+
+[Devpost](https://devpost.com/software/prodigypm-kaqe09) · hackathon [[HackUTD 2025- Lost in the Pages]]
+
+## Facets
+
+**mechanism** [[realtime_stream]]
+**domain** [[developer_tools]]
+**substrate** [[code_repository]] [[document_pdf]] [[sensor_telemetry]] [[video_visual]]
+
+**stack** cloud, dfplumber, fastapi, git, gpt-4, javascript, jira, next.js, node.js, openai, pydantic, python, python-dotenv, react
+
+## How they structured the write-up
+
+- inspiration-
+- what it does-
+- challenges we ran into1-
+- accomplishments that we're proud of-
+- what we learned-
+- what's next for prodigypm-
+
+## Body
+
+Landing Page Sub projects created before syncing to jira AI Chatbot - PRD Assistant Dashboard with live updates + Dashboard after being synced with jira Inspiration- As product managers, we were tired of spending hours manually breaking down product documents into actionable tasks. We'd read through PDFs, identify requirements, estimate effort, and create Jira tickets - all by hand. We thought, "What if AI could do this for us?" We wanted to build a tool that could take a product vision document and automatically transform it into department-level work streams with effort estimates, priorities, and acceptance criteria. This would save product managers countless hours and help teams start working on projects faster. What it does- ProdigyPM is an AI-driven Product Management Console that automatically processes product documents and turns them into actionable project plans. PDF Processing: Upload a product document (PDF), and our AI extracts all the important information - goals, features, requirements, and departments involved. Smart Decomposition: The AI breaks down your product into specific, actionable subprojects for each department (Engineering, Design, QA, Marketing, etc.). Each subproject gets: Clear description of what needs to be done Effort estimate (Small: 1-3 days, Medium: 4-7 days, Large: 8-14 days, X-Large: 15+ days) Priority level (High, Medium, Low) based on dependencies and business value Acceptance criteria Dependencies on other subprojects PRD Generation: If you don't have a PDF, you can chat with our AI consultant to create a comprehensive Product Requirements Document from scratch. The AI asks you questions about your product and builds a complete PRD. Jira Integration: With one click, all subprojects are automatically created as Jira issues in your project. Each issue includes all the details, priorities, and effort estimates. Real-time Dashboard: Track your project progress in real-time. The dashboard shows completion rates, issue statuses, department breakdowns, and automatically detects when your project is complete. How we built it- We built ProdigyPM as a full-stack application with a clear separation between frontend and backend. Backend (FastAPI + Python): FastAPI framework for REST API endpoints OpenAI GPT-4 Turbo for all AI processing (PDF interpretation, decomposition, PRD generation) pdfplumber library for extracting text from PDF files Jira Cloud API integration for automatic issue creation and tracking Modular storage system (local files or S3) Frontend (Next.js + TypeScript): Next.js 14 with TypeScript for type safety Tailwind CSS for styling with a beautiful dark mode theme React components for PDF upload, subproject display, dashboard, and PRD consultant chat Real-time dashboard that auto-refreshes every 2 seconds AI Agent System: PDF Agent: Interprets PDF documents and extracts product information Decomposition Agent: Breaks down products into subprojects with effort estimates using GPT-4 Turbo PRD Consultant Agent: Interactive chat for PRD generation All agents use OpenAI GPT-4 Turbo with temperature 0.3 for consistent outputs Challenges we ran into1- AI Response Formatting: Getting the AI to return consistently formatted JSON was tricky. Sometimes it would return arrays instead of objects, or use different field names. We solved this by using response_format={"type": "json_object"} and adding robust parsing logic. Jira Integration Complexity: Jira's API is complex, and different projects have different configurations. We faced challenges with project key mismatches, sprint assignment, and real-time status updates. We solved this by creating dedicated Jira projects per product and filtering issues by session-specific issue keys. Dashboard Real-time Updates: Making sure the dashboard showed real-time updates from Jira was challenging. We solved this by implementing 2-second auto-refresh intervals, using session-based filtering, and adding cache-busting query parameters. Environment Variable Loading: Ensuring environment variables loaded correctly across different modules was tricky. We solved this by loading .env files at the top of each module with explicit paths. PDF Text Extraction: Some PDFs have complex layouts or scanned images. We handled this by using pdfplumber which handles most PDF formats well, and providing clear error messages when extraction fails. Accomplishments that we're proud of- AI-Powered Estimation: We're proud that our AI can accurately estimate effort and assign priorities based on context, not just formulas. The AI considers dependencies, complexity, and business value to make intelligent decisions. Seamless Jira Integration: We built a robust integration that automatically creates Jira issues with all the details, priorities, and estimates. Users can go from PDF to Jira tickets in minutes, not hours. Real-time Dashboard: Our dashboard provides real-time visibility into project progress. It automatically detects when projects are complete and provides clear metrics on completion rates, status distribution, and department breakdowns. Clean, Modern UI: We designed a beautiful dark mode interface that's intuitive and user-friendly. The minimalistic design with subtle colors makes it easy to focus on what matters. Modular Architecture: We built a modular system where AI agents, services, and components can be easily extended or replaced. This makes the codebase maintainable and scalable. Session Management: We implemented a smart session management system that tracks one project at a time, filters issues correctly, and provides a clean workflow from upload to completion. What we learned- AI is Powerful but Needs Guidance: We learned that AI models like GPT-4 are incredibly powerful, but they need clear prompts and structured outputs. Setting the right temperature and response format makes a huge difference in consistency. API Integration is Complex: Integrating with external APIs like Jira requires understanding their nuances, error handling, and edge cases. We learned to build robust error handling and fallback mechanisms. Real-time Updates are Tricky: Keeping frontend and backend in sync with real-time updates requires careful design. We learned to use polling, cache-busting, and session-based filtering. User Experience Matters: We learned that even the best AI technology is useless if the user experience is poor. We focused on making the interface intuitive, fast, and visually appealing. Modular Design is Key: Building modular, reusable components and services makes the codebase easier to maintain and extend. We're glad we invested time in good architecture. Environment Configuration: Managing environment variables and configuration across different modules requires careful planning. We learned to centralize configuration and validate early. What's next for ProdigyPM- Historical Learning: We want to track actual vs. estimated effort to improve our AI's estimation accuracy over time. This will help the AI learn from real project data. Team Velocity: We plan to integrate team-specific velocity metrics so estimates can be adjusted based on team performance. GitHub Integration: We want to add GitHub integration to track commits, pull requests, and code changes. This will provide even more visibility into project progress. Multi-user Support: Currently, ProdigyPM tracks one project per session. We want to add multi-user support so teams can collaborate on multiple projects. Advanced Analytics: We plan to add more advanced analytics like burn-down charts, velocity tracking, risk analysis, and bottleneck identification. AI Fine-tuning: We want to fine-tune our AI models on company-specific project data to improve accuracy and relevance. Mobile App: We're considering building a mobile app so product managers can manage projects on the go. Export Features: We want to add export functionality so users can export PRDs, project plans, and reports in various formats (PDF, Excel, etc.). Templates: We plan to add project templates for common product types (mobile apps, web apps, APIs, etc.) to speed up the process. Integration with More Tools: We want to integrate with more tools like Slack, Confluence, Notion, and Linear to provide a complete product management ecosystem. <div

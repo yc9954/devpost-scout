@@ -1,0 +1,51 @@
+---
+slug: "skin-care"
+url: "https://devpost.com/software/skin-care"
+title: "SkinSkan"
+hackathon: "UC Berkeley AI Hackathon 2024"
+organization: "Cal Hacks"
+winner: true
+words: 885
+team_size: 4
+has_repo: true
+has_live: false
+has_video: true
+tags:
+  - "project"
+  - "domain/civic_government"
+  - "domain/finance_payments"
+  - "domain/health_clinical"
+  - "user/clinician"
+  - "user/patient_family"
+  - "substrate/structured_db"
+  - "substrate/video_visual"
+---
+
+# SkinSkan
+
+> Our app aims to improve epidermal health through early detection. Through a snapshot of your discomfort, we can detect what the disease is, give information about it, and provide a recommendation.
+
+[Devpost](https://devpost.com/software/skin-care) · hackathon [[UC Berkeley AI Hackathon 2024]]
+
+## Facets
+
+**domain** [[civic_government]] [[finance_payments]] [[health_clinical]]
+**user** [[clinician]] [[patient_family]]
+**substrate** [[structured_db]] [[video_visual]]
+  <sub>weak: web_dom</sub>
+
+**stack** google-cloud, keras, numpy, openai, pandas, python, sklearn, tensorflow
+
+## How they structured the write-up
+
+- inspiration
+- what it does
+- how we built it
+- challenges we ran into
+- accomplishments that we're proud of
+- what we learned
+- what's next for skinskan
+
+## Body
+
+Website Inspiration When we joined the hackathon, we began brainstorming about problems in our lives. After discussing some constant struggles in their lives with many friends and family, one response was ultimately shared: health. Interestingly, one of the biggest health concerns that impacts everyone in their lives comes from their skin . Even though the skin is the biggest organ in the body and is the first thing everyone notices, it is the most neglected part of the body. As a result, we decided to create a user-friendly multi-modal model that can discover their skin discomfort through a simple picture. Then, through accessible communication with a dermatologist-like chatbot, they can receive recommendations, such as specific types of sunscreen or over-the-counter medications. Especially for families that struggle with insurance money or finding the time to go and wait for a doctor, it is an accessible way to understand the blemishes that appear on one's skin immediately. What it does The app is a skin-detection model that detects skin diseases through pictures. Through a multi-modal neural network, we attempt to identify the disease through training on thousands of data entries from actual patients. Then, we provide them with information on their disease, recommendations on how to treat their disease (such as using specific SPF sunscreen or over-the-counter medications), and finally, we provide them with their nearest pharmacies and hospitals. How we built it Our project, SkinSkan, was built through a systematic engineering process to create a user-friendly app for early detection of skin conditions. Initially, we researched publicly available datasets that included treatment recommendations for various skin diseases. We implemented a multi-modal neural network model after finding a diverse dataset with almost more than 2000 patients with multiple diseases. Through a combination of convolutional neural networks, ResNet, and feed-forward neural networks, we created a comprehensive model incorporating clinical and image datasets to predict possible skin conditions. Furthermore, to make customer interaction seamless, we implemented a chatbot using GPT 4o from Open API to provide users with accurate and tailored medical recommendations. By developing a robust multi-modal model capable of diagnosing skin conditions from images and user-provided symptoms, we make strides in making personalized medicine a reality. Challenges we ran into The first challenge we faced was finding the appropriate data. Most of the data we encountered needed to be more comprehensive and include recommendations for skin diseases. The data we ultimately used was from Google Cloud, which included the dermatology and weighted dermatology labels. We also encountered overfitting on the training set. Thus, we experimented with the number of epochs, cropped the input images, and used ResNet layers to improve accuracy. We finally chose the most ideal epoch by plotting loss vs. epoch and the accuracy vs. epoch graphs. Another challenge included utilizing the free Google Colab TPU, which we were able to resolve this issue by switching from different devices. Last but not least, we had problems with our chatbot outputting random texts that tended to hallucinate based on specific responses. We fixed this by grounding its output in the information that the user gave. Accomplishments that we're proud of We are all proud of the model we trained and put together, as this project had many moving parts. This experience has had its fair share of learning moments and pivoting directions. However, through a great deal of discussions and talking about exactly how we can adequately address our issue and support each other, we came up with a solution. Additionally, in the past 24 hours, we've learned a lot about learning quickly on our feet and moving forward. Last but not least, we've all bonded so much with each other through these past 24 hours. We've all seen each other struggle and grow; this experience has just been gratifying. What we learned One of the aspects we learned from this experience was how to use prompt engineering effectively and ground an AI model and user information. We also learned how to incorporate multi-modal data to be fed into a generalized convolutional and feed forward neural network. In general, we just had more hands-on experience working with RESTful API. Overall, this experience was incredible. Not only did we elevate our knowledge and hands-on experience in building a comprehensive model as SkinSkan, we were able to solve a real world problem. From learning more about the intricate heterogeneities of various skin conditions to skincare recommendations, we were able to utilize our app on our own and several of our friends' skin using a simple smartphone camera to validate the performance of the model. It’s so gratifying to see the work that we’ve built being put into use and benefiting people. What's next for SkinSkan We are incredibly excited for the future of SkinSkan. By expanding the model to incorporate more minute details of the skin and detect more subtle and milder conditions, SkinSkan will be able to help hundreds of people detect conditions that they may have ignored. Furthermore, by incorporating medical and family history alongside genetic background, our model could be a viable tool that hospitals around the world could use to direct them to the right treatment plan. Lastly, in the future, we hope to form partnerships with skincare and dermatology companies to expand the accessibility of our services for people of all backgrounds. <div

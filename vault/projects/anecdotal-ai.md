@@ -1,0 +1,52 @@
+---
+slug: "anecdotal-ai"
+url: "https://devpost.com/software/anecdotal-ai"
+title: "Anecdotal AI DSI App."
+hackathon: "Predictive AI In Healthcare with FHIR®"
+organization: "Darena Solutions"
+winner: true
+words: 1382
+team_size: 1
+has_repo: false
+has_live: false
+has_video: true
+tags:
+  - "project"
+  - "domain/developer_tools"
+  - "domain/finance_payments"
+  - "domain/health_clinical"
+  - "domain/scientific_research"
+  - "user/clinician"
+  - "user/developer"
+  - "user/general_public"
+  - "user/patient_family"
+  - "substrate/medical_record"
+---
+
+# Anecdotal AI DSI App.
+
+> Anecdotal AI: Your EHR’s Medical Detective. We Turn Mysterious Symptoms into Actionable Answers that catch what others miss - so you get the right diagnosis without breaking the bank.
+
+[Devpost](https://devpost.com/software/anecdotal-ai) · hackathon [[Predictive AI In Healthcare with FHIR-]]
+
+## Facets
+
+**domain** [[developer_tools]] [[finance_payments]] [[health_clinical]] [[scientific_research]]
+**user** [[clinician]] [[developer]] [[general_public]] [[patient_family]]
+**substrate** [[medical_record]]
+
+**stack** chatgpt, cryptography, express.js, firebase-cloud-functions, firebase-hosting, flutter, google-generative-ai, meldrx, meldrx-api, openid, vertexai
+
+## How they structured the write-up
+
+- inspiration
+- what it does
+- how i built it
+- challenges i ran into
+- accomplishments i’m proud of
+- what i learned
+- what's next for anecdotal ai
+
+## Body
+
+Inspiration You know that feeling when you walk into a doctor’s office, and after a five-minute chat, they diagnose you with “stress” and send you home with painkillers? Yeah, that frustration was a big part of my inspiration. Anecdotal AI was born out of personal experiences with healthcare delivery, specifically, the struggle to get an "actionable diagnosis" when dealing with non-mainstream conditions like Environmentally Acquired Illnesses (EAI) and various biotoxin illnesses usually caused by exposure to mycotoxins . An estimated 10 million people in the U.S. alone might be dealing with EAI, yet it remains largely overlooked. The goal? Build an AI-powered second opinion assistant that nudges doctors to ask, “Hey, could biotoxins be playing a role here?” Also, picture this: You’re a doctor staring at a patient’s chart full of chronic fatigue, mysterious allergies, and symptoms that are vaguer than a horoscope. Wouldn’t it be awesome to have a companion that can help you make sense of the puzzle? I built Anecdotal AI to be the medical detective we all wish we had, sniffing out biotoxins like a bloodhound with a medical degree. What It Does Anecdotal AI is like that hyper-informed friend who’s always sending you research papers at 2 AM, but for doctors. The Sherlock Holmes of EHRs . DSI - CDS Hook: Predicts if mycotoxins or biotoxins could be a missing piece in a patient’s health when a patient is opened on an EHR (think: chronic fatigue, fibromyalgia, POTS, IBS, MS, brain fog, etc - style symptoms). Classifies the likelihood of biotoxins being a factor via a decision card (Info – very unlikely, Warning – might be worth investigating, or Critical – highly likely). Recommends up-to-date research links from reputable sources. Launches a SMART on FHIR app , powered by MeldRx, letting doctors dig deeper into AI-generated insights. DSI - SMART on FHIR App via EHR Launch: Comprehensive Analysis within the app enables doctors to view patient data (conditions, allergies, observations, etc), run in-depth analyses for predictions, classifications, recommendations, and evaluations, and access links to relevant research from reputable sources, effectively providing a constantly updated medical library at their fingertips. AI Model Choice: Because AI models have different personalities, biases, and strengths, you can choose between different LLMs for your workflow. It's like having a second (and third) opinion built right in (because AI opinions matter, too!). Scope Selection: You can tell the AI to focus its brainpower on specific areas, like checking if the patient's conditions might be connected to EAI/biotoxins (currently available), or you could do a general analysis. Future versions will include more scopes, such as neurology, nephrology, cardiology, psychiatry, etc. It's like giving the AI a magnifying glass for specific parts of the medical puzzle. AI-Generated Service Requests: Need to order a lab test? Anecdotal AI can suggest relevant service requests based on the patient's history, which you can then add directly to the EHR from the SMART on FHIR app powered by MeldRx. It's like having a super-efficient administrative assistant who also happens to be a medical expert. Update Patient Record : You can update patient data manually (current version supports adding service requests and medical conditions) within the app, and the update reflects automatically on the EHR (MeldRx in this instance). Dual-AI Debates : GPT-4o and Gemini 1.5 Flash argue like House MD vs. Dr. Wilson about whether biotoxin is the villain. Research Wingman : Automatically serves doctors articles and peer-reviewed papers relevant to the patients EHR. How I Built It Step 1: Become best friends with FHIR, SMART, MeldRx API, and CDS Hooks. Step 2: Question all my life choices. Step 3: Build the thing anyway. Tech Stack SMART on FHIR App: Flutter (Frontend), MeldRx, Vertex AI (Gemini), GPT-4o, and Firebase Hosting. CDS Hook Service: (Google Cloud Functions + Express.js + MeldRx + Google generative AI API = serverless sorcery) Custom OIDC Client Implementation using OpenID (when Flutter packages failed me, I had to dabble into cryptography). Feature Summary Whenever a patient’s EHR is opened , the AI integrated into the CDS Hook does a quick condition/allergy check and flags potential biotoxin connections. AI determines the title, summary, reference links, and priority (Info, Warning, Critical) and generates a decision card for the doctor. Doctors can click links on the decision card for more insights or launch the Anecdotal AI SMART on FHIR app for deeper analysis and AI-powered insights. In the SMART on FHIR App, the AI provides predictions, recommendations, evaluations, or analysis based on patient data. In the SMART App, the AI recommends service requests (e.g., lab tests) based on patient data that can be added to the patient's EHR. Supports model switching between Vertex AI and GPT-4o (more coming soon) for different perspectives on the patient's health situation. Scoped AI Analysis: The doctor can limit the scope of their interaction for more focused AI power. More scopes are coming soon, e.g., neurology, nephrology, psychiatry, etc. Update Patient Record: Alongside adding AI-recommended Service Requests, a healthcare provider can add and remove conditions from the patient's EHR from within the SMART app. Features for updating other parameters like Observations, Service Requests, etc, will be coming in future iterations. Pro Tip : Building FHIR apps is like assembling IKEA furniture – the instructions exist, but you’ll still question reality. Thankfully, MeldRx helps streamline this process. Challenges I Ran Into SMART on FHIR on CDS Hooks - for an EHR launch is like organizing a family reunion - lots of “Why are you the way you are?!” moments. OIDC authentication headaches. Refreshing the page would kill authentication, so no hot reloads/restarts to quickly evaluate your modifications. Built a bespoke OIDC client that’s now my proudest 'why did I do this to myself?' project. AI model disagreements. Gemini was playing the cautious “maybe,” while GPT-4o was coming in hot with “Absolutely not!” - just like two doctors debating in a hospital hallway. Gemini once argued that chronic fatigue = "needs more coffee." I had to teach it the difference between Starbucks and Stachybotrys . FHIR Data Wrangling: Turns out "SMART on FHIR" should be called "SMART… if you can find the data in this JSON labyrinth." Accomplishments I’m Proud Of Getting GPT-4o to say “biotoxin” without hallucinating about Pokémon. Creating a CDS hook that doctors might actually enjoy using. Surviving 47 authentication errors to make OIDC work (mostly). Built a fully functional AI-powered CDS Hook and SMART on FHIR app. Bridged the gap between AI and real-world clinical workflows. Designed an AI-driven second-opinion tool for a widely overlooked condition. Created an AI-powered service request feature that suggests relevant medical interventions based on patient data. Made AI disagree with itself like two arguing doctors. What I Learned FHIR ≠ Campfire : It’s not for roasting marshmallows, but it is for roasting inefficient healthcare workflows. AI Models Have Personalities : GPT-4o is the confident intern; Gemini’s the cautious resident. Together, they’re a helpful Odd Couple of diagnostics. FHIR and SMART on FHIR are incredibly well-structured. They solve problems I was already thinking about and working on. Healthcare tech is a wild ride. It’s part science, part engineering, and part detective work. MeldRx is an awesome FHIR-centered platform. They provide helpful documentation and have some of the most responsive and engaging team members you can work with - which is particularly helpful considering that FHIR, CDS, SMART, etc, are not mainstream tools and protocols that developers are familiar with. Doctors Need AI… But AI Needs Doctors More : We’re building copilots, not replacements. Unless you want your diagnosis in TikTok dance form. What's Next for Anecdotal AI Mobile Launch : Because doctors deserve AI that fits in their white coat pockets. Patient Portal : Letting people see their “biotoxin risk score” assessed from their EHR (and finally win arguments with skeptical relatives about their peculiar health challenges). Specialty Mode : Nephrology? Neurology? We’re coming for ALL the -ologies. Convert Anecdotal AI's already existing patient-facing health tech app into a SMART on FHIR app. Partner with healthcare providers to test in real-world clinical settings. Use specialized health-facing LLMs. Align with various compliance requirements. Partner with EHR Vendors. Final Thought : In a world where Dr. Web G. Browser thinks you might have cancer, Anecdotal AI just wants to ask, “But have you checked your basement for mold?” <div

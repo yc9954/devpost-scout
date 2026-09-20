@@ -1,0 +1,43 @@
+---
+slug: "oceanops"
+url: "https://devpost.com/software/oceanops"
+title: "OceanOps"
+hackathon: "LA Hacks 2026"
+organization: "LA Hacks"
+winner: true
+words: 1024
+team_size: 3
+has_repo: true
+has_live: false
+has_video: true
+tags:
+  - "project"
+  - "mechanism/multi_agent"
+  - "mechanism/realtime_stream"
+  - "mechanism/simulation_digital_twin"
+  - "domain/climate_energy"
+  - "domain/transportation"
+  - "substrate/geospatial"
+---
+
+# OceanOps
+
+> The command center for ocean climate intervention. Simulate alkalinity deployments, optimize ship routes, and verify the carbon impact on the atmosphere.
+
+[Devpost](https://devpost.com/software/oceanops) · hackathon [[LA Hacks 2026]]
+
+## Facets
+
+**mechanism** [[multi_agent]] [[realtime_stream]] [[simulation_digital_twin]]
+  <sub>weak: on_device_local, provenance_signing, sensor_fusion</sub>
+**domain** [[climate_energy]] [[transportation]]
+  <sub>weak: disaster_emergency, finance_payments</sub>
+  <sub>weak: general_public</sub>
+**substrate** [[geospatial]]
+  <sub>weak: financial_record, sensor_telemetry</sub>
+
+**stack** ais-stream, asyncio, autoprefixer, calcofi, class-variance-authority, clsx, css3, cuda, esbuild, fastapi, framer-motion, github, google-adk, google-gemma-2
+
+## Body
+
+Welcome Page Globe Covered with Hotspots Global Intelligence Window AI-Optimized Oceanic Settings Route Planning Window Manual Route Planning Mission Control Window Adjustable Oceanic Data Levers Risk Analysis Model Output Fleet Informatics Local ship transports In the past decade, the ocean has acted as the unsung hero of our climate survival, quietly absorbing roughly 30% of all human CO₂ emissions. However, this massive climate service comes at a devastating ecological cost: ocean acidification. It is dissolving coral reefs, collapsing fisheries, and destabilizing the marine food chain that billions of people depend on. Without intervention, ocean acidification is projected to cause consumer losses of nearly $480 million per year in the U.S. shellfish industry alone by the end of the century, while triggering cascading collapses in global marine food webs. While emissions reduction is critical, the scientific consensus is clear: we must actively remove legacy carbon from the atmosphere. Ocean Alkalinity Enhancement (OAE) has emerged as one of the most promising, scalable, and permanent solutions to this crisis. By deliberately adding safe, alkaline minerals to seawater, OAE mimics the Earth's natural weathering process. This neutralizes the excess acid, provides immediate relief to marine ecosystems, and chemically shifts dissolved carbon into stable bicarbonates—effectively "healing" the water and allowing the ocean to safely draw down billions of tons of additional CO₂ from the air. However, current players in the carbon removal space face a massive operational bottleneck. You cannot simply dump alkaline powder from a cargo ship and hope for the best. The fluid dynamics are incredibly unforgiving: if a vessel moves too slowly or discharges material too quickly, the localized pH spikes above safe thresholds. This triggers a catastrophic failure known as "secondary mineral precipitation," which not only destroys the carbon removal potential but actively harms local marine species. Furthermore, executing these deployments in the open ocean means operating in environments with high-latency or unreliable internet connections. Relying on remote cloud servers to make split-second ecological safety decisions is a recipe for disaster. OceanOps solves this by creating the world's first fully autonomous, local mission control system for marine geoengineering. We provide a comprehensive optimization engine that allows fleets to proactively plan, simulate, and execute OAE interventions safely, entirely offline, helping maximize its effects. Our platform's architecture begins with a highly resilient data-routing pipeline. Operating a ship 200 miles offshore requires moving beyond brittle, standard API calls. Instead, we architected a unified namespace that seamlessly fuses disparate public and proprietary data streams—including NOAA sea surface temperatures, CalCOFI oceanographic chemistry, real-time AIS maritime traffic, and marine protected area boundaries. By utilizing an advanced NATs protocol, our system buffers live telemetry during satellite network outages and instantly resynchronizes state data upon reconnection, ensuring our fleet always has a perfect, real-time operating picture. To turn this vast data into actionable intelligence, we engineered a sophisticated, multi-agent orchestration pipeline. We are moving complex environmental data through an active reasoning loop. At the core of this system is the Gemma 4 model. When a deployment is initiated, our Geochemist Agent autonomously scans the routed ocean data to discover optimal drawdown hotspots—targeting areas with high gas transfer velocities and favorable currents. It then passes these coordinates to our Spatial Intelligence Agent, which plots a fuel-efficient trajectory while strictly geofencing around protected marine habitats. Finally, the Route Planning Agent takes over. It triggers a high-resolution, physics-based fluid dynamics simulation to model the exact chemical dispersion of the ship's wake. If the simulation predicts a dangerous pH spike, our agents initiate a feedback loop. The Route Planning Agent autonomously forces the Spatial Intelligence Agent to recalculate the route—perhaps increasing the vessel's speed to generate more wake turbulence and ensure safe dilution. This rigorous, multi-agent negotiation continues until a mathematically optimal, ecologically safe consensus is reached. Crucially, to make this work in the middle of the ocean, we had to rethink our compute infrastructure. We brought the supercomputer to the edge. By deploying our entire stack on a localized, ultra-compact AI supercomputer, we eliminated the cloud bottleneck. We can run our complex multi-agent LLM workflows and our heavy, meter-scale fluid dynamics simulations concurrently, directly on the ship's desktop. This delivers zero-latency responsiveness and data privacy. While we had the advantage of leveraging incredibly powerful open-source models and edge hardware, we faced immense challenges translating complex marine chemistry into a software-defined routing and simulation engine. Integrating an autonomous multi-agent framework with a heavy, meter-scale physics simulator to run concurrently without a cloud connection required meticulous memory management and optimization. Furthermore, building a resilient, offline-first data pipeline capable of handling the intermittent satellite connectivity of the open ocean pushed us to entirely rethink traditional networking architectures. We are particularly proud of how our solution accounts for these extreme factors, delivering a pipeline that mimics the strict scientific rigor required by top oceanographers while remaining completely autonomous. OceanOps is explicitly designed for a combination of various types of maritime fleet. We provide critical intelligence throughout the entire adoption pathway from offering a simulation sandbox for scientific advisory boards to supplying ship captains with the exact route and dosage instructions needed for safe, large-scale deployment. Furthermore, by automating the Measurement, Reporting, and Verification (MRV) process into a cryptographic receipt, our product serves the financial sector, giving carbon credit buyers the absolute, tamper-proof confidence they require to invest heavily in marine climate restoration. Ultimately, the impact of OceanOps is planetary in scale. Recent scientific models indicate that, if deployed efficiently, Ocean Alkalinity Enhancement has the potential to safely sequester between 3 to 30 billion tons of CO₂ per year. By providing the essential software infrastructure to unlock this capability, our platform could single-handedly facilitate the removal of gigatons of legacy carbon, directly supporting a durable carbon removal market projected to reach hundreds of billions of dollars by 2050. More importantly, this translates to tangible, Earth-saving results: reversing ocean acidification, stabilizing global marine food webs, and protecting coastal economies from devastating losses. We see immense potential to expand this framework to cover other marine interventions, turning standard commercial fleets into decentralized, intelligent climate healers. The ocean is vast, and the climate crisis is accelerating and we see OceanOps leading that race. <div

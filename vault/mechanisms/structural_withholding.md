@@ -1,0 +1,181 @@
+---
+facet: "mechanism"
+name: "structural_withholding"
+projects: 293
+winners: 293
+tags:
+  - "facet"
+  - "mechanism"
+---
+
+# structural_withholding
+
+`mechanism` · **293** projects, **293** of them winners.
+
+## Pairs with
+
+- [[realtime_stream]] — 137 together  <sub>(mechanism)</sub>
+- [[developer_tools]] — 132 together  <sub>(domain)</sub>
+- [[geospatial]] — 125 together  <sub>(substrate)</sub>
+- [[video_visual]] — 111 together  <sub>(substrate)</sub>
+- [[structured_db]] — 98 together  <sub>(substrate)</sub>
+- [[finance_payments]] — 82 together  <sub>(domain)</sub>
+- [[developer]] — 82 together  <sub>(user)</sub>
+- [[financial_record]] — 81 together  <sub>(substrate)</sub>
+- [[code_repository]] — 80 together  <sub>(substrate)</sub>
+- [[health_clinical]] — 79 together  <sub>(domain)</sub>
+- [[web_dom]] — 74 together  <sub>(substrate)</sub>
+- [[on_device_local]] — 62 together  <sub>(mechanism)</sub>
+
+## Projects
+
+- ★ [[veterinary-four-color-triage-app]] — Built by a veterinarian & practice owner with no coding experience, this app turns clinical triage e
+- ★ [[amanat]] — Privacy-first AI agent for humanitarian organizations that scans cloud services for sensitive data e
+- ★ [[trudi-threat-response-unit-for-digital-investigation]] — Built on the idea that we're all smarter than any of us: TRUDI pairs an autonomous DFIR agent with a
+- ★ [[signet-0ujsnx]] — Invoice fraud works because paper cannot prove who sent it. Signet has the sender sign the payment f
+- ★ [[zenflow-your-calm-in-the-chaos]] — Burnout builds silently. ZenFlow is an AI workplace companion inside Slack that detects overload pat
+- ★ [[agentic-contract-framework]] — Contract-based observability for AI agents. Monitor if your agents fulfill their commitments and gai
+- ★ [[mcs-auth-bridge-enabling-token-vault-for-headless-ai-agents]] — Auth0 Token Vault is powerful, but agents can't use it without a browser callback. I built the missi
+- ★ [[lantern-jm9a5l]] — A language dies every two weeks. Lantern is Duolingo for dying languages: it turns the words a commu
+- ★ [[v-ident-real-time-identity-verification-mobile-application-19kdg7]] — V-Ident: Pulse + pixels = proof. On-device heartbeat detection & frequency forensics catch deepfakes
+- ★ [[trustedrisk-care-engine]] — A2A federation that decomposes one clinical prompt into a multi-specialist consultation: 16 sub-agen
+- ★ [[bye-buy]] — Selling stuff online sucks... 50+ messages, lowball offers, sketchy buyers. Bye-Buy handles this mes
+- ★ [[sestara-e3w1on]] — Access to private tutoring predicts exam outcomes more than ability. That's an infrastructure failur
+- ★ [[legalmindz]] — Ethiopia has 2.5 million businesses but only 3,000 lawyers. Legalmindz brings Legal AI for 120 Milli
+- ★ [[unravel-7ak8lf]] — Five agents watch evolving variant evidence, re-score a clinic's uncertain DNA findings with a calib
+- ★ [[apex-qkmxa0]] — A reimagined way to enjoy motorsports
+- ★ [[lore-ide-the-first-ide-for-agentic-code]] — GitHub stores your code. Lore stores your reasons. The memory layer for Devin, Windsurf, and Claude 
+- ★ [[sai-m2wl0p]] — A voice-native OS agent that sees your screen. Powered by Amazon Nova Lite for routing and Nova Pro 
+- ★ [[multival]] — The first agent-eval platform built for multi-agent orchestration. Graph + Gantt trace viewer, A/B c
+- ★ [[nusic-layer-1-for-music]] — Open audio fingerprints and creator metadata layer for Web 3.0 encrypted music distribution and info
+- ★ [[ntta]] — otto eliminates context-switching by unifying GitHub, Gmail, Calendar, and all your productivity too
+- ★ [[starknet-lightning-privacy-mixer]] — A decentralized privacy solution for STRK token transfers, combining zero-knowledge cryptography, At
+- ★ [[kassi-synthetic-load-generation]] — An AI agent on an audited state machine: it load-tests a code change, correlates the regression with
+- ★ [[agentdeck-command-your-ai-fleet]] — Mission control for your AI coding fleet. Glanceable status tiles, one-tap approvals, dial-driven di
+- ★ [[cloak-0k2ojh]] — Privacy Layer for Polkadot's Multi-Chain Ecosystem
+- ★ [[csgo-tracker]] — Elevating Every Move: Your Ultimate CS:GO Tournament Analysis Tracker
+- ★ [[anyform-ai-form-builder-30au41]] — AnyForm is an AI powered, tool-first platform that lets you build complex, validated forms in under 
+- ★ [[loopguard-passport-governed-clinical-loop-closure]] — Prevent the diagnostic harm that begins the moment a follow-up falls silent.
+- ★ [[warden-ny9uwa]] — Warden is the runtime firewall that stops AI agents from being hijacked by blocking prompt injection
+- ★ [[bias-lab]] — Train a real classifier in your browser, drag one decision threshold, and watch accuracy hold still 
+- ★ [[title-ai]] — Title AI is the first platform that can autonomously search any US county recorder website and produ
+- ★ [[aftershock-em9cju]] — A disaster-struck town run by a society of Qwen agents that split tasks, negotiate scarce rescue res
+- ★ [[electronic-medicine-trial-and-test-records-as-a-service]] — Tools to enable visualization, management for developers to build solutions in medicine, healthcare,
+- ★ [[miirps]] — Collect, care, upgrade, and battle.
+- ★ [[rpc3]] — A Proof-of-Concept for decentralized remote procedure calls, leveraging IPFS and privacy-enabled blo
+- ★ [[department-of-incidents]] — Agent that wakes up before your on-call engineers do
+- ★ [[browseback]] — BrowseBack gives your browser a photographic memory powered by Chrome’s built-in AI. Search by conte
+- ★ [[rehabuild]] — Rebuilding Medical rehabilitation in a COVID world. Evidence-backed video therapies from the first d
+- ★ [[ninth-mkcgtv]] — Create animated stories from a single idea and direct every scene on a real timeline, with every ass
+- ★ [[thetre]] — A Decentralised Movie Streaming Experience, powered by Theta EdgeCloud Video Services, Theta Edgesto
+- ★ [[orion-operating-room-intelligent-orchestration-node]] — A voice-directed surgical co-pilot for robotic surgery. Surgeons can speak naturally & instantly rec
+- ★ [[zkp-services-fcu5bv]] — An open-source, scalable, and modular zero-knowledge integration protocol. Plug-and-play ZKPs with a
+- ★ [[clinician-coronavirus-exposure-tracker]] — We track patient-clinician and clinician-clinician exposure and spread in hopsitals. We help pandemi
+- ★ [[aegis-2m1oq0]] — 7 event-driven AI agents that autonomously secure, predict, and score your GitLab releases, catching
+- ★ [[province]] — An AI-native tax filing agent system that turns complex tax prep into a natural conversation by extr
+- ★ [[gurftron]] — Security that rewards you. Threats verified by the community. Rewards funded forever by Vesu
+- ★ [[clearclause-zer4yh]] — AI-powered legal document analyser: upload any contract, get instant clause-by-clause risk analysis,
+- ★ [[testera]] — It knows what you're bad at. It remembers what you'll forget. It speaks back. That's Testera. 📚
+- ★ [[how-to-import-custom-assets-into-worlds-desktop-editor]] — A step-by-step tutorial showing you how to bring your own 3D models and materials into Horizon World
+- ★ [[bonfire-of-thoughts]] — Bonfire of Thoughts is a web app where students reflect on their struggles and share anonymous one-l
+- ★ [[caps-chromium-ai-plugin-skeletton]] — Let AI code for you. Plugins are hard to test, even harder for AI Tools. This project enables Kiro t
+- ★ [[vaidyasaarathi]] — "Your Intelligent Healthcare Companion" - Breaking language barriers, preserving privacy, empowering
+- ★ [[arduino-controlled-electrolysis-system-for-bleach-production-kodm9u]] — Imagine producing your own bleach right at home, simply by adding salt to water and pressing a butto
+- ★ [[unlocking-moments]] — A platform for people that want to see and contribute to the human story of the essential worker com
+- ★ [[proofpix]] — attested image ZK library + verified image iPhone app
+- ★ [[maestlog-your-personal-symphony-journal]] — MaestLog is an elegant classical music concert diary designed for music lovers. Track your concert e
+- ★ [[communipute]] — Share compute power throughout your community when you're not using it through our distributed compu
+- ★ [[documorph-ai-ernie-multimodal-document-transformer]] — Transform static PDFs into dynamic, responsive, and interactive HTML webpages with AI-powered semant
+- ★ [[memoray]] — Memory just moved from your brain to your frames. Your memories are getting a firmware update. Memor
+- ★ [[caregiver-agent-secure-ai-delegation-for-caregiving]] — AI caregiver agent using Auth0 Token Vault, FGA, and CIBA to securely delegate bill payments and med
+- ★ [[project-dvomck5s9l3q]] — Educational Wins.
+- ★ [[chuck-it]] — Save anything, find everything—100% offline, 100% private, 0% effort.
+- ★ [[nami-nova-agent-manager-interface]] — Mission control for AI coding agents. Parallel threads, sandboxed execution, reusable skills, and fi
+- ★ [[signver-a-deep-learning-library-for-signature-verification]] — Signver provides methods/models for signature verification - finding signatures (object detection), 
+- ★ [[chronos-legacy-code-archaeologist]] — Upload any ancient codebase. Get an AI-powered dependency map, plain-English excavation report, and 
+- ★ [[kintwadi-one-shared-record-for-family-caregiving]] — One shared, permission-aware care record for families caring for an aging parent across cities and t
+- ★ [[malpie]] — "MALPIE" is an innovative application designed to reward users with cashback or loyalty points in ex
+- ★ [[nest-newborn-maternal-safe-transition]] — Fragmented charts cost lives. NEST saves mothers and newborns by orchestrating 5 AI agents that synt
+- ★ [[shard-2kvsch]] — Do you have a laptop? You're potentially losing on making at least $10/day side income with Shard. I
+- ★ [[medvault-3nwvsj]] — Encrypted health records in your pocket. Share with any doctor in 10 seconds, in any language. Works
+- ★ [[people-2-people-disaster-relief-and-response]] — People 2 People is a collection of integrated Quick Base apps to collect both food and financial don
+- ★ [[gridsense-ri49gk]] — 30–60 minutes before the power goes out, your neighborhood already knows. GridSense listens.
+- ★ [[pitstop-comment-manager-for-your-team-that-runs-on-atlassian]] — Actionable Insights and Tasks from Comments that you can take bulk actions on for entire team. Spam 
+- ★ [[argus-475hkv]] — HA web servers run on N machines. Why don't agents? Argus is a dual-cognition SRE agent that investi
+- ★ [[whisper-hd54xc]] — Whisper: End-to-end encrypted messaging—no servers, no tracking, just pure privacy.
+- ★ [[scisim]] — An AI-powered virtual science lab. Run chemistry, physics, and biology simulations with an AI tutor 
+- ★ [[covifight]] — CoviFight showcases how the integration of Bluetooth with Social Networking Analysis makes contact t
+- ★ [[waste2taste-etwp34]] — Measuring plate waste in dining halls so chefs serve what students enjoy.
+- ★ [[fantasy-campaign]] — A blend of rpg and tabeltop gaming powered by Chainlink VRF and creativity! Users create a character
+- ★ [[jugaad-dpmqi7]] — JUGAAD — Just-in-time University Guidance and Actionable Discovery — gives every Berkeley student th
+- ★ [[rhythmforge-vr]] — What if you could draw a beat in the air and hear it come alive? Step inside the music, sculpt melod
+- ★ [[scam-detector-1lhc24]] — "Unmasking AI voice scams through sound." VoxShield flags AI-generated voices from a single audio cl
+- ★ [[sentineldesk]] — SentinelDesk turns MX Creative Console & Master 4 into a tactile CCTV cockpit. Scrub footage with th
+- ★ [[sage-yvlpqb]] — Grounded AI tutoring, built on your curriculum, Interactive Learning
+- ★ [[ekaette]] — Ekaette is a configurable AI voice and messaging assistant for customer-facing businesses across mul
+- ★ [[mira-w65b0a]] — AI eldercare assistant that reconstructs 3D scenes, localizes lost objects, and alerts caregivers—al
+- ★ [[disaster-brain]] — When the internet dies and lives are on the line, Disaster Brain is the only AI that still works.
+- ★ [[promptmotion]] — Agentic & Conversational video editing!
+- ★ [[green-spark-ai]] — Find the waste. Fund the change.
+- ★ [[pikaplace-pokedex]] — Decentralized NFT Monster Game powered by Chainlink Randomness.
+- ★ [[nimbus-q025jc]] — Open Source the cloud. SaaS is dying and we're here to take the fight home. We're bringing the fight
+- ★ [[wayfinder-1y4xbe]] — Your personal AI caseworker for U.S. refugee benefits. Answer a few questions, see what you qualify 
+- ★ [[sigmora-sigmora-org]] — Generative media at production scale, for a fraction of the cost. Genblaze orchestrates every model;
+- ★ [[vault-4dyr27]] — zkVault - A Secure Method for Users and Protocols to Safeguard & Recover Assets
+- ★ [[sentinel-way5bd]] — Catch security holes in your MCP server before you ship it. Static rules, GPT-5.6 review, and Docker
+- ★ [[aegis-hindi-consent-companion]] — **India's AI-generated perioperative informed consent in Hindi — patient-specific, clinically ground
+- ★ [[fhir-forge-gfjw4p]] — Transforms clinical notes, discharge summaries, and referrals into validated FHIR R4 resources with 
+- ★ [[not-my-nana]] — Protecting our loved ones from digital deception with the reasoning power of #AmazonNova.
+- ★ [[sciforge-ai]] — An autonomous AI agent that adapts in real‑time to each student's mastery, tracks their progress acr
+- ★ [[spinner-cash]] — Safe guard your financial privacy with zero-knowledge proofs
+- ★ [[starkbtc-bridge]] — BitVault Finance is a comprehensive DeFi platform built on Starknet that bridges native Bitcoin to e
+- ★ [[ai-outfit-stylist]] — Upload an outfit. Fid out if it suits you. Try it on. In under a minute.
+- ★ [[trail-2ia5xw]] — A hybrid, multimodal web application that acts as your offline trail companion - plan, navigate, and
+- ★ [[asteroid-the-pytorch-based-source-separation-toolkit]] — Enhance speech when wearing face masks - built with Asteroid
+- ★ [[syntact-23l7ei]] — AI-generated coding videos, inside a real IDE.
+- ★ [[zkvampiresurvivors]] — zkVampireSurvivors is a time survival game with minimalist gameplay and roguelite elements. It uses 
+- ★ [[luffy-protocol]] — Private and transparent fantasy sports solution using zero knowledge cryptography
+- ★ [[fusion-wallet-zk-based-multi-chain-smart-contract-wallet]] — Fusion is a multi-chain smart contract wallet that leverages ChainLink Functions and zero-knowledge 
+- ★ [[anathis]] — An autonomous ETL agent that uses Amazon Nova to transform unstructured financial PDFs into mathemat
+- ★ [[safeaid-ai-emergency-routing-for-survivors]] — AI-powered platform that routes trafficking survivors and vulnerable people to the nearest shelter, 
+- ★ [[neurocast-ai-autonomous-stroke-intervention-system]] — NeuroCast: Autonomous stroke intervention—safe, fast, anywhere.
+- ★ [[chop-chop]] — Chop Chop is a handsfree kitchen companion serving up fun, easy to follow video tutorials on choppin
+- ★ [[split-decision]] — Nine AI judges argue real Supreme Court cases, live on Alibaba Cloud. Two AI journalists cover the f
+- ★ [[web3-mkdgh6]] — a Sybil-proof identity system powered by decentralized AI human detection.
+- ★ [[shotspot-kfvp1n]] — Stop scrubbing videos. Start training models.
+- ★ [[compliance-sentinel-autonomous-devsecops-governance]] — AI agents that enforce SOC2, HIPAA, PCI-DSS & GDPR as code on every merge request — with automated m
+- ★ [[anemochain]] — Non-invasive anemia screening from a single eye photo — powered by AI and secured with blockchain ta
+- ★ [[haze-al0nsz]] — Anonymous and simple transfers on Fantom. Non-custodial solution using stealth addresses to hide you
+- ★ [[posterity-y6bedz]] — A thoughtful way to secure your on-chain resources for access by those you care about.
+- ★ [[echo-107u6c]] — I often feel overwhelmed by life's changes, but this app reminds me: You're not alone, proven with d
+- ★ [[standin-skpgje]] — StandIn on Business.
+- ★ [[erewhon]] — EMTs deserve better than a radio and a clipboard.
+- ★ [[autosre-the-autonomous-on-call-engineer]] — AutoSRE is an autonomous on-call agent that diagnoses Dynatrace incidents in seconds and queues up t
+- ★ [[na-504rkg]] — A real-time, cross-domain Customer Happiness Index that detects, tracks, and helps act on customer s
+- ★ [[relay-n5c9re]] — Relay: Standby access for the people who will need it - set up who can reach what, and Relay hands i
+- ★ [[1-sec-open-source-security-nq9gmk]] — Handing off raw OAuth tokens is a security nightmare. Here's how Auth0 Token Vault and 1-SEC's AI Co
+- ★ [[agentzero]] — Our autonomous and verifiable AI agent removes human inconsistency in making trading decisions, enab
+- ★ [[devrail-x402]] — DevRail X402 is a X402 payment standard based developer toolkit that makes any API, service, or piec
+- ★ [[ridefair]] — Decentralizing the ride-sharing experience to protect user data.
+- ★ [[my-steganography]] — Secure your art, unmask the bots: A mobile workspace that seals invisible pixel signatures, featurin
+- ★ [[hospital-readmission-prediction-with-federated-learning]] — HIPAA blocks pooling patient data. Sammy predicts readmission risk with federated learning, running 
+- ★ [[super-eats-laegb3]] — Super Eats: Sync, Coordinate, and Cook— a cross-platform multiplayer MR game
+- ★ [[zktrace-629hxs]] — A privacy supply chain management protocol
+- ★ [[jiradoc-ai]] — Turn Jira's to Confluence Documentations
+- ★ [[dyslexiapilot-ai]] — The AI-Powered Companion that helps students with dyslexia study smarter, faster, calmer and It come
+- ★ [[fernwood]] — Fernwood turns Backblaze into a brand's memory: every rejected attempt teaches the Campaign Brain, s
+- ★ [[sustain-uhrgfy]] — sustAIn makes AI more sustainable by compressing prompts without hurting quality, reducing token usa
+- ★ [[buidlsmart]] — A no-code smart contract builder
+- ★ [[simon-1835tp]] — AI help that lives on your desk, not your screen — down to the exact spot it's pointing at.
+- ★ [[zktoro]] — Success Spreads, Secrets Stay
+- ★ [[polymetis-pii-protection]] — Optimize Data Security and Privacy in Jira
+- ★ [[trust-enterprises]] — Bridge the gap between web development and decentralization, in 5 minutes.
+- ★ [[s-m-i-l-e]] — Secure your daily happiness.
+- ★ [[circle-lhf970]] — Belonging: the invisible force behind every child who thrives, and every one who doesn't.
+- ★ [[keexle-end-to-end-encrypted-remote-working-solution]] — End-to-end encrypted, Open Source remote working solution
+- ★ [[keyforge]] — A self-hosted key management platform that keeps your secrets on your infrastructure while providing
+- ★ [[mediledger]] — A privacy-preserving drug availability search powered by EigenDA and ZK-PTLS
+- ★ [[hbp100-hummingbird-privacy-firewall]] — 322KB. 0.77ms. 100% precision faster than you blink.
+- ★ [[gauntlet-go-safe-or-go-home]] — GAUNTLET sends adversarial AI's to attack your AI service agent with multi-turn fraud. Every breach 
+- ★ [[aloud-lxqr70]] — Beauty, aloud. The first beauty AI a blind shopper can use alone, screen off. Built on the YouCam Sk
+- ★ [[accordion-jwarge]] — Context management you can trust - Say goodbye to /compact

@@ -1,0 +1,181 @@
+---
+facet: "user"
+name: "government_staff"
+projects: 177
+winners: 177
+tags:
+  - "facet"
+  - "user"
+---
+
+# government_staff
+
+`user` · **177** projects, **177** of them winners.
+
+## Pairs with
+
+- [[realtime_stream]] — 115 together  <sub>(mechanism)</sub>
+- [[structured_db]] — 88 together  <sub>(substrate)</sub>
+- [[geospatial]] — 82 together  <sub>(substrate)</sub>
+- [[finance_payments]] — 76 together  <sub>(domain)</sub>
+- [[video_visual]] — 72 together  <sub>(substrate)</sub>
+- [[developer_tools]] — 69 together  <sub>(domain)</sub>
+- [[document_pdf]] — 66 together  <sub>(substrate)</sub>
+- [[developer]] — 50 together  <sub>(user)</sub>
+- [[financial_record]] — 45 together  <sub>(substrate)</sub>
+- [[retrieval_grounding]] — 44 together  <sub>(mechanism)</sub>
+- [[educator_student]] — 43 together  <sub>(user)</sub>
+- [[code_repository]] — 43 together  <sub>(substrate)</sub>
+
+## Projects
+
+- ★ [[asap-1h45pk]] — Empowering industries with AI-driven insights through Retrieval Augmented Generation (RAG), simplify
+- ★ [[amanat]] — Privacy-first AI agent for humanitarian organizations that scans cloud services for sensitive data e
+- ★ [[auditguardx]] — Enterprise compliance in minutes, not months at 1% of the cost.
+- ★ [[extopay-the-last-mile-solution-for-digitizing-cash]] — Next-Generation CBDC solution for digitizing cash: A Highly Secure Mobile and Non-Mobile Solution wi
+- ★ [[haven-w7mj9g]] — A Silent Shield, A Strong Voice.
+- ★ [[v-ident-real-time-identity-verification-mobile-application-19kdg7]] — V-Ident: Pulse + pixels = proof. On-device heartbeat detection & frequency forensics catch deepfakes
+- ★ [[trustedrisk-care-engine]] — A2A federation that decomposes one clinical prompt into a multi-specialist consultation: 16 sub-agen
+- ★ [[novaflow-the-autonomous-bi-pipeline]] — NovaFlow is an autonomous, self-healing BI pipeline. It cleans data, corrects its own SQL, builds in
+- ★ [[lore-ide-the-first-ide-for-agentic-code]] — GitHub stores your code. Lore stores your reasons. The memory layer for Devin, Windsurf, and Claude 
+- ★ [[compliance-sentinel]] — An Agentic, AI Red Team Approach for Proactive Geo-Compliance Risk Detection
+- ★ [[nusic-fractionalized-music-for-a-short-form-economy]] — Music consumption has been re-shaped by short video apps, music NFT marketplaces should reflect this
+- ★ [[near-road-icm]] — Investigative case management solution for citizens, police officers and drivers to report and manag
+- ★ [[notary-an-ai-creative-review-board-for-generative-media]] — Screens every AI-generated take against brand and compliance rules, revises the failures with the re
+- ★ [[giftmaxxing]] — Tinder for gift taste — swipe to teach it yours, share a link to learn anyone else's, and never give
+- ★ [[title-ai]] — Title AI is the first platform that can autonomously search any US county recorder website and produ
+- ★ [[electronic-medicine-trial-and-test-records-as-a-service]] — Tools to enable visualization, management for developers to build solutions in medicine, healthcare,
+- ★ [[dataset-trust-auditor]] — Know what's in your data before you train on it. Dataset Trust Auditor scores datasets across 8 trus
+- ★ [[compilanceos]] — A compliance agent that audits your code against real law, writes the fixes, and reads its own Phoen
+- ★ [[unitset]] — UnitSet is the Frankenstein of UI creation, a stitched-together fusion of canvas, AI, code, and live
+- ★ [[studyblocks]] — Overwhelmed by studying? StudyBlocks combines AI-powered study guide generation, smart flashcards, a
+- ★ [[omnom-hg16v3]] — OmNom is your late night food savior, autonomously navigating a variety of outdoor and indoor enviro
+- ★ [[pols-15]] — toolbox for aspiring politicians to campaign, stress-test their policies, and run ads on social medi
+- ★ [[kronia]] — Agriculture that Works for Future
+- ★ [[klerk]] — Klerk: Simplifying Government Services with a Multilingual AI Assistant for Accurate, Up-to-date, an
+- ★ [[province]] — An AI-native tax filing agent system that turns complex tax prep into a natural conversation by extr
+- ★ [[precedent-y2fczw]] — Your organization already decided this. Precedent privately finds the decision before your team make
+- ★ [[how-to-import-custom-assets-into-worlds-desktop-editor]] — A step-by-step tutorial showing you how to bring your own 3D models and materials into Horizon World
+- ★ [[test-kbdsc2]] — Interactive crime thriller game where you play as a newly recruited detective and solve cases in the
+- ★ [[forrus]] — Forrus is an AIoT device powered by TigerGraph and AWS EC2 DL1 for real-time alerts for wildfire mit
+- ★ [[launch-control-bgp8az]] — AI-powered release gate that evaluates merge requests with four chained agents and policy-as-code ri
+- ★ [[jobiri-the-first-ai-based-digital-career-advisor]] — Jobiri helps both jobseekers to land jobs faster and Institutions to digitalize their employment ser
+- ★ [[minty-acm5nx]] — A real estate transactions platform enabled by the XRPL.
+- ★ [[lookcloser]] — A multi-agent safety net for incidental imaging findings, because 1 in 5 follow-ups never happen, an
+- ★ [[aimf]] — Built upon Pega's Powerful Intelligent Automation, Cosmos-UI, & Mashup capabilities, AIMF aids organ
+- ★ [[compliance-guardian-ai-system]] — AI-powered compliance monitoring that detects violations before they become liabilities.
+- ★ [[studyo-mju34e]] — Your tabs, turned into a study session.
+- ★ [[placeholder-9rsnc5]] — Maestro Case turns a single fraud call into a live multi-agent investigation: AI scoring, parallel S
+- ★ [[thermohalo-ai-firearm-detection-84vpze]] — ThermoHalo uses AI-powered thermal imaging to detect concealed weapons at school entrances. Safe, FE
+- ★ [[consentkey]] — A Logitech Actions SDK plugin that turns your MX Console into a physical consent firewall — blocking
+- ★ [[meridian-uw62z5]] — Meridian: an agentic UiPath Maestro system that automates maritime voyage compliance AI agents run d
+- ★ [[eid-vl-duplicate-detection-agent]] — AI-powered multi-agent system detecting duplicate HIV test records in Kenya, saving $195K annually t
+- ★ [[my-et-economic-times-reimagined]] — AI-powered financial news assistant that translates complex articles into any language, verifies fac
+- ★ [[nova-multi-agent-compliance-intelligence-on-aws-nova]] — Four specialized agents analyze SEC filings, market signals, enforcement history, and earnings calls
+- ★ [[loanflow-ai-intelligent-loan-management-trading-platform]] — 📊📈 NovaFlow AI is a comprehensive, AI-powered loan management and trading platform that revolutioniz
+- ★ [[voicebot-for-ongoing-assistance-to-covid-19-patients]] — A system for effective remote monitoring of ambulant Covid-19 patients by automated phone calls to e
+- ★ [[guardian-ai-governed-incident-response]] — 5-node autonomous pipeline: triages P1 alerts, fetches runbooks, gets HITL approval, spins up war ro
+- ★ [[ricoshot-earth-s-last-hope]] — The Earth is on the brink of destruction... it's only hope: The USS Ricoshot! Visit unknown worlds a
+- ★ [[sketchrun]] — Transform wireframe sketches into production-ready Next.js code in seconds using GPU-accelerated AI 
+- ★ [[agrowise-4b2szv]] — AgroWise fuses low-cost root-zone sensors with AI and IVR to provide precision farming via any phone
+- ★ [[blk-exchange-blkx]] — Trade 36 Black-economy companies. Real cultural news moves the market. AI teaches 23 investing conce
+- ★ [[smart-shoe-module]] — A modular shoe attachment clipped to the wearer's shoe to help people adjusting to new blindness, ey
+- ★ [[sentinel-flood-watch-agent]] — An AI agent that proactively monitors Accra's ecological sites using remote sensing data and advance
+- ★ [[carge]] — Web3 PKI for decentralized collaboration, deploy workflows and collaborate with individual, organiza
+- ★ [[eco-verse]] — Empowering Energy Communities: Harnessing ReFi and DAOs for a Sustainable Future
+- ★ [[trialscope-ai]] — Your AI-driven clinical trial intelligence platform that reviews, benchmarks, and regenerates protoc
+- ★ [[traider]] — Trade smarter not harder! Upgrade your financial literacy with traider
+- ★ [[starkbtc-bridge]] — BitVault Finance is a comprehensive DeFi platform built on Starknet that bridges native Bitcoin to e
+- ★ [[tribune]] — GitHub for democracy. Every policy change cited to a voice.
+- ★ [[wildfire-mitigation-computer-vision-id-of-hazard-fuels]] — To aid land managers in quickly identifying and responding to tree disease and mortality, we develop
+- ★ [[anathis]] — An autonomous ETL agent that uses Amazon Nova to transform unstructured financial PDFs into mathemat
+- ★ [[nixora]] — Nixora brings loan markets into the digital age by transforming loan agreements into AI-powered, int
+- ★ [[split-decision]] — Nine AI judges argue real Supreme Court cases, live on Alibaba Cloud. Two AI journalists cover the f
+- ★ [[gradientguard-dora-compliance-intelligence-platform]] — AI-powered DORA compliance platform for EU fintechs. 4 multi-agent system on DigitalOcean Gradient™ 
+- ★ [[haze-al0nsz]] — Anonymous and simple transfers on Fantom. Non-custodial solution using stealth addresses to hide you
+- ★ [[onepath-ai]] — In critical moments, OnePath AI unites Service Cloud, Slack, and Agentforce to instantly brief, assi
+- ★ [[whisper-care]] — An all-in-one inclusive mobile application that assist the visually impaired in-store to better acce
+- ★ [[cloud-climate-chain]] — Carbon footprint management platform that combines Cloud Computing, Climate Analysis, and Blockchain
+- ★ [[cashcult]] — Know your cash flow either inflow or outflow today with CashCult.
+- ★ [[roadmate-t28eqk]] — Intelligent driving companion that keeps you alert and safe by monitoring drowsiness, engaging you i
+- ★ [[dispatch-ai]] — An empathic agent eliminating 911 wait times during critical emergencies.
+- ★ [[ratesheet]] — All-in-one, open-source production tracking and piece-rate payroll built for garment manufacturing. 
+- ★ [[climate-risk-real-estate-investor-manager]] — PRAAM is an integrated solution to identify, evaluate, manage and report physical risks in investmen
+- ★ [[nagardrishti]] — AI-powered road hazard detection for Pune — citizens report via video or voice using Gemini Live API
+- ★ [[modern-full-stack-boilerplate-with-ai-search-deno-backend]] — My awesome boilerplate featuring AI-powered semantic search, Redis vector storage and automated deve
+- ★ [[vibecode-6zuf3y]] — VibeCode — A smart cloud native IDE with AI and dedicated workspaces for ideation, environment setup
+- ★ [[kendo-habits-sylh2u]] — A gamified habit builder. Get closer to your ideal self while having fun!
+- ★ [[clinicact]] — ClinicAct turns doctor-patient conversations into ready-to-sign EMR actions and clear patient follow
+- ★ [[rent-a-spot]] — A One-stop solution for your spot renting needs.
+- ★ [[clearance]] — AI-powered body camera intelligence that sees threats in real-time, calls for backup hands-free, sto
+- ★ [[vroomi]] — Vroomi is a student-first carpooling app that makes commuting safer, cheaper, and greener. Verified 
+- ★ [[triage-pbfc69]] — Slack-native AI issue triage that classifies, drafts, and duplicates — but never ships without you.
+- ★ [[chaincrunch]] — "The" go-to place for on-chain data for Solana.
+- ★ [[keepme]] — KeepMe makes AI virtual try-on trustworthy. Shoppers control what can change, detect unwanted change
+- ★ [[gauntlet-go-safe-or-go-home]] — GAUNTLET sends adversarial AI's to attack your AI service agent with multi-turn fraud. Every breach 
+- ★ [[bikebuddy]] — Biking smarter and safer with a rear view camera and turn signal modular attachment!
+- ★ [[echocare-i6csrv]] — 3.4 million individuals are food insecure in SF. 150,000 tonnes of food are wasted every year in SF.
+- ★ [[roots-wpsx9u]] — Roots is an open-source school management platform designed to replace Madrid’s outdated Raíces syst
+- ★ [[autonomous-incident-agent-aia]] — AIA: The world's first fully autonomous incident response system watches your deployments 24/7, pinp
+- ★ [[onlyfunds]] — Crowdfunding protocol for projects on NEAR that gives backers the ability to control the release of 
+- ★ [[excus-us]] — Breaking barriers, building diverse networks - one event at a time.
+- ★ [[erns]] — An institutional-grade earnings intelligence terminal that levels the playing field for retail inves
+- ★ [[manufacturing-vision-analyzer]] — Agentic AI for PCB defect inspection using Amazon Nova and knowledge graph reasoning to detect fault
+- ★ [[ai-protege]] — Teach an AI student that challenges your explanations with questions and fact-checking. If you can't
+- ★ [[epi-leaflet-scanner]] — An iOS mobile app powered by Blockchain. We connect the patients with the pharmaceutical companies, 
+- ★ [[mock-mentor]] — Practice interviews with AI mentors anytime, anywhere - tailored to your resume and dream job.
+- ★ [[my-super-cool-first-hackathon]] — Meta Store AI combines 3D models with embedded animations and interactions with a backend helpful st
+- ★ [[covid-19-inspection-management-application]] — The Covid-19 Business Operating License and Inspection Application provides a platform for Governmen
+- ★ [[jento]] — Less planning. More exploring.
+- ★ [[inspector-23ser6]] — Multi-agent Computer-use QA
+- ★ [[carryover]] — Visa intelligence that protects migrants from agency fraud. Three AI agents on Elasticsearch + Gemin
+- ★ [[virtual-c-suite]] — Virtual C-Suite: Your AI Board of Directors. We use LiquidMetal agents & Raindrop SmartMemory to giv
+- ★ [[vorifi-financial-management-tool]] — A revolutionary finance management app with a powerful ai chatbot to add accounts and categories as 
+- ★ [[credenza]] — Intelligent Loan Document Assembly that helps BUILD and ANALYSE loan documents correctly from the st
+- ★ [[edu-flow-lms]] — Empowering Educators and Learners with a Feature-Rich LMS Powered by Modern Web Technologies.
+- ★ [[snappier]] — Show Snappier your workflow once by recording your screen. AI figures out what you did and why, then
+- ★ [[auditease-f1pqzw]] — Eco Friendly AI-Powered Compliance Platform
+- ★ [[the-aethereal-shop-kit]] — A modular, remixable shop in Meta Horizon: an open-air, elegant and ethereal environment where every
+- ★ [[sympvis-triage-coach]] — SympVis is a modern web application designed to provide users with health clarity through intelligen
+- ★ [[unpark-fjwrd4]] — AI-Powered Real-Time Parking Violation Detection & Automated Reporting System
+- ★ [[velogger-log-inspector-for-velo]] — Enhanced log inspector designed for Velo developers
+- ★ [[blcokrok]] — $50, A WALLET OF RANDOM MEMECOINS, AND 24 HOURS TO CHANGE YOUR FATE
+- ★ [[omni-stem-ai-powered-eco-build-lab]] — "Turning household waste into a professional engineering lab. Omni-STEM uses AI to scan scrap, gamif
+- ★ [[nova-insurance-claims-ai]] — Multi-agent AI pipeline that automates insurance claims processing using Amazon Nova 2 Lite - from d
+- ★ [[grow-an-icecream-zcs6qx]] — Scavenge hunt for candy while avoiding ice screams and exciting hazards! Multiplayer and multi-round
+- ★ [[aegis-nexus-ai-autonomous-security-copilot]] — When a server breaches, an email won't save it. Aria is an autonomous AI voice agent that physically
+- ★ [[ppz]] — Shopping e-commerce application in typescript with Redux and Java Springboot that communicate VIA Gr
+- ★ [[safeserve-mbg]] — The unified AI command center for the Makan Bergizi Gratis program. Real-time oversight for 83 milli
+- ★ [[skin-ai-zlwdsy]] — DermaDetect leverages AI for accessible skin health checks, focusing on affordability and privacy fo
+- ★ [[aidverify]] — AidVerify is a blockchain-powered platform that ensures transparent, fraud-free aid distribution thr
+- ★ [[angelshot]] — Natural conversation, safer situation.
+- ★ [[shelterguard-the-national-homelessness-risk-monitor]] — Turning reactive crisis management into proactive prevention.
+- ★ [[gyaan-ai]] — Revolutionizing STEM learning via Gyaan AI—an AI tutor delivering root mastery through a 9-step meth
+- ★ [[sentinel-2kwp1n]] — Protecting lender capital from collateral stripping and priming risks using bank-grade Agentic AI.
+- ★ [[zerorisk-sentinel]] — ZeroRisk Sentinel – Spot malware, phishing & spyware before you click or run, with zero trust requir
+- ★ [[obby-core-lab-remixable]] — Play it. Remix it. Build your own obby.
+- ★ [[hiredesk]] — HireDesk is an ML-powered hiring platform that intelligently streamlines job postings, ranks candida
+- ★ [[skillup-ai]] — Track learning on the go
+- ★ [[facemask-detector-x8d06e]] — Real implementation of a facemask detection service powered by Azure ML, Function App and Azure API 
+- ★ [[folio-n7mugb]] — A portfolio tracker for stocks, crypto, commodities, and forex in one app.
+- ★ [[peekberry-xhczwf]] — Devtools for non-devs!
+- ★ [[mediflow]] — Automating healthcare's tedious administrative tasks to save hospitals $265.6 billion yearly and pre
+- ★ [[healthx-0o6m5n]] — Centralized HealthCare Platform
+- ★ [[convjobs-find-jobs-the-better-way]] — Where resumes come to life, conversations lead to insights, and hiring becomes an interactive experi
+- ★ [[panda-rescue]] — The voice based panda adventure game.
+- ★ [[supermarket-rush]] — Asynchronous Multiplayer Race: up to 8 players, personal timer and checkpoints.
+- ★ [[ndunari]] — Shielding Africa from the dual threat of counterfeit drugs and AMR through AI-driven verification an
+- ★ [[airbridge-for-windows]] — AirBridge turns an AirPlay-compatible speaker into a practical wireless audio output for a Windows P
+- ★ [[cleangetaway]] — Multiplayer Agentic AI NPCs with shared conversational memory across all players.
+- ★ [[poyovision]] — Smart Poyo for Smarter Learning: Capture, Transcribe, Summarize.
+- ★ [[sherlostholmes]] — A gamified lost-and-found system for Concordia Uni where AI detectives match your lost items, interr
+- ★ [[ecoledger-tp6ngc]] — Verified Carbon. Empowered Farmers. Transparent Climate Markets.
+- ★ [[mapping-19th-century-jewish-charity-in-new-york]] — An interactive historical map tracing the divide between poverty and philanthropy in immigrant-era M
+- ★ [[zerorisk-sentinel-d3zc90]] — Hybrid cybersecurity platform scanning files, URLs & Android APKs using YARA, VirusTotal & Groq AI. 
+- ★ [[autogear]] — Personalized recommendations for office improvements
+- ★ [[estate-sense]] — Intelligent property analytics
+- ★ [[jarvis-mwyg0s]] — Re-engineering the human-AI workspace. A stunning, secure next-gen desktop console featuring a 2,200
+- ★ [[terraguard-taf0u5]] — 9 AI agents audit corporate sustainability reports for greenwashing, compliance gaps & climate risk 
+- ★ [[melos-ai]] — Upload images and get music that matches the vibe of that imgae.
+- ★ [[pre-cure]] — To build a pega application that helps in suggesting the medicines based on the disease, description
+- ★ [[fireview]] — Notion for your application data

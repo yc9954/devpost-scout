@@ -1,0 +1,169 @@
+---
+facet: "mechanism"
+name: "graph_reasoning"
+projects: 138
+winners: 138
+tags:
+  - "facet"
+  - "mechanism"
+---
+
+# graph_reasoning
+
+`mechanism` · **138** projects, **138** of them winners.
+
+## Pairs with
+
+- [[structured_db]] — 80 together  <sub>(substrate)</sub>
+- [[realtime_stream]] — 65 together  <sub>(mechanism)</sub>
+- [[geospatial]] — 61 together  <sub>(substrate)</sub>
+- [[developer_tools]] — 58 together  <sub>(domain)</sub>
+- [[retrieval_grounding]] — 49 together  <sub>(mechanism)</sub>
+- [[finance_payments]] — 43 together  <sub>(domain)</sub>
+- [[code_repository]] — 42 together  <sub>(substrate)</sub>
+- [[educator_student]] — 41 together  <sub>(user)</sub>
+- [[document_pdf]] — 40 together  <sub>(substrate)</sub>
+- [[developer]] — 39 together  <sub>(user)</sub>
+- [[web_dom]] — 39 together  <sub>(substrate)</sub>
+- [[health_clinical]] — 38 together  <sub>(domain)</sub>
+
+## Projects
+
+- ★ [[asap-1h45pk]] — Empowering industries with AI-driven insights through Retrieval Augmented Generation (RAG), simplify
+- ★ [[auditguardx]] — Enterprise compliance in minutes, not months at 1% of the cost.
+- ★ [[proofsift]] — Evidence-proven autonomous DFIR triage that confirms findings only with traceable forensic artifacts
+- ★ [[rexgent]] — An autonomous showrunner that transforms a premise or a script into a voiced mini drama in any of 22
+- ★ [[dreammeridian-geoai-on-pi]] — When disasters strike, networks fail first. DreamMeridian runs LLM-powered spatial queries entirely 
+- ★ [[relay-real-time-voice-vision-lab-tutor-for-electronics]] — Relay watches your breadboard through your webcam and talks you through building circuits in real ti
+- ★ [[medgraphagent-1e4ps2]] — Better data means better decisions. And better decisions save lives
+- ★ [[prepify-ai-7nymoa]] — Prepify AI transforms how students learn STEM — turning lecture notes into structured summaries, qui
+- ★ [[tonguekeeper]] — Every 2 weeks, a language dies. TongueKeeper deploys autonomous AI agents that compile and cross-ref
+- ★ [[transcend-q4cpih]] — A semantic reasoning layer (W3C stack) on top of GitLab Orbit — transcending beyond multi-hop blast-
+- ★ [[sankofa-mcq8af]] — Three GitLab Duo agents that use Orbit's knowledge graph to show blast radius before you merge, onbo
+- ★ [[aegis-2m1oq0]] — 7 event-driven AI agents that autonomously secure, predict, and score your GitLab releases, catching
+- ★ [[a-p1lt2h]] — Claim-level truth forensics–trace any idea back to its origin and know what's actually true. Powered
+- ★ [[forrus]] — Forrus is an AIoT device powered by TigerGraph and AWS EC2 DL1 for real-time alerts for wildfire mit
+- ★ [[project-athena-dmpkui]] — An automatic, generic knowledge graph framework that builds itself from textual unstructured data an
+- ★ [[gudville]] — Gudville uses Machine learning and Natural Language Processing to recommend possible donors, company
+- ★ [[sunday-94odas]] — Sunday is the friend in the group chat who actually makes things happen — plans the dinner, orders t
+- ★ [[compost-professor]] — The Compost Professor analyzes your compost to provide custom recommendations & take the guesswork o
+- ★ [[autopsy-zq5d84]] — Autopsy records every action your AI coding agent takes, autopsies the failures, builds a graph of w
+- ★ [[documorph-ai-ernie-multimodal-document-transformer]] — Transform static PDFs into dynamic, responsive, and interactive HTML webpages with AI-powered semant
+- ★ [[candoor-p0btxf]] — Candoor is a social networking site for people who would like to share or connect with others for an
+- ★ [[skillscan-ai-career-intelligence-for-students-sigtmc]] — AI that scans your resume, finds exact skill gaps, runs a mock interview, predicts your salary, and 
+- ★ [[mental-health-hero]] — Using Tigergraph to solve mental health accessibility!
+- ★ [[placeholder-9rsnc5]] — Maestro Case turns a single fraud call into a live multi-agent investigation: AI scoring, parallel S
+- ★ [[argus-475hkv]] — HA web servers run on N machines. Why don't agents? Argus is a dual-cognition SRE agent that investi
+- ★ [[civic-impact-compass]] — Congress data meets AI-powered analysis — find the bills that affect YOU.
+- ★ [[jugaad-dpmqi7]] — JUGAAD — Just-in-time University Guidance and Actionable Discovery — gives every Berkeley student th
+- ★ [[code-canvas-xe67sh]] — Every codebase hides a world beneath the surface, connections unseen, patterns unnoticed. We bring c
+- ★ [[agreefast-for-docusign]] — We revolutionize your Docusign workflows with AI insights, obligation and event tracking, seamless c
+- ★ [[lore-living-organizational-record-engine]] — MR decisions get lost. LORE gives your codebase memory, captures review decisions, predicts failures
+- ★ [[personalization-aware-e-commerce-shopping-assistant]] — Chatbot that lets you talk with private eCommerce data. Instead of searching for products by name, y
+- ★ [[harmoniq-06o1e9]] — Regulatory intelligence for clinical trials.
+- ★ [[eid-vl-duplicate-detection-agent]] — AI-powered multi-agent system detecting duplicate HIV test records in Kenya, saving $195K annually t
+- ★ [[synth-u7a6pq]] — AI Medical Visit Assistant
+- ★ [[graphflow-release-safety-intelligence]] — Release pipelines as a live dependency graph — see blast radius, not just red X's.
+- ★ [[guardian-ai-governed-incident-response]] — 5-node autonomous pipeline: triages P1 alerts, fetches runbooks, gets HITL approval, spins up war ro
+- ★ [[infinite-memory-plnev8]] — Never Forget Again
+- ★ [[birdbox-6r59dj]] — This project applies SNA methodologies and Big Data tools, used to analyze social networks to study 
+- ★ [[chatedu-mt379l]] — Copilot for students that learns and works with them, not for them.
+- ★ [[mediq-nop156]] — Fetch once. Learn forever. MediQ transforms hospital data into instant answers using agentic AI, MCP
+- ★ [[transparency-ubn85q]] — Visualizing financial transactions
+- ★ [[lectio-real-time-ai-study-companion]] — Lectio listens to your lecture alongside you. As terms and concepts come up, it quietly looks them u
+- ★ [[crystl-finance-h0jn8s]] — Crystl Finance is a Multi-chain Yield Aggregator. We offer unique Vaulting methods to DeFi/Blockchai
+- ★ [[prereq-sg1thw]] — Real-time knowledge graphs that make every lecture impossible to fall behind in
+- ★ [[have-you-been-a-victim-of-fraud]] — This is a bot for the Office of National Statistics (ONS), the national statistics agency for the UK
+- ★ [[crystl-finance]] — Crystl Finance is a Multi-chain Yield Aggregator. We offer novel Vaulting methods to DeFi/Blockchain
+- ★ [[chop-chop]] — Chop Chop is a handsfree kitchen companion serving up fun, easy to follow video tutorials on choppin
+- ★ [[pinboard_consulting]] — Connect the unconnected! Source, clean and load UN data for the environment, the economy, health, re
+- ★ [[uawelcome-graph]] — A graph-based crowdsourcing platform connecting refugees with those who can help, optimizing limited
+- ★ [[ta-da-intelligent-teaching-assistant]] — Why are students Googling mid-lecture? TA-DA keeps them in the room: AI teaching assistant built int
+- ★ [[amethyst-wy3mjf]] — Don't let anyone to Dull your Sparkle
+- ★ [[neuthera-drug-discovery-platform]] — NeuThera is an AI-driven drug discovery toolkit integrating multiple SOTA generative models for de n
+- ★ [[nutricare-agents]] — Smart nutrition for all – multi-agent AI transforming public health
+- ★ [[123-2a56po]] — Swan Chain Telegram Bot with GraphRAG & Meta Llama3
+- ★ [[empirica]] — Turn research papers into living knowledge graphs. Agentic AI finds papers, builds networks, generat
+- ★ [[truthlens-fwo02r]] — Research Guardian helps students evaluate scientific papers by scoring reliability, finding contradi
+- ★ [[askstreets-querying-and-visualizing-street-networks]] — An agentic AI app that uses OpenStreetMap data to answer queries and generate insights into geograph
+- ★ [[karma-the-reincarnation-agent-for-deprecated-services]] — A multi-agent system that learns a deprecated service's hidden contracts and haunts its replacement,
+- ★ [[ghostnet-the-dead-internet-recovery-engine]] — GhostNet detects link rot (dead/broken web pages), reconstructs lost content using AI forensics from
+- ★ [[chain-sleuth-graph-saas]] — "ChainSleuth: Your AI blockchain detective. Instantly analyze any NEAR address to uncover patterns a
+- ★ [[neuroflow-ai-m4h6pi]] — NeuroFlow AI: A unified, AI-powered study space. Adapts to your learning with spaced repetition flas
+- ★ [[atlarix-nova-agent-architecture-intelligence-for-developers]] — AI coding copilot that maps your codebase and codes with Amazon Nova
+- ★ [[eduflix-s8q2fx]] — Binge Learning, Not Doom-Scrolling
+- ★ [[manufacturing-vision-analyzer]] — Agentic AI for PCB defect inspection using Amazon Nova and knowledge graph reasoning to detect fault
+- ★ [[prepx-y4kfst]] — PrepX - The Smartest Way to Land Dream Job
+- ★ [[sessiontrace]] — Never lose track of where you left off
+- ★ [[factchecker-fighting-misinformation-at-scale]] — Multi-language/multi platform fact checking powered by TigerGraph and AI. Real-time fact extraction 
+- ★ [[bas-climate-action-matcher]] — A tool to match companies to relevant climate actions. Embedding search to find climate initiatives 
+- ★ [[stem-detective]] — STEM Detective transforms STEM education into AI-powered mystery adventures where students learn sci
+- ★ [[stayed-shipped]] — The survival ledger for AI-authored code. Everyone measures whether a change is risky before it merg
+- ★ [[ghost-sujr38]] — See Me thru uses Meta Glasses & a novel "Care-Mask" compression AI to turn live video into automated
+- ★ [[math-wilderness]] — Math Wilderness is an adaptive math learning platform where structured content relationships power p
+- ★ [[mapmind-learnspace-ravblx]] — MapMind turns messy topics into a structured learning path you can actually follow. Fully opensource
+- ★ [[personal-learning-journey]] — Tag, share, query and learn from your own and others' learning journey
+- ★ [[top-live-headline-news-article-summary]] — Experience seamless knowledge retrieval with our Multi-Modal RAG app. Combining text and visuals, it
+- ★ [[tigergraph-unbiased-news]] — This project helps foster critical thinking by showing bias/accuracy of all news sources and also he
+- ★ [[juris-gene]] — JurisGenie turns legal documents into executable contract state machines with AI extraction, human v
+- ★ [[medocr-vision-medical-document-ocr-with-paddleocr-vl]] — Fine-tuned PaddleOCR-VL for medical documents - achieving superior text extraction from prescription
+- ★ [[m-4f2iwy]] — AI Clones for Organizational Memory
+- ★ [[romulus-for-trade-finance]] — Romulus is a Document Intelligence Platform for Financial Services. Romulus for Trade Finance automa
+- ★ [[rescuerx]] — How many drugs have been shelved that could save lives for diseases they were never tested on? We us
+- ★ [[lucid-voice]] — Lucid Voice gives people who can't speak their voice back: a few taps become a full sentence in thei
+- ★ [[shieldai-6x2z1q]] — Open-source correlation engine for cyber threat intelligence. 14 zero-auth APIs, 5 analysis layers, 
+- ★ [[cerebro-9n2xf8]] — An AI-powered learning companion that organizes your knowledge, strengthens your memory, and adapts 
+- ★ [[archaeologistai-code-archaeology-agent]] — Stop digging through commits and merge requests. ArchaeologistAI explains why code exists in seconds
+- ★ [[neocortex]] — Less Tokens. More Answers.
+- ★ [[contributor-track-arpit-tripathi]] — From ticket to first commit in seconds. A GitLab Duo Custom Agent that uses Orbit Graph Intelligence
+- ★ [[unnamed-pzmyes]] — Teams ship faster than they can reason. Our devtool, the missing layer in AI editors, increases leve
+- ★ [[orbitweaver]] — Eliminating the AI "blast radius" blindspot with autonomous, graph-driven architectural migrations.
+- ★ [[stemforge-ai-the-ai-learning-operating-system]] — An AI-powered STEM learning platform that transforms images, notes, equations, and code into persona
+- ★ [[ai-steam-lab]] — "AI-STEAM-Lab adapts to every student in real time — Socratic AI tutoring, computer vision engagemen
+- ★ [[nutricare-agents-oefn4b]] — NutriCare Agents: Revolutionizing nutrition with AI-driven, personalized meal recommendations tailor
+- ★ [[ground-truth-and-mr]] — Expose the gap between what a codebase looks like it is, and what it actually is, based on real depe
+- ★ [[adopting-genai-for-personalized-endorsements]] — Revolutionizing e-commerce: Our platform uses GenAI to personalize ads for buyers, endorsing product
+- ★ [[sceneiq-1hjz8t]] — SceneIQ turns hours of video into instantly searchable moments. Using AI scene intelligence, it dete
+- ★ [[evolve-browser]] — The self-modifying browser for maximizing productivity.
+- ★ [[universe-planner]] — Tackle any complex problem with the social planning app where you can tap into social knowledge exac
+- ★ [[codeshield]] — Fortify Your Code, Secure Your Future.
+- ★ [[circuito]] — Prompt-Based Circuit Design Platform
+- ★ [[diagnosx]] — .
+- ★ [[interpretable-longitudinal-gnn-modeling-of-alzheimer-s]] — This is a code that longitudinally models Alzheimer's disease progression for more clinical relevanc
+- ★ [[ai-wonder-girls-v9-tbd]] — Through the power of graphs and machine learning, we aim to uncover new disease links and help resea
+- ★ [[scisleuth]] — An AI-powered platform that diagnoses student misconceptions, maps broken concepts to a knowledge gr
+- ★ [[dsj-wr1dp8]] — Banks usually don't offer enough user interaction or customer service. They do not perform the reque
+- ★ [[pravasi-swasth-jao8sw]] — secure Health data like Bitcoin
+- ★ [[rss-to-discord]] — 🔍❤️🚀 Hunt down social media accounts by username across social networks, from inside Postman!
+- ★ [[gitlab-orbit-kotlin-ast-indexing-devex-5-contributions]] — Supercharging the GitLab Orbit Knowledge Graph with 4 core merged contributions spanning Kotlin AST 
+- ★ [[pandemic-ppr-helper]] — Pandemic prevention, preparedness, and response (PPR) using AWS Health AI .EXPLORE -> DETECT -> RESC
+- ★ [[connexsci-20nrjy]] — Most investment in scientific investments fail to materialize. We provide analytics and a crowdsourc
+- ★ [[pair-up]] — Pair Up helps remote teams address their Jira issues efficiently by leveraging tribal knowledge held
+- ★ [[merged-mr-feat-code-graph-add-elixir-language-support]] — On the Contribute Track, I have submitted this merge request !1694 which closed this eligible hackat
+- ★ [[gdelt-open-intelligence-agent]] — A web app that uses LLM agents to help you query the GDELT Open Intelligence knowledge graph in natu
+- ★ [[scene-iq]] — SceneIQ transforms raw video into structured, searchable scene intelligence using temporal reasoning
+- ★ [[devexp]] — The Developer Experience is always reflected in the final product
+- ★ [[anti-mafia-analytics-platform]] — Tackling organised crime, one node at a time.
+- ★ [[universal-agent-os]] — A consultation-first governance framework giving AI coding agents strict boundaries and collective m
+- ★ [[pcosense]] — Transforming PCOS Care with AI-Driven Insights .
+- ★ [[concept-dna]] — Map your knowledge , Master STEM
+- ★ [[onesie-bazaar-share-unneeded-baby-clothes]] — Onesie Bazaar is a green marketplace for sharing unneeded baby clothing, for free
+- ★ [[geoscope]] — GeoScope is a Business Hotspot Scoring web app that empowers micro-retailers by converting Google Ma
+- ★ [[ceramic-composedb]] — A visualisation tool for better journalism.
+- ★ [[helmet-ai]] — Keep a-head of the news and protect your competitive edge
+- ★ [[deepsint]] — An OSINT tool specializes in generating an accurate profile card from a username by leveraging artif
+- ★ [[scopium-lna7ro]] — Expand the Scope of Your Codebase! Unlock insights like never before—query your entire codebase effo
+- ★ [[aethertutor]] — Multi-agent AI that adapts to every student delivering personalized STEM mastery through collaborati
+- ★ [[repolinks]] — RepoLinks is a graph for better collaboration. It connects developers and provides a window into an 
+- ★ [[agentbim]] — RAG enabled BIM authoring and processing using natural language
+- ★ [[degdb-distributed-economic-graph-database]] — An actual web scale distributed database that encourages people to contribute through compensation.
+- ★ [[proteognn]] — A. Graph Neural Network Modeling of Tau Protein Misfolding in Alzheimer’s Disease and Related Tauopa
+- ★ [[khaochat]] — Chatbot for a restaurant. Food Recommendations and Spell Checker. Store Locator and Booking Buddy.
+- ★ [[water-slide]] — Slide the tiles around until all of them are filled with water!
+- ★ [[in-cre-d]] — "Intelligent Credit Decisioning using AI" - Enabling Enhanced Credit Decisioning as part of the onbo
+- ★ [[browsegraph]] — Introducing the first in-browser GraphRAG. Everything you browse, fully connected and always accessi
+- ★ [[forafuture]] — See how today's habits shape your future.
+- ★ [[concept-bridge-la3cfg]] — ConceptBridge transforms complex topics into interactive visual maps using AI. Click through knowled
+- ★ [[gitlab-orbit-knowledge-graph-contributions]] — Contributed 5 merged MRs to GitLab Orbit Knowledge Graph: Go test fixtures for generics and special 
+- ★ [[docs-skill-add-prerequisites-section-to-skill-md]] — Adds a prerequisites section to SKILL.md so first-time users and AI agents can reach a working Orbit
+- ★ [[graphaura]] — bring memories back to life w/ an ai-powered 3d knowledge graph

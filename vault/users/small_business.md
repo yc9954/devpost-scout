@@ -1,0 +1,181 @@
+---
+facet: "user"
+name: "small_business"
+projects: 260
+winners: 260
+tags:
+  - "facet"
+  - "user"
+---
+
+# small_business
+
+`user` · **260** projects, **260** of them winners.
+
+## Pairs with
+
+- [[finance_payments]] — 140 together  <sub>(domain)</sub>
+- [[retail_commerce]] — 108 together  <sub>(domain)</sub>
+- [[financial_record]] — 105 together  <sub>(substrate)</sub>
+- [[developer_tools]] — 100 together  <sub>(domain)</sub>
+- [[structured_db]] — 94 together  <sub>(substrate)</sub>
+- [[realtime_stream]] — 83 together  <sub>(mechanism)</sub>
+- [[web_dom]] — 73 together  <sub>(substrate)</sub>
+- [[video_visual]] — 69 together  <sub>(substrate)</sub>
+- [[developer]] — 60 together  <sub>(user)</sub>
+- [[geospatial]] — 55 together  <sub>(substrate)</sub>
+- [[document_pdf]] — 48 together  <sub>(substrate)</sub>
+- [[labor_employment]] — 47 together  <sub>(domain)</sub>
+
+## Projects
+
+- ★ [[auditguardx]] — Enterprise compliance in minutes, not months at 1% of the cost.
+- ★ [[extopay-the-last-mile-solution-for-digitizing-cash]] — Next-Generation CBDC solution for digitizing cash: A Highly Secure Mobile and Non-Mobile Solution wi
+- ★ [[agentic-contract-framework]] — Contract-based observability for AI agents. Monitor if your agents fulfill their commitments and gai
+- ★ [[blockdrive]] — Lifebank helps local communities create a virtuous circle of value exchange between three parties — 
+- ★ [[ketopay]] — We are a service like PayPal (send/receive money) with no transaction fees ( due to our unique busin
+- ★ [[legalmindz]] — Ethiopia has 2.5 million businesses but only 3,000 lawyers. Legalmindz brings Legal AI for 120 Milli
+- ★ [[workaurora]] — Empowering freelancers and companies in a safe, blockchain environment. Explore global opportunities
+- ★ [[robinhood4business-avj92c]] — Digitalization brought to SMEs. Local stores, restaurants, hairdressers and many more, will get onli
+- ★ [[reverelabs-dzpu4k]] — Building No-Code Smart contract-based escrow services to bridge the trust gap in the gig economy.
+- ★ [[anyform-ai-form-builder-30au41]] — AnyForm is an AI powered, tool-first platform that lets you build complex, validated forms in under 
+- ★ [[polkastream]] — Real-time, per-second money streaming powered by Polkadot's sub-second finality and ink! smart contr
+- ★ [[vista-protocol]] — Perpetual futures on Aurora, enabling easy access to (up to 5x) leverage on NEAR, BTC, and ETH, both
+- ★ [[travel-guild]] — 12 Qwen agents that don't just plan your trip - they safely book it. Real budget-capped checkout, de
+- ★ [[dynamic-w3a0hg]] — Dynamic represents the solution to maintain social distances between students, teachers and staff wi
+- ★ [[google-forms-google-sheets-to-trello]] — Fresh from Splurket, stay real with the power of an organized stack!
+- ★ [[kronia]] — Agriculture that Works for Future
+- ★ [[aa-04pgyj]] — Phone calls are frustrating, that's why we moved to chats. We have busy lives and we love doing ever
+- ★ [[fluidity-money]] — Fluidity is a system that creates assets that reward yield when you use them.
+- ★ [[futureup-lab-mindset-development-coaching-for-educators-13b4qu]] — Empowering educators to navigate uncertainty and help their students thrive in difficult times, via 
+- ★ [[clearclause-zer4yh]] — AI-powered legal document analyser: upload any contract, get instant clause-by-clause risk analysis,
+- ★ [[carpe-diem-savings]] — Carpe Diem’s Savings account is a decentralized Certificate of Deposit for any cryptocurrency. If a 
+- ★ [[the-carbon-bank-e8wb0h]] — The Carbon Bank marketplace supports a transparent commercialization of traceable carbon credits on 
+- ★ [[traffiq]] — TraffiQ protects applications from large spikes in traffic by providing an intermediate queue servic
+- ★ [[arduino-controlled-electrolysis-system-for-bleach-production-kodm9u]] — Imagine producing your own bleach right at home, simply by adding salt to water and pressing a butto
+- ★ [[candoor-p0btxf]] — Candoor is a social networking site for people who would like to share or connect with others for an
+- ★ [[hallosophia]] — Platform to close the service gap of small businesses (financial instruments & external knowledge) t
+- ★ [[refound-journalism]] — A decentralized publishing platform and news marketplace with ability to create verifiable content. 
+- ★ [[blindsight-virtual-eyes-through-haptic-feedback]] — Blindsight simulates a novel sense of sight with haptic feedback vibration motors and ML.
+- ★ [[ideaspark-ho0eqd]] — The content Creators market is booming but are the influencers able to create quality content with m
+- ★ [[justmoney-pay]] — Encouraging the mass adoption of cryptocurrencies & their utilization as a day-to-day payment method
+- ★ [[greenops]] — Greenops helps to measure the footprints of deep learning models at training, testing and evaluating
+- ★ [[cerebra-diqop9]] — Using generative AI to improve short videos with Meta TRIBE v2 as a predicted brain-engagement rewar
+- ★ [[civic-impact-compass]] — Congress data meets AI-powered analysis — find the bills that affect YOU.
+- ★ [[money-talks-d93izn]] — Clean cash I want you, Clean cash I need you. Upload one credit card monthly statement and receive t
+- ★ [[kegomate]] — Kegomate collects data from a flow sensor to track coffee consumption by individuals then informs th
+- ★ [[pixurate]] — It is a transparent, fake-proof review system with high engagement on blockchain. It generates AI-po
+- ★ [[bountai]] — Blockchain based ML MarketPlace that trustlessly connects Devs to ML enthusiasts and Data Scientists
+- ★ [[kredex]] — AI Agents for Small-Scale Businesses
+- ★ [[decent-poems]] — Words are drawn. Verses are written. Poems are created. NFTs are sold. Authors are paid. Decent Poem
+- ★ [[split-sketch]] — A fast, two-player drawing game where one player selects a word draws half of it, the other complete
+- ★ [[sentineldesk]] — SentinelDesk turns MX Creative Console & Master 4 into a tactile CCTV cockpit. Scrub footage with th
+- ★ [[era-ga6bj7]] — Authenticity for a New Age
+- ★ [[my-et-economic-times-reimagined]] — AI-powered financial news assistant that translates complex articles into any language, verifies fac
+- ★ [[facestylr]] — Polyvore meets Augmented Reality for styling your face. Make meaningful product connections with you
+- ★ [[theo-daos]] — Meta4Swap is a Web3 store front for buying and selling products and services. Payments are made in o
+- ★ [[salesshortcut]] — A comprehensive AI-powered Sales Development Representative (SDR) system built with multi-agent arch
+- ★ [[kash-9evi3c]] — Enhance events payments with Kash, a blockchain-based solution that integrates cashless technology, 
+- ★ [[m-i-broke-financial-status-analysis]] — Helping small businesses to quickly assess their financial status. By providing the most comprehensi
+- ★ [[seance]] — Explore the world's darkest legends
+- ★ [[eden-protocol-of-developer-dao]] — Eden will be the world's opportunity protocol, providing a place where everyone can grow through wor
+- ★ [[carge]] — Web3 PKI for decentralized collaboration, deploy workflows and collaborate with individual, organiza
+- ★ [[ciclogreen]] — Using gamification to help cities and companies to promote active and safe mobility to reduce COVID 
+- ★ [[neurolens-2qgdm8]] — An agentic system that models visual attention and neural engagement to autonomously optimize your c
+- ★ [[patentbot]] — Patent creation can a be complex process often requiring legal expertise. To streamline this process
+- ★ [[break-even]] — Most of us want to support suffering businesses but do not know exactly how. Imagine if there was an
+- ★ [[workpay]] — End-to-end digital finance management platform for companies and their employees.
+- ★ [[shylock-5af7cj]] — innovative DeFi project designed to facilitate cross-chain lending and borrowing. allows users to bo
+- ★ [[novareel]] — Turn product photos into high-converting videos.
+- ★ [[novella-x3jmpd]] — Novella is an intelligent accounting analytics assistant that works with FreshBooks to help start up
+- ★ [[karinderya-bot]] — Carinderia PH is an on-demand food delivery service for the local Filipino eatery, similar to UberEa
+- ★ [[cardos]] — Applying for a credit card is painful & most rewards don’t fit individual needs. We’re solving this 
+- ★ [[we-stay-liquid]] — from WeStayLiquid to LiquiNow
+- ★ [[fundget]] — fundget not only gets the fund but gives the trust.
+- ★ [[bitflow-bitcoin-payment-streaming-on-starknet]] — Stream Bitcoin payments in real-time with ultra-low fees on Starknet. First Bitcoin payment streamin
+- ★ [[agentguard-the-semantic-firewall-for-the-agentic-web]] — The SSL for AI Agents. A Semantic Firewall that uses Gemini 3.0 to distinguish helpful shoppers from
+- ★ [[octopus-pzv5l0]] — A human-centered search engine powered by memory agents.
+- ★ [[modemixer]] — ModeMixer: Mix Trends, Master Style.
+- ★ [[greengold]] — Greengold is an environmental and climate focused green-minded project built on the Celo blockchain.
+- ★ [[blitz-5b1g47]] — Blitz is an instant business networking app connecting freelancers and creators.
+- ★ [[contractful-hiring-agreements]] — contractful provides peer-2-peer, safe and secure Hiring Agreements for everyone to use.
+- ★ [[beb-pay]] — Bringing fast, contactless payments to every store!
+- ★ [[shop-simulator]] — Craft items. Sell them to customers. Hire workers. Customize your shop. Become The Merchant
+- ★ [[modemixer-5kc7s3]] — ModeMixer: Mix Trends, Master Style.
+- ★ [[dockit-apv17c]] — An an AI-powered platform helping small businesses discover and manage city-specific licenses, permi
+- ★ [[cashcult]] — Know your cash flow either inflow or outflow today with CashCult.
+- ★ [[rivel-io]] — A set of tools to make recurring payments in crypto easy.
+- ★ [[evon]] — EVon is a redefined solution for tracking and analyzing electric charging stations. In our applicati
+- ★ [[livedesign-pro]] — A streamlined event page design platform integrating ChatGPT and Midjourney for effortless image gen
+- ★ [[zktrace-629hxs]] — A privacy supply chain management protocol
+- ★ [[perkify]] — Use Perkify to offer subscription services to your employees.
+- ★ [[agent-shell]] — AgentShell redefines the Model Context Protocol (MCP) from "information retrieval" to "body control,
+- ★ [[stablepay-alvfhb]] — StablePay turns overseas invoice payments from weeks to minutes. Your clients pay with stablecoins, 
+- ★ [[kasha]] — Tired of doing mental math and nudging someone who owes you money? Kasha is an AI chat bot that trac
+- ★ [[disposable-digital-wallets-pointcheckout]] — Financial Support distribution to the unbanked and non-tech is hard, micro funds can still be sent t
+- ★ [[rent-a-spot]] — A One-stop solution for your spot renting needs.
+- ★ [[voicezero]] — We build websites by conversation
+- ★ [[g-kiosk]] — Convert any Google Form into a self service payment kiosk.
+- ★ [[night-s-watcher]] — Night's Watcher is an innovative blockchain security monitoring tool designed to provide users with 
+- ★ [[chainhedge]] — ChainHedge is a marketplace of insurance writers and buyers where anyone can issue a custom inflatio
+- ★ [[lightningcelo]] — Real-time money-streaming protocol for Celo Stables Enabling your $cUSD to flow like the river in re
+- ★ [[txt2bot]] — txt2bot is an easy-to-use customer support platform that provides business owners with a plethora of
+- ★ [[midatopay-jeksiy]] — Ofrecemos a los comercios la libertad de elegir. Una billetera virtual intuitiva para comercios que 
+- ★ [[poyopop]] — Start-up app idea for pop-up cafes and food in the area!
+- ★ [[framble]] — An E-Paper picture frame for Facebook and Instagram
+- ★ [[taskflow-rescue]] — TaskFlow Rescue helps people turn scattered, blocked, and overdue work into clear, trackable executi
+- ★ [[ai-protege]] — Teach an AI student that challenges your explanations with questions and fact-checking. If you can't
+- ★ [[subis]] — zkSync ( Native AA ) Decentralized Subscription Service with Gasless Payments
+- ★ [[futureher]] — Empower. Educate. Elevate.
+- ★ [[oneline-nr4l1c]] — Draw it in one continuous line!
+- ★ [[servar]] — Maximize dining with servAR! Create individualized customer experiences, reduce operational costs, a
+- ★ [[chopdot]] — ChopDot is a Polkadot-native group expense app that lets friends create pots, track costs, and settl
+- ★ [[ripplerelief]] — Every donation, tracked and trusted.
+- ★ [[advision-2b04ns]] — From AI-generated ads to performance insights and side-by-side comparisons—see what works, scale wha
+- ★ [[killbill-wam45d]] — An agent that finds every recurring charge, judges which ones you actually use, and hands you the ca
+- ★ [[ava-accessibility-and-vision-assistant]] — is your smart financial assistant and mobile wallet for the visually impaired and elderly with the p
+- ★ [[risk-navigator]] — Assets Angel quantifies risk for small business owners and provides them actionable steps to optimiz
+- ★ [[localpulse-uwr83x]] — At LocalPulse, our mission is to put the power of community insights in the palm of your hand.
+- ★ [[stylesnatch]] — Any design on a canvas
+- ★ [[growr]] — Fair loans through self-sovereign profile and decentralized risk management
+- ★ [[liquilex]] — LiquiLex is an advanced AI-powered platform designed to help businesses and developers navigate comp
+- ★ [[recur-u2v03g]] — RECUR is a recurring payments management tool that is built to enable subscriptions in Web3. It appl
+- ★ [[happiness-farms-online-platforms]] — Empowering our local Chinese farmers by utilizing digital platforms.
+- ★ [[x-defi]] — A blockchain-based payment gateway system to enable centralized financial institutions to participat
+- ★ [[aegis-jtde8o]] — A real-time 911 dispatch co-pilot that transcribes, translates, and protocol-grounds every call, the
+- ★ [[virtual-c-suite]] — Virtual C-Suite: Your AI Board of Directors. We use LiquidMetal agents & Raindrop SmartMemory to giv
+- ★ [[small-business-marketplace]] — Help local small businesses, informal workers and street fair merchants deal with social isolation r
+- ★ [[codehers-empowering-women-in-tech]] — Elevating Women in Tech: Empowering Growth, Building Futures
+- ★ [[mintdeals]] — Transforming Club Memberships and Deals with DeFi-Driven Credit Access
+- ★ [[tracker-link]] — Never trust some giveaway tweet anymore! Our giveaways are cryptographically fair . Creating a tweet
+- ★ [[wallaby-7vuzn2]] — Markets provide creators a storefront to their local community. Wallaby extends these in-person expe
+- ★ [[get-together-tl496s]] — Get Together + Square Appointments is the fastest, easiest way for clients to book with their favori
+- ★ [[the-aethereal-shop-kit]] — A modular, remixable shop in Meta Horizon: an open-air, elegant and ethereal environment where every
+- ★ [[viafusion]] — Build on Rapyd, Transfer Money to your bank account, accept payments globally and keep track of tran
+- ★ [[brightestimate]] — Elevate everyday proposals to professional grade with our universal tool, empowering contractors and
+- ★ [[dygnify-protocol]] — Defi protocol for real world lending - A decentralised credit infrastructure for connecting digital 
+- ★ [[cloud-vault]] — Cloud Vault is a containerized file uploader using Chainguard Images for secure environments. It sec
+- ★ [[stayhome-staysmart]] — Smart Coach to support people to lower the level of stress related to moments of crisis through pers
+- ★ [[nab-3d]] — Nab any object straight out of the real world and into your browser. Video to 3D web component -- al
+- ★ [[bunny-notes]] — A simple to use decentralized Cryptographic Note protocol that works with Zero-Knowledge Proofs and 
+- ★ [[juris-gene]] — JurisGenie turns legal documents into executable contract state machines with AI extraction, human v
+- ★ [[malachi-by-expand-financial]] — Malachi is an inclusive personal finance mobile app by college students, for college students.
+- ★ [[payguard-qj08ie]] — PayGuard is a free, privacy-first platform for smarter international payments. Compare fees, detect 
+- ★ [[shadow-ops-expense-report-shadow]] — Upload a receipt photo. Nova 2 Lite extracts the data and infers the workflow. Nova Act opens a clou
+- ★ [[oneweb]] — One belief.One culture.Onelearn
+- ★ [[submatic-bookings]] — Allowing Square Merchants to sell memberships and packages online for bookable items. Customers can 
+- ★ [[muscle]] — From handwritten chaos to digital clarity. Muscle POS: the portable, battery-powered device that tra
+- ★ [[family-pay]] — Family pay increases financial inclusion of kids, by allowing them to pay on their parent's behalf, 
+- ★ [[b2b-invoicing]] — Add B2B capabilities to your Square account, allow your customers to log in, view, pay, or make part
+- ★ [[greenbytes-g13wzm]] — GreenBytes tells restaurants the right amount of food to order based future food consumption predict
+- ★ [[helpregistry]] — The central, intuitive European registry to find Coronavirus-related help initiatives.
+- ★ [[scopeai-okczsu]] — Turn client chaos into a clean Scope of Work in 5 minutes powered by guided AI conversation, built e
+- ★ [[metatalk]] — Opensource Decentralized Communication Protocol
+- ★ [[blockswanfamily]] — BlockSwan Family is a decentralized non-custodial digital services marketplace combined with a commu
+- ★ [[lendx]] — Making SMB lending transparent and efficient with on-chain loan tracking on the XRP Ledger
+- ★ [[pay-your-daddy]] — Lumo: Split expenses instantly, no upfront payments. Empowering seamless, real-time cost-sharing for
+- ★ [[shieldai-6x2z1q]] — Open-source correlation engine for cyber threat intelligence. 14 zero-auth APIs, 5 analysis layers, 
+- ★ [[guardian-ai-powered-fraud-prevention-for-your-money]] — Defend against suspicious charges before they even reach your account, utilizing voice alerts, agent
+- ★ [[mercado]] — "Empowering Latino Businesses, One Investment at a Time."
+- ★ [[pasarkerja-quhond]] — A Marketplace integrating Indonesia's informal worker services for Micro Small Medium Enterprises
+- ★ [[instayum]] — Rediscover the joy of cooking. InstaYum! is a revolutionary cooking assistant, that uses voice contr

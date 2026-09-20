@@ -1,0 +1,63 @@
+---
+slug: "communipute"
+url: "https://devpost.com/software/communipute"
+title: "CommuniPute"
+hackathon: "TreeHacks 2023"
+organization: "Stanford TreeHacks"
+winner: true
+words: 1678
+team_size: 4
+has_repo: true
+has_live: false
+has_video: true
+tags:
+  - "project"
+  - "mechanism/realtime_stream"
+  - "mechanism/structural_withholding"
+  - "domain/developer_tools"
+  - "domain/education"
+  - "domain/finance_payments"
+  - "domain/health_clinical"
+  - "user/developer"
+  - "user/educator_student"
+  - "user/patient_family"
+  - "user/researcher"
+  - "substrate/regulation_legal_text"
+  - "substrate/video_visual"
+---
+
+# CommuniPute
+
+> Share compute power throughout your community when you're not using it through our distributed compute sharing platform.
+
+[Devpost](https://devpost.com/software/communipute) · hackathon [[TreeHacks 2023]]
+
+## Facets
+
+**mechanism** [[realtime_stream]] [[structural_withholding]]
+**domain** [[developer_tools]] [[education]] [[finance_payments]] [[health_clinical]]
+**user** [[developer]] [[educator_student]] [[patient_family]] [[researcher]]
+**substrate** [[regulation_legal_text]] [[video_visual]]
+
+**stack** compute, containerization, convex, css3, distributed-computing, docker, html5, javascript, jsx, python, react
+
+## How they structured the write-up
+
+- inspiration
+- what it does
+- technical details
+- how this applies to sustainability
+- how this applies to education
+- how this applies to new frontiers (ml/ai)
+- how this applies to healthcare
+- how this applies to web 3.0/blockchain
+- how this helps developers
+- how we built it
+- challenges we ran into
+- accomplishments that we're proud of
+- what we learned
+- what's next for communipute
+
+## Body
+
+Home page App Architecture Login Pick your compute platform of choice Write your code in the IDE See the response of your code which runs on another system Home page # 2 Home page # 3 Inspiration No matter how much you use your computer, it's likely you're not using your computing power to 24/7. That being said, it always feels like when you need power, you can never seem to have enough. Imagine being able to utilize your computer's compute power around the clock. With increasingly powerful machines entering the market (such as Apple's 96 GB RAM M2 MacBook Pro), we're beginning to see an underutilization of these compute resources. On the other hand, we see more and more compute heavy workloads - such as deep learning models - becoming more prevalent. What if there was a way for someone across the world to use your machine's resources while you sleep? Or if you could supercharge your own programs by using the resources of someone that's off their laptop? Noticing this discrepancy, our team decided to address this problem by creating a platform that connects some user's underutilized compute power to other user's compute needs. What it does CommuniPute allows users to make their compute power available to the community and make money off of their computer's utilization. Users who need compute can request this underutilized compute power for their own innovations. A user can request compute power by browsing the catalog of available compute resources and selecting the compute resource of their choice. The script is run on the selected compute platform. Advantages Run on a more powerful machine Utilize a more powerful network Run your code on the compute architecture of your choice Distribute your workloads Technical details Used semaphores for multiple connections working at once Used websocket technology using Convex Used containerization using Docker to prevent elevation of privilege, along with limiting available RAM memory React.js in the frontend with dynamic updates A web based IDE to execute code Being able to run python code with required libraries being downloaded into docker container with user specifications Future Goals We wanted to create a system that's able to take a compute heavy workload and intelligently distribute the workload to available compute resources. This allows requesting users to utilize the combined power of available compute resources for their innovation needs. Given constrained by time constraints of the hackathon, we implemented a proof-of-concept of the distributed computation model-- with parallelization being a future goal. Please see the "What's next" section for a more elaborate set of future goals How this applies to Sustainability One of the greatest challenges in the current tech sustainability space is the heavy resource demands of significant compute systems. Furthermore, old compute systems are typically trashed - therefore, negatively impacting the reduce, recycle, and reuse sustainability model. Our platform can utilize older compute systems to fulfill the industry's every growing compute power demand. By leveraging these underutilized compute platforms, we reduce the need to aggressively extract materials for compute systems thus facilitating the reduce, reuse, recycle cycle. How this applies to Education Education within the computer science or technology related space often implies the presence of powerful compute systems. However, for underprivileged students, the lack of compute capacity often serves as a handicap. Giving access to unused hardware for cheap allows greater access to education, equitability, and potential for innovation. This platform also allows an easier entry into heavy compute fields. Users no longer need to get up to speed on platforms cloud compute providers such as AWS, Azure, or Google Cloud. Users can simply write their functions and hit run without worrying about the overhead about where their compute will run. Furthermore, academic institutions often have many compute systems which are underutilized or outright not used. Our platform will allow for the utilization of these compute platforms by students, researchers, academics, and professors within the institution. How this applies to New Frontiers (ML/AI) Deep learning is becoming the new game changing innovation within the Machine Learning and Artificial Intelligence space. However, the creation of deep learning models requires the modeling of neural networks which require significant amounts of compute. Using our platform can alleviate these challenges by providing readily available compute for very cheap. A real world use case where our platform may have been used is during COVID-19. During COVID-19 research, scientists at IBM created a "grid computing" platform which asked users to offer their machines to scientists for running compute heavy workloads. We hope to make this level of compute readily, and cheaply available to any ML/AI innovator. Furthermore, as mentioned within the "How this applies to Education", our platforms allow ML/AI engineers to only focus on their innovation rather than worrying about setting up compute systems on AWS/Azure/Google Cloud to support their compute heavy workloads. This not only allows innovators access to cheap compute power, but also reduces the barriers of entry to ML/AI innovation space. How this applies to Healthcare One of the greatest challenges in healthcare relates to patient safety. Typically, patient data is regulated to not leave the healthcare institutions network. Therefore, the cloud is not an option to offload heavy Machine Learning workloads. Our platform can provide a solution in this space by allowing healthcare institutions to utilize all their compute systems for running compute heavy workloads. How this applies to Web 3.0/Blockchain Coin mining requires compute resources. A big challenge for coins is the lack of compute power to mine these coins. Leveraging underutilized compute resources will allow for the mining of such coins. How this helps Developers Our platform serves as a tool that developers can utilize in multiple ways: Developers have an ever increasing need for compute power. Our platform makes immense compute power readily accessible to developers. For example, for developers working on machine learning workloads can utilize our platforms to run their workloads and get results without worrying about overhead related to setting up a cloud platform for their compute needs. Developers want to test their products on multiple compute architectures and through various operating systems. Our platform allows users to choose which available machine they want to run their work on. Ex. a developer may want to ensure that their app works on x86 architecture. Our platform provides information about the available compute platform. So a developer can choose the appropriate x86 machine with the host OS of their choice. How we built it We created 3 separate modules for this project. The three modules are as follows: Host-side Client: The host-side client features a python application. The host-side client communicates its availability to the server, receives requests Backend Solution: We leveraged Convex's backend capabilities and web sockets solution. The backend solution allows the connection of available compute resource to a requesting user. Since convex uses web sockets under the hood, we were able to leverage real-time reactive updates. This also allowed a two-way communication from the server to the client and the client to the server. It was imperative to send updates from the backend side to the client. Convex simplified the necessary logic and infrastructure that would've been required to make this possible - the web sockets solution was a game-changing asset. Web App: The web app allowed requesting users an interface for viewing available compute platforms and requesting the compute platforms. Please see uploaded images for architecture diagram Challenges we ran into Security Considerations Being a compute sharing platform, the foremost challenge we considered was being able to run code within a containerized platform. We wanted to ensure security for both the host machine and the requesting machine. The code being run on the host machine shouldn't harm the host machine. Likewise, we wanted to provide a level of security for the requesting machine's code so that it isn't readily observed by the host machine. We addressed these challenges by using a novel containerization technology in order to separate executing of the code. Anytime a request is made to compute, we spin up a separate compute container that allows execution of code in a complete silo New Technologies Our team came in with strong backend knowledge but a limited working knowledge of front end. We ended up using Convex which simplified the backend logic but placed the brunt of the workload on the frontend technologies. Therefore, coming up to speed with our front end framework (React), JavaScript, and integrating with Convex was the biggest challenge that our team faced. Accomplishments that we're proud of We were able to create a working minimal viable product within a short period of time. The product we created has a vast application within almost every industry that utilizes technology. So our team is most proud of creating a product that makes a difference in every industry and potentially revolutionizes the way we use hardware. What we learned 3/4 of the teammates were first time hackers. Furthermore, our entire team came in with limited working knowledge of Convex, JavaScript, React, and front end technologies. Our team was able to quickly come up to speed with these technologies. Furthermore, we learnt how to work with containerization technologies. We learnt an incredible amount during this project and had a great time working as a team! What's next for CommuniPute There's multiple next iterations for our community compute platform: Create an orchestration system which allows one compute job to be orchestrated over multiple compute systems. This will provide utility for functions such as deep learning and larger work loads. Create a service which allows for compute sharing within a local edge network using peer-to-peer connections without sending compute data to a backend server. This has a significant application within the healthcare industry as regulation prevents patient information from leaving the origin healthcare entity. Therefore, healthcare entities will now be able to perform compute on their under utilized compute platforms within their network edge then send out computed data for centralized processing Implement paying mechanism and back a coin using credits Allow for uploading files rather than using the text editor to write code. <div

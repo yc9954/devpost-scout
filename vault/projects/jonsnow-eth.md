@@ -1,0 +1,53 @@
+---
+slug: "jonsnow-eth"
+url: "https://devpost.com/software/jonsnow-eth"
+title: "Polydocs"
+hackathon: "Polygon BUIDL IT : Summer 2022"
+organization: "Polygon"
+winner: true
+words: 1312
+team_size: 3
+has_repo: false
+has_live: true
+has_video: true
+tags:
+  - "project"
+  - "mechanism/provenance_signing"
+  - "domain/civic_government"
+  - "domain/education"
+  - "domain/legal_justice"
+  - "domain/retail_commerce"
+  - "user/general_public"
+  - "substrate/code_repository"
+  - "substrate/document_pdf"
+  - "substrate/financial_record"
+  - "substrate/geospatial"
+---
+
+# Polydocs
+
+> Protecting projects and users with smart documents and meta-signing for smart contracts.
+
+[Devpost](https://devpost.com/software/jonsnow-eth) · hackathon [[Polygon BUIDL IT - Summer 2022]]
+
+## Facets
+
+**mechanism** [[provenance_signing]]
+**domain** [[civic_government]] [[education]] [[legal_justice]] [[retail_commerce]]
+**user** [[general_public]]
+**substrate** [[code_repository]] [[document_pdf]] [[financial_record]] [[geospatial]]
+
+**stack** amazon-web-services, react, solidity, typescript
+
+## How they structured the write-up
+
+- inspiration
+- what it does
+- how we built it - sponsor technologies
+- challenges, accomplishments and lessons
+- what's next for polydocs
+- gratitude
+
+## Body
+
+We have three dapps hosted on Spheron - including polydocs.xyz - for a more complete user experience Customizable Signing page for brands based on contract metadata Sign.polydocs signature page Signing action on polydocs See your deployed contracts - created with polydocs or import your own We created a registry of known documents to encourage standardization of legal agreements Inspiration Smart contracts are increasingly used for managing the allocation of digital assets. These assets are more complex than the cash or deeds we sometimes use for analogies. Intellectual property involves rights and responsibilities. Financial instruments require acceptance on both sides. Communities need agreement on government by norms and rules. The articulation and acceptance of these terms should be a first-class consideration for those creating digital assets and services. That's why we made Polydocs. What it does Polydocs is first a standard for expressing agreement to a document made of decentralized information as of a fixed point in time. To reflect that, we make the block height part of the specification of a given document. The format for a polydocs signable document is: renderer/#/template::chainId::contractAddress::blockheight[::tokenId] Note: tokenID is for when the agreement is particular to the token, rather than the whole contract To make this easy, we created three services in this hackathon: 1) sign.polydocs.xyz is a gasless mini-app to enable a customer to accept the terms of an agreement and get recorded on the blockchain using a metatransaction 2) admin.polydocs.xyz is a gasless admin system for creating, deploying and managing contracts with polydocs agreements. 3) A known templates registry on Mumbai and Polygon Mainnet for documents hosted on IPFS. Mumbai Polygon Mainnet With these in combination, brands and service providers can create and manage contracts that make it easy for customers to accept terms, record those terms to the immutable blockchain, and enable commerce where everyone accepts the rules of engagement. Also, brands can choose to customize their signing page using contract metadata. How we built it - Sponsor Technologies Technical Insights In the course of this hackathon, we discovered a kind of decentralized application nirvana at the intersection of the immutable Polygon ledger, decentralized storage via IPFS , and "just enough web2" backend and private information store through AWS . In short, this is increasing the front-end power without requiring them to spend gas directly. For example, we combined the UCAN tokens from NFT.storage and authenticated Lambda endpoints by AWS to facilitate the decentralized (IPFS-hosted) front-end directly pushing files into decentralized storage. AWS holds the private API key, but users get time-and-access-limited tokens for direct communication, making for a much smoother experience without sacrificing security. We also used the AWS lambdas to route meta-transactions onto the Polygon blockchain. This allows us to allow the front end maximum flexibility to execute changes with a minimum of web2 code, while not requiring them to spend gas. In combination, we were able to allow more sophisticated management with a minimum of onboarding requirement and code complexity. Sponsor Details Sponsor technologies were key to making as much progress as we did in this hackathon. In addition to shipping on Polygon mainnet and Mumbai testnet, we got specific utility from services that widened our view of the decentralized web: Amazon Web Services For the gasless relay and tracking private user/account information. Our system is built on AWS API Gateway running Lambda functions, authenticated using messages signed by a user's wallet. The system is backed by Quantum Ledger, the private, serverless immutable ledger system to keep everything maximum "blockchain." QLDB has been easy to work with and intuitive. We created a new Lambda Layer to enable hardhat-based deployment and verification of contracts. IPFS/Filecoin Decentralized storage opens tremendous new possibilities for the integration of trustworthy documents with blockchain record-keeping. The recent introduction of UCAN delegated authority tokens allowed us to build an even-more-decentralized experience. Now our AWS web2 back-end can ship a time and authority limited token to the front end to facilitate direct uploads for maximum performance and minimum constraints. File transfer went from being our most difficult challenge to being one of the best parts of the UX. Spheron Our front-ends are hosted on IPFS and stored via FileCoin deals. We leveraged Spheron to deploy not one but three apps from a single monorepo, and reduced our concerns through supporting auto-deployment based on pushes to main. This took some doing - we made multiple organizations to handle multiple deployments from a single repository. We found a couple of challenges that were generic to hosting on IPFS, but Spheron made them easier to work with. Challenges, Accomplishments and Lessons Using UCAN on a node back-end was challenging at first because the reference library required ESModules, and our typescript code compiles to commonjs. To address this, we ported their library to Typescript and deployed it for commonjs support. This allowed us to integrate this cool new technology simply, and we hope it helps others: https://www.npmjs.com/package/ucan-storage-commonjs Using hardhat in a lambda environment was challenging as the dependencies pushed against the space limits for a single package. To address this, we created a lambda layer to make it easy to work with hardhat. It is integrated into our project, and publicly available: https://github.com/rhdeck/hardhat-lambda-layer Deploying dynamic apps on IPFS hosting creates challenges since the apps must be truly static assets - there is no web server to help redirect one. We found two tricks particularly helped. First, we shifted from using the traditional BrowserRouter approach of overriding history and paths to using an older-school HashRouter that manages navigation through the fragment. This technique felt like a throwback, but magically solved many problems with deep linking. Second, we set the PUBLIC_URL environment variable used by create-react-app to . as opposed to the default of / . This was important because when viewing an app on IPFS, one is not guaranteed to doing so through a specific path. By referencing "current" and then staying on the one page (because we navigate via the fragment) the app stays stable and available. We focused on issues of onboarding and approaches to make this technology more useful for protecting rights and managing digital assets. While our initial approach was a more traditional dapp in which the customer pays gas fees, introducing a bit of indirection while managing protection and guaranteeing the provenance of signatures significantly reduces the stresses for users. What's next for Polydocs We started Polydocs as an effort to make it easier and safer to operate complicated intellectual, financial and rights-oriented assets on the chain. We want to continue in this vein. EIPs We aim to introduce EIPs for the Polydocs signature standard and the contract-level metadata URI that we invented along the way. These will make it easier for others to protect their communities and assets and introduce signable documents as a primitive to the chain. By making the standard open-source and usable by all, we can move the whole community forward. Trusted Templates Customers should be able to trust the legal documents put in front of them. As part of Polydocs we created a trusted template registry (hosted on Mumbai and on Mainnet ) that we imagine we can contribute to based on organizations and projects adopting common agreements. The ability to confirm that the template is in the registry and has some high trust score is a way to help people feel comfortable with these agreements. Commercialization There is a potential to provide useful service - especially with the gasless transactions. We are pursuing this opportunity. Gratitude We are very thankful for the opportunity to learn, grow and develop Polydocs in the context of the Buidl It hackathon. Thank you to our hosts at Polygon, the sponsors - especially Protocol Labs, Spheron, and AWS - and the many members of the hackathon community who have made this such a rewarding experience. Team Polydocs Drew Clements @drewclem Ray Deck @rhdeck Akshay Rakheja @akshay-rakheja <div

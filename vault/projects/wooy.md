@@ -1,0 +1,36 @@
+---
+slug: "wooy"
+url: "https://devpost.com/software/wooy"
+title: "Wooy"
+hackathon: "Celo's Make Crypto Mobile Hackathon"
+organization: "Celo"
+winner: true
+words: 1063
+team_size: 1
+has_repo: false
+has_live: true
+has_video: false
+tags:
+  - "project"
+  - "domain/finance_payments"
+---
+
+# Wooy
+
+> Wooy is the first Lossless Donation DEFI protocol that allows users to win once in a lifetime experiences with their idols, NFTs, incredible prizes and even APY while helping causes that really matter
+
+[Devpost](https://devpost.com/software/wooy) · hackathon [[Celo-s Make Crypto Mobile Hackathon]]
+
+## Facets
+
+  <sub>weak: revocation_withdrawal</sub>
+**domain** [[finance_payments]]
+  <sub>weak: developer_tools, education</sub>
+  <sub>weak: developer</sub>
+  <sub>weak: financial_record</sub>
+
+**stack** web3
+
+## Body
+
+Wooy is the first Lossless Donation DEFI protocol that allows users to win once in a lifetime experiences with their idols, NFTs, incredible prizes and even obtain APY while helping causes that really matter. We are the "PoolTogether for donations". We want to create a for-profit company that its objective is to help. Our vision is to use the technology to make an impact on the Sustainable Development Goals (SDGs), that is why we seek to work with non profits that are aligned with these objectives. What is lossless donation? When we talk about Lossless Donation we mean that users can participate and donate funds without having to lose part of their initial capital. How does it work? Super simple ... Users enter our platform, choose the pool with the prize in which they want to participate and deposit their tokens. The tokens generate interests in a safe way and the interest are then donated to the selected NGO. Once finished, users have the possibility to leave their capital to participate for the next round or withdraw them without having lost anything. That is why Lossless donations. In other words, they donate and can win incredible prizes without risking the capital and having the possibility of withdrawing it whenever they want. So, what do we mean when we talk about once in a lifetime experiences? For example, in our MVP campaign with the Red Cross we did an experience with Javier Calamaro, a musician from Argentina, who is also an environmentalist and protector of the seas. Together, we decided to invite the winners to an exclusive and private show on a cruise in the sea of Puerto Pirámides, while doing whale watching. This event raised the attention from different sponsors, who saw this not only as an opportunity to help the charitable cause we were helping, but also to use our viral content to promote their brands, generating awareness and encouraging sustainability causes. That's why we like to say it's a "Win-Win-Win": where celebrities reach out to their followers in new, creative and emotional ways, fans have the possibility of living a once in a lifetime experience, while sponsors promote their products and, most importantly, everyone supports a charitable cause. We use these fans, celebrities, sponsors and NGO´s engagement to create bigger, worldwide and mind-blowing experiences. Following Calamaro's example, imagine we create an experience with Pitbull and Royal Caribbean as the main sponsor, helping a charitable cause they believe in, where the winner's prize is an all-included, 2-days cruise with an exclusive Pitbull's concert in the middle of the sea...The potential donations, reach, and marketing has no limit. Why Blockchain? We use blockchain not only to develop a fully transparent and traceable framework, with faster international transfers and lower fees. But, in addition to the traditional method that with your donation you participate in a sweepstake, we offer new ways of interacting. Such as: Our Lossless Donations feature, which we mentioned before. Here we target users who hold tokens for long a long time and can benefit from a tax benefits for donations or users who usually subscribe to monthly or annual donation plans with nonprofit, but we can generate interests and add the opportunity to live a unique experience with their idol as an additional incentive. We plan on issuing NFTs or as we like to call them "Proof of Donation" . We created the concept of PoD, taking the first step on the way to use NFTs beyond the monetary level and show transparency when donating, seeking to make this a standard . Where all the data of that transaction is recorded, like who donated, how much, when, to whom and for what, getting the full cycle of the payment, from user to use. We are going to give a PoD to everyone who has made a donation through us, giving trust again to the people who donate and eliminating one of the main problems we realized in our MVP. MVP We did an MVP in Argentina in partnership with the Red Cross. Where we worked with 8 important celebrities from Argentina, David Nalbandian (professional tennis player), Maru Botana (chef), Alejandro Lerner (musician), Bruno Zuculini, Pico Monaco, Attaque 77, Lirman and Zabaleta. Our business model generates viral content organically and that's how the MVP managed to raise more than 3 thousands of users in ~3 months without any marketing budget whatsoever. We also had great media coverage in important channels like newspapers and tv. Team We are two co-founders, Agustin Villalba Orúe and Joaquin Alvarez Vitale, two serial entrepreneurs from Buenos Aires. We are Digital entrepreneurs whose mission is to promote digital entrepreneurship adding value and facilitating technological disruption wherever there is a need. We've known each other from elementary school, and became friends for almost for 20 years now. Being born in Argentina, we became two curious and creative minds who are constantly searching for out of the box solutions. We believe that with the correct use of technology and an excellent team we can create modern solutions that solve modern problems. That's how we started working as a team and have already co-founded other startups where we put together and manage both operations and developers teams. Matías Battolla, our CMO, who specialized in User acquisition and Growth marketing in companies such as Google and Mercado Libre. Demian, our CTO, who previously founded a software factory specialized in high-impact blockchain products. Conclusion We take an innovative approach to fundraising allowing NGOs to spend less time and money raising funds, where Wooy takes all the marketing and collecting efforts, allowing them to focus on what they do best, helping causes and creating a greater impact. We leave you with a quote from Dan Pallotta that inspired us, and if you are interested you can find below his Ted Talk. "If you kill innovation in fundraising, you can't raise more revenue. If you can't raise more revenue, you can't grow. And if you can't grow, you can't possibly solve large social problems." Achievements Some of the achievements we are proud of! Members of Celo Alliance for Prosperity. Participant of the Celo Camp. Great board of advisors joined. Pre-seed round with Flori Ventures. Great base team! Partnership with the Red Cross on our MVP. Scholarship for Naves - IAE University Finalist on Drapper - Mardelvalley pitch competition. VentureCity's first product-led growth week. <div

@@ -1,0 +1,181 @@
+---
+facet: "mechanism"
+name: "voice_speech"
+projects: 701
+winners: 701
+tags:
+  - "facet"
+  - "mechanism"
+---
+
+# voice_speech
+
+`mechanism` · **701** projects, **701** of them winners.
+
+## Pairs with
+
+- [[realtime_stream]] — 434 together  <sub>(mechanism)</sub>
+- [[video_visual]] — 320 together  <sub>(substrate)</sub>
+- [[developer_tools]] — 254 together  <sub>(domain)</sub>
+- [[structured_db]] — 241 together  <sub>(substrate)</sub>
+- [[transcript_audio]] — 223 together  <sub>(substrate)</sub>
+- [[geospatial]] — 219 together  <sub>(substrate)</sub>
+- [[education]] — 207 together  <sub>(domain)</sub>
+- [[educator_student]] — 199 together  <sub>(user)</sub>
+- [[web_dom]] — 178 together  <sub>(substrate)</sub>
+- [[document_pdf]] — 165 together  <sub>(substrate)</sub>
+- [[vision_ocr]] — 155 together  <sub>(mechanism)</sub>
+- [[health_clinical]] — 141 together  <sub>(domain)</sub>
+
+## Projects
+
+- ★ [[artharaksha]] — When Gen-AI Rescues You from Financial Fraud and Creates Social Impact
+- ★ [[veterinary-four-color-triage-app]] — Built by a veterinarian & practice owner with no coding experience, this app turns clinical triage e
+- ★ [[ailearning]] — aiLearning is an AI-based solution for simplifying educational activities, focusing on exams correct
+- ★ [[amanat]] — Privacy-first AI agent for humanitarian organizations that scans cloud services for sensitive data e
+- ★ [[auditguardx]] — Enterprise compliance in minutes, not months at 1% of the cost.
+- ★ [[gemini-movie-detectives]] — A gateway to AI-driven educational content in schools and universities with Gemini and RAG! Challeng
+- ★ [[frankenbook]] — Generate a children's book with a few simple ad-lib style prompts stitched together to form your own
+- ★ [[haven-w7mj9g]] — A Silent Shield, A Strong Voice.
+- ★ [[openmed-gtp792]] — A modular AI-driven diagnostic system that intelligently selects specialized models for each case, o
+- ★ [[story-weave]] — AI storytelling meets immersive audio. Generate custom narratives with lifelike narration from any p
+- ★ [[taief-the-all-in-one-academic-assistant]] — From academic research to Olympiad problems, TaiefMind is your AI co-pilot. Upload papers, extract d
+- ★ [[project-grape]] — Be Anywhere Jam Together
+- ★ [[lantern-jm9a5l]] — A language dies every two weeks. Lantern is Duolingo for dying languages: it turns the words a commu
+- ★ [[rexgent]] — An autonomous showrunner that transforms a premise or a script into a voiced mini drama in any of 22
+- ★ [[test-3cmsd4]] — When your childhood paint app went to college, got a CS degree and came back with AI superpowers
+- ★ [[dreammeridian-geoai-on-pi]] — When disasters strike, networks fail first. DreamMeridian runs LLM-powered spatial queries entirely 
+- ★ [[kisan-mitra-ai]] — Built on AWS and powered by Amazon Nova Pro, the platform eliminates the literacy barrier with a voi
+- ★ [[collision-cloud]] — A calm, clear journey from raw CCTV footage to a complete accident reconstruction report
+- ★ [[suavekeys-voice-and-expression-controller-and-keyboard]] — SuaveKeys is a distributed voice and expression controller to enable people with physical impairment
+- ★ [[vodo-ai-jwb1l2]] — Building on Vodo Drive and earlier AI experiments, a way to talk with your spreadsheets. Going beyon
+- ★ [[nova-architect]] — An autonomous AI cloud engineer that designs and deploys AWS infrastructure directly in your console
+- ★ [[bubbdy-ai-lancher]] — Turn your phone into a tool, not a trap. A minimal AI launcher that feels your vibe, automates your 
+- ★ [[drishti-ai-navigator]] — Empowering digital independence through AI. Voice-powered web navigation using AWS Bedrock AgentCore
+- ★ [[ocr-finetuning-for-ancient-cuneiform-tablets]] — NabuOCR is a specialized OCR model for transliterating ancient cuneiform tablets directly from image
+- ★ [[cov2words]] — We're developing a smart hotline that can detect shortness of breath and coughing of a calling perso
+- ★ [[project-x-xgo16d]] — Transforming Learning: AI-driven Podcasts, Quizzes, Dynamic References, and Document-based Chat for 
+- ★ [[pulsepoint-2hmejd]] — AI-powered medical triage at the speed of life from instant assessment to doctor in 60 seconds.
+- ★ [[agrimind-97zntd]] — AgriMind combines a robotic guardian with live farm sensors and AI video/image analysis to cut water
+- ★ [[robotixfunnel]] — AI-powered e-commerce platform with robotic warehouse fulfillment, digital twin visualization, and i
+- ★ [[caladrius]] — The Privacy-First AI Triage Assistant
+- ★ [[lyfe-trak]] — Lyfe Trak is your voice-activated accountability buddy for tracking and checking progress towards yo
+- ★ [[sai-m2wl0p]] — A voice-native OS agent that sees your screen. Powered by Amazon Nova Lite for routing and Nova Pro 
+- ★ [[ntta]] — otto eliminates context-switching by unifying GitHub, Gmail, Calendar, and all your productivity too
+- ★ [[argus-it-never-forgets-59fuin]] — Data is gold, but stays passive in chats. Argus is a proactive Gemini 3 agent that connects past Wha
+- ★ [[champa]] — Cognitive Hybrid Assistant for Messaging, Planning & Analytics — an AI-powered inbox unifying Gmail,
+- ★ [[project-iris-edge-ai-aac-platform]] — Project Iris is a zero-latency, eye-tracking AAC platform powered by local WebGPU AI, featuring Live
+- ★ [[relay-real-time-voice-vision-lab-tutor-for-electronics]] — Relay watches your breadboard through your webcam and talks you through building circuits in real ti
+- ★ [[near-road-icm]] — Investigative case management solution for citizens, police officers and drivers to report and manag
+- ★ [[brightact-fqibsh]] — App for documentation and support for victims of domestic violence, gathering governments, authoriti
+- ★ [[refugee-restrooms]] — Refuge Restrooms provides safe restroom access for transgender and gender nonconforming people. The 
+- ★ [[anyform-ai-form-builder-30au41]] — AnyForm is an AI powered, tool-first platform that lets you build complex, validated forms in under 
+- ★ [[title-ai]] — Title AI is the first platform that can autonomously search any US county recorder website and produ
+- ★ [[ekko-v9wkgy]] — Elevate your foreign language fluency with tailored guidance and individualized verbal conversation 
+- ★ [[simuniverse]] — All in one interactive simulations across STEM disciplines
+- ★ [[claimsphere-ai-automated-claim-processing-agent]] — AI-powered insurance claim processing system with Camel-AI powered agent, automated OCR extraction, 
+- ★ [[ask-the-world-anything]] — Explore global perspectives on any question using AI-powered analysis and Voice Commands
+- ★ [[argus-it-never-forgets-rd6k70]] — Data is gold, but stays passive in chats. Argus is a proactive Gemini 3 agent that connects past Wha
+- ★ [[prepify-ai-7nymoa]] — Prepify AI transforms how students learn STEM — turning lecture notes into structured summaries, qui
+- ★ [[studyblocks]] — Overwhelmed by studying? StudyBlocks combines AI-powered study guide generation, smart flashcards, a
+- ★ [[mixingjays]] — live music visualization generation and editing tools -- industry-grade and AI-powered
+- ★ [[lock-in-7znf21]] — AI-driven personalized learning
+- ★ [[browseback]] — BrowseBack gives your browser a photographic memory powered by Chrome’s built-in AI. Search by conte
+- ★ [[ctrl-alt-heal]] — AI-powered clinical gap detection that finds the diagnoses hiding in your charts, so no condition go
+- ★ [[orion-operating-room-intelligent-orchestration-node]] — A voice-directed surgical co-pilot for robotic surgery. Surgeons can speak naturally & instantly rec
+- ★ [[echo-the-bridge]] — Bridging Gaps Between Parents and Children Through AI-Powered Daily Quests
+- ★ [[klerk]] — Klerk: Simplifying Government Services with a Multilingual AI Assistant for Accurate, Up-to-date, an
+- ★ [[civicsync-pos2nx]] — Empower your neighborhood with CivicSync. We use Amazon Nova to translate dense planning notices and
+- ★ [[perceiv-io]] — 🪶 PERCEIV/IO leverages AI image recognition and various LLMs to assist persons with visual and/or au
+- ★ [[clearclause-zer4yh]] — AI-powered legal document analyser: upload any contract, get instant clause-by-clause risk analysis,
+- ★ [[testera]] — It knows what you're bad at. It remembers what you'll forget. It speaks back. That's Testera. 📚
+- ★ [[sitesync-ai-u7j86v]] — "🏗️ Sync the vision. Build the truth ." SiteSync AI is not just a "viewer" it is an active participa
+- ★ [[marionette-the-on-device-multimodal-ai-agent]] — Marionette is a Chrome extension that automates the web entirely offline using Gemini Nano and Chrom
+- ★ [[let-s-get-lit-aurekm]] — An app providing ML digital literacy for older users with empathy.
+- ★ [[neurostem-ai-powered-stem-for-every-mind]] — Empowering neurodivergent students through AI.
+- ★ [[mirror-living-organisational-conscience-rfov1t]] — Every organisation has two versions of itself; the one it describes in all-hands meetings, and the o
+- ★ [[swasthai-guardian-urzc29]] — A highly secure, offline-first AI platform connecting villagers, ASHA/NGOs, and hospital admins. It 
+- ★ [[math-wiz]] — Math Wiz: Spell out your math problems in the Best Way Possible!
+- ★ [[lumina-legal-ai-powered-indian-legal-assistant]] — An intelligent legal assistant that instantly identifies applicable IPC and IT Act sections from pla
+- ★ [[scambaitai]] — ScamBait AI is an intelligent, AI-powered honeypot designed to combat digital fraud by engaging scam
+- ★ [[vaidyasaarathi]] — "Your Intelligent Healthcare Companion" - Breaking language barriers, preserving privacy, empowering
+- ★ [[the-orchestration-company-of-palo-alto]] — OS of tomorrow, Claude Code of today
+- ★ [[gemini-3-desktop-ai-agent]] — A voice & gesture-controlled desktop AI that sees your screen, controls your laptop, and responds in
+- ★ [[cockatoos]] — Cockatoos provides an intuitive speech training platform that allows language learners to improve th
+- ★ [[sentinel-uxz0ni]] — AI that catches problems before they become problems.
+- ★ [[pulsewalk]] — Our cutting-edge shoe enhances awareness for the visually impaired by combining haptic, pressurebase
+- ★ [[johnkeats-ai]] — A voice-first AI companion that holds uncertainty instead of solving it. Built on Gemini 2.5 Flash N
+- ★ [[project-dvomck5s9l3q]] — Educational Wins.
+- ★ [[htn-zq6138]] — Turning snapshots into spaces you can actually explore
+- ★ [[flowhale-ai-powered-korean-listening-vocabulary-game]] — Six Months to Decode Korean
+- ★ [[anatroc]] — An AI assistant which can read, understand and provide architecture diagram for you to understand on
+- ★ [[preplo]] — You saved the video but never made the recipe. Preplo fixes that — paste the link, get ingredients, 
+- ★ [[chuck-it]] — Save anything, find everything—100% offline, 100% private, 0% effort.
+- ★ [[dejavu]] — Eliminating déjà vu by reviving memories one video at a time
+- ★ [[whisper-duq6f4]] — Sometimes a whisper reaches further than a scream. Find your person. Heal together.
+- ★ [[spookbnb-when-dark-mode-gets-truly-dark]] — A vacation rental site that transforms into a horror escape room. Toggle dark mode to reveal a flash
+- ★ [[smartschedule-ai-intelligent-college-timetable-generator]] — AI-powered timetable automation eliminating scheduling conflicts, supporting multi-teacher coordinat
+- ★ [[sprout-io]] — Where imagination shapes learning
+- ★ [[wand-a-live-agent-that-sees-browses-and-clicks-with-you]] — Wand turns the web into something you can talk to and point at. It’s a live AI agent that sees your 
+- ★ [[ranger-6jkv5s]] — Audio is a luxury we take for granted, that deaf folks don't get. Ranger is a wearable AR solution a
+- ★ [[match-vision]] — Empowering blind and low-vision fans to follow the action, context, and emotion of live sports indep
+- ★ [[spielburg-ai]] — AI-powered video editing with CUDA optimization—our advanced AI agent executes complex edits with na
+- ★ [[rehearse-nzow16]] — Got an upcoming Interview or Presentation? Use Rehearse, an AI Powered practice platform. Rehearse..
+- ★ [[medical-intelligence-applied]] — Two-way health management platform for seniors and caregivers
+- ★ [[nexusstem-your-socratic-ai-agent-for-stem]] — The AI Agent That Teaches You to Think
+- ★ [[trishna-climate-smart-kisan-companion]] — Trishna: Multilingual AI super-app for farmers & gardeners. Get hyper-local weather alerts, instant 
+- ★ [[monday-manager]] — Access your Monday productivity tools from anywhere. Use your voice to add items, explore boards, an
+- ★ [[specterflow-turn-markdown-specs-into-spooky-living-grimoire]] — VSCode extension that transforms boring markdown specs into a spooky, living grimoire! SpecterFlow a
+- ★ [[ai-powered-job-application-assistant]] — AI-driven career acceleration: Optimize resumes, ace interviews, and land your dream job with intell
+- ★ [[studyo-mju34e]] — Your tabs, turned into a study session.
+- ★ [[whisper-hd54xc]] — Whisper: End-to-end encrypted messaging—no servers, no tracking, just pure privacy.
+- ★ [[ai-for-common-good]] — An exam hosting service for the visually impaired
+- ★ [[vision-mama-llm-vision-pro-agents-fun-learning]] — Remember Cooking Mama? We turned it into a Conversational Agent for Vision Pro that teaches cooking!
+- ★ [[nextop]] — 200K veterans transition out every year — most without real support. NextOp is a private AI coach th
+- ★ [[speakeasy-ai-language-companion]] — Visiting another country but don't want to sound like a robot? Want to learn a new language but can'
+- ★ [[kinic]] — A search engine for web3.
+- ★ [[jugaad-dpmqi7]] — JUGAAD — Just-in-time University Guidance and Actionable Discovery — gives every Berkeley student th
+- ★ [[buddymate]] — Everyday Companion to Live Confidently and Feel Connected
+- ★ [[code-canvas-xe67sh]] — Every codebase hides a world beneath the surface, connections unseen, patterns unnoticed. We bring c
+- ★ [[j-jzktbg]] — Fluent.ly revolutionizes the ability to refine language ability. The synergy between our mission and
+- ★ [[fun-dashboard]] — A platform that supports data center technicians in a multitude of daily tasks, from planning out op
+- ★ [[kigaru-talks]] — Kigaru Talks is the app that gets you speaking Japanese with confidence. It’s a safe space to practi
+- ★ [[immunoverse-composable-in-silico-gene-therapy-screening]] — A decentralized network of AI specialist agents running patient-specific, systems-level safety scree
+- ★ [[gem-run]] — MLB AI: Personalized insights powered by gcloud
+- ★ [[sparky-y1ud59]] — "Every child can learn. Not every child learns the same way."
+- ★ [[loro-0pi6dv]] — Loro is a platform for providing a smart companion robot that serves as a connectivity hub for wheel
+- ★ [[my-slots]] — Service for non-digital local stores to provide bookable slots for customers
+- ★ [[sayit-a5hodz]] — SayIt is an AI-powered communication app that helps people with speech or motor impairments express 
+- ★ [[mira-w65b0a]] — AI eldercare assistant that reconstructs 3D scenes, localizes lost objects, and alerts caregivers—al
+- ★ [[meme-mingle-3ms0yn]] — Study-Buddy is a voice-activated conversational AI mentor designed to bring humor and joy into every
+- ★ [[synth-u7a6pq]] — AI Medical Visit Assistant
+- ★ [[hivemind-18cula]] — HiveMind: Your Second Brain for Smarter Learning.
+- ★ [[voicebot-for-ongoing-assistance-to-covid-19-patients]] — A system for effective remote monitoring of ambulant Covid-19 patients by automated phone calls to e
+- ★ [[currentiq]] — CurrentIQ is an AI-powered current affairs engine...
+- ★ [[listenly-text-to-speech-for-confluence]] — Make your Confluence speak!
+- ★ [[gotcha-a1v3bl]] — I can help you get insights from your meetings
+- ★ [[infinite-memory-plnev8]] — Never Forget Again
+- ★ [[lily-memo]] — Lily Memo turns your notes, PDFs, and lectures into AI-generated explanations, diagrams, and full qu
+- ★ [[ttv-pipeline]] — Text-To-Video Pipeline that automates generation of long-form video content using video generation t
+- ★ [[doc-home]] — A web app to help cope with the present pandemic
+- ★ [[weight-coach]] — AI-powered meal planner with voice cooking assistant. Turns your inventory into personalized recipes
+- ★ [[agrowise-4b2szv]] — AgroWise fuses low-cost root-zone sensors with AI and IVR to provide precision farming via any phone
+- ★ [[frog-baby-for-alexa]] — Find a place to eat, explore our majors, or learn about Ball State - all with Frog Baby for Alexa!
+- ★ [[supernova-p1tum5]] — End-to-end AI-generated ads – the world's influencers at your fingertips.
+- ★ [[virtual-galaxy-gf4dxi]] — Watch movies real time with friends and like minded people with group peer to peer voice calls, sync
+- ★ [[a11y-b8xg5i]] — A Google Chrome extension that elevates the limitations of people with disabilities and makes web pa
+- ★ [[devpilot-ai-j8z3tq]] — AI developer copilot that combines code review, voice debugging, and autonomous doc research powered
+- ★ [[a-eye-pk9sdw]] — We built a real-time tool that converts live camera input into audio instructions, helping the visua
+- ★ [[for-a-cause]] — Donate to a cause that speaks to you!
+- ★ [[necro-os]] — Necro-OS: A haunted Windows 95 resurrection where an AI slowly takes over your system.
+- ★ [[the-grenadians]] — Everyone in the class takes notes. Meltingpot turns them into one shared vault for students, and bui
+- ★ [[ai-mental-health-chatbot-jimyr9]] — AI-Powered Care, Human-Centered Support
+- ★ [[echo-bedpzr]] — A voice-based reminder app with smart features for future-tasks, including web-search, research, and
+- ★ [[scrumpy]] — Recipes from your feed
+- ★ [[le-fiabe-di-nonno-merlino]] — An ancient wizard called Grandpa Merlin reads traditional fairy tales, where users can interact with
+- ★ [[the-digital-volunteer-dym0xb]] — Automate mobilisation of community, solidarity and collaboration. Use non-smartphones to raise a tas
+- ★ [[signtech-sign-language-translator]] — "Signs are to eyes what words are to ears." - Deaf Proverbs Book Writer
+- ★ [[voicetree]] — Smartest AI-powered meeting assistant for students and professionals that helps them take high-quali
+- ★ [[protestlink]] — Secure, real-time protest coordination via encrypted mesh and AI insights
+- ★ [[trail-2ia5xw]] — A hybrid, multimodal web application that acts as your offline trail companion - plan, navigate, and
+- ★ [[magical-girl-os]] — Where neurodivergent support creates a fun, engaging experience! Lumi Lens gamifies socialization an

@@ -1,0 +1,51 @@
+---
+slug: "hoopsgram-com"
+url: "https://devpost.com/software/hoopsgram-com"
+title: "ballUp"
+hackathon: "2018 Developer Circles Community Challenge"
+organization: "Facebook"
+winner: true
+words: 1437
+team_size: 1
+has_repo: false
+has_live: true
+has_video: true
+tags:
+  - "project"
+  - "mechanism/realtime_stream"
+  - "domain/education"
+  - "domain/legal_justice"
+  - "user/educator_student"
+  - "substrate/geospatial"
+  - "substrate/structured_db"
+  - "substrate/video_visual"
+---
+
+# ballUp
+
+> Easily find basketball courts near you and engage with other players nearby without signing up for anything.
+
+[Devpost](https://devpost.com/software/hoopsgram-com) · hackathon [[2018 Developer Circles Community Challenge]]
+
+## Facets
+
+**mechanism** [[realtime_stream]]
+**domain** [[education]] [[legal_justice]]
+**user** [[educator_student]]
+**substrate** [[geospatial]] [[structured_db]] [[video_visual]]
+
+**stack** react
+
+## How they structured the write-up
+
+- inspiration
+- what it does
+- how i built it
+- challenges i ran into
+- accomplishments that i'm proud of
+- what i learned
+- what's next for ballup
+
+## Body
+
+Photo by Edgar Chaparro on Unsplash Inspiration I fell in love with the game of basketball at age 12 in high school back home in Rwanda. I was in a boarding school for 6 years and the school’s basketballs would get put away after 5 pm until the next day at 3 pm for us to study. I remember how I couldn’t wait to get back on the court. So much so that to practice my shot, I would pick oranges (which I got in so much trouble doing multiple times) and shoot them in the hoop any time I passed by one or in anything that resembled a hoop (trash cans being my favorites!). Like many, I always had a dream to play in the NBA. And, like many, though I realized that playing in the NBA isn’t for everyone, I still love playing the game of basketball (I got a huge tattoo in my back for proof). Like an NBA team in the regular season or playoffs, I’ve always wished I could just travel across the country playing basketball against other players all over the US. I know, without a doubt, that there are other people who love playing basketball and would love to do the same but, until recently I couldn’t imagine how I would get in touch with them. I looked for and downloaded multiple apps that claim to allow you to find courts near you and link you up with other basketball enthusiasts. But after creating multiple accounts, entering every detail of my boring life, from birthday to shoe size, I still couldn’t find something that just worked. So I stopped expecting someone else to create the solution. I started challenging myself to solve the problem in the best possible way I can. Moving around a lot (from Rwanda to Riverside, CA for college, to New-England for work, to Gulfport, Mississippi to train in the US Navy, to Dallas, Texas and to Sacramento, CA to teach a web development boot camp at UC Davis for 6 months to 31 students) have taught me that AS LONG AS WE HAVE SOMETHING IN COMMON, WE ARE NO LONGER STRANGERS. Having made and used some apps that just sucked, I still knew and believed that it should be possible to make a simple and easy to use app that lets you find courts and other pickup basketball lovers near you. All without making you jump through hoops of figuring out if it’s available on the App Store and/or Google Play, wait to download it to only find out that the only personal thing you don’t have to enter to create an account is your social security number, and then, after entering all the irrelevant personal information to create an account, waste your time zooming in out of maps to figure out if it has courts around you or not. I strongly believed that finding courts and linking up with any other basketball players around you should and ought to be simple, easy, and straightforward. So I made ballUp What it does ballUp features 14K+ outdoor courts in 98 US cities with the most outdoor basketball courts If we haven’t added any courts in 30 miles near you, we tell you right away without wasting your time and tell you what you can do to get courts near you added. If we have courts near you, we show you the courts in the order of how far they are from you. Each court has information about if there are other people checked in at that court in real time. When you get to a court, you can check in to let others know that someone is there. When another user opens the app near a court, other users near the same court get notified and can engage in a real time chat to organize a game. All this, Without asking you to create an account Without asking you to zoom in and out of maps which, eventually, fail to load (because maps also end up getting tired of the back and forth) Without wasting your time How I built it ballUp is a React app. On the backend, the 14+ basketball courts in 98 US Cities are stored in a MongoDB database. The React front-end communicates with the MongoDB database through a Node + Express API. It uses Socket.io for real-time socket communication between the front and the back ends. Challenges I ran into One of my biggest challenges was to come up with a simple and easy to use user interface. My goal was to give my users all the information they needed as soon as the app loaded without requiring them to do click anything or do anything else. I had learned from my first iteration that users didn't enjoy learning how to use an application. They just wanted something they already knew how to use. Then I asked myself: "What's the one app that almost every one of my target audience uses today?" The answer was Instagram. So, I set out to create a similar user interface with all the necessary information available right there. Another big challenge was to get basketball courts information. I first tried the Foursquare API which was alright but their free quota was too low. I then tried the Google Places API whose free quota is a bit more generous. However, I noticed that I'd go over my free quota if I made a new API call every time a user moved (with their new location). Through research, I made a list of the top 97 US cities with the most outdoor basketball courts. Therefore, I realized that it probably made sense to just support those cities for starters. I ended up seeding my database with at most 20 courts in each city. When a user first loads the app, I make a request to my back-end to get courts near the user. I first try getting courts in a 15-mile radius. If none is available, I widen the radius to 20, 25, and finally 30-mile radius. When I find courts, I return them to my front end to show. With the courts' results, however, I also return the mile radius those courts were found at. That way, as long as the user is still within that mile radius, I just update the react state with the same courts ordered by how far they are to the user's location without having to make any more API calls. Accomplishments that I'm proud of My proudest accomplishment has been that for 5 days from 07/16 - 07/22 I drove from Sacramento to San Jose to San Francisco to Los Angeles to San Diego to Phoenix to Dallas playing pickup basketball using ballUp to find people to play with. I met, played with, and got feedback from more than 50 people in those different cities. What I learned I learned that putting users first pays off. It was rewarding to have users comment on how easy and straightforward the app is to use. It validated the design decision I made at the beginning of focusing on a simple and easy to use interface. I've also learned the value of talking to one's users face to face (if possible) and watching them interact with the app. I gained a lot of insights from just observing them use it and listening to them. Moreover, I am convinced that web apps might be the future. ballUp is just a web app but a lot of people couldn't tell. They kept asking me where they can download it from. What's next for ballUp In the next week, I am working on implementing web push notifications so that when people check into a court my users can get notified. Similarly, when other people open the app or send a chat message to notify nearby users. After push notifications, I will work on allowing users to create user accounts (if they want to). With user accounts, users will be able to get a history of where they've played and who they've played with. The more engaged in the community users will be, the more credibility they will gain (similarly to StackOverflow badges) and the more they will be able to do in the community like uploading new court images, leaving reviews about courts and the neighborhoods they are in, etc. By mid next year, I plan on featuring at least 500 courts in Asia, 500 courts in Europe, 100 courts in Canada, 500 courts in South America, 500 courts in Australia and 500 courts in Africa. <div

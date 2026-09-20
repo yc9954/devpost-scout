@@ -1,0 +1,47 @@
+---
+slug: "skyrocket-your-team"
+url: "https://devpost.com/software/skyrocket-your-team"
+title: "Skyrocket Your Team"
+hackathon: "The European Commission's EUvsVirus Hackathon"
+organization: "European Commission"
+winner: true
+words: 1337
+team_size: 5
+has_repo: false
+has_live: true
+has_video: true
+tags:
+  - "project"
+  - "domain/labor_employment"
+  - "user/developer"
+  - "user/researcher"
+  - "substrate/video_visual"
+  - "substrate/web_dom"
+---
+
+# Skyrocket Your Team
+
+> We improve team feeling and communication in remote teams through online escape rooms
+
+[Devpost](https://devpost.com/software/skyrocket-your-team) · hackathon [[The European Commission-s EUvsVirus Hackathon]]
+
+## Facets
+
+**domain** [[labor_employment]]
+**user** [[developer]] [[researcher]]
+**substrate** [[video_visual]] [[web_dom]]
+
+**stack** unity
+
+## How they structured the write-up
+
+- the problem we solve
+- our solution
+- our weekend
+- skyrocket your team’s impact to the crisis
+- what we need to scale up
+- skyrocket your team after the crisis
+
+## Body
+
+Our website on Sunday Working on our website together on Friday for the first time The problem we solve Millions of Europeans are suddenly pushed to work remotely due to COVID-19, and that can be scary. Though there are good tools available for getting work done together with self-organized online coffee breaks and meetings, it’s still easy to feel disconnected from our colleagues. Over time remote workers lack a meaningful connection and shared experiences which would make them cooperate more efficiently with team members, develop new skills, and experience something different. If a team doesn’t meet face to face, then there’s a pretty high chance that communication will suffer. If team members are siloed, you might as well forget about mutual trust and collaboration and with remote teams. Miscommunication in the workplace is one of the most common issues and nowadays failing with that might become existential for your business. And miscommunication is a shortcut to losing the team feeling. Our Solution Skyrocket Your Team is on a mission to bring remote teams closer together . We offer engaging and cooperative, tailor-made online experiences for businesses with remote teams. Through different challenges, teams have to solve a set of problems and learn how to communicate effectively to succeed. The first experience we have developed is an online escape room for team-building and skills development. Our solutions are built not only for fun as the majority of online games and escape rooms are. The strength and uniqueness of Skyrocket Your Team lies within the design of those experiences through the principles of adult learning. Participants develop a set of skills ranging from problem-solving to efficient communication, from leadership to getting more used to virtual environments . Those soft skills are highly needed and appreciated by employers, especially HR managers who are responsible for learning and training activities. Compared to other similar solutions at the market our value proposition is as follows: **Everything happens in cooperation with each other** : every challenge requires talking, sharing, and collaboration among participants - you can’t overcome a challenge alone. **Facilitated reflection and learning**: at the end of the challenge we reflect on the experiences of participants and guide them to make real-life connections and have takeaways for work life. **Everything is in one place**: no need for any special equipment, only a computer per person with a working microphone and speakers. All the puzzles are embedded in our own escape room environment. **It’s user-centered and well-designed**: our highly skilled team with 30+ collective years of learning, product, and graphic design experiences will bring only cutting edge solutions. **Tailor-made upon request**: we can adjust our challenges to special requests of companies (like specific content, answers related to the company or visual identity) as well as to different team sizes. The MVP is an online escape room for 4 astronauts, trapped in a damaged spaceship. They need to solve together several challenges and puzzles in order to fix their ship and get back to Earth. We have built everything from zero during the hackathon - a working prototype in Unity. Our weekend We have carried out customer discovery among remote workers, HR managers, and team leads. We have gathered 120+ responses , 50% acknowledge the problem and 70% of those are willing to pay for a solution. We have 60 people signed up to get access to the solution as the first ones. We have designed a logo for our start-up and built a landing page. The MVP is a web app of an online escape room for 4 fearless astronauts, trapped in a damaged spaceship. They need to solve together several challenges and puzzles in order to fix the ship and get back to Earth. The prototype version of the escape room was built from scratch during the hackathon in Unity. The prototype is set up in a way where you have to determine your role (Captain, Scientist, Spacewalker and Engineer, and each person has a unique role) in the team before starting. Solving the puzzles will give you codes to share with your teammates in order for them to unlock the next step on their side. This solution was chosen since it allowed us to create a multiplayer game without actually coding a networking solution where the application would exchange information, reducing the required development time during the hackathon. There are different "rooms" (user interfaces) that are traveled through to progress the escape. Depending on your role you can get different parts of the puzzle, each of which has to be combined with those of your teammates to obtain correct answers to progress. The puzzles were developed by us, the prototype was coded by us, and Images were photoshopped by us as well. We have tested the escape room on three teams in two rounds (we held two teams at once in parallel) with great feedback and ideas for the future. Skyrocket Your Team’s impact to the crisis Over the last 1,5 months, the majority of employed people have adjusted to working from home. According to ‘Buffer, 2019’, the biggest struggles when working remotely are loneliness, collaboration, and/or communication as pointed out by 1/5th of 2500 remote workers. This influences employee engagement and as decades of ‘Gallup’ research shows, when employees are engaged their performance soars : Highly engaged workplaces can claim 41% lower absenteeism, 40% fewer quality defects, and 21% higher profitability (Gallup 2020). Skyrocket Your Team is an accessible and easy-to-use solution helping companies to keep their employees engaged, their teams united, and offering them team-building, connection, and learning as well as much needed laughter in these difficult times. We believe Skyrocket Your Team can bring ease to thousands of HR managers, Team Leads, and Training Companies and directly influence tens of thousands of employees across the Globe. By taking care of everything, from preparation to execution, from reflection to evaluation - the contact person just needs to provide us with a team. We’re aiming at having a market-ready escape room within 21 days. Our escape room delivery capacity is 25 teams a week with the first customizable product, and we will be able to deliver for unlimited teams with our automated standard escape rooms - as we won’t need to be present while it takes place. The first solution we have developed is aimed at team-building. After the hackathon, we will start developing solutions that help companies in these aspects: training, leadership development, employee engagement, and onboarding. What we need to scale up After a well-deserved rest, we will continue working on our first product. We are aiming at wider user-testing within 2 weeks after the hackathon to get valuable feedback and develop our MVP further. We will follow-up with the interested people collected during the hackathon and search for potential first customers. Our beachhead market is the HR managers, Team Leads as well as training companies. We offer our solution either with a one-time fee or subscription model for long-term team development or onboarding. We are confident that we can find customers, but with extra funding and exposure, we can scale faster and have a higher impact during the COVID-19 crisis. Therefore we will start looking for possibilities for that. Skyrocket Your Team after the crisis Within the last two decades, remote work has increased threefold and this trend is not going to stop. Especially now as we see that many jobs that were thought unimaginable carried out remotely are today a regular reality. We don’t know exactly what the future will look like, but we know for sure that remote work is here to stay. This also means that there will always be people and teams getting the good and also the bad of remote work. And we will be there for them. Therefore we see that this solution is needed now during the COVID-19 outbreak, as well as afterwards when we turn back to what we used to call normal, as the number of remote teams will continue to go up in the foreseeable future. <div

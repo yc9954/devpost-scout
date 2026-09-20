@@ -1,0 +1,181 @@
+---
+facet: "domain"
+name: "climate_energy"
+projects: 330
+winners: 330
+tags:
+  - "facet"
+  - "domain"
+---
+
+# climate_energy
+
+`domain` · **330** projects, **330** of them winners.
+
+## Pairs with
+
+- [[realtime_stream]] — 158 together  <sub>(mechanism)</sub>
+- [[geospatial]] — 139 together  <sub>(substrate)</sub>
+- [[video_visual]] — 114 together  <sub>(substrate)</sub>
+- [[structured_db]] — 103 together  <sub>(substrate)</sub>
+- [[developer_tools]] — 94 together  <sub>(domain)</sub>
+- [[finance_payments]] — 89 together  <sub>(domain)</sub>
+- [[sensor_telemetry]] — 81 together  <sub>(substrate)</sub>
+- [[web_dom]] — 79 together  <sub>(substrate)</sub>
+- [[code_repository]] — 74 together  <sub>(substrate)</sub>
+- [[developer]] — 72 together  <sub>(user)</sub>
+- [[civic_government]] — 69 together  <sub>(domain)</sub>
+- [[sensor_fusion]] — 69 together  <sub>(mechanism)</sub>
+
+## Projects
+
+- ★ [[matic-mike-nft-game]] — Matic Mike is a 100% on-chain generative NFT on the Polygon chain with a Polygon <-> Ethereum bridge
+- ★ [[agri-able]] — A tool to help the African farming community to optimize crop production
+- ★ [[community-driven-platform-for-identifying-fake-news]] — A community-driven platform to identify fake news
+- ★ [[kisan-mitra-ai]] — Built on AWS and powered by Amazon Nova Pro, the platform eliminates the literacy barrier with a voi
+- ★ [[disavu]] — DisaVu is a disaster response solution that helps direct relief resources to where they are needed m
+- ★ [[pedestrian-flow-analysis]] — Instantly transform an unwalkable street. 🪄
+- ★ [[agrimind-97zntd]] — AgriMind combines a robotic guardian with live farm sensors and AI video/image analysis to cut water
+- ★ [[dovu-labs-h22]] — Insuring carbon removals through decentralized reputation. 🕊
+- ★ [[pictia]] — Reduce cloud storage waste and your carbon footprint. Pictia's swipe-based photo organizer turns ted
+- ★ [[ecokiosk-ai-powered-machine-su0adv]] — Recycle. Get rewarded. It's that simple.
+- ★ [[robofi]] — RoboFi is a robotic economy ecosystem where robotic entities can create certificates of the origin o
+- ★ [[spark-mhxso9]] — Empowering Passion, Sparking Change, Inspiring Impact: Connecting Sustainable Hearts with Purposeful
+- ★ [[bvcaps-globalhack-vi]] — We use live updated data systems to track the homeless and to provide financial counsel to Bounce Ba
+- ★ [[ecolafaek]] — Guarding Timor's Beauty
+- ★ [[waterbody-monitoring]] — As climate change accelerates, water usage planning is crucial for small communities who depend on w
+- ★ [[polkastream]] — Real-time, per-second money streaming powered by Polkadot's sub-second finality and ink! smart contr
+- ★ [[ask-the-world-anything]] — Explore global perspectives on any question using AI-powered analysis and Voice Commands
+- ★ [[reefmind]] — Reef restoration experiments take 7 years in the real ocean. ReefMind runs 10,000 overnight
+- ★ [[locl-lf734n]] — Locl offers a platform that supports EBT card purchases to allow SNAP benefit users to purchase heal
+- ★ [[department-of-incidents]] — Agent that wakes up before your on-call engineers do
+- ★ [[browseback]] — BrowseBack gives your browser a photographic memory powered by Chrome’s built-in AI. Search by conte
+- ★ [[how-to-change-the-world]] — Virtualising our established in-person experiential Learning Journey for students and professionals 
+- ★ [[woodpecker-ai-finds-hidden-hotspots-in-power-lines]] — Power line failures spark billions in damage.Woodpecker AI, like a woodpecker spotting hidden hotspo
+- ★ [[kronia]] — Agriculture that Works for Future
+- ★ [[skinmatch-ai]] — AI-powered skin analysis app that delivers personalized skincare routines for every skin type and cl
+- ★ [[green-space-suggestion-tool]] — A tool to combine datasets to generate green space suggestion heat map in cities.
+- ★ [[gridpulse]] — From power cuts to smart flows — GridPulse predicts, optimizes, and stabilizes the grid.
+- ★ [[earthbound-audits]] — Bringing the carbon impact of your websites front of mind.
+- ★ [[waste-classification]] — Sustainable Waste Management
+- ★ [[the-carbon-bank-e8wb0h]] — The Carbon Bank marketplace supports a transparent commercialization of traceable carbon credits on 
+- ★ [[forrus]] — Forrus is an AIoT device powered by TigerGraph and AWS EC2 DL1 for real-time alerts for wildfire mit
+- ★ [[coupons]] — Buy Smart, Give Back! Generate waste reducing coupons using Square API, then connect to local charit
+- ★ [[arduino-controlled-electrolysis-system-for-bleach-production-kodm9u]] — Imagine producing your own bleach right at home, simply by adding salt to water and pressing a butto
+- ★ [[community-exchange-incentivization]] — We match needs and skills within communities and help heroes get the recognition they deserve.
+- ★ [[compost-professor]] — The Compost Professor analyzes your compost to provide custom recommendations & take the guesswork o
+- ★ [[my-energy-planner]] — The green energy transition is reducing carbon emissions and creating innovative pricing for consume
+- ★ [[waste-v2fhdo]] — A Waste Automation Efficiency, Recycling, Rewarding and Management System Powered by Monday SDK, Goo
+- ★ [[launch-control-bgp8az]] — AI-powered release gate that evaluates merge requests with four chained agents and policy-as-code ri
+- ★ [[greenops]] — Greenops helps to measure the footprints of deep learning models at training, testing and evaluating
+- ★ [[tree-foundation]] — The greenest digital token, backed by physical forest.
+- ★ [[verdant-esc1ng]] — Reducing carbon-emissions is now a team sport.
+- ★ [[shard-2kvsch]] — Do you have a laptop? You're potentially losing on making at least $10/day side income with Shard. I
+- ★ [[agrinexo-er4mag]] — Get critical agri-environmental information as NDVI maps, climate analysis and agrometeorological we
+- ★ [[ally-kmoagt]] — Ally makes drone data management simple, giving non-technical people easy access to automated workfl
+- ★ [[trishna-climate-smart-kisan-companion]] — Trishna: Multilingual AI super-app for farmers & gardeners. Get hyper-local weather alerts, instant 
+- ★ [[altiverse]] — AltiVerse: AI-powered simulations that let students fork decisions into living alternate realities w
+- ★ [[cas-solving-traffic-one-office-ride-at-a-time]] — Solves Traffic by motivating our employees to bike for work. We believe we can motivate our cyclist 
+- ★ [[keep-it-clean-b7suj8]] — SeedsONEarth is a p2p marketplace connecting humans (crypto-native, institutional sponsors, users) a
+- ★ [[civic-impact-compass]] — Congress data meets AI-powered analysis — find the bills that affect YOU.
+- ★ [[thermohalo-ai-firearm-detection-84vpze]] — ThermoHalo uses AI-powered thermal imaging to detect concealed weapons at school entrances. Safe, FE
+- ★ [[social-defi-vrd1js]] — Use web3 social network in a cooler way interacting with DeFi protocolos without realizing it
+- ★ [[freshair]] — Track air pollution across the world and see its impact instantly. How can we keep our air FRESH?
+- ★ [[cfo2]] — Reducing the risk of wildfires and emissions is highly relevant. This project assists indigenous ste
+- ★ [[disaster-brain]] — When the internet dies and lives are on the line, Disaster Brain is the only AI that still works.
+- ★ [[sustainup]] — A gamified learning experience on sustainable decision making during the life cycle of a product
+- ★ [[green-spark-ai]] — Find the waste. Fund the change.
+- ★ [[voicebot-for-ongoing-assistance-to-covid-19-patients]] — A system for effective remote monitoring of ambulant Covid-19 patients by automated phone calls to e
+- ★ [[pikaplace-pokedex]] — Decentralized NFT Monster Game powered by Chainlink Randomness.
+- ★ [[humans-ai]] — Providing income using mobile based Data Labelling game in India
+- ★ [[shipsense-ai-novel-data-augmentation-protocol]] — Mitigating overfishing through AI-augmented satellite imagery and data viz dashboard. Novel few-shot
+- ★ [[ecocalc-a-simple-carbon-footprint-calculator-9l24ud]] — Small actions can make a **big impact**. Start now!
+- ★ [[agrowise-4b2szv]] — AgroWise fuses low-cost root-zone sensors with AI and IVR to provide precision farming via any phone
+- ★ [[postthread-uhgac6]] — PostThread is a web3 social media app that rewards it users instead of extracting from them. To do t
+- ★ [[vegplace]] — Vegetarian ordering widget on Monday.com that helps companies manage healthy food intake for team me
+- ★ [[project-varuna-h945ni]] — Project Varuna is an artificial intelligence-based decision support tool that makes predictions abou
+- ★ [[project-varuna-v5k2mn]] — Project Varuna is an artificial intelligence-based decision support tool that makes predictions abou
+- ★ [[eco-verse]] — Empowering Energy Communities: Harnessing ReFi and DAOs for a Sustainable Future
+- ★ [[ciclogreen]] — Using gamification to help cities and companies to promote active and safe mobility to reduce COVID 
+- ★ [[co2-aware-shopping-assistant]] — Get what you want for less CO2. We optimize products and shipping to lower emissions and cost while 
+- ★ [[sms_taxi]] — SMS Taxi receives ride requests via text message, optimizes ride-matching, and uses OpenXC data for 
+- ★ [[ecoroute-pkxwyh]] — EcoRoute is a navigation app that prioritizes the environment and takes into account transport modes
+- ★ [[civora]] — Civora: AI command center catching safety risks 18 min early, cutting 142 tCO₂e, turning every site 
+- ★ [[project-farmspeak]] — We offer a patented farm management system to mitigate climate-related losses, turning unpredictable
+- ★ [[morro]] — The geoengineering operating system for climate renewal. Predict natural disasters, pick from a suit
+- ★ [[aerofreight-ai]] — AeroFreight AI: A multi-agent platform that plans smarter international shipments from origin to fin
+- ★ [[erwin-enhanced-rock-weathering-impact-navigator]] — An accessible carbon removal assessment platform for Enhanced Rock Weathering (ERW) projects. Democr
+- ★ [[master-planner-your-all-in-one-fleet-management-solution]] — Imagine condensing an average 3-hour workload into a mere minute – Master Planner boosts efficiency 
+- ★ [[carbon-price-curves]] — Using supply and demand projections, our software advises companies on the tradeoff between decarbon
+- ★ [[wildfire-mitigation-computer-vision-id-of-hazard-fuels]] — To aid land managers in quickly identifying and responding to tree disease and mortality, we develop
+- ★ [[geosentinel]] — GeoSentinel — Turning Earth’s data into early warnings that save lives.
+- ★ [[pocket-plots]] — Making land ownership accessible and affordable to all
+- ★ [[smartphones4good-s4g]] — Donate old phones to us. We collect'n'sell them to fund smartphones for those that don’t have them. 
+- ★ [[invest-in-green-stocks]] — Using technology to invest in environmentally conscious stocks could put green in your wallet, too. 
+- ★ [[recs-proof-of-reserves-e-nfts-and-e-tokens-u9ewdx]] — IoT data-driven RECs (Clean Energy Certificates) Proof of Reserves 🌳 e-NFTs as RWA "solar bonds" for
+- ★ [[carboncomponent]] — Use this CI/CD component to track and even offset the carbon emissions for requests made to your web
+- ★ [[carbon-cut-3d5k2g]] — Your one-stop shop for climate action and impact.
+- ★ [[xdc-eco-logically-driven-nft-s]] — Drive ecologically to a sustainable future.
+- ★ [[pinboard_consulting]] — Connect the unconnected! Source, clean and load UN data for the environment, the economy, health, re
+- ★ [[naterida-microbots]] — NATERIDA — The AI-powered exploration robot that thinks, adapts, and protects while gathering smart 
+- ★ [[sustain-a-thon]] — Sustain-a-thon gamifies saving the planet. Track real-time impact, earn XP & badges, and get AI coac
+- ★ [[cyclimate]] — With CYCLIMATE we can calculate carbon footprint in cities while promoting and rewarding healthy pra
+- ★ [[ecosage-so7nkb]] — AI-Powered Sustainability Companion
+- ★ [[find-satoshi]] — StepN is a move2earn mobile game. It aims to attract million of non-crypto runners to the crypto rea
+- ★ [[wynd]] — We connect complex environmental data to the blockchain. Enabling us to leverage DeFi protocols to p
+- ★ [[diligence-doer]] — Prevent breaking changes. Due diligence for Data Teams.
+- ★ [[osf-go-sdk]] — OSF Go SDK is a library/wrapper for Go built on top of OSF API that enables developers to access fea
+- ★ [[mar]] — Families living in urban areas will turn this crisis into an opportunity to make their community gre
+- ★ [[energyswap]] — Peer to peer decentralized energy trading platform to sell your excess energy to your neighbors
+- ★ [[urban-eco-adventures]] — Embark on a sustainable journey through Tokyo's bustling streets.
+- ★ [[ecobite-qcujae]] — Track your food waste in a gamified way— EcoBite aims at combating global food waste by allowing its
+- ★ [[cloud-climate-chain]] — Carbon footprint management platform that combines Cloud Computing, Climate Analysis, and Blockchain
+- ★ [[greengold]] — Greengold is an environmental and climate focused green-minded project built on the Celo blockchain.
+- ★ [[carbon-tracker-ij25kf]] — An AI agent on GitLab Duo that automatically tracks CO2 emissions from every CI/CD pipeline run and 
+- ★ [[hooked-47pm25]] — An AI-powered FishDex that transforms fishing into conservation. Gamify your catches, get hyper loca
+- ★ [[co-llectif]] — Deliver to those who need it, "Let's be co-llectif!"
+- ★ [[a-green-vest]] — Farmers lack the capital to utilize the lands they possess causing a setback in production. We provi
+- ★ [[tracemark-flow]] — TraceMark™ Flow is a Google powered next-generation traffic monitoring and insights tool for public 
+- ★ [[cognifyai-smart-learning-decision-assistant]] — Learn biodiversity through AI-powered ecosystem simulations, real-world environmental data, and pers
+- ★ [[earth-data]] — Todays' centralised sustainability disclosures are non mandatory, biased & manual . We aim to decent
+- ★ [[oceanops]] — The command center for ocean climate intervention. Simulate alkalinity deployments, optimize ship ro
+- ★ [[sers4sars]] — Fast and reliable tests, with existing equipment
+- ★ [[climate-risk-real-estate-investor-manager]] — PRAAM is an integrated solution to identify, evaluate, manage and report physical risks in investmen
+- ★ [[atlas-local]] — Your community's potential, mapped.
+- ★ [[postthread-gi7brt]] — PostThread is a web3 social media app that rewards it users instead of extracting from them. To do t
+- ★ [[internet-computer-footprint]] — Internet Computer Footprint tracks the cycle burn rate of IC projects, and uses VERRA carbon credits
+- ★ [[ecospire-gna60h]] — While most applications solve problems for specific user groups, EcoSpire addresses the biggest chal
+- ★ [[ecoverse-5dczmp]] — Efficiency that Saves, Sustainability that Lasts
+- ★ [[sustain-uhrgfy]] — sustAIn makes AI more sustainable by compressing prompts without hurting quality, reducing token usa
+- ★ [[aquasmart-solutions-ai-powered-water-sustainability]] — Save water with AquaSmart Solutions for eco-friendly living. Compare usage, get tips, act now!
+- ★ [[earthview-ai]] — An AI-powered perspective on regional climatic shifts on Earth.
+- ★ [[biodex-2f3dxa]] — BioDex better connects players to nature via gamification. Using AI computer vision, a species can b
+- ★ [[smart-well-monitoring-system-for-villages]] — let wells be smart now
+- ★ [[quake-3h029g]] — 🆘 Using geospatial data and real-world risk factors, Quake helps people escape safely after an earth
+- ★ [[pathguide]] — PathGuide AI guides students with personalized roadmaps, skill tests, industry insights, and univers
+- ★ [[the-covid-climate-toolbox]] — Making Climate Data available to civil society, innovators, partners, and investors across Europe to
+- ★ [[disaster-detection-platform-on-kubernetes]] — GPU-accelerated AI platform on Kubernetes for real-time disaster detection. Identifies floods, fires
+- ★ [[soleil]] — A way to incentivise both growths of the entire solar industry with one transaction and of a decentr
+- ★ [[eco-pulse-fpbo15]] — Mapping heat. Planting relief.
+- ★ [[poweropt-ai-nextgen-power-predictor-2a6ugc]] — PowerOpt AI is a cutting-edge, machine-learning-powered web dashboard designed to predict the electr
+- ★ [[hypertally]] — hypertally enables on-chain validation, monitoring, data analysis, and computer vision analysis of g
+- ★ [[treenation-integration]] — The Tree-Nation integration helps to reforest the world with monday.com’s work OS by planting your o
+- ★ [[baultro-j0oqh5]] — Baultro is a multiplayer platform that is both an AI game and a prediction market, offering an innov
+- ★ [[oasis-8iv1lu]] — AI agents help benchmark, assess, and enhance corporate sustainability practices
+- ★ [[universal-parametric-climate-insurance-utilizing-cbdcs]] — Climate insurance is out of the reach of the majority of the world's population, particularly those 
+- ★ [[carbonlint]] — An AI agent that lints your GitLab CI/CD pipelines for carbon waste — scoring sustainability, flaggi
+- ★ [[safecross]] — Protecting Wildlife, Securing Roads.
+- ★ [[d-changes]] — Create, donate, vote, sign and fund extraordinary mobilizations!
+- ★ [[canary-lrg3ep]] — Satellite-enabled wireless sensor network for early wildfire detection.
+- ★ [[predictra]] — AI Industrial maintenance and failure prediction for any machine using anomaly-based RUL modelling f
+- ★ [[grazepro]] — Enabling farmers to sustainably optimize resources.
+- ★ [[greenratchet-k40npr]] — Make your cloud sustainable.
+- ★ [[priorityqueue]] — Democratizing information across the electric grid.
+- ★ [[solarops-wfjumy]] — Empowering Grid Workers to Optimize Solar Panel Placement for Maximum Efficiency
+- ★ [[lemon-7gn5hq]] — A simple, transparent ecommerce platform for bargain produce that connects consumers and businesses 
+- ★ [[flaresight-ai-r7ks4c]] — Our AI system uses two CNN models—Continuum (optical) and Magnetogram (magnetic)—to forecast space w
+- ★ [[lighting-prediction-in-india-using-ml]] — By finding correlations between the atmospheric conditions at the time of the lightning strike, we w
+- ★ [[flaresight-ai-driven-solar-flare-monitoring-satellite-conrol]] — Our AI system uses two CNN models—Continuum (optical) and Magnetogram (magnetic)—to forecast space w
+- ★ [[ecotrace-carbon-footprint-tracker]] — Track, understand, and reduce your personal carbon footprint with smart insights, real-time calculat
+- ★ [[bas-climate-action-matcher]] — A tool to match companies to relevant climate actions. Embedding search to find climate initiatives 
+- ★ [[wip-au-flutter-game]] — Welcome to Better World! Experience real-world challenges: clean energy, waste sorting, deforestatio

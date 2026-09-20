@@ -1,0 +1,48 @@
+---
+slug: "invest-in-green-stocks"
+url: "https://devpost.com/software/invest-in-green-stocks"
+title: "Greenstocks Investment Advisor (GIA)"
+hackathon: "Hack to the Future 4"
+organization: "Finastra"
+winner: true
+words: 1175
+team_size: 2
+has_repo: true
+has_live: false
+has_video: true
+tags:
+  - "project"
+  - "mechanism/on_device_local"
+  - "domain/climate_energy"
+  - "domain/finance_payments"
+  - "substrate/code_repository"
+  - "substrate/sensor_telemetry"
+  - "substrate/video_visual"
+  - "substrate/web_dom"
+---
+
+# Greenstocks Investment Advisor (GIA)
+
+> Using technology to invest in environmentally conscious stocks could put green in your wallet, too. This is a proposal to build a green stock investment helper by using machine learning technologies
+
+[Devpost](https://devpost.com/software/invest-in-green-stocks) · hackathon [[Hack to the Future 4]]
+
+## Facets
+
+**mechanism** [[on_device_local]]
+**domain** [[climate_energy]] [[finance_payments]]
+**substrate** [[code_repository]] [[sensor_telemetry]] [[video_visual]] [[web_dom]]
+
+**stack** angular.js, bootstrap, python, sqlite
+
+## How they structured the write-up
+
+- about gia
+- what is esg investing
+- machine learning in smart finances
+- greenstocks investment advisor features
+- design, implementation and deployment
+
+## Body
+
+Greenstocks Investment Advisor (GIA) About GIA Greenstocks Investment Advisor (GIA) is an online application powered by machine learning algorithms, that facilitates reliable stock market investments in companies that implement a high Environmental, Social and Governance (ESG) policy. What is ESG Investing Investors interested in ESG are increasingly applying these non-financial factors as part of their analysis process to identify material risks and growth opportunities. ESG metrics are not commonly part of mandatory financial reporting, though companies are increasingly making disclosures in their annual report or in a standalone sustainability report. Numerous institutions, such as the Sustainability Accounting Standards Board (SASB), the Global Reporting Initiative (GRI), and the Task Force on Climate-related Financial Disclosures (TCFD) are working to form standards and define materiality to facilitate incorporation of these factors into the investment process. Machine Learning in Smart Finances As an application of artificial intelligence, machine learning focuses on developing systems that can access pools of data, and the system automatically adjusts its parameters to improve experiences. Computer systems run operations in the background and produce outcomes automatically according to how it is trained._Nowadays, many leading fintech and financial services companies are incorporating machine learning into their operations, resuting in a better-streamlined process, reduced risks, and better-optimized portfolios. Our Greenstocks Investment Advisor tool allows intelligent, ESG oriented Stock Trading Portfolio Management by using advanced machine learning algorithms from Natural Language Processing (NLP) space. Greenstocks Investment Advisor Features While the user is in charge with selecting the industry, the secor and the stock, the application is doing the rest: it calculates the green score and provides investment recommendation. The green scores are calculated in two ways, for enhanced accuracy, and represents the percentage of "green tokens" (driven by an ever growing dictionary) out of "article tokens." The current score categories are encoded to range of numbers (&) as following: Poor: 0-4% Decent: 5-9% Good: 10-19% Excelent: >= 20% Overall Functionality Greenstocks Investment Advisor (GIA) is built as a simple,user friendly web application that allows the user, through only a few clicks, to discover and invest in stocks that comply to ESG policies. Down below you can see a normal use of the prototype that we built. Note: Since this is only a prototype, we have left aside a bunch of features that are important and can be further developed, like: Batch Inference that run batch jobs in the background (i.e. GIA Business Engine) to identify the shorter list of stocks with both ESG and ROI Data persistance that saves both user preferences and high ESG/ROI stocks for further use and monitoring Replace yFinance investment recommendation with a GIA contained ML algorithm that is using linear regression predictions applied to stock time series. Replace both NLP and Linear Regression Algorithms running locally with Azure machine learning (either core or Azure Databricks based) Add to dashboard a component that allows the user to manage and customize the "green token dictionary" (currently refreshed from NLTK source repsoitory every time the application runs) Add to dashboard a component that allows the user to manage the range of numbers (%) for the 4 categories of green score we currently offer: excellent, good, decent, poor. An Example of Normal Use The following set of screenshots are captured from running GIA against an iPhone 12 Pro screen emulator. User browses a list of industries subject to single selection After selecting the industry, the user will pick up the stock they are interested in If the selected stock's green score is between 10-19% the following layout is displayed. The layout contains both the green score and the stock performance during the last 30 days: If the selected stock's green score is between 5-9% the following layout is displayed: If the selected stock's green score is between 0-4% the following layout is displayed: Design, Implementation and Deployment Basic Design GIA design is N-tier, microservices based._ It includes the following functional layers: Web GIA Dashboard as single-page application (SPA) implemented with Angular javascript framework REST API layer implemented with Python Flask Business Engine implemented with Python libraries (incl NPL library) yFinance Stock Trading API Web articles space GIA Dashboard has a responsive design that allows it to adapt seamlessly to both desktop and mobile formats Business Engine contains the MVC model functionality. It includes a powerful Natural Language Processing (NLP) library based on Python NLTK (Natural Language Toolkit). NLTK is a leading platform for building Python programs to work with human language data. It provides easy-to-use interfaces to over 50 corpora and lexical resources such as WordNet, along with a suite of text processing libraries for classification, tokenization, stemming, tagging, parsing, and semantic reasoning, wrappers for industrial-strength NLP libraries, and an active discussion forum. GIA Business Engine has also a web scrapper, based on Python's BeautifuSoup package, that allows it to extract structured stock information from yFinance API. Application Flow The following diagram shows the set of basic workflow (set of steps) required to calcuate the "green score" attached to a stock, and show performance information. These elements altogether allows the investor to execute an educated investment, that is driven by both ESG and ROI decision factors. Code Source Control The code is currently saved in Github, under repository located under https://github.com/antongeorgescu/greenstocks Create Greenstocks Running Environment Install python 3.7.9 Make sure there is no previous Python installation; if there is, remove it Download python 3.7.9 (64-bit) and install it in C:\Program Files\Python37 folder Update PC's Environment Variables by adding to PATH (System) the following two lines: C:\Program Files\Python37 C:\Program Files\Python37\Scripts Create Greenstocks project Clone the repository https://github.com/antongeorgescu/greenstock to <Greenstocks_Home> Use the following credentials (HTTPS): user: antongeorgescu@gmail.com pwd(token): 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 Start Greenstocks REST API Go to directory <Greenstocks_Home>/restapi and open a Terminal (cmd prompt) Run command python -m venv dev This will create a restapi\dev folder Open restapi\dev\pyvenv.cfg file and make sure the following content is there: home = C:\Program Files\Python37 include-system-site-packages = false version = 3.7.9 Activate dev venv by running the following command in restapi folder: .\dev\scripts\activate After the command is done, the following line shows up: (dev) <Greenstocks_Home&gt\restapi Start Flask REST API by running the following: 1) set 'host' and 'port' in app.py (last line) Example: if __ name __ == __ main __ : app.run(host='127.0.0.12', port =5099,debug=True) 2) execute the following line in command prompt: python app.py Quick testing of Greenstocks REST API Open any browser and run the following URLs: http://127.0.0.1:5000/api/v1/resources/stocks/sector/list http://127.0.0.1:5000/api/v1/resources/stocks/sp500/profile/True Create a Reverse Proxy from IIS to Python Flask Reverse Proxy allows client calls (eg SPA with React or Anguar) being directed to IIS web site GreenstocksApi, and from there re-directed to Flask REST API To do that execute the following steps: Create web site GreenstocksApi in Windows 10 IIS This web site has its physical path in <Greenstocks_Home>/iis-restapi After the site is created and running on port 8080 (for example), create the Reverse Proxy by following the instructions in the article Creating a Reverse Proxy with URL Rewrite for IIS at the link https://weblogs.asp.net/owscott/creating-a-reverse-proxy-with-url-rewrite-for-iis Test the newly created reveres proxy by opening any browser and running the following URLs: http://localhost:8080/api/v1/resources/stocks/sector/list http://localhost:8080/api/v1/resources/stocks/sp500/profile/True <div

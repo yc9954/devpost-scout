@@ -1,0 +1,53 @@
+---
+slug: "ekaette"
+url: "https://devpost.com/software/ekaette"
+title: "Ekaette"
+hackathon: "Gemini Live Agent Challenge"
+organization: "Google"
+winner: true
+words: 1331
+team_size: 1
+has_repo: true
+has_live: true
+has_video: true
+tags:
+  - "project"
+  - "mechanism/realtime_stream"
+  - "mechanism/structural_withholding"
+  - "domain/developer_tools"
+  - "domain/finance_payments"
+  - "domain/housing_homeless"
+  - "domain/retail_commerce"
+  - "domain/transportation"
+  - "substrate/geospatial"
+  - "substrate/structured_db"
+  - "substrate/video_visual"
+---
+
+# Ekaette
+
+> Ekaette is a configurable AI voice and messaging assistant for customer-facing businesses across multiple industries.
+
+[Devpost](https://devpost.com/software/ekaette) · hackathon [[Gemini Live Agent Challenge]]
+
+## Facets
+
+**mechanism** [[realtime_stream]] [[structural_withholding]]
+**domain** [[developer_tools]] [[finance_payments]] [[housing_homeless]] [[retail_commerce]] [[transportation]]
+**substrate** [[geospatial]] [[structured_db]] [[video_visual]]
+
+**stack** africa's-talking-sms-api, africa's-talking-voice-api, fastapi, gemini-2.5-flash, gemini-2.5-pro, gemini-live-api, google-adk-1.26, google-cloud, google-cloud-firestore, google-cloud-run, javascript, paystack, pytest, python
+
+## How they structured the write-up
+
+- inspiration
+- what it does
+- how we built it
+- challenges we ran into
+- accomplishments that we're proud of
+- what we learned
+- what's next for ekaette
+
+## Body
+
+Ekaette's Architecture Inspiration Most customer service lines still rely on static recordings, long hold queues, and rigid call-centre routing. Customers spend significant time and airtime waiting to resolve simple requests, and Urgent needs are delayed by generic queue systems that do not understand intent or priority. It is a frustrating experience that almost everyone recognizes: too much waiting, too little help, and no fast path for straightforward tasks. What it does Ekaette is a configurable multimodal AI voice and messaging assistant built on the Gemini Live API and Google ADK. It handles live phone calls, WhatsApp, and SMS for customer-facing businesses. In a typical Phone trade-in flow: Customer calls an Africa's Talking SIP number and speaks to Ekaette Ekaette detects the swap intent and asks the customer to send a photo/video on WhatsApp The photo/video arrives on WhatsApp, gets injected into the active voice session Background vision analysis runs (Gemini 2.5 Pro) while the assistant keeps the conversation moving The grounded analysis feeds into valuation, negotiation Agent Upsells Accessories and Generates Image options of how the Phone cases look on the device for selection. Customer decides, and Gemini generates an account number for payment and confirms the payment via webhooks. Post-sale follow-up continues across channels with full context The platform supports 6 industry templates (electronics, hotel, automotive, fashion, telecom, aviation) and is configurable per tenant and company without changing backend code. How we built it Agent architecture: A root orchestrator agent delegates to 5 specialized sub-agents (vision, valuation, booking, catalogue, support) using Google ADK 1.26. All agents in the voice pipeline use gemini-live-2.5-flash-native-audio via bidiGenerateContent. Text channels (WhatsApp, SMS) use gemini-2.5-pro via Runner.run_async(). The two pipelines are intentionally separate because text models don't support the Live API. Split Cloud Run services: I learned the hard way that long-lived WebSocket sessions (voice calls) starve HTTP webhook handlers when they share an instance. We split into two Cloud Run services: ekaette for webhooks/APIs and ekaette-live for voice streaming, which solved the 429 "no available instance" errors on Africa's Talking callbacks. Runtime vs. dialogue separation: The assistant controls tone and phrasing. The runtime controls what it's allowed to do. Tool capability guards check every tool call against the company's capability map. Transfer guards prevent agent handoffs before the greeting completes. Scoped queries enforce tenant/company data isolation at the Firestore level. This separation lets the model be conversational without hallucinating business-critical actions. 4-tier memory: Session state (Firestore), Memory Bank (Vertex AI Agent Engine for cross-session recall), Global Lessons (per-company behavioural corrections), and Industry Knowledge (registry-driven products, booking slots, FAQs). SIP bridge: A dedicated VM converts Africa's Talking RTP/G.711 audio to PCM 16kHz for Gemini and back, with echo suppression, noise reduction, and VAD. WhatsApp calling uses a separate SRTP/Opus pipeline with SIP digest auth. Testing: 641 automated tests (pytest + Vitest), strict TDD failing tests written before implementation, production failures converted into regression tests. Challenges we ran into Native audio function calling regression. The GA gemini-live-2.5-flash-native-audio model has significantly lower function-calling accuracy than the older half-cascade preview model. It would hallucinate sub-agent names as direct function calls (catalog_agent() instead of transfer_to_agent(agent_name="catalog_agent")). We mitigated this with explicit negative instructions and an on_tool_error_callback that returns a dict (returning None crashes the entire bidi stream. - ADK Bug #4005). Duplicate responses after agent transfer. ADK Bug #3395 causes the model to repeatedly transfer to the same sub-agent in a tight loop after session resumption. We built a dedup callback that fingerprints each transfer by agent name + content hash and suppresses duplicates within a 2-second cooldown. Voice accent inconsistency. Without voice cloning (not yet available for Gemini native audio), the assistant's accent would change unpredictably between turns, sometimes American, sometimes British, sometimes inconsistent mid-sentence. We solved this through careful system instruction tuning and phonetic spelling (ehkaitay instead of IPA notation, which the audio model ignores). Pinning the voice to Aoede and reinforcing the pronunciation in both the system instruction and the greeting trigger made it consistent. Cross-channel media injection. Getting a WhatsApp photo into an active Live API voice session required building a background media bridge. The photo arrives on a different Cloud Run service, gets stored, and is injected into the live session's tool context asynchronously while the voice conversation continues. Cloud Run scaling for telephony. A single active voice call ties up a Cloud Run instance with a long-lived WebSocket. With min-instances=1, AT webhook callbacks got 429 errors because no instance was free. The error comes from Google Frontend (GFE), not application code and no logs are emitted. We had to set min-instances=2 and split into separate services. The SIP bridge VM also needed scaling — We started on a GCE E2-micro, but audio processing (codec conversion, noise reduction, echo suppression) caused latency spikes under load, so we moved to an E2-small. Accomplishments that we're proud of End-to-end voice commerce flow that works on a real phone call, not just a demo. Cross-channel continuity — A customer can start on a call, send media on WhatsApp, and continue the same conversation without repeating anything. Production-grade guardrails — tool capability guards, agent isolation, tenant-scoped data, PII redaction, fail-closed behaviour throughout 641 automated tests built through strict TDD across 7 registry migration phases. - 2G accessibility — a customer on a basic phone can call an Africa's Talking number and interact with a Gemini-powered assistant Real ADK bug workarounds that we've documented and shared with the community (Bug #3395 dedup, Bug #4005 error handling, native audio function calling mitigations) What we learned The Gemini Live API is powerful but young. We encountered genuine platform bugs (duplicate transfers, tool error crashes, function calling regressions) that required custom callback mitigations. The lesson: build your agent assuming the model and SDK will surprise you, and invest in callbacks and guardrails early. Most iterations to the model's behaviour had to happen in the runtime layer or the conversation layer. Prompt engineering was not enough. Critical workflow decisions, which tools are allowed, when transfers happen, what data is visible, lived in the runtime layer, as Gemini was strongest when it controlled expression, not the business-critical state transitions. Voice UX is unforgiving. A 500ms silence gap that's invisible in text feels like an eternity on a live call. I built voice fillers, non-blocking tool execution, context compression (80k → 40k tokens), and silence nudges to keep the conversation feeling natural. Accent consistency requires engineering, not just prompting. Without voice cloning, we had to pin the voice model, use phonetic spelling for the assistant's name, and reinforce pronunciation across system instructions and greeting triggers. IPA notation is ignored by the native audio model. Splitting Cloud Run services for telephony. Long-lived WebSocket sessions and short HTTP webhooks cannot share instances without starving each other. This cost us hours of debugging before we realized the 429 errors had no application-level logs. SIP bridging is full of hidden state. SRTP libraries maintain internal crypto state across packets — filtering packets before the library processes them corrupts that state silently. RTP extension headers from WhatsApp/Meta break naive payload parsing. These bugs are invisible in testing and only surface on real calls. What's next for Ekaette Self-Improving Agent Loop: Close the feedback loop between call outcomes and agent behavior. Track conversion rates, drop-off points, and customer satisfaction per agent stage. Use this data to automatically refine prompts, adjust negotiation thresholds, and optimize transfer routing — making every call better than the last. Extend Calls and Text Capabilities to Instagram and Facebook Messenger. Voice cloning when Google releases it for Gemini native audio, replacing our phonetic workarounds with a consistent Nigerian-accented voice. We will also be able to create voices for international counterparts using the WAXAL Library. (A New Open Dataset for African Speech Technology) Conversation analytics for quality scoring, conversion tracking, and agent performance Ekaette can be used for multiple industries, but was only defined for the gadget industry for this demo. More resilient voice behaviour under noisy real-world conditions. Better memory and customer follow-up across longer time windows <div

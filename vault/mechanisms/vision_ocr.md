@@ -1,0 +1,181 @@
+---
+facet: "mechanism"
+name: "vision_ocr"
+projects: 854
+winners: 854
+tags:
+  - "facet"
+  - "mechanism"
+---
+
+# vision_ocr
+
+`mechanism` · **854** projects, **854** of them winners.
+
+## Pairs with
+
+- [[video_visual]] — 536 together  <sub>(substrate)</sub>
+- [[realtime_stream]] — 462 together  <sub>(mechanism)</sub>
+- [[structured_db]] — 332 together  <sub>(substrate)</sub>
+- [[developer_tools]] — 271 together  <sub>(domain)</sub>
+- [[geospatial]] — 261 together  <sub>(substrate)</sub>
+- [[education]] — 249 together  <sub>(domain)</sub>
+- [[educator_student]] — 233 together  <sub>(user)</sub>
+- [[web_dom]] — 199 together  <sub>(substrate)</sub>
+- [[developer]] — 179 together  <sub>(user)</sub>
+- [[finance_payments]] — 175 together  <sub>(domain)</sub>
+- [[document_pdf]] — 171 together  <sub>(substrate)</sub>
+- [[voice_speech]] — 155 together  <sub>(mechanism)</sub>
+
+## Projects
+
+- ★ [[artharaksha]] — When Gen-AI Rescues You from Financial Fraud and Creates Social Impact
+- ★ [[amanat]] — Privacy-first AI agent for humanitarian organizations that scans cloud services for sensitive data e
+- ★ [[auditguardx]] — Enterprise compliance in minutes, not months at 1% of the cost.
+- ★ [[bookster-05sbyz]] — AI powered student marketplace & community hub for ISU students
+- ★ [[openmed-gtp792]] — A modular AI-driven diagnostic system that intelligently selects specialized models for each case, o
+- ★ [[agentic-contract-framework]] — Contract-based observability for AI agents. Monitor if your agents fulfill their commitments and gai
+- ★ [[community-driven-platform-for-identifying-fake-news]] — A community-driven platform to identify fake news
+- ★ [[flowcapture]] — The first decentralized, off-chain, gasless governance and voting platform for FLOW-based DAOs.
+- ★ [[taief-the-all-in-one-academic-assistant]] — From academic research to Olympiad problems, TaiefMind is your AI co-pilot. Upload papers, extract d
+- ★ [[test-3cmsd4]] — When your childhood paint app went to college, got a CS degree and came back with AI superpowers
+- ★ [[gurwi-learn-anything]] — Gurwi makes mastering complex topics simple and engaging. Learn anything through our unique format o
+- ★ [[kisan-mitra-ai]] — Built on AWS and powered by Amazon Nova Pro, the platform eliminates the literacy barrier with a voi
+- ★ [[suavekeys-voice-and-expression-controller-and-keyboard]] — SuaveKeys is a distributed voice and expression controller to enable people with physical impairment
+- ★ [[sestara-e3w1on]] — Access to private tutoring predicts exam outcomes more than ability. That's an infrastructure failur
+- ★ [[legalmindz]] — Ethiopia has 2.5 million businesses but only 3,000 lawyers. Legalmindz brings Legal AI for 120 Milli
+- ★ [[drishti-ai-navigator]] — Empowering digital independence through AI. Voice-powered web navigation using AWS Bedrock AgentCore
+- ★ [[skyrchitect-6d37yf]] — An nemotron-nano-8B-v1 Model autonomously designs production-ready cloud architectures, generates in
+- ★ [[ocr-finetuning-for-ancient-cuneiform-tablets]] — NabuOCR is a specialized OCR model for transliterating ancient cuneiform tablets directly from image
+- ★ [[project-x-xgo16d]] — Transforming Learning: AI-driven Podcasts, Quizzes, Dynamic References, and Document-based Chat for 
+- ★ [[pneumoscan-an-ai-radiology-tool-for-covid-19-pandemics]] — CovidScan.ai is developed to be a secured AI platform with the purpose to assist radiologists with f
+- ★ [[mindstep-xwlpnr]] — Free, 5-minute dyslexia screening using Gemini Vision + Chat APIs to detect early signs with 85.71% 
+- ★ [[road-incident-predictor]] — Monitoring tools for road incident management. Crowdsourcing information sharing for safer roads wit
+- ★ [[ecokiosk-ai-powered-machine-su0adv]] — Recycle. Get rewarded. It's that simple.
+- ★ [[project-iris-edge-ai-aac-platform]] — Project Iris is a zero-latency, eye-tracking AAC platform powered by local WebGPU AI, featuring Live
+- ★ [[gridveda]] — GridVeda gives powerline operators predictive failure detection at edge. Ensemble AI monitors 20 tra
+- ★ [[fleetops-smart-incident-reporting-for-fleet-operations]] — FleetOps uses AI to analyze photos sent to Jira, automatically identify the vehicle in Assets, and g
+- ★ [[near-road-icm]] — Investigative case management solution for citizens, police officers and drivers to report and manag
+- ★ [[pneumoscan-an-ai-tool-for-ppe-check-covid19-testing]] — PneumoScan.ai is developed to be a secured AI tool with the purpose to assist radiologists with COVI
+- ★ [[medgraphagent-1e4ps2]] — Better data means better decisions. And better decisions save lives
+- ★ [[anyform-ai-form-builder-30au41]] — AnyForm is an AI powered, tool-first platform that lets you build complex, validated forms in under 
+- ★ [[nocrowd-social-distancing-made-simple]] — Award winning mobile app, a turnkey social distancing solution. It helps us avoid queuing and crowds
+- ★ [[soulful-sessions]] — Gamified Pomodoro timer that turns your focus sessions into an RPG adventure. Complete work sessions
+- ★ [[tasktamer-hetu2y]] — TaskTamer turns your to-do list into an RPG adventure: complete tasks, battle zombies and bosses, ea
+- ★ [[jam-packed]] — Jam Packed is a revolution for the programmable web. Anyone can create, consume and share executable
+- ★ [[handtrack-js-1-0-real-time-handtracking-in-the-browser]] — Handtrack.js is a library for prototyping realtime hand detection (bounding box), directly in the br
+- ★ [[simuniverse]] — All in one interactive simulations across STEM disciplines
+- ★ [[farmops-desk]] — The operating system for Nigerian poultry and catfish farms. Ops, feed, money, and AI in one calm vi
+- ★ [[claimsphere-ai-automated-claim-processing-agent]] — AI-powered insurance claim processing system with Camel-AI powered agent, automated OCR extraction, 
+- ★ [[pytorchxai]] — Q&Aid is the healthcare assistant that democratizes access to high-quality diagnoses. It comforts pa
+- ★ [[prepify-ai-7nymoa]] — Prepify AI transforms how students learn STEM — turning lecture notes into structured summaries, qui
+- ★ [[vista-protocol]] — Perpetual futures on Aurora, enabling easy access to (up to 5x) leverage on NEAR, BTC, and ETH, both
+- ★ [[studyblocks]] — Overwhelmed by studying? StudyBlocks combines AI-powered study guide generation, smart flashcards, a
+- ★ [[tonguekeeper]] — Every 2 weeks, a language dies. TongueKeeper deploys autonomous AI agents that compile and cross-ref
+- ★ [[mixingjays]] — live music visualization generation and editing tools -- industry-grade and AI-powered
+- ★ [[lock-in-7znf21]] — AI-driven personalized learning
+- ★ [[browseback]] — BrowseBack gives your browser a photographic memory powered by Chrome’s built-in AI. Search by conte
+- ★ [[faco-fight-against-corona-jfcza9]] — A contactless digital healthcare solution to assist doctors and empower patients to diagnose and man
+- ★ [[ninth-mkcgtv]] — Create animated stories from a single idea and direct every scene on a real timeline, with every ass
+- ★ [[omnom-hg16v3]] — OmNom is your late night food savior, autonomously navigating a variety of outdoor and indoor enviro
+- ★ [[drcoordinator-1-0-0]] — The previous "A framework that enables Consumer to pay NodeOp only as much LINK is required to cover
+- ★ [[celestial-outpost-galactic-frontier]] — In Celestial Outpost: Galactic Frontier, embark on an epic space adventure as you assume the role of
+- ★ [[skinmatch-ai]] — AI-powered skin analysis app that delivers personalized skincare routines for every skin type and cl
+- ★ [[synapse-jok1ec]] — Never lose draft again - AI that drafts like a champion, one pick at a time.
+- ★ [[klerk]] — Klerk: Simplifying Government Services with a Multilingual AI Assistant for Accurate, Up-to-date, an
+- ★ [[paper-cuts]] — Empowering the next generation of builders, thinkers, and dreamers by bringing back play
+- ★ [[civicsync-pos2nx]] — Empower your neighborhood with CivicSync. We use Amazon Nova to translate dense planning notices and
+- ★ [[perceiv-io]] — 🪶 PERCEIV/IO leverages AI image recognition and various LLMs to assist persons with visual and/or au
+- ★ [[melio-ai]] — Melio AI, built with Kiro IDE, is revolutionizing music education by making creativity accessible to
+- ★ [[clearclause-zer4yh]] — AI-powered legal document analyser: upload any contract, get instant clause-by-clause risk analysis,
+- ★ [[waste-classification]] — Sustainable Waste Management
+- ★ [[retailsync-ai-aehob5]] — RetailSync AI is an AI-powered retail media advertisement creation platform that transforms how reta
+- ★ [[sitesync-ai-u7j86v]] — "🏗️ Sync the vision. Build the truth ." SiteSync AI is not just a "viewer" it is an active participa
+- ★ [[marionette-the-on-device-multimodal-ai-agent]] — Marionette is a Chrome extension that automates the web entirely offline using Gemini Nano and Chrom
+- ★ [[neurostem-ai-powered-stem-for-every-mind]] — Empowering neurodivergent students through AI.
+- ★ [[skindetect-ai]] — From just one photo, SkinDetect AI turns into your personal dermatologist, detecting skin diseases w
+- ★ [[nazar]] — Scan a homework problem and instantly generate a novel, interactive learning environment from it in 
+- ★ [[nusic-nft-music-oracle]] — Royalty bearing NFT music bonds, powered by a streaming data oracle network.
+- ★ [[corazones-against-covid19-tech-to-increase-impact-of-money]] — Fintech innovations can multiply the impact of recovery funds for regional SMEs. Five regional gover
+- ★ [[lumina-legal-ai-powered-indian-legal-assistant]] — An intelligent legal assistant that instantly identifies applicable IPC and IT Act sections from pla
+- ★ [[vaidyasaarathi]] — "Your Intelligent Healthcare Companion" - Breaking language barriers, preserving privacy, empowering
+- ★ [[arduino-controlled-electrolysis-system-for-bleach-production-kodm9u]] — Imagine producing your own bleach right at home, simply by adding salt to water and pressing a butto
+- ★ [[maxapply]] — AI-powered LinkedIn job automation using Amazon Nova 2 Lite
+- ★ [[hypercluster-the-web3-automated-referral-system]] — A permissionless referral system that aligns an entire community with a single link. Complete with a
+- ★ [[nutshell-auftp2]] — Empowers users with motor disabilities to browse the web completely hands-free using just their head
+- ★ [[mgame-a-waste-management-game]] — Take on the challenge of waste collection and treatment. Make your actions a reality worldwide.
+- ★ [[edupiano]] — Asian = Good at piano Tf, you suck? use this and make your mom proud :)
+- ★ [[gemini-3-desktop-ai-agent]] — A voice & gesture-controlled desktop AI that sees your screen, controls your laptop, and responds in
+- ★ [[documorph-ai-ernie-multimodal-document-transformer]] — Transform static PDFs into dynamic, responsive, and interactive HTML webpages with AI-powered semant
+- ★ [[voxelize]] — A real-time AR voxel scanner with 3D model export as .glb
+- ★ [[heartstart]] — Emergency Detection. Autonomous Robot CPR.
+- ★ [[anatroc]] — An AI assistant which can read, understand and provide architecture diagram for you to understand on
+- ★ [[chuck-it]] — Save anything, find everything—100% offline, 100% private, 0% effort.
+- ★ [[orama-your-ai-powered-clinical-companion]] — An AI-powered clinical assistant that transforms complex patient data into actionable insights, help
+- ★ [[blindsight-virtual-eyes-through-haptic-feedback]] — Blindsight simulates a novel sense of sight with haptic feedback vibration motors and ML.
+- ★ [[touche-cfp6hs]] — Safe Access control to fight COVID-19 - enabling effective deconfinement
+- ★ [[psy_pal_mental_health_demo]] — psy pal is a one-stop solution for all your mental health needs. It tracks user data and provides in
+- ★ [[edify-ai-iea9ws]] — The shortest path from 'Student' to 'Hired'. Career paths aren't linear, but they shouldn't be a maz
+- ★ [[via-dappia]] — Revolutionizing road infrastructure: This project tokenizes roads, decentralizing ownership & upkeep
+- ★ [[novamind-ai-powered-stem-adventure]] — The free virtual STEM lab for every student who never had one.
+- ★ [[vidya-setu-b5xi0y]] — Bridging every learner to their potential — AI-powered gap detection, peer collaboration, silent saf
+- ★ [[samespace]] — Duplicate Image Detection using Siamese Neural Networks
+- ★ [[signver-a-deep-learning-library-for-signature-verification]] — Signver provides methods/models for signature verification - finding signatures (object detection), 
+- ★ [[fdvnjvd]] — Waylo is an AI that lives on your Mac and guides you through anything - a pulsing red dot shows exac
+- ★ [[teledisko-dao]] — Neokingdoms are constitutional DAOcracies. They serve a collective of humans with a common goal. Vir
+- ★ [[launchify]] — Know what you don't know — before you build.
+- ★ [[path2integrity]] — Reach 1.000.000 citizens until August 2020 with our tool "TRUST IN SCIENCE" to support decreasing th
+- ★ [[agent-builder]] — Build powerful AI agent workflows through natural conversation. Simply describe what you need, and w
+- ★ [[spielburg-ai]] — AI-powered video editing with CUDA optimization—our advanced AI agent executes complex edits with na
+- ★ [[clatri-ved84t]] — Control and unify your finances with the speed of a message
+- ★ [[dailies]] — CI for AI-generated video - the tests nobody built for the thing everyone is shipping.
+- ★ [[reps-bapvqf]] — You paste in something and the app turns it into a convo where you explain the concept and an AI tut
+- ★ [[rehearse-nzow16]] — Got an upcoming Interview or Presentation? Use Rehearse, an AI Powered practice platform. Rehearse..
+- ★ [[pushpa-pyro-uav-system-for-high-risk-patrol-and-alerting]] — PUSHPA gives firefighters eyes on the ground and in the air. Smart glasses steer drones for real-tim
+- ★ [[nexusstem-your-socratic-ai-agent-for-stem]] — The AI Agent That Teaches You to Think
+- ★ [[ai-powered-job-application-assistant]] — AI-driven career acceleration: Optimize resumes, ace interviews, and land your dream job with intell
+- ★ [[addy]] — ADDY is a revolutionary fun way to advertise. It takes wishes of both the users and the companies in
+- ★ [[straighty]] — Your AI Sloth Companion for Perfect Posture!
+- ★ [[ai-for-common-good]] — An exam hosting service for the visually impaired
+- ★ [[civic-impact-compass]] — Congress data meets AI-powered analysis — find the bills that affect YOU.
+- ★ [[money-talks-d93izn]] — Clean cash I want you, Clean cash I need you. Upload one credit card monthly statement and receive t
+- ★ [[adex-adaptive-data-extraction-system]] — Adex leverages temporal redundancy in video streams to mitigate stochastic noise. By analyzing multi
+- ★ [[kegomate]] — Kegomate collects data from a flow sensor to track coffee consumption by individuals then informs th
+- ★ [[gesturegamer-a-mario-adventure]] — Level Up Your Gaming with GestureMario: Where Hand Gestures Bring Mario to Life!
+- ★ [[waste2taste-etwp34]] — Measuring plate waste in dining halls so chefs serve what students enjoy.
+- ★ [[thermohalo-ai-firearm-detection-84vpze]] — ThermoHalo uses AI-powered thermal imaging to detect concealed weapons at school entrances. Safe, FE
+- ★ [[kiro-interactionkit]] — Build awesome gesture-controlled games & apps with Kiro!
+- ★ [[temp-5dincy]] — We extract an essential measure of heart failure patients from medical charts, left ventricular ejec
+- ★ [[sentineldesk]] — SentinelDesk turns MX Creative Console & Master 4 into a tactile CCTV cockpit. Scrub footage with th
+- ★ [[multilingual-clip-semantic-image-search-in-100-languages]] — Breaking language barriers powered by 16 Habana Gaudi Accelerators, OpenAI CLIP (Contrastive Languag
+- ★ [[no-ideas]] — Electricity Bill Generator
+- ★ [[meridian-uw62z5]] — Meridian: an agentic UiPath Maestro system that automates maritime voyage compliance AI agents run d
+- ★ [[readhim]] — Is he playing you? Know for sure. (6M+ views, $1100 MRR)
+- ★ [[penguin-studio-o1ajbd]] — Penguin Studio is an image generation and editing platform that combines text-to-image synthesis wit
+- ★ [[harmoniq-06o1e9]] — Regulatory intelligence for clinical trials.
+- ★ [[naksh-bot]] — Turns hours of hand-drawn Census field maps into accurate, ready-to-use HLB layouts in minutes built
+- ★ [[my-et-economic-times-reimagined]] — AI-powered financial news assistant that translates complex articles into any language, verifies fac
+- ★ [[deshitrip]] — Offline-first AI travel companion for low-connectivity regions—bilingual assistance, synced squad ex
+- ★ [[mp-end2end-gy8uor]] — A novel low-cost depth-from-focus method to perform 3D reconstruction of microplastics, to better an
+- ★ [[sketchrun]] — Transform wireframe sketches into production-ready Next.js code in seconds using GPU-accelerated AI 
+- ★ [[galuxium-the-ai-that-builds-startups-autonomously-zxg8rp]] — Galuxium is an autonomous multi-agent AI platform that transforms any idea into a complete startup —
+- ★ [[hakivo]] — Hakivo, your personal AI-powered legislative aide. Track bills, get alerts, and listen to NPR-style 
+- ★ [[studybuddypro]] — AI-powered study management platform that helps students beat procrastination, track progress, and m
+- ★ [[birdbot-computer-vision-that-enables-citizen-science]] — BirdBot is an avian wildlife camera that helps environmentally conscious professionals contribute to
+- ★ [[alttext-guardian]] — AltText Guardian detects image submissions lacking post description, generates auto-reply alt-text f
+- ★ [[lily-memo]] — Lily Memo turns your notes, PDFs, and lectures into AI-generated explanations, diagrams, and full qu
+- ★ [[shipsense-ai-novel-data-augmentation-protocol]] — Mitigating overfishing through AI-augmented satellite imagery and data viz dashboard. Novel few-shot
+- ★ [[ttv-pipeline]] — Text-To-Video Pipeline that automates generation of long-form video content using video generation t
+- ★ [[web3wheels]] — A decentralized autonomous Uber service using blockchain and AI. Mint, own, and trade car NFTs. Real
+- ★ [[rafflefi]] — NFT Raffling Universe
+- ★ [[carge]] — Web3 PKI for decentralized collaboration, deploy workflows and collaborate with individual, organiza
+- ★ [[cartmate-mygdtk]] — An Ai-powered shopping experience
+- ★ [[grocify]] — Track your pantry, ensure dietary restrictions, craft personalized recipes—ensuring zero waste, smar
+- ★ [[sentinel-ai-rzp29l]] — Autonomous Drones that you can control with Natural Language.
+- ★ [[a-eye-pk9sdw]] — We built a real-time tool that converts live camera input into audio instructions, helping the visua
+- ★ [[gemini-geoflow]] — Fusing Text and Terrain: An LLM-Powered Pipeline for Preparing Archaeological Datasets
+- ★ [[100-weapons-goofy-madness]] — We packed in tons of progression features and infused humor and shareable moments into one of our mo
+- ★ [[pathfinder-em2qjb]] — Building the future of personalized browsers with LLMs.
+- ★ [[ai-mental-health-chatbot-jimyr9]] — AI-Powered Care, Human-Centered Support
+- ★ [[punjab-sabak-portal]] — A safe AI study platform with course-locked guardrails. Generates targeted MCQs, checks handwritten 
+- ★ [[scrumpy]] — Recipes from your feed

@@ -1,0 +1,198 @@
+---
+hackathon: "Funathon"
+organization: "Youth Pioneers in STEM"
+projects: 166
+tags:
+  - "hackathon"
+---
+
+# Funathon
+
+Youth Pioneers in STEM  ·  166 collected projects
+
+## What this field was made of
+
+- [[web_dom]] × 78
+- [[educator_student]] × 31
+- [[video_visual]] × 31
+- [[structured_db]] × 30
+- [[education]] × 28
+- [[health_clinical]] × 12
+- [[realtime_stream]] × 11
+- [[patient_family]] × 10
+- [[finance_payments]] × 9
+- [[developer_tools]] × 9
+- [[document_pdf]] × 9
+- [[mental_health]] × 8
+- [[developer]] × 8
+- [[cross_origin_web]] × 8
+- [[civic_government]] × 7
+
+## Projects
+
+- ★ [[the-learning-spark]] — A open place for learners !
+- ★ [[tetris-duels]] — Tetris Duels is a fun party game that lets you play Tetris alone or with family and friends. Compete
+- ★ [[monkeychunky]] — An app that gives the syllables and pronunciation to people in need.
+- ★ [[video-chat-prototype]] — This is a video chat app prototype using React, Firebase, Node and SocketIO.
+- ★ [[inspiration-quote-generator]] — Battling with depression or everyday struggles is tough. It would be nice if someone can wake up or 
+- ★ [[object-recyclable]] — Check recyclability through yours lens and save the world! ♻
+- ★ [[gap-shap]] — A place to hangout and to clarify doubts with your friends and colleagues. You can share images with
+- ★ [[climate-change-in-2022-website]] — Climate Change impacts everyone on planet earth. Some of the effects of climate change can be seen t
+- ★ [[academe-agbixc]] — Academe is a platform for students to share and receive advice and educate each other on various aca
+- ★ [[predicto]] — A Greater Way to Predict your Dream Car's Price 🎯
+- ★ [[robert-the-virtual-assistant]] — Robert is a personal assistant with a text-speech based interface that allows you to keep track. Its
+- ★ [[food-order-and-delivery]] — A platform to order food from restaurants and delivery services
+- ★ [[funquiz]] — Popcorn is a social media app for movies. Users can create posts and have discussions related to tv 
+- ★ [[misconceptions-of-menstruation]] — Our goal is to debunk common myths about menstruation.
+- ★ [[snake_game-5t7akg]] — we have a moving snake which we have to move in left, right, up, or down position.If the snake will 
+- ★ [[mathquiz-app]] — Developed a Mobile Application project.Programming Language used: JavaAttributes used:Constrain Layo
+- ★ [[funathon-74a0zw]] — I would like to show up my learning skills through platform
+- ★ [[internet-speed-tester]] — -
+- ★ [[survey-application-is-a-small-html5-survey-single-page-app]] — simple and easy
+- ★ [[health-care-a2kl1v]] — health is wealth
+- ★ [[evon]] — EVon is a redefined solution for tracking and analyzing electric charging stations. In our applicati
+- ★ [[health-care-fj3y9i]] — Efforts made to maintain or restore physical, mental, or emotional well-being especially by trained 
+- ★ [[marriage-hall-booking-application]] — Online Booking
+- ★ [[gaming-website-bcmxqa]] — A gaming website might be a game itself, or it could be somewhere that sells gaming merch, or a plat
+- ★ [[wabi-sabi-4p0iq5]] — Wabi Sabi is a game, where a martial warrior, the protector of nature, has to protect the forest fro
+- ★ [[project-point-js76ze]] — The first thing we’ll do is create a folder to hold our project, and the base file of our site, call
+- ★ [[health-care-6ati8r]] — A healthful lifestyle provides the means to lead a full life with meaning and purpose.
+- ★ [[reco12]] — a face recognition webapp
+- ★ [[digimanager-nldvk4]] — DigiManager is app that gives you the power to do more. It manages your daily tasks and boosts your 
+- ★ [[factoreyes]] — AI based web app that detects whether or not homework assignments are too repetitive.
+- ★ [[path-of-destiny-rpg-action]] — Eating fruits has never been easier!
+- ★ [[tic-tac-toe-game-evlsg7]] — A simple Tic Tac Toe game for fun
+- ★ [[tank-destroyer-game]] — Tic-Tac-Toe game, you will see the approach of the game is implemented. In this game, two players wi
+- ★ [[my-stress-buddy]] — A website focus on healthcare issue, the stress problem, developed using HTML.
+- ★ [[intellect-africa]] — Building a platform where students in high school and students on a gap year can access global oppor
+- ★ [[the-imbibing-water-producing-device-29t8py]] — THE IMBIBING WATER PRODUCE DEVICE is design to produce fresh portable water for troops/Soldiers duri
+- ★ [[lecours-interactive-e-learning-web-app-for-students-0hb6ga]] — Beautiful UI & UX E-Learning App where Students Can Have Live Chat with Other Learners While Watchin
+- ★ [[project-zen]] — This is a project spesific to youth to help improve mental, physical, and emotional health. It also 
+- ★ [[asas-0djq8r]] — A platform for people who wish to save the environment by building solutions.
+- ★ [[animals-of-brooklyn]] — A platform for users to document animal species they found in Brooklyn. Users can also help identifi
+- ★ [[class-planner-yxdirz]] — This app helps teacher and students see what assignments they have.
+- ★ [[medicord-if032z]] — One synchronized place for all your medical needs
+- ★ [[balls]] — Need song stats quick? Let us help in just one click!
+- ★ [[mp3-music]] — In this site you can listen music of your choice you can login or sign up for adding album in your f
+- ★ [[team-social-solvers]] — ENTERTAIN YOURSELVES
+- ★ [[wisata]] — Take a trip to the villages of Indonesia.
+- ★ [[heart-disease-predictor-3wu5vb]] — Heart disease prevention is crucial. Good data-driven cardiac disease prediction systems can enhance
+- ★ [[tic-tac-toe-znwvsh]] — Tacos Before Vatos ......!
+- ★ [[college-erp-gpostu]] — By using this ERP, the students can easily enroll all the courses. And all the students can see thei
+- ★ [[book-world-management]] — manage your books
+- ★ [[my-profile-aglc2j]] — My project MY PROFILE is designed by using HTML. Hypertext Markup Language, a standardized system fo
+- ★ [[rock-paper-scissors-mgn5rf]] — Game theory in everyday life....
+- ★ [[project-point]] — I had created this project by HTML is the language for describing the structure of Web pages. HTML g
+- ★ [[finadel]] — Good Things come to those who shop local #supportLocal
+- ★ [[funation-project1]] — One of the biggest unknowns about creating sample elevator pitches is how long they should be. In mo
+- ★ [[mini-telephone-directory]] — This project is about MINI TELEPHONE DIRECTORY using separate chaining in Open Hashing.
+- ★ [[project1-oyx1va]] — In this article, we are going to look into some tactics to approach writing your elevator pitch, les
+- ★ [[funthon]] — The challenging part of crafting an elevator pitch is putting all the important elements together wi
+- ★ [[my-profile-pr6oq5]] — My project my profile designed by using HTML.Hypertext Markup Language, a standardized system for ta
+- ★ [[trailblazer-gps-less-tracker]] — An Android app that tracks your phone without using GPS. Trailblazer will help guide you back to saf
+- ★ [[my-profile-imhj6v]] — I have created my profile using html.Hypertext Markup Language, a standardized system for tagging te
+- ★ [[rainfall-prediction]] — Climate is an important aspect of human life. In this project we deal with the prediction of rainfal
+- ★ [[myprofile]] — I have created my profile website using, HTML (HyperText Markup Language) is the code that is used t
+- ★ [[countdown-timer-wj2n4i]] — The Quiz game asks the player questions about Planets. They have three chances to answer each questi
+- ★ [[ecoinfo-o510xh]] — Educating, inspiring, and empowering users to save the planet.
+- ★ [[mbacare]] — A Union of Technology + Healthcare 1.3 million people per year are injured due to road accidents and
+- ★ [[cosmic]] — Your feelings are valid you are not alone
+- ★ [[trip-planner-vm9387]] — Plan A Trip
+- ★ [[entertainment-vxer7t]] — This is about entertainment
+- ★ [[sketch-style-paints-omciyx]] — Book your tickets at any time !!
+- ★ [[online-car-rental-system]] — Booking car for rides online
+- ★ [[oneweb]] — One belief.One culture.Onelearn
+- ★ [[tiffin-center-billing-system]] — It will useful to Book a vehicle (Car) to travel long distance easily.
+- ★ [[blazin-wheels]] — Speed, I am Speed. Does lightning McQueen interest you? We welcome you to the car community, Where w
+- ★ [[helphub-56gyot]] — HelpHub is a platform where students can get feedback on their writing assignments from other studen
+- ★ [[time-line-management]] — improve your time management
+- ★ [[alarm-clock-yjzoxw]] — The Quiz game asks the player questions about animals. They have three chances to answer each questi
+- ★ [[student-registration]] — Helps makes the creation and management of student registrations easier using the concept of databas
+- ★ [[student-admission-management-system]] — Student Admission management system
+- ★ [[rock-paper-scissors-c304f5]] — The Quiz game asks the player questions about Planets. They have three chances to answer each questi
+- ★ [[technovest]] — Technovest website made to share service solutions focus on the front-end based software development
+- ★ [[tic-tac-toe-atsxvm]] — MAKES LIFE EASIER
+- ★ [[yourscalmly-com-a-mental-health-website]] — Not all wounds are visible. Start mental health conversations. We are here to spread awareness regar
+- ★ [[food-topia-2ghkua]] — THIS IS THE STATIC WEB PAGE WHERE WE CAN ORDER SELECT MULTIPLE THINGS AND CHECKLIST IT EASILY
+- ★ [[dietathon]] — IN THE RACE FOR HEALTHY LIFE
+- ★ [[alaram-clock]] — The Quiz game asks the player questions about Planets. They have three chances to answer each questi
+- ★ [[raksha-otp0kw]] — Women safety
+- ★ [[game2048]] — Don't Play 2048 if you have work to do.
+- ★ [[ping-pongthers]] — Perfect your serve!!
+- ★ [[my-profile-87ou9z]] — My project is about creating profile website using HTML. I have written all my skills. HTML means HT
+- ★ [[disability-assistant]] — Disabled people often end up relying on others for help but now they can rely on this website. This 
+- ★ [[online-train-ticket-booking-joifc7]] — This project provides the customer to book his train ticket online.
+- ★ [[labofdeepface]] — ITS AN SERIES GAME
+- ★ [[automatic-watering-palnts]] — It is arduino based project
+- ★ [[arts-sjiut8]] — Easy way to know about arts.
+- ★ [[attendance-management-system-low5vc]] — A library management system is an example of an information system.
+- ★ [[my-profile-76aljg]] — This is built-in PHP uses MySQL to store data. The script provides a powerful room booking and reser
+- ★ [[balloonbursters]] — its a game where you can burst water balloons using bow and arrow
+- ★ [[barcode-scanner-auhjeq]] — Data entry made easy.
+- ★ [[rock-paper-scissors-h3z12q]] — Game Theory in Everyday Life.......
+- ★ [[rock-paper-scissors-musrck]] — Game Theory in Everyday Life.....
+- ★ [[whiteboard-trymlo]] — A powerful tool for expressing ideas and boosting you creativity to next level. Draw, learn and coll
+- ★ [[books-management-system]] — Instead, opt for a phrase that describes what you can do, and why you are better than your peers.
+- ★ [[switch-helper]] — It will water plants automatically.
+- ★ [[online-train-ticket-booking]] — this provides the customer to book his train ticket in online
+- ★ [[chat-server-instant-messenger-networking-project-in-java]] — This project is a fun game that generates a random number in a certain specified range and the user 
+- ★ [[envo-tech]] — Envo tech is an environmental related web application designed using HTML , CSS and JavaScript that 
+- ★ [[phonebook-bufict]] — Can add or modify the contact list according to the user.
+- ★ [[diet-fit]] — Healthy Balanced Diet
+- ★ [[login-page-html-css-javascript]] — Our project can be used for login pages and signup pages. It is preferable when we are creating logi
+- ★ [[bookwala-bookstore]] — Basic Static web page for Book store , platform to sell and purchase books online .
+- ★ [[college-application-organizer]] — Celeste Music is designed for individual musicians to share their own music on an accessible platfor
+- ★ [[hospital-management-fj5e9k]] — Admin Doctor Patient
+- ★ [[school-mangement]] — First the teacher will apply for job,if he/she gets selected there accounts will be made and approve
+- ★ [[prepair]] — A community-based mentorship platform that connects college STEM students with volunteer mentors wit
+- ★ [[math-ibex]] — Most math websites out there right now have complex UI's and are hard to use for younger kids in sch
+- ★ [[dustables]] — Promote environmental awareness by giving your pet lung cancer.
+- ★ [[powerzone]] — Sweat, Smile and Repeat
+- ★ [[matheasy]] — We make math easier by actually teaching math and not just how to solve it.
+- ★ [[hims]] — ALGOsearch is a Search Engine designed specifically for Data Structure and Algorithm questions in pl
+- ★ [[health-tailor]] — We work to help patients who suffer from various allergies, diabetes and also patients with osteopor
+- ★ [[todos-list-ut4jgv]] — This website is useful to add your daily activities in TODOs List. By adding them in the list user c
+- ★ [[natural-finds]] — Google but for house plants
+- ★ [[fomalhaut]] — Waste to Energy production ;Reduces Landfill Waste ,Creates a Significant Amount of Energy.
+- ★ [[nowaste-lb8ao6]] — Incentivising Recycling.
+- ★ [[web-badminton]] — Web Badminton is a decentralized badminton centered dapp on IPFS and Polygon Blockchain.
+- ★ [[pinsav3]] — Pin Save is a decentralized image, video sharing and content aggregation platform where users can no
+- ★ [[asgroup-global-app]] — AsGroup Global App is application to accelerate SDGs Archivement in Tanzania by 2030.
+- ★ [[wemovie]] — Having hard time deciding which movie to watch? No problem -- wemovie lets a friend group to add mov
+- ★ [[zvoting-gqn8x6]] — This is a completely anonymous, zero=knowledge-based and private Voting framework, which can be used
+- ★ [[recycleai-v1dqz5]] — A computer vision-based, mechanical waste bin that autonomously separates trash and recycling.
+- ★ [[disabled-health]] — Providing tech accessibility and health information for the disabled.
+- ★ [[burger]] — A discord bot that can play music and you can play games with it!
+- ★ [[user-verification-anonymous]] — It filters the data of user and provide the details from database
+- ★ [[doremon-cartoon]] — Drawing Doremon using Python (Turtle package)
+- ★ [[green-buddies]] — Sustainability and being Eco friendly is gaining popularity among businesses now a days. My website 
+- ★ [[brevify-video-summarizer-s7pkoe]] — Don’t have time to watch the whole video? Brevify can create a text summary of your video, so you ca
+- ★ [[symptomsearch]] — Application where you input your symptoms if you are sick and it tells you what disease(s) you may h
+- ★ [[employee-wellness-monitor-app]] — With live webcam video of a person this application helps as an assessment tool to identify, elimina
+- ★ [[valojam-valorant-game-analyser-efnw85]] — Use Valojam, get better at Valorant!
+- ★ [[healthcare-management-system-iybpd0]] — Details of the Features: I. E-Doctor II. ICU III. Blood Bank IV. Medicine Facilities V. Vaccination 
+- ★ [[hospqueue]] — Join the queue virtually and avoid the crowd.
+- ★ [[mp3fy]] — A tool for legally downloading spotify content as mp3
+- ★ [[multi-attack]] — Multi-Attack This is a 3 in 1 password attacking tool with a hash generator plus pass list file. It 
+- ★ [[charlie-the-talking-bot]] — This bot is used to answer the queries related to college professor names and subjects taught by the
+- ★ [[edutracker-kfpj0v]] — Fast tracking your education to success
+- ★ [[encrypted-file-transfer-program]] — The program to use if you want to send secure files discretely
+- ★ [[ratable]] — Helping students choose educators, one rating at a time
+- ★ [[notation-gx6v9m]] — A notes marketplace that boosts student scores with high-quality notes from peers, with resources fo
+- ★ [[chumswiki]] — ChumsWiki is a beneficial website for all women facing menstruation cycle.
+- ★ [[d-ch-v-thi-t-k-seotct]] — Địa chỉ: 101 Tiểu La, Quận Hải Châu, Đà Nẵng Phone: 0935527913 Email: trantinltv@gmail.com Tags: #SE
+- ★ [[heal-lj9h67]] — Mint Sell Earn
+- ★ [[a-space-invaders-replica]] — This is a game replicating the renowned retro game Space Invaders
+- ★ [[facebook-page-hzcoyt]] — A duplicate facebook login page
+- ★ [[portfolio-website-ptl1wx]] — An online portfolio (may also be called a digital portfolio or e-portfolio) is an online representat
+- ★ [[funact]] — Nil
+- ★ [[uniqart]] — NFT Marketplace
+- ★ [[object-detection-in-dark-partially-visible-conditions]] — Detects the object in partially dark, even thermal condition images,videos and Real time detections 
+- ★ [[ace-recorder]] — Record the code
+- ★ [[medichat18]] — This whole Healthcare project is basically targeted for cutting off the issues faced by doctors,nurs
+- ★ [[co2-calculator]] — The Need For Deed
+- ★ [[cinemain]] — The Indian Premier League is a popular tournament in India. The project is a mini-simulation of the 
+- ★ [[development-sh-x9igmp]] — This is an web app that can be used by anyone, without any cost. It is an artificial intelligence as
+- ★ [[mushychat-a-sneak-chat-application-hidden-in-a-calculator]] — Couple Friendly Sneaky Chat Application to chat with your Boyfriend and Girlfriend without anyone to
+- ★ [[environmental-awareness]] — Solving the problem of the public being uninformed on the threats and solutions of specific environm
+- ★ [[emusify]] — Emusify is a real-time mood-based music recommendation system that runs in the background and plays 

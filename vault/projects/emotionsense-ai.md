@@ -1,0 +1,45 @@
+---
+slug: "emotionsense-ai"
+url: "https://devpost.com/software/emotionsense-ai"
+title: "EmotionSense.AI"
+hackathon: "HackSwift 2024"
+organization: "hackswift"
+winner: true
+words: 1312
+team_size: 3
+has_repo: true
+has_live: false
+has_video: true
+tags:
+  - "project"
+  - "domain/mental_health"
+  - "substrate/structured_db"
+  - "substrate/web_dom"
+---
+
+# EmotionSense.AI
+
+> Your personal emotional intelligence assistant. Elevate your communication skills and enhance your relationships with EmotionSense.AI - because emotions speak louder than words.
+
+[Devpost](https://devpost.com/software/emotionsense-ai) · hackathon [[HackSwift 2024]]
+
+## Facets
+
+**domain** [[mental_health]]
+**substrate** [[structured_db]] [[web_dom]]
+
+**stack** chart.js, css, flask, javascript, kaggle, nltk, python, react
+
+## How they structured the write-up
+
+- ❣️inspiration:
+- 💻 what it does:
+- ⚙️ how we built it:
+- 🤔challenges we ran into:
+- 🔥accomplishments that we're proud of:
+- 🧠what we learned:
+- 🔭what's next:
+
+## Body
+
+Welcome to EmotionSense.AI Positivity Score of texts sent by a user in a group chat View a variety of graphs generated with custom AI models of different emotions from your texts Graph of Sadness score in texts Graph of Anger score in texts ❣️Inspiration: In the digital world, it’s easy to become unconscious of what we say; oftentimes, our texts do not match our intended tone. This is an increasing problem as we move to a digital age where more and more people are communicating via text. This leads to text message ambiguity and an epidemic of misinterpretation. Without facial cues, vocal tone, and body language, there is a disconnect in communication. Oftentimes, emotions are uncertain to identify or improperly conveyed through a digital platform. Therefore, our team aimed to bridge this digital gap by designing an AI-based software to accurately analyse and recognise emotions through text messages, indicating how positive or negative they may be. This software would allow users to learn about their use of tone over text and improve their digital communication abilities. In this way, users can learn to make their digital communication more transparent and better understood. 💻 What it does: EmotionSense.AI is an advanced web application that can analyse the message history from various social media platforms including Instagram, Facebook, and Messenger. After downloading your message history as a JSON file and uploading such files to our website, we generate graphs using our own custom-trained AI models that analyse the tone and emotions of your messages. In addition, It also shows you your most positive and negative messages that you have sent in that chat, allowing you to gain a greater understanding of how your text messages may be perceived. For example, if you have a group chat on Instagram, you are able to select a user and view a line chart of their text positivity or a series of various other emotions ranging from fear to anger. Why is this useful you may ask? Our application allows our users to become more self-conscious about their digital activities to become more successful on their journey of self-improvement. Our application improves the mental health of both our users and their peers. Through data visualisation, our users can see their texting trends: observing if their texts are becoming more positive or negative as the days go by. However, it’s not just the daily applications, but the large-scale business applications as well. With a few simple modifications, like allowing a wider variety of message files, companies who engage in online text based customer service can use such an application to train their staff: informing employees of not only how their words may have been interpreted, but also indicating key negative and positive phrases that they should avoid or continue to use. For moderators of popular forums or even streamers, variations of this application can also be great in developing automated time out features, detecting unwanted chatters who are negatively impacting the chat environment. ⚙️ How we built it: The crux of our application relies on 2 AI models, responsible for separate classifications. One model classifies the positivity of a piece of text, either positive or negative, and the other model classifies the emotions of the text into one of 6 categories: sadness, joy, love, anger, fear, and surprise. This was done through collecting both twitter data and real world text conversations. Texts in these datasets were cleaned: removing common stopwords, converting common texting acronyms into their non abbreviated forms, and finally vectorized. After cleaning the data, the two models were trained using Bayesian networks on over 100000 pieces of data. Afterwards, we used React.js for the front end application to create a visually pleasing project with a strong emphasis on a comfortable user experience. We then used Flask to connect our React App to our machine learning models so that our React App can take in the JSON file, parse it, and make a POST request to our Flask server. The Flask server would then calculate the data needed based on our AI models and return another JSON file back where our React App could display the information in the form of line charts and text for our users to see. Throughout this entire process Github was also used to manage the code between the 3 of us, giving us access to a version control system in case we ran into any errors. 🤔Challenges we ran into: A major roadblock we ran into was during the training of our machine learning models. Given a large scale dataset of 1.6 million tweets, we ran into memory limitations. To solve such hardware limitations, the dataset was split into smaller batches for training purposes. In addition, when vectorizing our data, a maximum number of features of 7500 was also set to ensure sizable batches could still fit in memory. When training the model we also encountered problems with popular acronyms. As they were only sometimes used in our training dataset, a solution needed to be devised to standardise the data we had on hand. To do so, a large acronym dictionary was found online and implemented into our code, converting acronyms into their full word form prior to training. Similar problems also arose with emojis, where a different vectorization pattern was needed to be devised to resolve such issues. Upon training we discovered the model’s tendency to accurately predict negative texts, while struggling a bit more with positive texts. This is likely attributed to the fact that certain negative words appear more frequently in negative texts giving clear indicators for its classification. It is hypothesised that with more time to train and a greater feature size allowing the model to take a greater number of positive words into account, our model can further be improved. Despite these challenges, our model was still able to achieve an impressive near 90% accuracy. In addition, formatting the graphs also proved challenging due to a complicated process when working with both Python for the backend models and React.js for the front end display. Many of the common data science libraries such as Seaborn were native to Python and could not be used during the construction of our front-end interface. In the end we settled on Chart.js, having our backend models feed the data to our frontend, allowing us to draw out and format graphs in the way we wanted. 🔥Accomplishments that we're proud of: We are proud to have made a model with a near 90% accuracy score after consistent fine tuning. This project was also the first time we were able to connect a complex backend application to our frontend React App using Flask. 🧠What we learned: Through this project we learned how to properly connect a complex backend to a React frontend using Flask. We also learned various natural language processing techniques including removing stopwords, and generating word bags through text vectorization. Through this project we gained a deeper understanding of NLP classification algorithms, specifically Multinomial NB, the algorithm used during our model’s training process. We learned that the algorithm ignores the order of words but rather focuses on their frequency. In addition we discovered the algorithms inner workings: assuming independence between features before calculating the posterior probability P(B|A) along with the prior probability P(A) based on the training data. Once finished training, the model uses Bayes Theorem to calculate and classify the data accordingly. 🔭What's next: We want to be able to expand our website. Further train our model, allowing a greater number of max features for further model accuracy Allow our website to accept a wider range message files Make accepting message files easier on user and remove the need to manually download selected message files Provide a wider range of data visualisation for users CSS fixes: ensure that after user selected from dropdown, page automatically scrolls down to results page <div

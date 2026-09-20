@@ -1,0 +1,56 @@
+---
+slug: "elara-x47age"
+url: "https://devpost.com/software/elara-x47age"
+title: "Elara"
+hackathon: "AI in Action"
+organization: "Google"
+winner: true
+words: 1380
+team_size: 2
+has_repo: true
+has_live: true
+has_video: true
+tags:
+  - "project"
+  - "mechanism/realtime_stream"
+  - "domain/civic_government"
+  - "domain/developer_tools"
+  - "domain/health_clinical"
+  - "domain/mental_health"
+  - "domain/retail_commerce"
+  - "user/general_public"
+  - "substrate/document_pdf"
+  - "substrate/geospatial"
+  - "substrate/structured_db"
+  - "substrate/video_visual"
+  - "substrate/web_dom"
+---
+
+# Elara
+
+> Your guide to Natural Remedies - Learn What Works, Naturally
+
+[Devpost](https://devpost.com/software/elara-x47age) · hackathon [[AI in Action]]
+
+## Facets
+
+**mechanism** [[realtime_stream]]
+**domain** [[civic_government]] [[developer_tools]] [[health_clinical]] [[mental_health]] [[retail_commerce]]
+**user** [[general_public]]
+**substrate** [[document_pdf]] [[geospatial]] [[structured_db]] [[video_visual]] [[web_dom]]
+
+**stack** fast-api, google-cloud, mongodb, nextjs, pfaf, python, react, shadcn, tailwindcss
+
+## How they structured the write-up
+
+- 💡 inspiration
+- 🌿 what it does
+- 🛠️ how we built it
+- 🚧 challenges we ran into
+- 🏆 accomplishments that we're proud of
+- 📚 what we learned
+- 🚀 what's next for elara
+
+## Body
+
+Screenshots of our application Frontend diagram flow Backend diagram flowy Elara AI :)))))))))))))))))))))))))) 💡 Inspiration We got inspired by trying to find natural, healthier and more unique alternative solutions to day-to-day health complications. We are not fans of taking a lot of medications due to their side effects, and would also seek learning what mother nature has to offer us. This led us to explore how AI could bridge the gap between traditional herbal knowledge and modern accessibility. v1 video: https://youtu.be/PdrG6mv6QmM 🌿 What it does Elara is a generative UI chat application that interacts directly with the PFAF (Plants For A Future) plant database: https://pfaf.org/user/ , to enable unique and knowledgeable recommendations for health conditions. Users can discover plants and learn about natural alternatives through an AI-built recipe system that comes with detailed plant information cards, allowing people to explore medicinal plants in an interactive and educational way. It allows users to explore the dataset by prioritizing recommendations based on medicinal or edibility rating. We also have a live-retrieval tool that enables users to ask for further medical information for a specific plant and receive advising on its usage. 🛠️ How we built it We built Elara using a modern, scalable tech stack with a sophisticated AI orchestration architecture: Technical Architecture & Data Flow Our system follows a multi-tier architecture where the Vercel AI SDK acts as the primary orchestrator , coordinating between user interactions and specialized Gemini models deployed as tools on Google Cloud's Vertex AI platform. Frontend AI Orchestration (Edward): Next.js with TypeScript and App Router - Modern React framework for the web application Vercel AI SDK as the Central Orchestrator - Manages the entire conversation flow and coordinates tool calls Tailwind CSS + Radix UI - Consistent styling and accessible component library Google Cloud Run - Scalable containerized deployment Backend AI Tools & Services (Daria): FastAPI with Python 3.11 - High-performance API framework serving as the backend Vertex AI with Multiple Gemini Models as Specialized Tools: Gemini Lite (2.0-flash-lite-001) - Symptom extraction from natural language Gemini Flash (2.5-flash-preview) - Medical condition classification and recipe generation WeasyPrint + Jinja2 - PDF generation system for recipe downloads Detailed Data Flow Pipeline User Input Processing : User describes symptoms in natural language through the chat interface Vercel AI SDK captures and validates the input Symptom Extraction ( /utils/symptoms.py ): Gemini Lite processes natural language to extract distinct symptoms Returns structured JSON: {"symptoms": {"headache": "stress", "nausea": ""}} Medical Classification ( /utils/classification.py ): Gemini Flash maps extracted symptoms to specific medical use categories Uses comprehensive botanical medical use dictionary (100+ classifications) Output: {"stomach ache": "Carminative", "anxiety": "Nervine"} Plant Recommendation ( /utils/recommender.py ): MongoDB aggregation pipeline queries plants by medical use classification Filters out plants with known hazards for safety Ranks by medicinal rating (1-5 scale) and returns highest-rated matches Recipe Generation ( /utils/recipe.py ): Gemini Flash creates practical recipes using plant's edible properties Structured output with ingredients, instructions, and preparation methods Response Orchestration : Vercel AI SDK streams results back to the frontend in real-time Dynamic UI components render plant cards and recipes as data arrives Database Infrastructure (MongoDB Atlas) Plant Data Storage: Primary Collection : 7,000+ medicinal plants from PFAF database Indexed Fields : uses (medical applications) - ASCENDING index for fast classification lookup medicinal_rating , edibility_rating - DESCENDING compound index for ranking hazards - Sparse index for safety filtering Document Structure : Scientific names, common names, ratings, uses, cultivation info, images User Management: Users Collection : Stores user credentials with bcrypt-hashed passwords Authentication : JWT tokens with configurable expiration Session Management : Secure token-based authentication flow Recipe Persistence: Saved Recipes Collection : User-generated recipe storage with TTL indexing Soft Delete System : 10-day retention for "deleted" recipes with automatic cleanup Recovery Feature : Users can restore recently deleted recipes Google Cloud Platform Integration Vertex AI Services: Multi-Model Strategy : Different Gemini variants optimized for specific tasks Structured JSON Output : Configured response schemas ensure consistent data format Safety Settings : Disabled content filtering for medical content processing Project Integration : Centralized authentication through service accounts Cloud Run Infrastructure: Frontend Service : Auto-scaling Next.js application (0→N instances) Backend Service : FastAPI container with health checks and graceful shutdown Container Registry : Artifact Registry for Docker image management Networking : Internal service-to-service communication with external API access Security & Secrets Management: Secret Manager : Centralized storage for MongoDB URIs, JWT keys, and API credentials Service Accounts : IAM-based authentication for Vertex AI access Environment Variable Injection : Runtime secret mounting for containerized services Development Workflow We split responsibilities effectively: Daria : Backend architecture, AI model orchestration, database design, and cloud infrastructure Edward : Frontend experience, chat interface, AI SDK integration, and component design This architecture allows for real-time symptom processing, accurate plant recommendations, and seamless recipe generation while maintaining scalability and security through Google Cloud's managed services. 🚧 Challenges we ran into Model Selection & Performance Initially, we planned to use the MedGemma model, but hosting it on Google Cloud was expensive and response times were too slow for a good user experience. We pivoted to focus on the medicinal plant approach using Vertex AI's Gemini models. Data Acquisition The PFAF database didn't offer a direct export option - it was only available as a live website. We had to implement our own web scraper to extract plant data as CSV files for MongoDB ingestion. The initial scraping estimate was 22 hours, which was too long for our hackathon timeline. Automated Data Pipeline We solved the scraping time issue by splitting tasks across multiple GitHub Actions, reducing the process to just 2 hours. This approach also gave us automated data ingestion capabilities for future updates. AI Integration Complexity We started with the basic Gemini API but discovered that Vertex AI offered better configuration options, including structured JSON output capabilities that improved our plant recommendation accuracy. Cloud Deployment & Secrets Management Figuring out Google Cloud Run deployment with proper secrets management took significant time. We eventually created custom YAML configurations and implemented manual deployment workflows that properly handled environment variables and service account authentication. 🏆 Accomplishments that we're proud of Automated Data Pipeline : Successfully built a scalable web scraping and ingestion system Clean, Minimal UI : Created an intuitive chat interface with dynamic plant information cards Google Cloud Mastery : Successfully deployed both frontend and backend on Cloud Run Accurate Plant Recommendations : Implemented AI-driven condition classification and plant matching Value-Added Recipe Generation : Enhanced plant recommendations with practical, AI-generated recipes Comprehensive Authentication : Built secure JWT-based user system with recipe saving capabilities 📚 What we learned Technical Growth Google Cloud Ecosystem : Discovered powerful services like Vertex AI, Cloud Run, and Secret Manager that we want to explore further, including ML Agents and Workflows Team Collaboration : Working as a team and effectively splitting responsibilities significantly accelerated our development process AI SDK Mastery : Became proficient with Vercel AI SDK and structured AI prompt engineering FastAPI Infrastructure : Gained deep experience with FastAPI, authentication patterns, and API design Project Management Scope Pivoting : Learned how to quickly adapt when initial technical approaches proved unfeasible Automation Benefits : Discovered the power of automating data pipelines for long-term maintenance Community contribution Since PFAF.ORG does not provide a downloadable dataset for immediate usage, we built our own scrappers and used github action workflows to tackle parallel scrapping without being rate limited. We later shared this compiled dataset in kaggle, as an open source contribution, for which to this moment has achieved over 144 downloads, and community code contributions: https://www.kaggle.com/datasets/edwardgaibor/pfaf-medical-plants-use-dataset 🚀 What's next for Elara Monetization Strategy Elara plans to open for public use, but hosting costs require implementing a sustainable paywall system to manage AI and infrastructure expenses. Shopping Integration We want to add Google Shopping API integration to help users find where to buy recommended plants or recipe ingredients, making the platform more consumer-friendly and actionable. Medical AI Enhancement Plans to integrate a MedGemma instance to add a medical validation layer to our plant recommendations, providing additional safety and accuracy to our suggestions. Enhanced Data Sources Expand beyond PFAF to include additional botanical databases and traditional medicine knowledge sources for more comprehensive recommendations. Mobile Application Develop native mobile apps to make plant identification and recipe access available on-the-go for better user engagement. <div

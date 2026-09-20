@@ -1,0 +1,70 @@
+---
+slug: "ailearning"
+url: "https://devpost.com/software/ailearning"
+title: "aiLearning"
+hackathon: "The European Commission's EUvsVirus Hackathon"
+organization: "European Commission"
+winner: true
+words: 6167
+team_size: 7
+has_repo: false
+has_live: false
+has_video: true
+tags:
+  - "project"
+  - "mechanism/benchmark_measured"
+  - "mechanism/realtime_stream"
+  - "mechanism/simulation_digital_twin"
+  - "mechanism/voice_speech"
+  - "domain/civic_government"
+  - "domain/developer_tools"
+  - "domain/education"
+  - "domain/finance_payments"
+  - "domain/labor_employment"
+  - "domain/legal_justice"
+  - "domain/media_journalism"
+  - "domain/security_privacy"
+  - "domain/transportation"
+  - "user/developer"
+  - "user/educator_student"
+  - "user/researcher"
+  - "substrate/code_repository"
+  - "substrate/financial_record"
+  - "substrate/transcript_audio"
+  - "substrate/video_visual"
+  - "substrate/web_dom"
+---
+
+# aiLearning
+
+> aiLearning is an AI-based solution for simplifying educational activities, focusing on exams corrections and learning companion.
+
+[Devpost](https://devpost.com/software/ailearning) · hackathon [[The European Commission-s EUvsVirus Hackathon]]
+
+## Facets
+
+**mechanism** [[benchmark_measured]] [[realtime_stream]] [[simulation_digital_twin]] [[voice_speech]]
+**domain** [[civic_government]] [[developer_tools]] [[education]] [[finance_payments]] [[labor_employment]] [[legal_justice]] [[media_journalism]] [[security_privacy]] [[transportation]]
+**user** [[developer]] [[educator_student]] [[researcher]]
+**substrate** [[code_repository]] [[financial_record]] [[transcript_audio]] [[video_visual]] [[web_dom]]
+
+**stack** ai, api, bigdata, datascience, machine-learning, natural-language-processing, nlu, python
+
+## How they structured the write-up
+
+- the problem we are facing
+- our solution
+- ailearning : ai for remote examination
+- where we are
+- competitor analysis
+- market analysis
+- business model
+- business plan
+- company evaluation
+- pitch deck
+- the necessities in order to continue the project
+- vision
+
+## Body
+
+The problem we are facing The outbreak of COVID-19 in Europe and necessary national measures taken to tackle the spread of the virus may cause significant disruption to the provision of education , training and mobility opportunities for learners, teachers and educators across the European Union (EU). Most governments around the world have temporarily closed educational institutions in an attempt to contain the spread of the COVID-19 pandemic. These nationwide closures are impacting over 72% of the world’s student population . Several other countries have implemented localized closures impacting millions of additional learners. (source:Unesco) Covid-19 pandemic spread is affecting schools and universities all around Europe. All Italian schools and universities have been locked down since the 5th of March with the aim to limit the spread of the virus. Subsequently, almost all European educational systems decided to follow Italy and closed their schools by 16th March 2020. The last country to announce such measures was the United Kingdom, where all the schools closed by March 20th-23th. Since then, lessons, exams and degrees dissertations have been postponed or held remotely. Lessons were moved from classrooms to e-learning platforms, while remote exams still remain a big question point due to the uncertain effectiveness of solutions given, in terms of process and technology performance. Most relevant effects on the process are: Extra time spent on additional required tasks. Troubles on planning and attending of the assessment activities. Lack of options in term of examination modalities . Lack of quick interactions between the professor and the student to resolve doubts during exam execution. Slow capability in reacting to unforeseen events and changes of schedule. Effectiveness on technology performance are: Internet connection instability during the exam session. Unfamiliarity with the platform. Difficulty in finding a unique platform that meets all needs. Migration to external platforms with consequent loss of some academic informations (students' personal data, courses). Use of un-tested services. Digitization on handwritten work. Moreover, the remote examination platforms do not respond effectively to a problem that has a strong weight in the success of an exam: the control over students’ cheating behaviours by the student during exam’s execution. Remote examinations are related to an increasing of students’ cheating behaviour cases due to ineffectiveness of control system. From this comes the strong need to deter, detect and prevent cheating behaviors. But today, it is not possible to simultaneously control environment, interactions and use of forbidden tools without a complex mix of several proctoring technologies: Anti-spoofing Face recognition and Voice recognition Plagiarism and authorship validation Our Solution aiLearning is an AI-based solution developed with the aim to simplify remote examination The project is meant to ease both students’ and teachers’ lives. aiLearning is a software system created to overcome the difficulties brought up by remote learning process. It responds to the necessities of new tools to help students and teachers keeping contact during Covid-19 and conduct examinations effectively in a safe environment. The focus is based on the exams and, more specifically, on enabling universities to test their students remotely providing an all-in-one platform where students can be tested on a subject both in a written or oral session. aiLearning supports oral exams, multiple-choices exams, written exams with open answers and written exams carried out offline on paper. The answer will be captured by the system and immediately sent to the teacher’s profile, so that the professor can check the evaluation, modify it or confirm it. The teacher creates the exam’s event on the platform, followed by all the information such as the list of the enrolled student, the exam questions and the correct answers. The student answers by sending a vocal message, writing the answer or checking out the right one if it is a multiple choices-exam. Chances to cheat on the test are knocked out by adopting several features in order to drastically limit the chance of putting in place cheating behaviors. An AI algorithm also supports the teacher during the test’s validation , rating the answer based on its relevance, the language used and the student’s ability to synthesis. The solution impact to the crisis Since social distancing can’t ruin the magic of a conversation, aiLearning provides the possibility to take an exam by speaking with a bot. Each teacher can share simultaneously all questions with all students using a single interface and without needing any witness. All students can interact with the bot providing to it the best answer for each exam question. Checks on student voices can certify who is the real speaker, unmasking cheating students. Since remote education requires more time with respect to the located learning, aiLearning is aimed to free teachers time supporting them with the activities related to exams correction. This time can be better involved to support students with their learning path . The value of the solution after the crisis The time consuming aspect of oral exams is not a problem related only to Covid emergency. In many universities or schools, there is often a short time-boxed window for exams and so many students to examine. aiLearning can be used as solution of this issue also after the crisis providing a valid alternative for simultaneous and time-saving exams thanks to the innovation of the solutions. Once the emergency will be overcome, with a hypothetical reopening (partial or total) of the schools, aiLearning can play a role in carrying out the examinations on site or remotely. Thanks to the following benefits : Process innovation ; Allowing simultaneous sessions ; flexibility on location and timing of the session; time saving . Moreover, aiLearning can continue to be a good learning companion also after our home doors will be opened. aiLearning : AI for remote examination aiLearning platform has all functionalities that are needed to create, schedule, execute and evaluate an exam. These functionalities answer to all needs coming from both figures involved within an exam: teacher and student . aiLearning provides user friendly interfaces , one for the teacher and one for the student, designed and tailored to their needs, that the team collected during this period with a set of surveys addressed to several Italian and European universities. The cheating behaviour is limited by a vocal and face recognition system that checks the student identity at the beginning of the test and periodically, during the whole duration, by a built-in solution that avoids some functionalities like changing browser tabs/windows during the exam and copying/pasting contents. Moreover, providing questions one by one, limiting the time to answer each of them, the oral exam modality aim at guarantee the correct exam execution. The teacher is also allowed to access a live streaming monitor in real time , in order to detect any suspicious behavior. Finally, a more complex proctoring solution, based on the use of a double cam monitoring system , with face tracking and object recognition, will be rolled out as a second step of the platform evolution. Teacher Journey aiLearning provides to the teacher the possibility to significantly reduce the preparation and correction time. It allows the teacher to dedicate more time to teaching and research . The truthfulness is preserved thanks to Machine Learning algorithms, providing speaker and face recognition capabilities . How does aiLearning help the teacher? Providing a dedicated interface with four main functionalities: Exam creation Exam launch , with identification checks Exam execution Exam evaluation . CREATE aiLerning solution provides a teacher interface with a page to create the exam. The teacher can upload : Exam information: name, code, exam type, date and time List of enrolled students Exam questions Correct answers: this functionality is optional. The teacher can choose it if he wants to activate the AI-based support for exam evaluation The teacher interface provides easy functionalities for uploading files with all information needed to create the exam. After the uploading step, aiLearning automatically sends an email to the student with all exam information and with the link for the exam access. LAUNCH Before starting the exam, aiLearning solution foresees two types of identity checks, based on advanced AI algorithms : Speaker recognition : at the beginning of the exam the student has to say some basic sentences in order to verify his identity. Thanks to a Deep Learning -based approach, aiLearning solution provides a level of similarity between the voice of the student and the one provided at the registration to aiLearning platform. This activity is performed simultaneously for all students, reducing drastically the identity checks time. Through aiLearning platform, the teacher can visualize in real time the similarity raised from the algorithm and can, eventually, proceed with manual checks. Face recognition : using the camera, a Machine Learning algorithm, based on Neural Network , compares the student face with the picture provided at the registration step. The check is done simultaneously for all students: results are shared in real time with the teacher, who can proceed with further checks. Once all checks are easily performed, the teacher can start the exam. EXECUTE During the exam execution the webcam is always switched on, for student monitoring. Video checks are not enough: aiLearning solution blocks some functionalities, such as changing browser window/tab and copy-paste content option. These functionalities ensure that students cannot adopt cheating activities. If something goes wrong, aiLearning notify the teacher, who can interact with the students, he can manually verify the situation and eventually close the exam. The teacher has the possibility to visualize in real time two types of dashboard: Exam focus : with all information related to the status and progress of the overall exam Student focus : with the answer of each student to the provided exam questions. During the exam execution, all answers submitted from the students (that cannot be changed) are available to the teacher in real time . This functionality is available for three types of exams: oral, written with open answers, written with multiple choices answer option. EVALUATE At the deadline of the time window, the teacher can proceed with the exam closing. All final answers will be directly and immediately available within the dedicated dashboard. If the AI functionality has been activated, aiLearning provides a fist evaluation of the single student answer by applying Machine Learning algorithms. The evaluation is available for three types of exam: oral, written with open answers, written with multiple choices answer option. If the exam has multiple answers option, at the uploading phase, the teacher must indicate the right one/ones. Starting from this information, for each submitted answer, aiLearning will check if the student answered correctly. At the end, according to the number of right answer and based on the weight that the teacher could provide to each question, aiLearning provides a suggested mark. For written exams with open answer options, aiLearning leverages advanced solution of Natural Language Processing and Understanding in order to analyze the text input, to remove noise and to get keywords and key-concepts expressed by the student. Each student's answer is compared, through Machine Learning algorithm, with the expected answer provided by the teacher: the more similar they are, the higher the mark suggested by the algorithm will be. For oral exam, the evaluation works as for written exams, with an additional step

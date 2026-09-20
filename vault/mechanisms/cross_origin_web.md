@@ -1,0 +1,181 @@
+---
+facet: "mechanism"
+name: "cross_origin_web"
+projects: 420
+winners: 420
+tags:
+  - "facet"
+  - "mechanism"
+---
+
+# cross_origin_web
+
+`mechanism` · **420** projects, **420** of them winners.
+
+## Pairs with
+
+- [[web_dom]] — 266 together  <sub>(substrate)</sub>
+- [[realtime_stream]] — 212 together  <sub>(mechanism)</sub>
+- [[developer_tools]] — 186 together  <sub>(domain)</sub>
+- [[structured_db]] — 148 together  <sub>(substrate)</sub>
+- [[video_visual]] — 146 together  <sub>(substrate)</sub>
+- [[geospatial]] — 125 together  <sub>(substrate)</sub>
+- [[developer]] — 115 together  <sub>(user)</sub>
+- [[educator_student]] — 103 together  <sub>(user)</sub>
+- [[document_pdf]] — 96 together  <sub>(substrate)</sub>
+- [[education]] — 94 together  <sub>(domain)</sub>
+- [[finance_payments]] — 91 together  <sub>(domain)</sub>
+- [[code_repository]] — 85 together  <sub>(substrate)</sub>
+
+## Projects
+
+- ★ [[scholarstream]] — Need money for your school fee and upkeeps? ScholarStream finds immediate opportunities (scholarship
+- ★ [[frankenbook]] — Generate a children's book with a few simple ad-lib style prompts stitched together to form your own
+- ★ [[bookster-05sbyz]] — AI powered student marketplace & community hub for ISU students
+- ★ [[theta-bash]] — Buyers, and sellers hub that uses Theta in the most efficient way
+- ★ [[taief-the-all-in-one-academic-assistant]] — From academic research to Olympiad problems, TaiefMind is your AI co-pilot. Upload papers, extract d
+- ★ [[biasight-words-matter]] — BiaSight analyzes websites for gender bias, promoting equality in digital content. It scores stereot
+- ★ [[gpt-insights]] — 💡 Gain insights from descriptions and comments through Chat GPT! 🪄 Choose existing prompts or create
+- ★ [[bye-buy]] — Selling stuff online sucks... 50+ messages, lowball offers, sketchy buyers. Bye-Buy handles this mes
+- ★ [[legalmindz]] — Ethiopia has 2.5 million businesses but only 3,000 lawyers. Legalmindz brings Legal AI for 120 Milli
+- ★ [[topsports-exchange]] — Topsports is a cutting-edge p2p betting exchange that introduces innovation to the online sports bet
+- ★ [[drishti-ai-navigator]] — Empowering digital independence through AI. Voice-powered web navigation using AWS Bedrock AgentCore
+- ★ [[ghostpipes-yahoo-pipes-reborn-with-ai-intelligence]] — Visual pipeline automation tool with AI-powered recommendations. Drag-drop nodes, realistic pipe con
+- ★ [[robotixfunnel]] — AI-powered e-commerce platform with robotic warehouse fulfillment, digital twin visualization, and i
+- ★ [[novaflow-the-autonomous-bi-pipeline]] — NovaFlow is an autonomous, self-healing BI pipeline. It cleans data, corrects its own SQL, builds in
+- ★ [[pickli]] — Disrupting streaming platform silos on content discoverability and traditional history-based recomme
+- ★ [[lore-ide-the-first-ide-for-agentic-code]] — GitHub stores your code. Lore stores your reasons. The memory layer for Devin, Windsurf, and Claude 
+- ★ [[sai-m2wl0p]] — A voice-native OS agent that sees your screen. Powered by Amazon Nova Lite for routing and Nova Pro 
+- ★ [[phantom-auth0]] — A restricted local browser agent that uses Auth0 Token Vault to securely act across Google and Linea
+- ★ [[multival]] — The first agent-eval platform built for multi-agent orchestration. Graph + Gantt trace viewer, A/B c
+- ★ [[argus-it-never-forgets-59fuin]] — Data is gold, but stays passive in chats. Argus is a proactive Gemini 3 agent that connects past Wha
+- ★ [[time-ranger]] — An extension made for Devpost that can quickly & effectively change time within 50 timezones, bookma
+- ★ [[project-hpfwsu51xila]] — Autonomous SRE that watches your Dynatrace tenant 24/7, diagnoses production incidents from real spa
+- ★ [[anyform-ai-form-builder-30au41]] — AnyForm is an AI powered, tool-first platform that lets you build complex, validated forms in under 
+- ★ [[revenent]] — omniate.ca
+- ★ [[fin-wise-o9p4av]] — Gamified financial literacy for teens — learn budgeting, saving, and investing through interactive l
+- ★ [[soulful-sessions]] — Gamified Pomodoro timer that turns your focus sessions into an RPG adventure. Complete work sessions
+- ★ [[xtrau]] — The revolutionary platform for ordering custom gaming computers. It offers an impressive set of feat
+- ★ [[unsinkable-ship]] — Two lines of code make LLM apps unsinkable. Unsinkable routes any OpenAI-SDK app through TrueFoundry
+- ★ [[warden-ny9uwa]] — Warden is the runtime firewall that stops AI agents from being hijacked by blocking prompt injection
+- ★ [[spatialize]] — The floor plan that talks back.
+- ★ [[ask-the-world-anything]] — Explore global perspectives on any question using AI-powered analysis and Voice Commands
+- ★ [[argus-it-never-forgets-rd6k70]] — Data is gold, but stays passive in chats. Argus is a proactive Gemini 3 agent that connects past Wha
+- ★ [[gathbook]] — Where Your Digital Books Are Truly Yours
+- ★ [[unitset]] — UnitSet is the Frankenstein of UI creation, a stitched-together fusion of canvas, AI, code, and live
+- ★ [[browseback]] — BrowseBack gives your browser a photographic memory powered by Chrome’s built-in AI. Search by conte
+- ★ [[strangler-studio-with-dead-php-migrationtool]] — Stuck with legacy PHP code that's holding your team back? Meet **Frankenstein Laboratory** - an AI-p
+- ★ [[shopguard]] — AI-powered behavioral wellness that helps you think twice before you buy.
+- ★ [[flash-order-readerless-checkout]] — A Cash app API and Checkouts API integration to enable Flash Order kiosks, web apps, and iOS apps wi
+- ★ [[interactives]] — Interactives bring Canva presentations to life by adding audience input. AI can be used to generate 
+- ★ [[the-everyday-avatar-nft]] — An NFT version of the classic paper doll toy, for use as a profile pic. Using our dApp, Avatar attri
+- ★ [[aa-04pgyj]] — Phone calls are frustrating, that's why we moved to chats. We have busy lives and we love doing ever
+- ★ [[gurftron]] — Security that rewards you. Threats verified by the community. Rewards funded forever by Vesu
+- ★ [[clearclause-zer4yh]] — AI-powered legal document analyser: upload any contract, get instant clause-by-clause risk analysis,
+- ★ [[the-carbon-bank-e8wb0h]] — The Carbon Bank marketplace supports a transparent commercialization of traceable carbon credits on 
+- ★ [[easel-studio]] — We empower artists to create and share interactive art with the world.
+- ★ [[marionette-the-on-device-multimodal-ai-agent]] — Marionette is a Chrome extension that automates the web entirely offline using Gemini Nano and Chrom
+- ★ [[kraken-r9tcp2]] — #cicdcatalog #ai Improve Attention on your webpage through an AI generated attention and relevance h
+- ★ [[caps-chromium-ai-plugin-skeletton]] — Let AI code for you. Plugins are hard to test, even harder for AI Tools. This project enables Kiro t
+- ★ [[a-p1lt2h]] — Claim-level truth forensics–trace any idea back to its origin and know what's actually true. Powered
+- ★ [[sunday-94odas]] — Sunday is the friend in the group chat who actually makes things happen — plans the dinner, orders t
+- ★ [[projects-insight-edge]] — Gain a competitive edge with comprehensive insights into your entire project landscape in Jira, empo
+- ★ [[maxapply]] — AI-powered LinkedIn job automation using Amazon Nova 2 Lite
+- ★ [[nutshell-auftp2]] — Empowers users with motor disabilities to browse the web completely hands-free using just their head
+- ★ [[sentinel-uxz0ni]] — AI that catches problems before they become problems.
+- ★ [[memoray]] — Memory just moved from your brain to your frames. Your memories are getting a firmware update. Memor
+- ★ [[vigilante-xkf7s9]] — Combat misinformation through flagged Tweets and grounded sources, and reference a realtime dashboar
+- ★ [[chuck-it]] — Save anything, find everything—100% offline, 100% private, 0% effort.
+- ★ [[orama-your-ai-powered-clinical-companion]] — An AI-powered clinical assistant that transforms complex patient data into actionable insights, help
+- ★ [[craf-te]] — Design smarter, not harder . AI builds your canvas, you perfect every pixel.
+- ★ [[helix-ai-zw1vfs]] — Free AI Sidebar Chatbot in any site to prompt, talk to your site, attach images comes with built-in 
+- ★ [[match-vision]] — Empowering blind and low-vision fans to follow the action, context, and emotion of live sports indep
+- ★ [[the-carbon-games-irl-in-real-life-bounty-hunt]] — The world's first blockchain-enabled In-Real-Life (IRL) Bounty Hunt! An IRL bounty hunt is a live, i
+- ★ [[altiverse]] — AltiVerse: AI-powered simulations that let students fork decisions into living alternate realities w
+- ★ [[cas-solving-traffic-one-office-ride-at-a-time]] — Solves Traffic by motivating our employees to bike for work. We believe we can motivate our cyclist 
+- ★ [[pro-rewind]] — RiftRewind makes your League year unforgettable—AI turns your match history into a playful, data-dri
+- ★ [[jiggle-wiggle]] — any move, any coach, anytime.
+- ★ [[studyo-mju34e]] — Your tabs, turned into a study session.
+- ★ [[straighty]] — Your AI Sloth Companion for Perfect Posture!
+- ★ [[luma-ai-powered-personalized-health-context]] — WebMedica is an AI-powered Chrome extension that turns dense medical studies into personalized, user
+- ★ [[lorem-ipsum-n17oqr]] — Monday Rewards is an employee achievement system that cultivates and supports a culture of recogniti
+- ★ [[tokertize]] — Fund your projects by selling ad revenue as a tradable NFT
+- ★ [[agreefast-for-docusign]] — We revolutionize your Docusign workflows with AI insights, obligation and event tracking, seamless c
+- ★ [[insight-critter]] — Kaleido illuminates the colorful spectrum of bias in the news, like peering through a kaleidoscope.
+- ★ [[ontab]] — Cursor Tab for Everything
+- ★ [[dashagenttool-custom-tableau-mcp-tool]] — Because even good dashboards have blind spots. DashAgent is your AI BI Analyst. It challenges your d
+- ★ [[confluence-task-dashboard-for-jira]] — Create consolidated Confluence Task Reports on Jira Dashboards to keep your team accountable, improv
+- ★ [[listenly-text-to-speech-for-confluence]] — Make your Confluence speak!
+- ★ [[studybuddypro]] — AI-powered study management platform that helps students beat procrastination, track progress, and m
+- ★ [[pragati]] — Web app for underdeveloped but talented women to become financially independent by allowing them to 
+- ★ [[jet-2340bw]] — A prediction market where you don't trade alone. Oracle gives you three AI analysts, each with a dis
+- ★ [[flipside-rz9i1v]] — News reimagined: Swipe to see every side of the story.
+- ★ [[a11y-b8xg5i]] — A Google Chrome extension that elevates the limitations of people with disabilities and makes web pa
+- ★ [[sisyphus-protocol-c9egl8]] — Sisyphus Protocol is a decentralized social protocol based on blockchain technology, to help self-im
+- ★ [[pathfinder-em2qjb]] — Building the future of personalized browsers with LLMs.
+- ★ [[artee-ai]] — Endless AI-Generated Tees
+- ★ [[edutracker-kfpj0v]] — Fast tracking your education to success
+- ★ [[habitat-for-humanity-homeseeker-portal]] — A Web Portal that automates the application form signing and uploading process for families applying
+- ★ [[hackutd-project-kbhins]] — Echo assists neurodivergent kids that struggle with alexithymia in learning how to differentiate fac
+- ★ [[callio-labs]] — Agentic Genomics
+- ★ [[writely-udknmh]] — Write better, faster, anywhere on the web - Writely transforms your writing with AI-powered translat
+- ★ [[react-kiro-starter-modern-full-stack-template]] — Production-ready React template with Vite, TypeScript, Supabase, and shadcn/ui - featuring comprehen
+- ★ [[timehole]] — A smart productivity proxy that uses AI to filter away distractions while allowing task-relevant res
+- ★ [[codetube-y8c19f]] — Transform passive YouTube tutorials into interactive, AI-powered coding journeys.
+- ★ [[e-ink-sim]] — Turns every thing to eink, for web developers to test and optimize their web applications for e-ink 
+- ★ [[nixora]] — Nixora brings loan markets into the digital age by transforming loan agreements into AI-powered, int
+- ★ [[mentelo-interactive-chrome-extension-you-can-talk-to]] — Struggling with confusing websites or complicated tax forms? Call Mindy! She offers instant on-page 
+- ★ [[tether-n2kpha]] — A focus ritual for brains that freeze before they begin.
+- ★ [[product-creator-temp-name-conu-x]] — You imagine it. We build it for you.
+- ★ [[voluntree-ml]] — Machine Learning based solution to automate volunteer recruiting from social media
+- ★ [[eazyform]] — The easiest and quickest way to create monday forms that look exactly the way you want them.
+- ★ [[intelligent-incident-resolution-system]] — 48 million Americans get sick from food every year. Our agents find the source before the body count
+- ★ [[moonwalk-tojsay]] — The Intelligent Desktop Agent for macOS.
+- ★ [[sayso]] — Feedback that sticks before it slips
+- ★ [[food-forward-c2swnz]] — FoodForward is an app that reduces food waste by enabling users to buy and sell food in their commun
+- ★ [[cinematic-director]] — Bringing any story to life with real-time, AI-generated cinematics, characters, and visuals, placing
+- ★ [[easy-agile-jira-hero]] — Teamwork in Jira should be fun. With Easy Agile Jira Hero App for Jira, you can celebrate your team’
+- ★ [[fin-flo]] — ‎FINFLO, Helping those in need the digital way! We enable the common Filipino labor force to acquire
+- ★ [[edusphere-zy8xcr]] — EduSphere: Where learning meets leisure. Elevate education with collaborative hubs, innovative chat 
+- ★ [[trusttrace-multimedia-deepfake-detection-platform]] — “TrustTrace is a unified AI platform that instantly detects deepfakes across images, audio, and vide
+- ★ [[hextopus]] — On-Chain Referral Marketing(Share-to-Earn) Platform
+- ★ [[convey-wg5bnj]] — Convey is a web extension that uses NLP and ML to give real-time communication feedback - imagine Gr
+- ★ [[splat-n-treat]] — A Notion for AI 3D Spatial Worlds: A spatial CMS powered by client-side AWS + Gaussian splats + Kiro
+- ★ [[youtube-study-kit-6vutf4]] — Turn YouTube videos into your ultimate study guide!
+- ★ [[walletchat-1y2tr9]] — Wallet-to-wallet chat program, offering API integration as well. We use a mix of web2 and web3 for t
+- ★ [[karma-street]] — 🏛️ Buy the Hype. Sell the Cringe. Trade Subreddits Like Stocks. 📈
+- ★ [[image-describer]] — A Chrome Extension that uses Gemini Vision APIs to describe content on the web for blind people.
+- ★ [[v-commerce-studio]] — V-Commerce Studio redefines e-commerce with AI personalized chat, proactive engagement, virtual try-
+- ★ [[adapted-multi-agent-rag-powered-adaptive-learning-platform-6jt0zb]] — An AI-powered platform that generates personalized learning roadmaps, delivers curated lessons, cond
+- ★ [[dyslexiapilot-ai]] — The AI-Powered Companion that helps students with dyslexia study smarter, faster, calmer and It come
+- ★ [[create-from-template]] — A revamped Create from Template Macro with advanced options like setting a parent page, adding custo
+- ★ [[linked-items-for-monday]] — Connect tasks and get an overview of all their relations
+- ★ [[kasha]] — Tired of doing mental math and nudging someone who owes you money? Kasha is an AI chat bot that trac
+- ★ [[ecospire-gna60h]] — While most applications solve problems for specific user groups, EcoSpire addresses the biggest chal
+- ★ [[signify-hya82t]] — Our Chrome extension makes YouTube accessible for Deaf people and ASL learners by turning spoken con
+- ★ [[school-agent-h2cqvw]] — School Co-Pilot is a private AI tutor that uses only your school's documents. It provides safe, curr
+- ★ [[fakey-ai]] — An explainable, Gemini-powered verification platform built to restore trust in digital media.
+- ★ [[sustain-uhrgfy]] — sustAIn makes AI more sustainable by compressing prompts without hurting quality, reducing token usa
+- ★ [[chainlink-portfolio-polkadot-cross-chain-activity-tracker]] — "Unified cross-chain dashboard for Polkadot: View all parachain assets, get AI insights, check portf
+- ★ [[based_smiles]] — AI-powered Chrome extension that adapts websites in real-time for users with ADHD, dyslexia, and sen
+- ★ [[fake-news-detector-3qy4bf]] — Make your Social Platform Clean
+- ★ [[askarctic]] — AskBI allows users to get actionable insights faster by combining the power of GenAI and Metadata, t
+- ★ [[protocol-resurrection-machine]] — A universal compiler that revives legacy network protocols and outputs secure, production-grade SDKs
+- ★ [[point-and-say]] — An AI-powered tool that lets you modify live web interfaces by pointing at elements and speaking nat
+- ★ [[research_pilot]] — "Turn hours of research into minutes — voice-in, insight-out. A multi-agent AI system using every Am
+- ★ [[complianceguard]] — Autonomous AI compliance monitoring — detect GDPR, HIPAA, SOC2 & EU AI Act violations in 60 seconds
+- ★ [[autoaegis]] — AutoAegis-"Self-Diagnostic Immunity System" that eliminates the Watermelon Effect by using Zero-Touc
+- ★ [[tldr-this-issue]] — The app consolidates information from various sources available within a Jira issue by providing a b
+- ★ [[p8hub-private-ai-hub]] — P8Hub is an open-source project aimed at providing a private and simple platform for individuals and
+- ★ [[s-m-i-l-e]] — Secure your daily happiness.
+- ★ [[cloudflare-deno-boilerplate]] — Modern React+Deno boilerplate with automated CI/CD, edge deployment to Cloudflare Pages & Deno Deplo
+- ★ [[poweropt-ai-nextgen-power-predictor-2a6ugc]] — PowerOpt AI is a cutting-edge, machine-learning-powered web dashboard designed to predict the electr
+- ★ [[browseblind]] — World's First AI Browser. Allowing blind people to interact for the first time with the internet. Al
+- ★ [[flakewarden]] — Agentic flaky-test triage for UiPath Test Cloud: a deterministic scorer and a grounded AI classifier
+- ★ [[terra-presidential-command-simulation]] — A real-time geopolitical strategy game where you play as the President of the United States. Make de
+- ★ [[ghostnet-the-dead-internet-recovery-engine]] — GhostNet detects link rot (dead/broken web pages), reconstructs lost content using AI forensics from
+- ★ [[visualize-with-aws-atlassian-forge]] — Visualize data via declarative chart and diagram engines such as Vega/Vega-Lite, PlantUML, Mermaid, 
+- ★ [[zeta-jwq9te]] — Grammarly for Math
+- ★ [[pipebrains]] — Monitor your pipes and and the likelihood that there is a hydrate!
+- ★ [[brevify-video-summarizer-s7pkoe]] — Don’t have time to watch the whole video? Brevify can create a text summary of your video, so you ca
+- ★ [[vertex-a11y]] — Vertex A11y empowers developers to champion accessibility, offering real-time insights and practical

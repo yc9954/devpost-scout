@@ -1,0 +1,181 @@
+---
+facet: "user"
+name: "frontline_worker"
+projects: 371
+winners: 371
+tags:
+  - "facet"
+  - "user"
+---
+
+# frontline_worker
+
+`user` · **371** projects, **371** of them winners.
+
+## Pairs with
+
+- [[realtime_stream]] — 207 together  <sub>(mechanism)</sub>
+- [[transportation]] — 207 together  <sub>(domain)</sub>
+- [[geospatial]] — 169 together  <sub>(substrate)</sub>
+- [[video_visual]] — 155 together  <sub>(substrate)</sub>
+- [[structured_db]] — 149 together  <sub>(substrate)</sub>
+- [[agriculture_food]] — 123 together  <sub>(domain)</sub>
+- [[sensor_fusion]] — 113 together  <sub>(mechanism)</sub>
+- [[developer_tools]] — 111 together  <sub>(domain)</sub>
+- [[finance_payments]] — 106 together  <sub>(domain)</sub>
+- [[sensor_telemetry]] — 82 together  <sub>(substrate)</sub>
+- [[civic_government]] — 78 together  <sub>(domain)</sub>
+- [[health_clinical]] — 76 together  <sub>(domain)</sub>
+
+## Projects
+
+- ★ [[tradewizard-8xp61z]] — TradeWizard helps people navigate uncertainty with confidence when money is on the line.
+- ★ [[veterinary-four-color-triage-app]] — Built by a veterinarian & practice owner with no coding experience, this app turns clinical triage e
+- ★ [[asap-1h45pk]] — Empowering industries with AI-driven insights through Retrieval Augmented Generation (RAG), simplify
+- ★ [[amanat]] — Privacy-first AI agent for humanitarian organizations that scans cloud services for sensitive data e
+- ★ [[trudi-threat-response-unit-for-digital-investigation]] — Built on the idea that we're all smarter than any of us: TRUDI pairs an autonomous DFIR agent with a
+- ★ [[extopay-the-last-mile-solution-for-digitizing-cash]] — Next-Generation CBDC solution for digitizing cash: A Highly Secure Mobile and Non-Mobile Solution wi
+- ★ [[agri-able]] — A tool to help the African farming community to optimize crop production
+- ★ [[mcs-auth-bridge-enabling-token-vault-for-headless-ai-agents]] — Auth0 Token Vault is powerful, but agents can't use it without a browser callback. I built the missi
+- ★ [[forge-field-operations-real-time-guidance-engine]] — Voice AI co-pilot for hands-busy industrial technicians: one Qwen-Omni-Realtime session listens, see
+- ★ [[dreammeridian-geoai-on-pi]] — When disasters strike, networks fail first. DreamMeridian runs LLM-powered spatial queries entirely 
+- ★ [[kisan-mitra-ai]] — Built on AWS and powered by Amazon Nova Pro, the platform eliminates the literacy barrier with a voi
+- ★ [[legalmindz]] — Ethiopia has 2.5 million businesses but only 3,000 lawyers. Legalmindz brings Legal AI for 120 Milli
+- ★ [[l-l-a-m]] — Save crops from locust attacks. Track locust movement realtime and predict the possibility of attack
+- ★ [[aiditto-turn-good-intentions-into-valuable-giving]] — AID IT TO is a SaaS-solution that enables municipalities source what is needed by easily, quickly an
+- ★ [[pulsepoint-2hmejd]] — AI-powered medical triage at the speed of life from instant assessment to doctor in 60 seconds.
+- ★ [[disavu]] — DisaVu is a disaster response solution that helps direct relief resources to where they are needed m
+- ★ [[agrimind-97zntd]] — AgriMind combines a robotic guardian with live farm sensors and AI video/image analysis to cut water
+- ★ [[caladrius]] — The Privacy-First AI Triage Assistant
+- ★ [[grocerapp]] — Mobilizing necessities for at-risk people with the help of the community.
+- ★ [[apex-qkmxa0]] — A reimagined way to enjoy motorsports
+- ★ [[road-incident-predictor]] — Monitoring tools for road incident management. Crowdsourcing information sharing for safer roads wit
+- ★ [[liliusmed]] — Intuitive decision making platform where government agencies, hospitals, and suppliers can quickly a
+- ★ [[kassi-synthetic-load-generation]] — An AI agent on an audited state machine: it load-tests a code change, correlates the regression with
+- ★ [[agentdeck-command-your-ai-fleet]] — Mission control for your AI coding fleet. Glanceable status tiles, one-tap approvals, dial-driven di
+- ★ [[gridveda]] — GridVeda gives powerline operators predictive failure detection at edge. Ensemble AI monitors 20 tra
+- ★ [[fleetops-smart-incident-reporting-for-fleet-operations]] — FleetOps uses AI to analyze photos sent to Jira, automatically identify the vehicle in Assets, and g
+- ★ [[near-road-icm]] — Investigative case management solution for citizens, police officers and drivers to report and manag
+- ★ [[vitalflow-radar]] — VitalFlow Radar continuously monitors loved ones' vital signs without wearables, bands, or patches. 
+- ★ [[orbit-8kd3re]] — maps the orbit of your thinking, so you can see when an idea is yours versus AI's
+- ★ [[jam-packed]] — Jam Packed is a revolution for the programmable web. Anyone can create, consume and share executable
+- ★ [[waterbody-monitoring]] — As climate change accelerates, water usage planning is crucial for small communities who depend on w
+- ★ [[farmops-desk]] — The operating system for Nigerian poultry and catfish farms. Ops, feed, money, and AI in one calm vi
+- ★ [[time-out-1wvxhm]] — Surgeons pause before every incision. Med spas don't. Time-Out checks who is injecting, what they're
+- ★ [[locl-lf734n]] — Locl offers a platform that supports EBT card purchases to allow SNAP benefit users to purchase heal
+- ★ [[instruxi]] — Unlock the value of unmined gold with ION Digital and Instruxi's gold fractionalization tool. Revolu
+- ★ [[omnom-hg16v3]] — OmNom is your late night food savior, autonomously navigating a variety of outdoor and indoor enviro
+- ★ [[sentinel-c8ki50]] — Full-stack AI for bare-metal embedded systems. Proven by shipping a complete bare-metal OS on Raspbe
+- ★ [[woodpecker-ai-finds-hidden-hotspots-in-power-lines]] — Power line failures spark billions in damage.Woodpecker AI, like a woodpecker spotting hidden hotspo
+- ★ [[kronia]] — Agriculture that Works for Future
+- ★ [[aa-04pgyj]] — Phone calls are frustrating, that's why we moved to chats. We have busy lives and we love doing ever
+- ★ [[near-river]] — Quickly launch a custom indexer on Substreams with API and AI-powered querying. A fast, stable, and 
+- ★ [[perceiv-io]] — 🪶 PERCEIV/IO leverages AI image recognition and various LLMs to assist persons with visual and/or au
+- ★ [[dhangyan-6b7w50]] — Don't teach financial literacy. Let people LIVE it.
+- ★ [[nalog-agent]] — Production Qwen MemoryAgent on Alibaba Cloud for Thai smallholder farmers to check water from their 
+- ★ [[forrus]] — Forrus is an AIoT device powered by TigerGraph and AWS EC2 DL1 for real-time alerts for wildfire mit
+- ★ [[ed4you]] — Automatic Digitization of Teaching Material and Immersive Gamification of Practical Education.
+- ★ [[arduino-controlled-electrolysis-system-for-bleach-production-kodm9u]] — Imagine producing your own bleach right at home, simply by adding salt to water and pressing a butto
+- ★ [[maxapply]] — AI-powered LinkedIn job automation using Amazon Nova 2 Lite
+- ★ [[unlocking-moments]] — A platform for people that want to see and contribute to the human story of the essential worker com
+- ★ [[hypercluster-the-web3-automated-referral-system]] — A permissionless referral system that aligns an entire community with a single link. Complete with a
+- ★ [[community-exchange-incentivization]] — We match needs and skills within communities and help heroes get the recognition they deserve.
+- ★ [[aimassist]] — Chatbot to help VCT managers and coaches create the best team. Powered by AWS.
+- ★ [[hallosophia]] — Platform to close the service gap of small businesses (financial instruments & external knowledge) t
+- ★ [[heartstart]] — Emergency Detection. Autonomous Robot CPR.
+- ★ [[t-lgqf6x]] — An AI-driven stock market prediction tool based on the sentiment of the Spotify daily top songs and 
+- ★ [[via-dappia]] — Revolutionizing road infrastructure: This project tokenizes roads, decentralizing ownership & upkeep
+- ★ [[constructa]] — Constructa helps developers and contracting teams evaluate buildable sites, visualize projects, and 
+- ★ [[testbutler-iot-testing-made-easier]] — Enabling your software to be directly tested on your hardware in real-life conditions with GitLab CI
+- ★ [[paragon-5vmb83]] — Paragon predicts a vehicle's drag coefficient (Cd) in seconds from a simple STL upload, using AutoML
+- ★ [[ranger-6jkv5s]] — Audio is a luxury we take for granted, that deaf folks don't get. Ranger is a wearable AR solution a
+- ★ [[launchify]] — Know what you don't know — before you build.
+- ★ [[torq]] — Turn any car into a self-driving vehicle with the Jetson Thor. Retrofit autonomy, enable rideshare, 
+- ★ [[monoland]] — A tropical island adventure RPG featuring character customization where Jira Issues become farms to 
+- ★ [[medvault-3nwvsj]] — Encrypted health records in your pocket. Share with any doctor in 10 seconds, in any language. Works
+- ★ [[agrinexo-er4mag]] — Get critical agri-environmental information as NDVI maps, climate analysis and agrometeorological we
+- ★ [[leavitt]] — Leavitt reads every observability signal you have, metrics, logs, client-side load, and deployment c
+- ★ [[ally-kmoagt]] — Ally makes drone data management simple, giving non-technical people easy access to automated workfl
+- ★ [[pushpa-pyro-uav-system-for-high-risk-patrol-and-alerting]] — PUSHPA gives firefighters eyes on the ground and in the air. Smart glasses steer drones for real-tim
+- ★ [[trishna-climate-smart-kisan-companion]] — Trishna: Multilingual AI super-app for farmers & gardeners. Get hyper-local weather alerts, instant 
+- ★ [[altiverse]] — AltiVerse: AI-powered simulations that let students fork decisions into living alternate realities w
+- ★ [[anchor-mesh]] — Turns every smartphone into a rescue Beacon that works without Internet
+- ★ [[grouper-fr2h1q]] — The ultimate friend group app. Track payments, plan rides, and hang out. All in one place :)
+- ★ [[paracrates]] — Slingshot live applications instantly between computers. Enhance developers workflows, easily share 
+- ★ [[fun-dashboard]] — A platform that supports data center technicians in a multitude of daily tasks, from planning out op
+- ★ [[payment-for-supply-chain-transparency]] — We add Square as the payment layer to the open source supply chain traceability software INAtrace. W
+- ★ [[disaster-brain]] — When the internet dies and lives are on the line, Disaster Brain is the only AI that still works.
+- ★ [[foodflow-gwrxai]] — Turning excess into access, where tech, timing, and compassion move food to those who need it most.
+- ★ [[my-et-economic-times-reimagined]] — AI-powered financial news assistant that translates complex articles into any language, verifies fac
+- ★ [[theo-daos]] — Meta4Swap is a Web3 store front for buying and selling products and services. Payments are made in o
+- ★ [[humans-ai]] — Providing income using mobile based Data Labelling game in India
+- ★ [[shipsense-ai-novel-data-augmentation-protocol]] — Mitigating overfishing through AI-augmented satellite imagery and data viz dashboard. Novel few-shot
+- ★ [[agrowise-4b2szv]] — AgroWise fuses low-cost root-zone sensors with AI and IVR to provide precision farming via any phone
+- ★ [[aegis-hindi-consent-companion]] — **India's AI-generated perioperative informed consent in Hindi — patient-specific, clinically ground
+- ★ [[sostenibl-es-akswzf]] — Enabling short commercial channels for farmers in need during Covid crisis
+- ★ [[agent-vjpz7q]] — FamCare helps you organise your health documents, ai chat to better understand records, create medic
+- ★ [[project-varuna-h945ni]] — Project Varuna is an artificial intelligence-based decision support tool that makes predictions abou
+- ★ [[project-varuna-v5k2mn]] — Project Varuna is an artificial intelligence-based decision support tool that makes predictions abou
+- ★ [[vlml]] — VLML turns raw Valorant match data into a fast, consistent analytics model and serves it through MCP
+- ★ [[sentinel-flood-watch-agent]] — An AI agent that proactively monitors Accra's ecological sites using remote sensing data and advance
+- ★ [[world-of-magik]] — An omni-chain real-time RPG with final transaction settlement on the Fantom network.
+- ★ [[iot-water-level-anomaly-detector]] — Monitor water levels with an IoT sensor connected over cellular to Azure Anomaly Detector API
+- ★ [[project-9qkyi4flrtpm]] — Citizens live eagerness to arrive on time, overcoming speed limits and not attending traffic rules. 
+- ★ [[the-digital-volunteer-dym0xb]] — Automate mobilisation of community, solidarity and collaboration. Use non-smartphones to raise a tas
+- ★ [[sms_taxi]] — SMS Taxi receives ride requests via text message, optimizes ride-matching, and uses OpenXC data for 
+- ★ [[project-farmspeak]] — We offer a patented farm management system to mitigate climate-related losses, turning unpredictable
+- ★ [[edflowai]] — EDFlow AI: A Mixture of Expert AI Agents auto-coordinate ER emergencies in <30s. Each specialist age
+- ★ [[agrosurance]] — Insure your crops the smart way
+- ★ [[master-planner-your-all-in-one-fleet-management-solution]] — Imagine condensing an average 3-hour workload into a mere minute – Master Planner boosts efficiency 
+- ★ [[skysplat]] — drones + gaussian splatting = automated, AI-powered 3D modeling of any environment for disaster reco
+- ★ [[geosentinel]] — GeoSentinel — Turning Earth’s data into early warnings that save lives.
+- ★ [[lectio-real-time-ai-study-companion]] — Lectio listens to your lecture alongside you. As terms and concepts come up, it quietly looks them u
+- ★ [[ironbook]] — A new way for manufacturers to learn.
+- ★ [[xdc-eco-logically-driven-nft-s]] — Drive ecologically to a sustainable future.
+- ★ [[prereq-sg1thw]] — Real-time knowledge graphs that make every lecture impossible to fall behind in
+- ★ [[yo-zfqlao]] — CERBERUS learns normal system behavior and detects ransomware instantly when abnormal entropy patter
+- ★ [[buildfax-counts]] — BuildFax Sales & Marketing teams can now get counts in Slack instead of waiting a week for sales sup
+- ★ [[unified-disaster-intelligence-adaptive-response-system]] — UDIARS unifies flood, wildfire, and earthquake intelligence into one live map that shows you real-ti
+- ★ [[meshnet]] — network to relay messages and crisis alerting without wifi through BLE
+- ★ [[torch-drowsiness-monitor]] — Drowsiness and atention monitor for driving. Also detects objects at the blind spot via Pytorch-powe
+- ★ [[naterida-microbots]] — NATERIDA — The AI-powered exploration robot that thinks, adapts, and protects while gathering smart 
+- ★ [[ecosage-so7nkb]] — AI-Powered Sustainability Companion
+- ★ [[cerberus-real-time-entropy-defense-wargaming-console]] — CERBERUS learns normal system behavior and detects ransomware instantly when abnormal entropy patter
+- ★ [[momental]] — Escape the noise. Momental helps you find your moment — whether it's to meditate, sleep or focus. On
+- ★ [[wispr-wireless-safety-pulse-relay]] — WiSPR is a wearable badge that detects hazards and enables silent team alerts through vibrations, LE
+- ★ [[digitalize-with-ai-4uas60]] — Turn your physical records, logs, books, sales records, etc. into digital. Then search it, chat with
+- ★ [[riyex-racing]] — The Racing Intelligence Platform turns TRD telemetry into clear insights—highlighting your perfect l
+- ★ [[vanguard-telematics]] — Fire truck crash? Radio too slow. Rescuers in danger!We build smart tech. Fast sensors feel crash ri
+- ★ [[guardian-2n7q3s]] — The number of firefighter injuries has increased by over 28% in the past 30 years. Our team sought t
+- ★ [[erewhon]] — EMTs deserve better than a radio and a clipboard.
+- ★ [[trustos]] — Seven Gemini 3 agents move 82,500 World Cup fans to MetLife Stadium — reasoning over live MongoDB At
+- ★ [[codi-mobile-butler-for-building-apps-automating-the-web]] — Codi turns your phone into a full-stack builder and web automation agent. Chat to create apps or aut
+- ★ [[ridefair]] — Decentralizing the ride-sharing experience to protect user data.
+- ★ [[google-around]] — With Google ARound, you can easily navigate to your friends, family members, lovers, and anyone who 
+- ★ [[hive-hq]] — Hive-HQ is a web app that uses an AI tracking system to detect high-traffic areas in public spaces, 
+- ★ [[a-green-vest]] — Farmers lack the capital to utilize the lands they possess causing a setback in production. We provi
+- ★ [[team-outliers]] — Defeating the 911 queue: An AI triage system that intercepts overflow, dynamically clusters duplicat
+- ★ [[roadmate-t28eqk]] — Intelligent driving companion that keeps you alert and safe by monitoring drowsiness, engaging you i
+- ★ [[disastersai]] — Revolutionizing Catastrophe Prediction with Machine Learning
+- ★ [[hospital-readmission-prediction-with-federated-learning]] — HIPAA blocks pooling patient data. Sammy predicts readmission risk with federated learning, running 
+- ★ [[a-farmer-s-life]] — A persistent augmented farming simulator game right in Snapchat. Using time-based elements, weather 
+- ★ [[ecoverse-5dczmp]] — Efficiency that Saves, Sustainability that Lasts
+- ★ [[spothelp]] — help on the spot!
+- ★ [[survivex]] — Your hands-free conversational survival assistant. Powered by on device LLM inference, offering step
+- ★ [[spyder]] — If you can think it, you can drive it!
+- ★ [[farm-sutra]] — "AI-powered farming assistant for rural India — multilingual, 2G-ready, and built on Amazon Nova."
+- ★ [[smart-well-monitoring-system-for-villages]] — let wells be smart now
+- ★ [[beyondsight-589mh7]] — BeyondSight gives DeafBlind people a voice, a touch, and a path forward. We have created a wearable 
+- ★ [[vroomi]] — Vroomi is a student-first carpooling app that makes commuting safer, cheaper, and greener. Verified 
+- ★ [[craftown]] — Craftown is a retro survival & automation game. Begin with basics, scavenge for resources, and thriv
+- ★ [[visionguard-smart-vision-for-smarter-driving]] — Our AI-powered system analyzes in-car video footage to transcribe and interpret driver behavior in r
+- ★ [[disaster-detection-platform-on-kubernetes]] — GPU-accelerated AI platform on Kubernetes for real-time disaster detection. Identifies floods, fires
+- ★ [[lightningcelo]] — Real-time money-streaming protocol for Celo Stables Enabling your $cUSD to flow like the river in re
+- ★ [[evie-assistant]] — A simple and engaging Alexa skill that helps you find Electric car charging stations
+- ★ [[chapchap-elogistics]] — Mobile platform using data to identify patterns and insights related to food production, distributio
+- ★ [[first30-ai]] — Web app that tells you exactly what to do when someone needs emergency help so you can act according
+- ★ [[studforge]] — StudForge turns natural language prompts into physics-validated, simulator-ready, robot-buildable sw
+- ★ [[harvest-fable]] — Step into Harvest Fable - a cozy, competitive farming game for VR, desktop, and mobile! Grow crops, 
+- ★ [[smartcab-31icw4]] — Blockchain based Egalitarian Routing and Financing of taxi shared taxi-cab rides
+- ★ [[poyopop]] — Start-up app idea for pop-up cafes and food in the area!
+- ★ [[moggie]] — QNX-powered, computer-vision-driven viral arcade system. Compete in instant 1v1 battles from online 

@@ -1,0 +1,161 @@
+---
+hackathon: "brainrot jia.seed hackathon ($5,772) in prizes "
+organization: "audrey chen host"
+projects: 129
+tags:
+  - "hackathon"
+---
+
+# brainrot jia.seed hackathon ($5,772) in prizes 
+
+audrey chen host  ·  129 collected projects
+
+## What this field was made of
+
+- [[web_dom]] × 54
+- [[developer_tools]] × 30
+- [[video_visual]] × 25
+- [[realtime_stream]] × 25
+- [[educator_student]] × 23
+- [[education]] × 20
+- [[structured_db]] × 19
+- [[cross_origin_web]] × 17
+- [[developer]] × 15
+- [[finance_payments]] × 13
+- [[code_repository]] × 12
+- [[geospatial]] × 11
+- [[voice_speech]] × 8
+- [[vision_ocr]] × 8
+- [[labor_employment]] × 7
+
+## Projects
+
+- ★ [[talktuahtaxer]] — fanum taxing all the way - just with a little more help :)
+- ★ [[mediadash]] — You know the content you like! But social media feeds distract you with other stuff. Instead of infi
+- ★ [[chill-l3wcev]] — Chill People is a relaxed blog app where individuals connect, share stories, and communicate in a st
+- ★ [[degen-purity-test]] — You took the rice purity test before, but this one is for people who don't touch grass. Goblins unit
+- ★ [[ai-chat-game]] — Chat with AI charactersAn immersive chat-based RPG with 36 AI characters and 12 game modes. Solve my
+- ★ [[linkedin-post-generator-vp8y56]] — BRAINROT LinkedIn Post Generator to Piss of people on LinkedIn
+- ★ [[just-a-cjill-soot-case]] — Just a chill guy !!!
+- ★ [[fanum-diddler-horse-tax]] — Yo, you ever seen a horse snatch a glizzy and yeet like baby gronk? In this game, it’s all about cho
+- ★ [[brain-cell-deleter]] — will literally force the brain cells out of your brain. i speak from experience. i had to touch gras
+- ★ [[cvrve-clone]] — Tired of searching for jobs across multiple platforms? We bring them all to you in one place!
+- ★ [[undress-me]] — Undress.me is an AI powered fashion tool utilising advanced image recognition to ensure your outfit 
+- ★ [[gojo-backshots-clicker]] — anime hoomans, you have seen cookie clicker, you have seen funny brainrot jjk ahh shi... but have yo
+- ★ [[i-understand-it-now]] — You understand it now
+- ★ [[thalemo]] — Thalemo : Care made smarter for kids with blood disorders.
+- ★ [[we-r-cooked]] — https://www.wercooked.com/ Apply to internships, Dodge the brain rot, and Climb the leaderboard. A r
+- ★ [[dripify]] — Connecting dreams, one brick at a time. Create the wildest fashion collabs you never knew you needed
+- ★ [[fashionista-917cay]] — We’ve seen worse, but not by much.
+- ★ [[oopsie-daisy]] — Oopsie Daisy: Absurd excuses at the push of a button—because "the squirrels made me do it" is totall
+- ★ [[brainrot-extension]] — This extension allows the user to collect brainrot points. These points are then used to install var
+- ★ [[venue-booker]] — Venue finder application, used to help you find the perfect location for any occasion. Whether a hol
+- ★ [[mydog8it]] — Fetching Your Excuses, 🤐 No Leash Attached 🤫
+- ★ [[skibidi-yamdjw]] — My Skibidi Girlfriend Simulator is an interactive experience where you brainrot with a CS major virt
+- ★ [[traject]] — A all-in-one platform to find opportunities.
+- ★ [[surfocuskibidi]] — 4 brainrots during thanksgiving coding playing chilling skibidiing
+- ★ [[love-caluclator]] — Do You want to confess your love but stressed about ur challenges don't wory you have come to the ry
+- ★ [[div-centering-wizardry]] — "Introducing 'Div Centering Wizardry' – an interactive platform that turns the notorious challenge o
+- ★ [[memecoin-roulette]] — A prediction platform where users can bet on the next viral meme trend. Track meme popularity, place
+- ★ [[linkedin-pro-a-extension-to-make-linkedin-distraction-free]] — Spending too much time on LinkedIn? Not anymore. Customize your LinkedIn experience by hiding distra
+- ★ [[brainrotai]] — Your Skibidi Savior: Seek the Grimace Shake Experience
+- ★ [[phish-femme]] — jcc
+- ★ [[uwucafe]] — Brain Damage as a Service (BDaaS)
+- ★ [[flip-n-rizzz]] — A brainrot Themed Memory Matching Game That Has MultiPlayer and singlePlayer Features,Completely Bui
+- ★ [[center-piece]] — An educational tool (infused with brainrot) to learn about centering divs!
+- ★ [[granolify]] — You are granola
+- ★ [[skibidi-rizz-meow-bombs]] — Who knows what we will create. Skibidi Rizz? Yes. Meow? Yes.
+- ★ [[galatea-ai]] — Are you sick and tired of the UW subreddit. Those failed romantic sob stories. Introducing Galatea A
+- ★ [[chill-gurl-turned-queen]] — When it's your first time booking flight tickets & moving far from home all alone, & a certain airli
+- ★ [[sappyc]] — Tired of LinkedIn’s snooze-fest comments like “Congrats” and “Valuable insights”? Enter SappyC: we s
+- ★ [[embraceher]] — "Empowering women with PCOD/PCOS to track cycles, boost moods with Gen-Z style AI compliments, and e
+- ★ [[everyone-win]] — we're the plot twist
+- ★ [[brainrotfocus]] — Rewards students with a memecoin cryptocurrency if they stay on task and complete their homework ass
+- ★ [[skibidi-signin]] — sign in and get a hi from don pollo like what the sigma ain't that skibidi
+- ★ [[skibidistonks]] — The "explain in Fortnite terms" of finance.
+- ★ [[stop-yt-ad-madnass]] — Enjoy YouTube without interruptions—our ad blocker makes sure you binge, not buffer!
+- ★ [[brainrot-video-distraction]] — This project provides a distraction from watching meaningfull youtube video with brainrot minecraft
+- ★ [[quikaid]] — Unlock the stories of the living world! An AI-powered app that identifies species from images and br
+- ★ [[fizzbruzz]] — Community-sourced tech content for brain-rotted minds.
+- ★ [[the-real-don-pollo-app]] — its just the greatest don pollo app
+- ★ [[rap-ai]] — Our AI will roast the hell out of you (it literally said I have a receding hairline). You can also c
+- ★ [[pink-chronicles]] — A Bookworm's Digital Haven
+- ★ [[leftovers-love]] — Introducing Leftovers Love, the ultimate web application designed to help you make the most out of y
+- ★ [[shrimp-tw2bsz]] — Have a rabbit observe your shopping habits
+- ★ [[gyatt]] — want 2 vibe less and grind more? I've gyatt If you ain't on a productive app, prepare for a meme exp
+- ★ [[don-pollo-obby-the-game]] — don pollo finds his way to kfc...
+- ★ [[brainrot-scanner]] — brainrot every document you own don pollo chill guy skibidi
+- ★ [[pokedrip]] — Express yourself in style—add quotes to your outfits and make fashion your voice!
+- ★ [[skibidi-hellhouse]] — Escape the Brainrot - Get out or get ratio’d 💀🔑
+- ★ [[tejesh-s-twerkoff]] — Stack, Align, and Brainrot your way into an Internship!
+- ★ [[sigma-calculator]] — An evidence-based calculator to measure the Sigma levels of anything or anyone.
+- ★ [[slap-kw7rd8]] — Need something that helps you stay focused during studying/work? Use this slap machine to wake you u
+- ★ [[huzzhub-h52udq]] — lacking finesse? steeze? charizzma? no huzz? no rizz perhaps? the huzzhub is your 1 stop hub to lear
+- ★ [[the-diveloper-experience]] — Are you a real developer if you can't center a div?
+- ★ [[bubbles-ai]] — BubblesAI is an AI-powered platform that generates personalized data structure problems, provides fe
+- ★ [[tateism]] — Take the red pill with Tateism
+- ★ [[bunny-up]] — A dress up game where the user gets to dress up the bunny girl using a variety of dresses, bunny ear
+- ★ [[career-crisp]] — roast ur cringe linkedin ahh
+- ★ [[super-chill-guy]] — Your world is the brain of a brain rot infected child. The world is literally rotting and you, chill
+- ★ [[centered-div-therapy]] — Wrangle your rogue divs and laugh at the absurdity of it all. Centering is now cross-browser, effort
+- ★ [[pyon-pyon-studio]] — Pyon Pyon Studio will make visual novels about brainrot memes and skibidi fictional characters. Buil
+- ★ [[linkedout-ahtfpj]] — LinkedOut: Mocking Corporate Culture, One Cringe at a Time!
+- ★ [[emotisense]] — "Snap a photo, get your mood analyzed, and enjoy memes perfectly tailored to your emotions! Our app 
+- ★ [[the-quadratic-calculator]] — A handy tool for solving quadratic equations... with a dark twist.
+- ★ [[brainrot-resume-roaster]] — Resume Roaster is a fun and savage app that roasts resumes with brutal honesty and dark humor. Just 
+- ★ [[richlaughify]] — Because if you're not laughing rich, are you really laughing?
+- ★ [[i-am-just-girl]] — Easy, secure and accurate scanning
+- ★ [[iskibiddy]] — iskibbidy is a lighthearted website for students that contains short form programming content, trivi
+- ★ [[skibidi-toilet-dating-simulator]] — Have you ever wanted to date Skibidi Toilet? Well now you can!
+- ★ [[very-cutesy-ui-ux-design-done-by-a-newbie]] — Bring Kawaii to Life: Your Adorable Pet, Your Magical World!
+- ★ [[skibidirot]] — A chrome extension which doesn't let you to do any work and keeps distracting you so that you stray 
+- ★ [[looksmax-star-hollywood-dress-up]] — Want to learn how to dress like a LooksMax star? Then this game will teach you!
+- ★ [[cryptomoodbank]] — CryptoMoodBank combines mood tracking with cryptocurrency rewards, turning emotional well-being into
+- ★ [[dino-brainrot-run]] — Enjoy the well loved Dino run but with a twist! Don't lose your mind while you're at it If you can't
+- ★ [[syntheos]] — Syntheos optimizes social media posts for better engagement using PearAI. It analyzes content to pro
+- ★ [[moodfood-uasr7w]] — Where creativity meets chaos—unleashing the wildest ideas from the depths of brainrot!
+- ★ [[roastbot-erdu0f]] — A witty, humorous AI companion to make you laugh and keep a smile on your face, whenever you need it
+- ★ [[skibidifier]] — Skibidify your video!
+- ★ [[epicare-g9wfnd]] — EPICARE: Empowering Life Beyond Epilepsy
+- ★ [[evii]] — EVII is a cute AI-powered emotional wellness companion that understands and responds to your emotion
+- ★ [[hustl]] — Jobs don’t wait. Neither should you.
+- ★ [[shiksha]] — Keeping an ear on class, so you don’t have to!
+- ★ [[linguamatch]] — A simple browser extension that displays Reddit memes.
+- ★ [[gameon-7r5ine]] — its is our first real project! Just two girls learning together and having a great time. We made a g
+- ★ [[your-asian-mom]] — As a baby adult (lol) everything feels overwhelming especially far from family. I had this idea for 
+- ★ [[chilldev-mastering-css-like-a-chill-guy]] — I m just a chill developer
+- ★ [[im-just-agirl]] — hey! its been a month since i've started learning coding and this opportunity passed by, hence i dec
+- ★ [[compurizz]] — It's time to clutch your aura game!
+- ★ [[chill-girlies-mood]] — A fun project that generates Chill Girlie images based on the user input mood. Made it all pink caus
+- ★ [[rizz-your-alpha]] — No love life irl? You probably have no rizz! Introducing a new way to put your REAL RIZZ skills to t
+- ★ [[commitment-issues]] — Tired of bland commit messages? Our app generates quirky, creative, and relatable messages that make
+- ★ [[touching-grass-timer]] — Study with ease by using this interactive timer with an implemented breathing exercise to reduce anx
+- ★ [[agent-sterling-the-social-media-smooth-talker]] — Meet your new AI bestie! Powered by Gemini Pro, this smooth-talking bot turns your social media game
+- ★ [[chill-audrey]] — Just a Chill Girl with her chill project
+- ★ [[rottg]] — Doom-scrollable LinkedIn
+- ★ [[the-banana-pooper]] — Click the button, embrace the banana, and prepare for a hilarious surprise! 🍌💨
+- ★ [[poke-qe50sn]] — A platform that reminds you to reach out to people you know. Stop struggling with spreadsheets of co
+- ★ [[edupiano]] — Asian = Good at piano Tf, you suck? use this and make your mom proud :)
+- ★ [[freak-vo84c9]] — Are you a freaky ahh student and need a calc (short for calculator), but these beta calcs (short for
+- ★ [[your-wrapped]] — AI-powered app to create customizable, Spotify Wrapped-style life stats and genres with shareable te
+- ★ [[ultimate-brainrotting-simulator]] — play this game 5 MINUTES A DAY to obliterate your attention span!
+- ★ [[don-pollo-quiz]] — get the questions right or be haunted by don pollo
+- ★ [[blcokrok]] — $50, A WALLET OF RANDOM MEMECOINS, AND 24 HOURS TO CHANGE YOUR FATE
+- ★ [[skibidi-planner-to-destroy-your-focus]] — This vibe map ( = a planner) will help you survive the burden of responsibilities by distracting you
+- ★ [[rotify]] — The one click solution to skibidi your webpage!
+- ★ [[chill-guy-cake]] — baking a chill guy
+- ★ [[meme-mingle]] — MemeMingle is a voice-activated conversational AI designed to bring humor and joy into everyday inte
+- ★ [[brainrot-quiz]] — Are you Sigma enough to griddy through the void and break reality? Find out if you’re the Skibidi Su
+- ★ [[callwise]] — Revolutionizing Conversations, One Call at a Time.
+- ★ [[stonks-i726jq]] — Stonks: Whatever the situation is, there's always a meme for that.
+- ★ [[rot-check]] — Check how cooked are u taking this quiz (no cap)
+- ★ [[closet-v2h0m5]] — AI-powered closet that makes outfit decisions based on weather & occasion. Think personal stylist me
+- ★ [[just-put-the-fries-in-the-bag]] — The game is self explanatory. It's very simple, all you have to do is put the fries in the bag!! A s
+- ★ [[stack-overflowed]] — Stack Overflowed is a chaotic tower stacking game. Players align and stack <div> elements. As your t
+- ★ [[be-a-brainrottist]] — Get certified that you are a good Brainrotter.
+- ★ [[otakuhaven]] — OtakuHaven, where fandoms come alive—completely free, no account needed! Dive into our universe of a
+- ★ [[audrey-ai]] — DM CLOSED?? NOT ANYMORE! Scaling Audrey’s chaos, wisdom, and hackathon magic to everyone—instantly 😈
+- ★ [[wait-i-m-just-a-chill-guy]] — from the guy behind @csc.at.pitt's instagram reels, i bring to you chill guy dancing to yeah yeah ye
+- ★ [[linkedin-translator]] — This code translates common LinkedIn post to what they actually mean. As a self professed LinkedIn w
+- ★ [[sentiment-analysis-for-course-recommendation]] — Optimize learning choices with targeted sentiment analysis.
+- ★ [[don-pollo-skibidi-submission]] — don pollo don pollo don pollo don pollo don pollo don pollo don pollo don pollo don pollo don pollo 

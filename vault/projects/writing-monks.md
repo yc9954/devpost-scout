@@ -1,0 +1,51 @@
+---
+slug: "writing-monks"
+url: "https://devpost.com/software/writing-monks"
+title: "Writing Monks"
+hackathon: "Polygon BUIDL IT : Summer 2022"
+organization: "Polygon"
+winner: true
+words: 1496
+team_size: 1
+has_repo: false
+has_live: false
+has_video: true
+tags:
+  - "project"
+  - "mechanism/on_device_local"
+  - "domain/civic_government"
+  - "domain/finance_payments"
+  - "domain/security_privacy"
+  - "user/general_public"
+  - "substrate/structured_db"
+---
+
+# Writing Monks
+
+> Writing Monks allows DAOs to manage their twitter account in a decentralised way. Every DAO member can submit content, select what gets published and earn according to its contribution.
+
+[Devpost](https://devpost.com/software/writing-monks) · hackathon [[Polygon BUIDL IT - Summer 2022]]
+
+## Facets
+
+**mechanism** [[on_device_local]]
+**domain** [[civic_government]] [[finance_payments]] [[security_privacy]]
+**user** [[general_public]]
+**substrate** [[structured_db]]
+
+**stack** alchemyapi, amazon-web-services, chainlink, firebase, flutter, foundry, polygon, solidity
+
+## How they structured the write-up
+
+- tl;dr:
+- inspiration
+- problem: content curation is hard
+- solution: writing monks
+- a note on the prediction goal
+- how we buitl it
+- challenges we ran into
+- what's next for writing monks
+
+## Body
+
+TL;DR: A tool that enables DAO's members to own a fraction of a twitter account. Any member can suggest content to be published. Content gets ranked in a decentralised way, best content gets published. The best contributors own more of the account. Monetisation by auctioning sponsored tweets. Inspiration Writing Monks was mainly inspired by Vitalik Buterin's post on Prediction markets for content curation DAOs . We allow DAOs to manage their Twitter account in a decentralised way. Every DAO member can submit content, select what gets published and earn according to its contribution. To do this, we had to solve a tough problem: how to decide what is worth publishing? Problem: Content Curation is Hard Finding out which content is good and which isn't is really hard. This is especially true for long-form written content. Harry Potter was famously rejected by 12 different publishers before being accepted by Bloomsbury. In the typical publishing process, the book author first sends literary agents a synopsis (~2 pages long). If the agents like the synopsis, they will request a partial (~ 30 pages long) and then the full text. This long, costly process does not scale to our current online platforms for written content (twitter, reddit, medium, newsletters, etc.). Current online platforms decide what content to show each user based on 1) the content's likes/upvotes/downvotes and 2) who the user follows. In sum, the number of eyeballs that a piece of content gets depends partly on the quality of the content and partly on the following of the author. As an online writer, the best thing you can do to increase your reach is to build up a following . This requires you to post often. However, this method is unlikely to create the next Harry Potter, the best blog post on shrimp farming or the best take on some current geopolitical event. The best-written content is often written by people who are collecting thoughts for multiple years and then distilling their insights into a post every once in a while. In platforms like Hacker News, users don't follow specific writers, and so the goal is to purely highlight the best content regardless of who the writer is. They do this by using upvotes/downvotes. This system is a huge success, but it has flaws. The risk/reward of reading a brand new post (without any upvotes/downvotes) is high, and users will make a better use of their time reading only the top submissions. This makes the first upvotes be incredibly important and, therefore, easy to manipulate the top page with a group of friends upvoting early on. All of the above doesn't even mention the problem Vitalik was referring to in his blog post: filtering-out posts with scams, spam and other malicious or simply off-topic content. He points out that community downvoting is not fast enough and comes with multiple manipulation vulnerabilities. Centralised moderation does not scale and comes with the danger of censorship and abuse of power. Solution: Writing Monks Writing Monks (WM) solves these problems using predictive markets. Let's say a DAO owns a Twitter account. The DAO wants to allow and incentivise its members to submit posts and select the best content to be published on its Twitter account. We help them manage this! Here's how it works: Setup: When the DAO signs up to WM, a MonksPublication smart contract is deployed on Polygon. With the help of Chainlink, this contract will manage the access to the DAO’s Twitter account. Attached to a MonksPublication, there is an ERC20. This could be our standard MonksERC20 or a token that the DAO already uses (e.g. Bored Apes could create a publication linked to the $APE token). The DAO specifies the publication guidelines: what can be published and what is forbidden (e.g. the Bankless publication might say that all crypto news is on-topic, and everything else is off-topic). The DAO selects the moderation team to enforce the guidelines. Publication Process: 1. Submitting a post. Anyone can suggest content to be published. These submissions are made through the MonksPublication contract, which automatically creates a predictive market for the post. The goal is to predict how many likes the post will have in the first 24h after being published on Twitter . Anyone can bet on this market using the ERC20 token. Each post has three days to be published. If they are not published, everyone who betted on the market will get their tokens back. 2. Moderation The predictive market makes moderation much easier. Instead of looking at every post, moderators can simply look at the top posts - the ones estimated to get the most likes. Betters are incentivised not to bet on posts that go against the publication's guidelines. These posts will not be published and will only lock up betters’ tokens for three days. All moderation happens on-chain and, therefore, is transparent. Everyone knows who flagged a post and why. 3. Publishing One of the moderators can select a top post to be published. The writer of that post receives a payment in the publication's token. This is also when the moderation team and the protocol receive a fee. Publishing is performed on-chain with the help of Chainlink. Chainlink publishes the post on Twitter and stores the post's creation date and id on-chain. Twenty-four hours after the creation date, Chainlink checks how many likes the post got on Twitter and uses that to settle the prediction market. 4. Reputation Each publication will have a leaderboard that shows its top writers and top predictors (betters). The score of a writer is given by how many tokens she received for publishing tweets, and the score of a better is the profit he made on the prediction markets. These scores are attached to a soulbound NFT (to be implemented). The scores can be used to select the publication's moderators, to prove writing skills, and how good a user is at scouting for good content. A note on the prediction goal Our predictive markets are trying to predict the number of likes a post will get on Twitter. We believe this will work superbly well if every Twitter user account corresponds to one person. If that's the case, we are creating a direct feedback loop from our readers' satisfaction to our curation system! However, if each Twitter user does not correspond to a unique person - and it's easy to create fake accounts then it might be relatively easy to manipulate the number of likes a post gets. We have thought of many solutions to this. The simplest one is to predict whether a moderator will choose to publish this post or not . This would rely on the taste of the moderation team, instead of the likes count. However, we have other solutions that keep the feedback loop from the readers. We will have to try them and adjust them according to our results. How we buitl it We used Foundry to write and test our smart contracts. They were tested locally and on the Mumbai testnet. We use Chainlink to manage the twitter account through our smart contract. We will make the contracts' and the chainlink oracles' code open source when we launch. We used AWS to launch an EC2, and a Postgres database to run a Chainlink node, and a blockchain indexer we wrote in Python. The front-end was done in Flutter and connected to Firebase auth and Firestore database. Challenges we ran into Creating the predictive markets was the biggest challenge. To incentivise market participation early on, the DAO needs to subsidise every predictive market. However, this subsidy should be limited and ideally fixed. We made it so that the a fixed amount of tokens goes to the market of every post that gets published - unpublished posts have no costs. This essentially incentivises users to find good content before everyone else (remember that the lack of this incentive is one of the main problems with Reddit and Hacker News). Making the betting UI intuitive was also a big challenge, and one that we are particularly proud of how we tackled it and the solution we found (to see this UI in action, watch the demo video). What's next for Writing Monks Our short-term goal is to finish our MVP and partner with one big online community. For our early partners, we are happy to build custom solutions and integrate with their specific tokens and governance schemes. The medium-term goal is to polish a standard pipeline and make it dead easy for any online community to sign up. We also want to make it easy for advertisers to post ads on our managed Twitter accounts. These ads would be bought at an auction using the publication tokens. Successful bids are burnt, and the ad is posted on the DAO's Twitter account. All of the rules regarding advertising would be decided by the DAO. Our long-term goal is to expand from Twitter to blog posts, newsletters and books. <div

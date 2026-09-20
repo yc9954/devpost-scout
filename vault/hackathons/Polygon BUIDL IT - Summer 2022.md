@@ -1,0 +1,147 @@
+---
+hackathon: "Polygon BUIDL IT : Summer 2022"
+organization: "Polygon"
+projects: 115
+tags:
+  - "hackathon"
+---
+
+# Polygon BUIDL IT : Summer 2022
+
+Polygon  ·  115 collected projects
+
+## What this field was made of
+
+- [[financial_record]] × 53
+- [[developer_tools]] × 50
+- [[developer]] × 39
+- [[finance_payments]] × 35
+- [[web_dom]] × 28
+- [[video_visual]] × 21
+- [[general_public]] × 21
+- [[realtime_stream]] × 20
+- [[structured_db]] × 17
+- [[geospatial]] × 17
+- [[civic_government]] × 14
+- [[code_repository]] × 12
+- [[small_business]] × 12
+- [[retail_commerce]] × 10
+- [[provenance_signing]] × 7
+
+## Projects
+
+- ★ [[cratch-the-future-of-content-creation-z0d3ag]] — First Ever Decentralized MetaStreaming Platform
+- ★ [[toshimon]] — Toshimon is a retro style trading card game that utilizes NFTs as in-game assets. Users collect Tosh
+- ★ [[findtruman-6aed38]] — FindTruman is a STEAM-like Story-gameplay Co-creation Platform in Web3.
+- ★ [[gsos-getsecured-on-chain-security]] — An AI-Based fully-automated on-chain vulnerability scanner for Polygon Edge with an off-chain automa
+- ★ [[plant2earn]] — Plant a beautiful tree virtually on the blockchain as an NFT and we will instead plant a physical tw
+- ★ [[dao-ambassador]] — We are planning to create a service for DAO representation. DAOs will be able to issue a DAO represe
+- ★ [[dwarven-relics]] — Dwarven Relics is a top-down browser-based web3-integrated real-time MMORPG where players must coope
+- ★ [[non-fungible-factory]] — Non-Fungible Factory is a service for Game Developers, it provides an incredible simple way for crea
+- ★ [[chikara-protocol]] — We are putting smart contracts on autopilot, helping users automate tasks.
+- ★ [[trust-finance-1bqze4]] — Trust Finance is building real-time payroll payments, benefits, and accounting solutions for DAOs/ b
+- ★ [[looklock]] — Looklock is a Polygon-based lockdrop aggregator platform.
+- ★ [[bullet-network]] — A layer 2 Optimistic rollup scaling network for Polygon
+- ★ [[yonko-pay-eiyjmz]] — Our platform has two parts. The first allows users to make UPI payments with crypto. The second allo
+- ★ [[metadrive-zbc738]] — Metadrive is a decentralised platform for uploading and sharing encrypted files. You can think of it
+- ★ [[proton-paymaster-as-a-service]] — Platform for dApps to sponsor gas for their users to increase user acquisition and retention. Using 
+- ★ [[deaudit]] — A decentralized audit marketplace built on Polygon.
+- ★ [[shizo-cuoj4y]] — A city-based strategic game with the goal of creating a decentralized map
+- ★ [[jonsnow-eth]] — Protecting projects and users with smart documents and meta-signing for smart contracts.
+- ★ [[dao-cake-polygon-bake]] — No code. No token. DAO tooling for web3 communities & startups.
+- ★ [[dygnify-protocol]] — Defi protocol for real world lending - A decentralised credit infrastructure for connecting digital 
+- ★ [[spaceozpoly]] — A community-led online "play-and-earn" game which utilizes the Polygon Elements.
+- ★ [[pocket-dtvhr0]] — Teenagers will adopt web3 faster than their parents, Pocket will help them keep track. A decentralis
+- ★ [[trikl]] — DeFi communities powered by membership.
+- ★ [[endless-ring]] — A physical piece of jewellery that stores a voice message. An NFC-enabled ring that links to an IPFS
+- ★ [[giftly-mopqin]] — Credly is a Community-NFT-as-a-service platform powered by Polygon, providing an easy way for web3 c
+- ★ [[degenjack]] — DegenJack is a smart contract that gives users the chance of multiplying their MATIC holding by up t
+- ★ [[velvet-capital]] — Velvet.Capital - a cross-chain DeFi Asset Management protocol that helps people & institutions creat
+- ★ [[eden-protocol-of-developer-dao]] — Eden will be the world's opportunity protocol, providing a place where everyone can grow through wor
+- ★ [[pixurate]] — It is a transparent, fake-proof review system with high engagement on blockchain. It generates AI-po
+- ★ [[voka-ai-protocol]] — VOKA AI Protocol is an 3D Avatar model generator with support for smart contracts which enable copyr
+- ★ [[friendly-feud]] — An on-chain multiplayer polling game where you try to guess what the other players will choose for a
+- ★ [[transfer-safe]] — TransferSafe brings safe peer-to-peer two-step transfers to the Polygon network.
+- ★ [[blocksurance-v2]] — We provide tokenized asset insurance. Our mission is to help investors keep their DeFi investments s
+- ★ [[robinmania]] — Robin Mania is a community driven 2D multiplayer RPG game combining adventure, action and story into
+- ★ [[contractswap-mopc8l]] — ContractSwap is a new web3 tool that simplifies the trading of smart contracts, anyone who wants to 
+- ★ [[crystl-finance-h0jn8s]] — Crystl Finance is a Multi-chain Yield Aggregator. We offer unique Vaulting methods to DeFi/Blockchai
+- ★ [[writing-monks]] — Writing Monks allows DAOs to manage their twitter account in a decentralised way. Every DAO member c
+- ★ [[liquidation-protector]] — Liquidation Protector is a Knock-In Option protocol. If the underlying asset price hits the barrier,
+- ★ [[everyday-avatar-collections]] — A dynamic NFT like a paper doll, where you can own and swap all the clothes and accessories, on-chai
+- ★ [[web3-connector-ct-js-module]] — Module provide connection with Metamask wallet for ct.js game engine. You can sign transactions, cal
+- ★ [[olympus-protocol]] — Activating web3 communities IRL through an augmented reality protocol
+- ★ [[pymatic]] — Python port of matic.js
+- ★ [[hyperdapp]] — HyperDapp is a browser developer tool that empowers anyone to instantly create & deploy verifiable f
+- ★ [[keysafe-u7lsf0]] — Keysafe protocol is the missing layer between Web2 and Web3 that connects Web2 and Web3 accounts in 
+- ★ [[polyventure-redacted]] — Retro adventure game in which the user is trapped inside a simulation.
+- ★ [[metagymland-ux-and-ui]] — Smart Fitness and wellness platform for a decentralized world. A virtual gym where you can actually 
+- ★ [[usepay]] — 1st e-Commerce Dapp for WEB3 users UsePay was created for liberating business deals for WEB3 users a
+- ★ [[a3s-protocol]] — First transferable address for Web3.0. Trade, borrow or escrow your address securely.
+- ★ [[wink-financial]] — A Web3 Payroll & Treasury Management solution for web3 companies. Our mission is to empower DAOs, bl
+- ★ [[weave-financial-j1b4dq]] — Empower DeFi users to be able to automate, enhance and optimize their yield farming like never befor
+- ★ [[web3-meetup]] — Organize a meetup and earn from participants' social interactions.
+- ★ [[liminal-market]] — Bridges the stock market to the blockchain world, allowing users to buy & sell stocks using their wa
+- ★ [[nomis-n1p0cd]] — Nomis is an open-source protocol that helps developers both to build better DeFi producst, and to ba
+- ★ [[your-first-perpetual-nft-exchange-fixel]] — Perpetual NFT Exchange on Polygon
+- ★ [[slise-o2kqn3]] — We help Web3 creators to collect and analyze their user data (social + on-chain activity) to know th
+- ★ [[rakugaki-y752l9]] — Rakugaki is saving graffiti services using IPFS and Polygon blockchain. We can simply take a graffit
+- ★ [[decent-poems]] — Words are drawn. Verses are written. Poems are created. NFTs are sold. Authors are paid. Decent Poem
+- ★ [[war-alpha-metaverse-v2]] — WarAlpha is a space shooter game on Polygon with upgradable NFT spaceships and a built-in DSL for yo
+- ★ [[mothora-trjx72]] — Mothora is a web3 game of persistent large-scale Faction vs Faction vs Faction (iFvFvF) battles wher
+- ★ [[cozyverse-fully-on-chain-community-games]] — The Cozyverse is an ecosystem of fully on-chain games. For Polygon Summer 2022 BUIDL IT, we built al
+- ★ [[toolblox]] — No-code blockchain app maker. Turn any business process into a smart contract.
+- ★ [[finity-ui]] — Web3 component library for TailwindCSS based on Finity Design System💜
+- ★ [[universal-adapter-protocol]] — Make trustless agreements using only JavaScript. Access data from any Web 2 resource to calculate ho
+- ★ [[pollen-protocol]] — OpenZeppelin for the Lens Protocol
+- ★ [[0xdeadlist]] — 0xDeadList collects the "dead" address with leaked private key. Users lock/bury wallet and get NFT f
+- ★ [[dropthebit]] — Distribute your tokens (FT & NFTs) without needing their wallet addresses with a claimable link
+- ★ [[polypos]] — Salespage creates a Point of Sale (POS) management platform built on Polygon smart contracts to enab
+- ★ [[perkable]] — We are using web3 to create the next generation of cookies (not the ones you eat!)
+- ★ [[blockswanfamily]] — BlockSwan Family is a decentralized non-custodial digital services marketplace combined with a commu
+- ★ [[wisp-m0l5bi]] — Turn your public wallet into a private bank.
+- ★ [[pecunia-qatynj]] — pecunia enables safe and secure cryptocurrency estate planning using ZK Snarks and Chainlink Keepers
+- ★ [[walletchat-1y2tr9]] — Wallet-to-wallet chat program, offering API integration as well. We use a mix of web2 and web3 for t
+- ★ [[endless-place]] — A golden ring with a message stored forever.Record your voice, host the message on IPFS, mint it as 
+- ★ [[nftkastle]] — NFT marketplace
+- ★ [[omnisea]] — Omnichain Router - aggregates many cross-chain messaging protocols - LayerZero, Axelar Network. Omni
+- ★ [[peanut-designer-social-network]] — Peanut is a web3 social network for designers to share, promote and monetize their design and artwor
+- ★ [[donate3]] — A decentralized donation platform where users can create entries for gathering funds and donate othe
+- ★ [[reverelabs-dzpu4k]] — Building No-Code Smart contract-based escrow services to bridge the trust gap in the gig economy.
+- ★ [[kalvi]] — Incentivizing learners by streaming rewards
+- ★ [[moog3]] — Moog3 is the first web3 platform focused on creation, connecting people from all over the world to b
+- ★ [[nftdocket]] — NFTDocket is a Decentralised Warranty Issue platform that can be used by sellers to dispatch their w
+- ★ [[map3-protocol]] — Map3 helps users locate crypto friendly businesses near them, and encourages vendors to automaticall
+- ★ [[forever-wv3pie]] — Storage web application running on top of Polygon testnet that uses IPFS protocol for storing files 
+- ★ [[social-blocks]] — The world's first Community-driven, Creators Oriented Social media platform.
+- ★ [[falcor]] — A no-loss donation protocol
+- ★ [[nft-me]] — Mint NFTs of selfies captured from your webcam
+- ★ [[postthread-gi7brt]] — PostThread is a web3 social media app that rewards it users instead of extracting from them. To do t
+- ★ [[bestbid]] — The world's first sealed bid nft platform with the power of zero-knowledge proofs.
+- ★ [[diversehq]] — Community Building PLatform on Chain
+- ★ [[deqity]] — Buy and Sell Tokenized Equity On Chain
+- ★ [[creatorlabs]] — Support you favorite content creators and earn rewards
+- ★ [[learnify-8d7t64]] — An education platform allowing projects to outsource and incentives for the creation of high-quality
+- ★ [[darchive-128hoy]] — dArchive (Decentralized Archive) is a decentralized application to create an archive of web pages th
+- ★ [[polyfaucet]] — Devs need test eth to play around with. We drop NFT art to people who give test eth to testnet fauce
+- ★ [[p2ppredict-prediction-market]] — A prediction market where everyone can create or take markets in a p2p fashion. Every position is re
+- ★ [[stockx3]] — Sell anything in Web3 World with token gating: Gaming, Animation, Audio, Comics & Graphic Novels, De
+- ★ [[picasarts-io-on-polygon-the-defi-nft-marketplace]] — The Defi NFT Marketplace on Polygon to mint, sell, buy NFTs and Loan, Lending Borrowing, Staking, Lo
+- ★ [[tbd-pdzb2k]] — PolyCare is a donation & fundraising app to promote old age homes to provide daycare/childcare servi
+- ★ [[gum3road]] — ERC1155 NFT platform where users can mint and sell any file!
+- ★ [[chainfiles-notarize-private-public-files-on-polygon]] — A live dapp to notarize public or private files on Polygon mainnet for free via SHA-256 and IPFS.
+- ★ [[3card]] — A social platform thats cover all you need in web3
+- ★ [[minememories]] — Mint NFTs on Ethereum, Binance, and Polygon with just one click
+- ★ [[decentragram-decentralized-instagram-clone]] — Decentragram is a blockchain-based image-sharing website like Instagram & other users can give tip t
+- ★ [[caze]] — Caze is a decentralised creator centric platform to support your favourite creators on a subscriptio
+- ★ [[scientia-dao]] — Scientia DAO is the first DAO Community for Scientists & Researchers. Researchers from around the wo
+- ★ [[solarzu-dapp]] — NFT Buy now pay later finance protocol
+- ★ [[quest-chains]] — We are building a gamified learning / web3 onboarding platform which through questing structures rew
+- ★ [[medo-gyc5ha]] — MeDo - is a decentralized freelance platform where users can post paid tasks and other users can ear
+- ★ [[packway]] — Buy into multiple lotteries and get the chance to win stupid prizes.
+- ★ [[zero-bazaar]] — Bazaar zero is multi-channel interoperable digital assets marketplaces that allow users to deal dire
+- ★ [[rivel-io]] — A set of tools to make recurring payments in crypto easy.
+- ★ [[bitkes]] — BitKES is an overcollateralized stablecoin protocol that controls the bKES token which uses both Mat
+- ★ [[soldier-ant]] — An epic web3 game that mimics the bio-inspiration of soldier-ant for food hunt.
+- ★ [[instahome]] — Realindex is a synthetic asset protocol that brings off-chain real estate data on the blockchain and
+- ★ [[stark-protocol]] — A defi protocol that enables everyone to borrow with no collateral.

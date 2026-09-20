@@ -1,0 +1,49 @@
+---
+slug: "kigaru-talks"
+url: "https://devpost.com/software/kigaru-talks"
+title: "Kigaru Talks"
+hackathon: "RevenueCat Shipaton 2025"
+organization: "RevenueCat"
+winner: true
+words: 1351
+team_size: 2
+has_repo: false
+has_live: true
+has_video: true
+tags:
+  - "project"
+  - "mechanism/realtime_stream"
+  - "mechanism/voice_speech"
+  - "domain/education"
+  - "domain/immigration_refugee"
+  - "domain/labor_employment"
+  - "user/educator_student"
+---
+
+# Kigaru Talks
+
+> Kigaru Talks is the app that gets you speaking Japanese with confidence. It’s a safe space to practice, chat freely, and build your skills without pressure.
+
+[Devpost](https://devpost.com/software/kigaru-talks) · hackathon [[RevenueCat Shipaton 2025]]
+
+## Facets
+
+**mechanism** [[realtime_stream]] [[voice_speech]]
+**domain** [[education]] [[immigration_refugee]] [[labor_employment]]
+**user** [[educator_student]]
+
+**stack** appsflyer, elevenlabs-scribe, firebase, firebase-analytics, firebase-authentication, firebase-crashlytics, firestore, flutter, gemini, google-cloud-services, livekit, mixpanel, onesignal, openai
+
+## How they structured the write-up
+
+- inspiration
+- what it does
+- how we built it
+- challenges we ran into
+- accomplishments that we're proud of
+- what we learned
+- what's next for kigaru talks
+
+## Body
+
+Kigaru Talks - Feel Confident Speaking Japanese Inspiration After teaching Japanese to over 100 American military-affiliated members stationed in Japan, I noticed a clear pattern: many understood the grammar and vocabulary, but froze in real conversation. They didn’t have enough chances to speak in a safe, emotionally supportive environment even though they were already living in Japan. They weren’t struggling with knowledge, they were struggling with confidence. So I wanted to go beyond what I could offer in one-on-one lessons. I wanted to build something bigger, something scalable, accessible, and designed with my community in mind. This app is also deeply rooted in my own language journey. I’ve learned five languages, and I know how important emotional safety is when trying to speak. The name Kigaru (気軽) means “lighthearted” in Japanese and that’s exactly what I wanted to build: a space where learners feel lighthearted enough to try, stumble, grow and gain confidence. What it does Kigaru Talks helps learners actually speak Japanese through features designed for confidence and personalization: Adaptive Conversations: User picks their level based on the JLPT and Kigaru adapts at the right difficulty. Practice Anytime: Practice real conversations and get instant, natural replies without having the hassle of scheduling. Gentle Corrections through flashcards: Mistakes detected during conversations are turned into personalized flashcards that can be reviewed later. Speed Control: Adjust how fast Kigaru speaks, to practice at your pace. Memory: The app remembers what the users have shared, making each conversation feel more personal and connected. Safe Space: The app does not grade or pressure users. It's function is to be a Japanese companion that builds confidence. How we built it A big part of Kigaru’s story is the partnership between myself and my co-founder. My name is Aika May Talavera, and I come from the teaching side. As an American military-base Japanese language teacher in Japan who speaks five languages, I’ve spent years working directly with learners. I’ve seen their fears. I've had many students students who could pass exams but freeze the moment they had to speak. My focus has always been on finding ways to make speaking feel safe, natural, and possible. My co-founder, Shashwat Aditya, brings the technical side. He’s an IIT BHU graduate and the ex-CTO of Kohbee in India, with deep experience building voice products for language learning. We combined what I saw in the classroom with his technical skills, and together we built Kigaru Talks into a product that could actually grow beyond my classroom. We combined deep field expertise with proven technical execution to create Kigaru Talks: Real-time speech-to-text for seamless conversations. Tuned language models aligned with JLPT levels so N5 truly feels like N5. Carefully designed prompts that encourage rather than overwhelm. Memory that makes each conversation more personal and connected. Gentle corrections that turn mistakes into reviewable flashcards for later reflection. This balance, my role as the voice of the learner and his role as the builder who makes that voice heard is the engine behind everything we’ve accomplished so far. Challenges we ran into During our beta test, more than 100 users onboarded within weeks, and one issue stood out: many froze in their very first conversation and ended it early. We conducted in-person testing to understand this problem and there we discovered that it wasn’t just because of nerves or a lack of knowledge. The AI’s questions were simply too difficult, even when the user had chosen “Beginner.” The vague Beginner-Intermediate-Advanced levels didn’t match their real ability, and because of that many gave up in the conversation. We solved this by rebuilding everything around the JLPT framework. Instead of picking a vague “Beginner,” users could now select JLPT N5, and the AI would stick strictly to that level. This led to conversations becoming achievable, learners speaking longer, and returning back to our app. But even with this fix, some learners felt that “N5” still didn’t feel like N5. That’s when we realized that we couldn’t rely on the JLPT because the JLPT can certify someone as “proficient,” yet it never tests speaking. And that gap explained why learners were still struggling. Many students arrive in Japan with JLPT certificates in hand, but when it comes to everyday conversations, they are lost. We realized that this wasn't just an individual challenge, it was actually systemic. In 2024, Japan accepted over 250,000 foreign workers. Many arrived with JLPT certificates but couldn’t communicate in daily life. Our fieldwork in Vietnam and Nepal revealed the same pattern: schools teach students to pass tests, the test certifies them, immigration accepts them, but they are actually not capable of speaking. That’s when it clicked. Kigaru Talks wasn’t just about helping learners get past the nerves of a first conversation. We’re tackling a nationwide gap: the disconnect between certified proficiency and real-world communication. That’s the real challenge we are set out to solve. Accomplishments that we're proud of Our greatest accomplishment is the community support we’ve had. From the start, we built Kigaru Talks with a simple mindset: launch first, learn fast, and scale what works. And building in public is what fueled that speed both online and offline. Online, it began with just 10 students. Then a single TikTok helped us grow to 100 beta testers, and within two months we had 258 sign-ups. Seeing learners come back again and again showed us that we were solving a real problem. Being featured in Stars and Stripes Newspaper gave us even more encouragement, knowing our story mattered beyond our immediate circle. And when we got our first paid user, we doubled down on this mindset by creating a Slack channel where learners could be directly involved in the process. Offline, we’ve been just as proud of the connections we made face to face. We visited language schools in Nepal and Vietnam to listen to teachers and students directly. I also returned to my own DoDEA school in Japan, which felt like bringing the journey full circle. And now, we’re preparing to share Kigaru Talks with even more people by demoing at Ramen Tech and pitching at Manabu Hubs in Fukuoka. What makes us proud isn’t just the milestones but the support and trust we’ve felt along the way. Kigaru Talks has grown with its community, both online and in person, and that’s what gives us the confidence to keep building. What we learned The past two months showed us the power of building in public. RevenueCat Shipaton pushed us to move faster, prioritize better, and transform Kigaru from just an idea into something real, driven by the feedback and support of our community. Community feedback, especially messages on TikTok, shaped the steps we took. Building in public made us take responsibility for those voices and turn them into real features. It gave us a user-first mindset, and along the way, it clarified our mission. We realized that our mission isn’t only about improving user experience. It’s about solving a systemic gap: the JLPT may certify knowledge, but it doesn’t measure speaking. That’s why so many learners still struggle, and that’s the problem Kigaru is here to solve. What's next for Kigaru Talks Our immediate focus is on showing Kigaru to the world. First, we’ll be hosting a booth at Ramen Tech and pitching at Manabu Hubs in Fukuoka, Japan. After that, we’ll take time to focus solely on improving the app, refining onboarding, conversations, and user experience to perfect it in the Japanese language. Next, we’re planning to scale in Japan, collaborating with schools and affiliates to reach more learners who need a safe space to practice speaking. Looking further ahead, we see Kigaru growing beyond Japanese. The same challenge exists in other languages tests like TOPIK in Korean and HSK in Chinese certify knowledge but don’t measure speaking. Our mission is to bridge that gap, one language at a time. Kigaru Talks doesn’t stop at Shipaton. What started as a fast build is only the beginning. Our vision is to scale first across Japan and then to every place where proficiency tests fail to measure what matters most: real communication. <div

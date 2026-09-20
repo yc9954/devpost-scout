@@ -1,0 +1,52 @@
+---
+slug: "icp-squad-nft"
+url: "https://devpost.com/software/icp-squad-nft"
+title: "dSquad"
+hackathon: "Supernova "
+organization: "DFINITY Foundation"
+winner: true
+words: 1515
+team_size: 4
+has_repo: true
+has_live: true
+has_video: true
+tags:
+  - "project"
+  - "domain/developer_tools"
+  - "domain/education"
+  - "domain/finance_payments"
+  - "domain/transportation"
+  - "user/developer"
+  - "user/educator_student"
+  - "substrate/financial_record"
+  - "substrate/web_dom"
+---
+
+# dSquad
+
+> A new chapter of the Internet is opening. Start by minting your avatar, then take part in the adventure and get rewarded as your explore a new wave of decentralized applications.
+
+[Devpost](https://devpost.com/software/icp-squad-nft) · hackathon [[Supernova]]
+
+## Facets
+
+**domain** [[developer_tools]] [[education]] [[finance_payments]] [[transportation]]
+**user** [[developer]] [[educator_student]]
+**substrate** [[financial_record]] [[web_dom]]
+
+**stack** motoko, svelte, typescript
+
+## How they structured the write-up
+
+- inspiration & vision
+- getting started with dsquad
+- how we built it
+- challenges we ran into
+- accomplishments that we're proud of
+- what we learned
+- what was built during the supernova hackathon
+- what's next for dsquad ?
+
+## Body
+
+Banner Logo Avatar sample (1) Avatar sample (2) Legendary accessory (sample) Avatar sample (3) GIF Animated mask Inspiration & Vision The NFT industry is full of projects with capped supplies that exclude users and assets which only benefit the dev team of a single dapp. We wanted to create something which changed this completely: an NFT project that is accessible to everyone and focused on gamifying the entire Internet Computer ecosystem. Anyone can join dSquad by minting a personalized Avatar for a low flat rate of 1 ICP, and as long as they keep this NFT in their wallet it gives them a chance to earn prizes in monthly airdrops (both with prizes from our collection and partnering projects) as they use the Internet Computer. They can complete "missions" on various dapps across the ecosystem and engage with other projects to increase their rank on a leaderboard and improve their odds for winning prizes. Our goal is to welcome new users to the Internet Computer ecosystem and directly incentivize them to explore all the exciting things it has to offer! Getting Started with dSquad 1) Create : Design your own avatar, which you'll be able to use for completing missions and earning tokens and NFTs. You will be able to customize all physical attributes of your avatar. 2) Accessories : Wanna show your own style to the squad ? Collect materials and assemble them through recipes to create accessories. Equip the accessories on your own avatar to earn more, gain bonus and indeed... show off! 3) Engage and earn : Discover a new wave of decentralized applications and get rewarded as you explore the Internet Computer ecosystem. 4) Events and legends : Participate in events and contests with the community and make your way to becoming one of the legends and earning special prizes! 5) Projects : Are you an ICP project looking for more user engagement ? We can incentivize our users to join your community, follow your social media accounts, and regularly engage with your app. Grow your community and educate people about your application through missions by integrating with our reward system. How we built it We built the backend using Motoko and using the technologies and best practices of the ecosystem (integration with Entrepot, using CAP to record history of transactions, EXT standard for the NFT, integration with wallets) We built the frontend using Svelte. We are using Canistergeek to monitor our canister fleet and we used the Invoice canister from Dfinity as an huge inspiration for our own payment system. Challenges we ran into The most challenging part of our project has been assembling the artwork elements to create a dynamic rendering engine for avatars. We had to make sure that for every combination of avatar properties (hair, clothes, body, nose, mouth...) & accessories the result was clean and conformed to the artist intentions. This led to several rounds of discussion between the developers side and the artist. For instance we had to ask our artist to create special hairstyles that would automatically replace the default one if an avatar is equipped with a hat, that way the quality of the final design is improved. The gameplay we are building is already pushing the limits in term of the current possibilities of the IC (cycle limit execution per round, canister storage, delay with Intercanister-calls..). It requires a proper design, we need to gather information across many canisters (some of them we don't have control over because they are owned by external dApps). We are currently creating a standard for other apps to easily plug into our ecosystem. We also need to solve problems related to the identity providers used by our users and make sure we can respect privacy but gather enough information on our users so that we can truly rewards the most involved members. Finally, we had a huge challenge with processing payments on the IC due to the lack of notify interface into the ICP ledger canister. Fortunately, after several trials and with the help of the invoice canister we now have a custom system for processing fees (during avatar minting and accessory minting) that is very reliable and acceptable in terms of user experience and speed. We also keep track of all the information related to payments attempts so even in the very rare scenario where a payment doesn't go through we have everything available to process to fast refunds for impacted users. Accomplishments that we're proud of The quality of our artwork, and our dynamic & multi-layers rendering engine for avatars & accessories. We have created branded accessories in partnerships with two famous NFT projects on the IC (ICPunks & Cronics). The design of those branded accessories has been made in the spirit of each project. Those accessories will require special materials that can be earned trough Cronic game and ICPunk (now Gigaverse) marketplace. The gameplay we have designed and how it uses the properties of the IC to create a game that has never been possible before. Our engagement mechanisms would be very complicated to build on a platform where the transactions and activity of dapps is not happening on-chain. We need to be able to trust the recorded informations and access it directly on-chain. Also having a standardized API (through the system of canister) help to build a mental model around inter-dapp communication. We are also very proud of the community we have built and the diversity of initiatives we are creating. We hosted a few months ago the first bootcamp for the Internet Computer: the Motoko Bootcamp. During one week we released resources and exorcises for students, and with the help of experienced members of the dev community we organized lectures and workshops on how to build on the IC. At the end of the event, we used our NFT project to reward contributors. 1) The students that validated the final test have been airdropped special accessories they can equip on their avatar and earn rewards with! 2) The mentors have been rewarded by special Legendary Avatars made especially for them with the help of our artist. We want to keep going into this direction and make sure the project is used to connect people and create value trough events (education, hackathon, presence on social media). What we learned A lot of lessons have been learned on the technology needed to build on the Internet Computer and the best design practices (canister architecture, security practices, standards, and libraries). Obviously we also learned a lot on the artwork side (we used SVG) and how to properly communicate between artists and developers. It is important for both parties to understand how the other one is working and what are the aspects each one can act on so as to make the work easier and reduce the amount of time spent adapting the technology to the artwork (or the other way around). We also gathered important insights on how to properly design a digital economy, how to make sure that we create engagement and excitement around it. Each accessory requires materials to be created. Materials are the raw pieces of our economy and will be airdropped monthly as rewards. We need to make sure that the proportion of airdropped materials compared to the number of active players stay in an acceptable range to avoid hyperinflation or intense deflation that would hurt the economy. We are still learning, our community, the platform and the tech is moving fast and improving on a daily basics. What was built during the Supernova Hackathon Before the Hackathon we released only 9 accessories, 6 types of materials, basic Avatar minting, and functions for Accessory minting (though this feature didn't have a UI and wasn't public). This was just the most basic artwork, most basic minting, and a landing page with a bit of information. During the dates of the Hackathon we: 1) Defined and determined the Accessory Minting recipes, as well as the reward algorithm and other economy balancing mechanisms. 2) Implemented the features of the leaderboard, the monthly contests, the points system, the user profiles, missions, economy statistics, CAP activity tracking, as well as started work on the SDK. 3) Created a completely new website, a new brand (renamed the project), and filled the new website with information. This Also included building UIs for all the new features, as well as enhanced UIs and workflows for Avatar minting, equiping/unequiping/previewing accessories, and minting accessories. 4) We refined and polished the payment processing process. 5) We released 20 pages worth of documentation organized within an easy to navigate Gitbook covering every aspect of the project so users can dive right in. This work completes our MVP, with all external onboarding materials polished and gameplay features ready to be used! What's next for dSquad ? Release of the SDK to integrate more project into our engage-to-earn and missions ecosystem. Release of Legendary Accessories and raise capital to expand the team. Season 1 : Branded merchandises, improved artwork, more community events and SDK for mission and action tracking across our partners dapps. <div

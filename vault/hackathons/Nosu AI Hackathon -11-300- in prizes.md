@@ -1,0 +1,141 @@
+---
+hackathon: "Nosu AI Hackathon $11,300+ in prizes"
+organization: "nosu"
+projects: 109
+tags:
+  - "hackathon"
+---
+
+# Nosu AI Hackathon $11,300+ in prizes
+
+nosu  ·  109 collected projects
+
+## What this field was made of
+
+- [[realtime_stream]] × 53
+- [[web_dom]] × 32
+- [[educator_student]] × 30
+- [[structured_db]] × 29
+- [[video_visual]] × 29
+- [[education]] × 28
+- [[developer_tools]] × 22
+- [[code_repository]] × 14
+- [[document_pdf]] × 14
+- [[vision_ocr]] × 13
+- [[developer]] × 13
+- [[finance_payments]] × 11
+- [[geospatial]] × 10
+- [[sensor_telemetry]] × 9
+- [[researcher]] × 8
+
+## Projects
+
+- ★ [[fidz-the-future-of-education]] — 1 in 6 children is neurodivergent. Using computer vision and NFC, we create interactive tools for pe
+- ★ [[lockin-ai]] — Track your eyesight and keep yourself off your phone!
+- ★ [[seedofcode-ai]] — Empower your learning journey with SeedofCode AI! An AI-driven platform that creates personalized co
+- ★ [[pent]] — No Money, No Problem
+- ★ [[foicedetect]] — Fake Voice Detect uses Nebius AI to spot deepfake voices, protect against scams, offer cybersecurity
+- ★ [[thought-coder]] — Thought CODER: Transform your ideas into reality—quickly code your thoughts into innovative solution
+- ★ [[melos-ai]] — Upload images and get music that matches the vibe of that imgae.
+- ★ [[lingling-ai]] — AI music tutor that analyzes your playing with a vision and audio model, offers advice, answers ques
+- ★ [[musicteacher]] — Welcome to MusicTeacher, your AI-powered music learning companion! This app leverages the power of a
+- ★ [[evacuaid-e0wr1h]] — EvacuAid is the ultimate tool to stay informed and prepared during natural disasters. Simply enter a
+- ★ [[educonnect-tobkpq]] — EduConnect: AI-Powered Learning Buddy. Empowering Minds, One Personalized Study Plan at a Time!
+- ★ [[thoughtscribe]] — ThoughtScribe helps you organize thoughts, narrate notes, and vent frustrations, combining productiv
+- ★ [[mindfulmoments-a-mental-wellness-application-8xsy3d]] — Mindfulness Hacks is an inclusive hackathon where students, coders, and mindfulness enthusiasts coll
+- ★ [[gitgenius]] — GitGenius: Simplifying Collaboration, Enhancing Productivity, Empowering Developers.
+- ★ [[visionary-health-tracker]] — Empowering your health journey with real-time insights and personalized guidance.
+- ★ [[air-draw]] — An interactive AI demo to inspire K-12 students about AI. Think Google’s 'Quick, Draw!' game, but in
+- ★ [[lucid-lens]] — This is an AI powered web app that allows users to input a description of their dream and get an AI 
+- ★ [[eduai-qfx1r6]] — EduAI: Revolutionizing Learning with Interactive AI-Powered Tools for Smarter, Engaging Education.
+- ★ [[emotion-based-music-playlist-generator]] — The Emotion-Based Music Playlist Generator is an AI-powered platform that uses facial expression rec
+- ★ [[focus-flow-fntpxk]] — Your Personalized Path to Productivity and ProgressUnleash your potential, one flow at a time. Stay 
+- ★ [[gigglebot]] — GiggleBot is a fun web app that generates jokes and pick-up lines with an interactive swiping featur
+- ★ [[ai-gf-that-never-listens]] — Had your way easy with girls? Well you're in for an experience! This is your AI gf that never listen
+- ★ [[wildfire-insurance-claim-tracker]] — Streamline your wildfire insurance claims with easy tracking and secure document uploads.
+- ★ [[nexu]] — Nexu will recieve scam calls targeting vulnerable individuals , and try to waist their time by telli
+- ★ [[billscan]] — Never be late to pay a bill again
+- ★ [[meme-gen-ai]] — Text in, memes out
+- ★ [[feel-it]] — Your emotions, your soundtrack
+- ★ [[cryptography-encrypted-and-decrypted-by-coded-ai]] — Using AI I have coded myself, users can input any message and any encryption key they want, and they
+- ★ [[project-quench]] — Project Quench is a wildfire app showing real-time heatmaps and danger zones, guiding civilians to s
+- ★ [[twinify-your-ai-powered-digital-twin-for-whatsapp]] — Your AI-powered digital twin for WhatsApp! It mirrors my personality, uses my voice, and engages in 
+- ★ [[name-5ftgnj]] — Project Pæmon is a Pokémon-inspired experience that curates your own unique companion. Aka your very
+- ★ [[contentmind]] — Turn your ideas into engaging content with ContentMind, where we meet your creative vision, empoweri
+- ★ [[ctrl-alt-design]] — Speak, type, or imagine—our AI transforms your ideas into stunning, responsive UIs in seconds. From 
+- ★ [[catloll]] — Purrfect loans. Purrfect homes.
+- ★ [[adaptai]] — Adapt.AI: Empowering personalized learning through AI, transforming education for students with lear
+- ★ [[cybersecurity-music-recommender]] — To lock in and smash your cybersecurity work tasks with the power of music! Let's get it!
+- ★ [[astronaut-hand-health-monitoring]] — We developed a system that tracks hand metrics such as grip strength, precision, and tremor analysis
+- ★ [[rotcipe]] — BrainRot AI Recipe Genarator
+- ★ [[barry]] — CodeSieve: Filtering Redundancy, Streamlining Workflows with Machine Learning
+- ★ [[smartblock]] — SmartBlock leverages AI to keep you accountable and in control of your productivity. Unlike traditio
+- ★ [[tune-trivia]] — Think You Know Music Genres? Let AI Put Your Knowledge to the Test!
+- ★ [[sagewing-maximus]] — Unleash the power of AI to supercharge your creativity and productivity with personalized companions
+- ★ [[reactgen]] — A tool to create react components for any prompt basically a React AI editor meant to speed up your 
+- ★ [[homeworthai]] — A web app that helps California fire victims jog their memory to make insurance claims
+- ★ [[mediconnect-mwh96l]] — AI-powered healthcare platform that streamlines patient care with personalized insights, secure data
+- ★ [[tacult]] — An Alpha-Zero like AI to play Ultimate-Tic-Tac-Toe, complete with customized gym environments, vecto
+- ★ [[moodify-iwq8ug]] — Meet Moodify - your emotional companion UI and cli version
+- ★ [[aicademix]] — Empowering Learners with AI: Smarter, Faster, and More Engaging Education.
+- ★ [[catbot-ud3rwp]] — A chatbot that does it all but, most importantly, sends you adorable real cat images whenever you me
+- ★ [[readmeplease-ai]] — READMEplease.ai: Effortlessly generate README.md files for your projects with embedded text and rele
+- ★ [[verbalmate-ai]] — Elevate Your Conversation Skills with AI
+- ★ [[finplay-tmihdn]] — "Hi! Ready to master your finances? Meet Finplay – your guide to budgeting, saving, and investing wi
+- ★ [[talktuahfutureyou]] — Meet your future-self 10 years from now to get financial insights.
+- ★ [[ai-assistant-platform]] — Unified AI Assistant: A modern web platform offering intelligent conversations, document insights, a
+- ★ [[prioritizer-higher]] — A todo list that leverages AI to help you on which tasks to prioritize!
+- ★ [[glowai]] — GlowAI is an innovative project that utilizes AI to analyze your face for skin conditions such as ac
+- ★ [[bio-mio]] — Bio Mio is a biomimicry app that helps you relax and de-stress using landscape photos.
+- ★ [[ai-powered-student-success-prediction-system]] — Empowering Educators with AI to Predict and Enhance Student Success.
+- ★ [[nobeeswax]] — A one-stop solution to find the best coupon codes and even generate your own! And guess what? We don
+- ★ [[swot-up]] — Swot-Up is your AI-powered study buddy that turns text and PDFs into quick, interactive flashcards i
+- ★ [[travel-companion-chatbot]] — Your Personalized Travel Buddy: Unique, Fun, and Creative Adventures Tailored Just for You
+- ★ [[ai-education-tool]] — This is a tool for education using AI.
+- ★ [[travelwise]] — AI Travel Assistant
+- ★ [[sakshatkar]] — Unlock your software engineering career with Sakshatkar! Get personalized help with LeetCode, Hacker
+- ★ [[wild-safe]] — Your guide to stay safe during wildfire emergencies
+- ★ [[zensnap]] — An AI-powered tool that turns your ideas into stunning images using Stable Diffusion and automatical
+- ★ [[finintel]] — FinIntel is a comprehensive financial management platform that combines personal finance tracking, i
+- ★ [[summaraiser]] — "SummarAIser is an AI-powered tool that quickly condenses study materials into clear summaries, savi
+- ★ [[vsna]] — Your Personalized Career Mentor – Guiding Your Path to Success, One Step at a Time!
+- ★ [[oiia-spinning-cat-lang]] — Spinning Cat Lang: A playful and esoteric programming language interpreter that brings the whimsical
+- ★ [[studymate-xutj47]] — StudyMate connects students with shared interests for real-time virtual study sessions, combining vi
+- ★ [[thinktankedu]] — ThinkTankEDU: Revolutionizing group learning with AI-powered collaboration, gamification, and creati
+- ★ [[posture-ai-si5kw1]] — This AI feature allows the device to scan the screen for any food or meal, then get the ingredients 
+- ★ [[read-this-next]] — Having trouble finding the next book to read? Let AI analyze your tastes and receive book choices ta
+- ★ [[ai-space]] — Revolutionize work with our all-in-one workspace! Host meetings, brainstorm on a dynamic canvas, man
+- ★ [[unimate-7s9kn2]] — Your ultimate university companion.
+- ★ [[ai-study-helper-vkmr9z]] — From PDFs to Insights, Instantly!!!
+- ★ [[ai-teaching-assistant-qkzw2d]] — OG GPT wrapper
+- ★ [[financewise]] — Your Guide to Smarter Financial Decisions and Brighter Tomorrows
+- ★ [[hackmate-dbruy5]] — Your ultimate companion for mastering programming and solving problems like never before!
+- ★ [[ai-powered-gas-and-carbon-mgmts-system-of-industry-chimneys]] — The increasing industrialization of the modern world has propelled technological growth but has also
+- ★ [[codecompass]] — Struggling with LeetCode? Meet CodeCompass, your AI assistant that helps you through some of LeetCod
+- ★ [[pluseai]] — CatAI: A powerful tool to inspect and analyze URLs, providing detailed SEO insights, metadata analys
+- ★ [[agastya-ai]] — Precision Agriculture with Multi-Language Support, Intelligent Crop Insights, and Advanced Image Rec
+- ★ [[hello-kitty]] — Cat Memes, Fun Facts, and More – Prepare to LOL Your Tail Off!
+- ★ [[ooiiaaooiiaa]] — Spin to the Beat: A dynamic 3D cat that grooves with the music!
+- ★ [[phishguard-ai-powered-suspicious-link-detection-tool]] — "Stay safe online—Detect and avoid phishing scams before they catch you!"
+- ★ [[phishy-d8ua1t]] — Protect yourself from phishing attacks without the complexity. Phishy provides real-time phishing de
+- ★ [[wecare-t6guyj]] — WeCare is a user-friendly and comprehensive medical consultancy website that connects users with exp
+- ★ [[chatpal]] — ChatPal: Your Compassionate AI Assistant for Mental Health Support and Well-Being
+- ★ [[find-earn]] — Lost it? Found it? Get Connected, Verified and Rewarded. Connect with finders and recover your lost 
+- ★ [[finance-stuff]] — Recipes Made Simple, Delight Found Instantly!
+- ★ [[quickotp]] — QuickOTP is a Chrome extension that simplifies login by instantly extracting OTPs from your email fo
+- ★ [[aiconomics]] — AIconomics: Simplifying Economics, Empowering Minds.
+- ★ [[syllabify]] — Transform Class Syllabus into Calendar Events with AI. Extract dates, deadlines, and events from you
+- ★ [[ultimate-cat-chaos-dimension]] — 🐱✨ A purr-fectly fine cat universe that reflects one inner state of mind.
+- ★ [[nethenoob-spinning-cat]] — Empowering learning with AI: Upload, Ask, Learn!
+- ★ [[purrfect-todo]] — Purrfect-To-Do is a dynamic and feature-rich to-do application designed to help you manage your task
+- ★ [[codeshield]] — Fortify Your Code, Secure Your Future.
+- ★ [[syncops-fo5ria]] — SyncOps: An AI-powered collaboration tool with features like data insights, idea generation, and rea
+- ★ [[vishnu-dwbykn]] — Vamshi: Your compassionate AI companion for mental well-being.
+- ★ [[ai-math-note-calculator]] — Draw, Snap, Solve – AI-Powered Math Solutions at Your Fingertips!
+- ★ [[snap-seek]] — Snap Seek is a versatile bot integrating text, image, and voice interactions & Explore advanced mult
+- ★ [[guess-the-number-challenge]] — Are you up for the challenge? Play now and share your feedback!
+- ★ [[disruptive-2rhqm1]] — Experience the future of productivity with your personal AI companion. Speak naturally, delegate tas
+- ★ [[advocaid]] — AdvocAID, a web app with a GPT-2 and sentiment analysis model, provides personalized AI-generated fe
+- ★ [[ai-interview-mocker]] — AI InterviewMocker: Your Virtual AI-Powered Interview Coach for Real-World Success!
+- ★ [[devhelpbot-ai-powered-copilot-for-devs]] — Whether you're coding or debugging. Made for developers & tech enthusiasts. Chatbot leverages GitHub
+- ★ [[vision-vi]] — Uses Vision Pro app to combine vision models, AR, AI agents and audio generation using AI, to improv

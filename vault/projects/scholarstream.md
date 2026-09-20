@@ -1,0 +1,73 @@
+---
+slug: "scholarstream"
+url: "https://devpost.com/software/scholarstream"
+title: "ss"
+hackathon: "Student HackPad 2025"
+organization: "Student Hackpad"
+winner: true
+words: 5027
+team_size: 1
+has_repo: false
+has_live: false
+has_video: false
+tags:
+  - "project"
+  - "mechanism/cross_origin_web"
+  - "mechanism/on_device_local"
+  - "mechanism/realtime_stream"
+  - "mechanism/retrieval_grounding"
+  - "domain/accessibility"
+  - "domain/developer_tools"
+  - "domain/disaster_emergency"
+  - "domain/education"
+  - "domain/finance_payments"
+  - "domain/labor_employment"
+  - "domain/mental_health"
+  - "domain/security_privacy"
+  - "domain/transportation"
+  - "user/developer"
+  - "user/educator_student"
+  - "user/legal_professional"
+  - "user/researcher"
+  - "user/social_worker"
+  - "substrate/code_repository"
+  - "substrate/document_pdf"
+  - "substrate/sensor_telemetry"
+  - "substrate/structured_db"
+  - "substrate/transcript_audio"
+  - "substrate/video_visual"
+  - "substrate/web_dom"
+---
+
+# ss
+
+> Need money for your school fee and upkeeps? ScholarStream finds immediate opportunities (scholarships, hackathons, bounties), with AI that actually understands your situation. And helps you win them.
+
+[Devpost](https://devpost.com/software/scholarstream) · hackathon [[Student HackPad 2025]]
+
+## Facets
+
+**mechanism** [[cross_origin_web]] [[on_device_local]] [[realtime_stream]] [[retrieval_grounding]]
+**domain** [[accessibility]] [[developer_tools]] [[disaster_emergency]] [[education]] [[finance_payments]] [[labor_employment]] [[mental_health]] [[security_privacy]] [[transportation]]
+**user** [[developer]] [[educator_student]] [[legal_professional]] [[researcher]] [[social_worker]]
+**substrate** [[code_repository]] [[document_pdf]] [[sensor_telemetry]] [[structured_db]] [[transcript_audio]] [[video_visual]] [[web_dom]]
+
+**stack** beautiful-soup, brave-search-api, cloudinary, devpost-api, fastapi, firebase-authentication, firebase-firestore, firebase-storage, gitcoin-api, google-gemini-2.0-flash, kaggle-api, lovable-dev, model-context-protocol, playwright
+
+## How they structured the write-up
+
+- 💡 inspiration
+- 🎯 what it does
+- 🛠️ how we built it
+- 😰 challenges we ran into
+- 🏆 accomplishments that we're proud of
+- 📚 what we learned
+- 🚀 what's next for scholarstream
+- 💭 final reflection
+- 🙏 acknowledgments
+- 🎓 one last thing
+- 🏆 scholarstream: because every student deserves a fighting chance
+
+## Body
+
+📚 AI-Powered Financial Opportunity Hub for Students in Urgent Need 💡 Inspiration March 2025. Everything fell apart. I'm Rasheed, a petroleum engineering student at the University of Ibadan, Nigeria. I was supposed to graduate in December 2025. I had a 3.4 GPA, led GDSC Mobile, volunteered as a teacher on weekends. On paper, I was the "ideal scholarship candidate." Then my family's income dropped 60%. My school fee deadline came and went. I watched it pass, helpless—sitting at home instead of in class. The Frustrating Truth I had skills to earn money. I'd been coding since 2021—React, Python, building projects for local businesses. But I didn't know opportunities existed: Never heard of Devpost , Gitcoin , or bug bounties Didn't know students were winning $5,000 in weekend hackathons Didn't know about $500 bounties for fixing bugs in open-source projects These weren't hidden—they were right there, waiting. I just didn't know where to look. The Discovery That Changed Everything After deferring my admission, I spent months exploring. I discovered an entire ecosystem: 🏆 Hackathons with $50,000 prize pools 🎓 Scholarships for first-generation students I perfectly qualified for 💰 Bounties for coding tasks I could complete in an afternoon I was angry. Why was this information so scattered? Why did I stumble upon it by accident? Then I realized: If I didn't know, how many other students are watching their dreams slip away right now? The Shocking Statistics 💵 $2.9 billion in scholarships goes unclaimed every year (U.S. Department of Education) 🌐 Billions more in hackathon prizes, bounties, competitions, and emergency grants 🎯 Tens of billions of dollars that students miss because deadlines are scattered across 10,000+ websites Our Promise ScholarStream exists because I refuse to let another student experience what I did. When you're facing a tuition deadline tomorrow, you don't need a scholarship that pays out in six months. You need to know there's: A hackathon this weekend with $10,000 in prizes A bounty you can complete today for $500 An emergency grant your university offers that nobody talks about This isn't just a project. It's personal. It's a promise. 🎯 What It Does ScholarStream is the first AI-powered financial opportunity hub designed specifically for students in urgent need. We fundamentally reimagined what a "scholarship platform" should be. Traditional platforms are databases—you search, scroll, and leave empty-handed because everything takes months. We built an intelligent opportunity engine that understands context, urgency, and personalization. 🚀 Core Features 1️⃣ Intelligent Onboarding (2 minutes) Conversational questions about your needs: "I need money urgently" vs. "Long-term planning" Collect academic profile, skills, interests, background, and location Real-time feedback: "Students with your profile typically match 120+ opportunities!" 2️⃣ Real-Time Discovery Engine While you complete onboarding, our system springs to life: 🔍 Scrapes 100+ sources : Devpost, Gitcoin, MLH, Kaggle, Scholarships.com, university financial aid pages 🔌 Calls public APIs : Devpost API (200+ hackathons), Gitcoin API (150+ bounties) 🤖 AI-enriches data : Google Gemini structures messy scraped data into clean, usable information ✨ Matches to your profile : Intelligent algorithm considers skills, timeline, background, location ⚡ Delivers personalized results : Within 10 seconds, see 50-150 opportunities tailored to YOU 3️⃣ Multi-Opportunity Platform (Our Key Differentiation) We don't just show scholarships. We show: Type Amount Timeline Use Case 🎓 Scholarships $500-$50k 1-6 months Long-term planning 💻 Hackathons $100-$100k Days-weeks Immediate action 🎯 Bounties $50-$10k Hours-days Urgent needs 🏆 Competitions $100-$50k Weeks-months Skill-building 💰 Grants $1k-$100k Varies Specific projects/needs Each opportunity displays: ✅ Match score (0-100%): "You're an 87% match for Gates Scholarship" ⏰ Urgency indicator : "Deadline in 3 days" vs. "Apply anytime" 💵 Expected value : (Prize × Win Probability) / Time Required = $425/hour 🎯 Why you match : "Your GPA, major, and first-gen status make you a strong candidate" 4️⃣ AI Chat Assistant (The Game-Changer) Example Conversation: Student: "I need $500 urgently for textbooks by Friday" ScholarStream AI: "Found 8 opportunities you can complete by Friday: 🔥 IMMEDIATE: Gitcoin Bounty: Fix React bug - $500 (12 hours left, matches your React skills) HackerOne: Find XSS vulnerability - $300 (rolling deadline, beginner-friendly) 📅 THIS WEEK: ETHGlobal Mini-Hack: $5,000 prizes (submissions due Friday, solo or team) Dev.to Challenge: Build any app - $3,000 pool (4 days left) 🚨 EMERGENCY OPTIONS: Student Emergency Fund (University of Ibadan) - up to $2,000 (48-hour decision) I've added these to your dashboard. Want help applying to the top 3?" The AI understands: 🧠 Context : Knows you're a CS student, your skills, your timeline ⚡ Urgency : Prioritizes immediate opportunities when you say "urgent" ✅ Feasibility : Shows opportunities you can actually win (realistic match scores) 5️⃣ Smart Dashboard Not just a list—an intelligent workspace: 🎚️ Type filters : Scholarships, Hackathons, Bounties, Competitions, Grants 🔥 Urgency sorting : "Closing today" gets top priority 📌 Bookmarking : Save opportunities, organize into folders 🔔 Live updates : "12 new opportunities discovered matching your profile" 📅 Calendar view : See all deadlines at a glance 💰 Financial impact tracker : "You've applied to $45k in opportunities" 6️⃣ Application Copilot (Coming Together) We don't abandon you at "Apply Now": 📝 Universal application builder : Fill out once, adapt for multiple scholarships ✍️ AI essay assistant : Context-aware suggestions based on scholarship values 📄 Document management : Upload transcripts, resumes once—reuse everywhere 📋 Copy-paste helper : Pre-filled answers with copy buttons for external forms 📊 Application tracker : Draft → Submitted → Won, all in one place 7️⃣ Real-Time Web Discovery (Bleeding-Edge) If our database doesn't have what you need, we search the web LIVE: 🔍 AI generates smart search queries based on your request 🕷️ Scrapes top results in real-time 🤖 Extracts opportunity details using Gemini ⚡ Returns results within 20 seconds 💾 Caches discoveries for other users 📊 The Impact For a student like me: 🔍 Discovery : 3x more opportunities (from 50 to 150+) ⚡ Speed : Apply 5x faster with pre-filled data and AI help 🎯 Success : Higher win rates through better matching 🚨 Urgency : Find money-making opportunities TODAY, not in 6 months This isn't just a scholarship database. It's a financial lifeline. 🛠️ How We Built It 🎨 Tech Stack Frontend: Built for Beauty and Performance ⚛️ Lovable.dev : Full-stack development partner—senior engineers at the speed of thought 🔷 React + TypeScript : Type safety prevents bugs, component architecture ensures maintainability 🎨 Tailwind CSS + shadcn/ui : Consistent, accessible, beautiful design system 📱 Mobile-first responsive : Works flawlessly on phones (where most students browse) Backend: Engineered for Intelligence 🐍 FastAPI (Python) : Async-first framework, perfect for handling multiple scrapers concurrently 🔥 Firebase : Authentication, Firestore database, real-time updates ☁️ Cloudinary : Document storage and image optimization 🚀 Deployed on Vercel : Edge functions for global low-latency access 🤖 AI & Discovery Engine: The Secret Sauce Problem 1: Getting Real Data ❌ Challenge : Couldn't use mock data—judges can smell fake demos. ✅ Solution : Multi-source aggregation Public APIs first (fastest, most reliable): Devpost API: 200+ active hackathons as JSON Gitcoin API: 150+ open bounties with structured data Kaggle API: Data science competitions with prizes Web scraping second (broader coverage): Playwright for JavaScript-heavy sites BeautifulSoup for static HTML Respectful scraping: 2-second delays, rotating user agents, comply with robots.txt Live discovery third (for personalized searches): Real-time web search when cached data insufficient Scrape top 5 results, extract details with AI Problem 2: Messy Data ❌ Challenge : Scraped data is a disaster—inconsistent formats, structures, and standards. ✅ Solution : AI-powered enrichment pipeline using Google Gemini 2.0 Flash Input (messy): "Women in STEM Scholarship by XYZ Foundation. We offer $5,000 to female students pursuing STEM degrees. Must have 3.0 GPA. Deadline: December 15th. Essay required." Output (structured): { "name": "Women in STEM Scholarship", "organization": "XYZ Foundation", "amount": 5000, "amount_display": "$5,000", "deadline": "2025-12-15", "eligibility": { "gpa_min": 3.0, "majors": ["STEM"], "gender": "Female" }, "requirements": { "essay": true, "recommendation_letters": 0 }, "tags": ["STEM", "Women", "Merit-Based"], "urgency": "future" } Critical optimization : Batch 10 opportunities per Gemini call to stay within free tier limits (15 RPM, 1500 RPD). This means 150 opportunities using only 15 API calls—well within quota. Problem 3: Speed vs. Freshness ❌ Challenge : Real-time scraping takes 15-30 seconds. Users won't wait. ✅ Solution : Hybrid approach Immediate results (cached, <1 second): Return 20-50 pre-scraped opportunities from Firebase Background discovery (live, 10-30 seconds): Run live scraping in parallel while user browses Progressive enhancement : New opportunities slide into dashboard as discovered Scheduled refresh : Background job runs every 6 hours to keep database fresh Problem 4: Intelligent Matching ❌ Challenge : Not all opportunities are equal for YOUR profile. ✅ Solution : Multi-factor scoring algorithm For each opportunity, we calculate: Factor Weight Points Eligibility Match 50% GPA (10) + Major (10) + Background (20) + Location (10) Interest Alignment 20% (matching_tags / total_tags) × 20 Financial Fit 15% Award amount meets stated need Feasibility 15% Time investment + Competition level + Deadline Final Score: 0-100% 🟢 80%+: Excellent match (green badge) 🟡 60-80%: Good match (yellow badge) ⚪ 40-60%: Fair match (gray badge) ⚫ <40%: Hidden from results (not worth user's time) Problem 5: Conversational AI ❌ Challenge : AI needs to understand context, urgency, and take action—not just chat. ✅ Solution : Context-rich prompting + structured outputs Every chat message includes: User's complete profile (major, skills, interests, background) Current page context (on dashboard? viewing specific opportunity?) Conversation history (what they've asked before) Available opportunities in database Gemini prompt structure: You are ScholarStream AI. Student profile: [data]. They asked: 'I need money urgently'. Respond with: 1. Empathetic acknowledgment 2. Search cached opportunities WHERE urgency='immediate' OR deadline < 7 days 3. Prioritize hackathons and bounties (fast turnaround) 4. Return JSON: {message: string, opportunity_ids: []} 5. Actionable next steps Be conversational, encouraging, specific. 🏗️ Architecture Overview User → Frontend (React) ↓ Firebase Auth ↓ API Gateway (FastAPI) ↓ ┌─────────────┴──────────────┐ ↓ ↓ Scraping Service Matching Engine ↓ ↓ [Devpost API] [User Profile] [Gitcoin API] [Opportunities DB] [Web Scraper] ↓ ↓ [Scoring Algorithm] Gemini Enrichment ↓ ↓ [Ranked Results] Firebase Cache ↓ Frontend Display ⏱️ Development Process Phase Duration Focus Phase 1: Backend Foundation 8 hours FastAPI server, API integrations, Gemini enrichment, testing Phase 2: Frontend Core 8 hours Onboarding flow, dashboard, opportunity cards, API connection Phase 3: AI Integration 6 hours Chat UI, chat API, Gemini integration, edge case handling Phase 4: Polish 4 hours Loading states, error handling, mobile optimization, bug fixes 🛠️ Tools That Saved Us 🐍 Miniconda : Isolated Python environment, no dependency conflicts 📮 Postman : API testing before frontend integration 🔥 Firebase Console : Real-time database monitoring 🔍 Chrome DevTools : Frontend debugging, network inspection 💾 GitHub : Version control, collaboration 😰 Challenges We Ran Into 1️

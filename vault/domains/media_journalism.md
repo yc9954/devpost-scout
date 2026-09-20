@@ -1,0 +1,181 @@
+---
+facet: "domain"
+name: "media_journalism"
+projects: 175
+winners: 175
+tags:
+  - "facet"
+  - "domain"
+---
+
+# media_journalism
+
+`domain` · **175** projects, **175** of them winners.
+
+## Pairs with
+
+- [[realtime_stream]] — 76 together  <sub>(mechanism)</sub>
+- [[video_visual]] — 69 together  <sub>(substrate)</sub>
+- [[developer_tools]] — 67 together  <sub>(domain)</sub>
+- [[structured_db]] — 63 together  <sub>(substrate)</sub>
+- [[web_dom]] — 56 together  <sub>(substrate)</sub>
+- [[geospatial]] — 47 together  <sub>(substrate)</sub>
+- [[researcher]] — 42 together  <sub>(user)</sub>
+- [[developer]] — 40 together  <sub>(user)</sub>
+- [[retrieval_grounding]] — 39 together  <sub>(mechanism)</sub>
+- [[document_pdf]] — 38 together  <sub>(substrate)</sub>
+- [[finance_payments]] — 37 together  <sub>(domain)</sub>
+- [[education]] — 34 together  <sub>(domain)</sub>
+
+## Projects
+
+- ★ [[ailearning]] — aiLearning is an AI-based solution for simplifying educational activities, focusing on exams correct
+- ★ [[asap-1h45pk]] — Empowering industries with AI-driven insights through Retrieval Augmented Generation (RAG), simplify
+- ★ [[gemini-movie-detectives]] — A gateway to AI-driven educational content in schools and universities with Gemini and RAG! Challeng
+- ★ [[chinwag-zp4jds]] — AI production workspace for research, media, and publishing.
+- ★ [[community-driven-platform-for-identifying-fake-news]] — A community-driven platform to identify fake news
+- ★ [[gauntlet-wlv7og]] — Adversarial fuzz-testing for AI agents using Elasticsearch Agent Builder, ES|QL and Workflows. Watch
+- ★ [[apex-qkmxa0]] — A reimagined way to enjoy motorsports
+- ★ [[phantomguard]] — Norn: Real-time quality & security monitoring for Strands agents. Powered by Nova Lite for live scor
+- ★ [[cloak-0k2ojh]] — Privacy Layer for Polkadot's Multi-Chain Ecosystem
+- ★ [[ekko-v9wkgy]] — Elevate your foreign language fluency with tailored guidance and individualized verbal conversation 
+- ★ [[ask-the-world-anything]] — Explore global perspectives on any question using AI-powered analysis and Voice Commands
+- ★ [[tonguekeeper]] — Every 2 weeks, a language dies. TongueKeeper deploys autonomous AI agents that compile and cross-ref
+- ★ [[endopath]] — AI-powered endometriosis companion. Predict. Confirm. Understand. Manage. Recover.
+- ★ [[orion-operating-room-intelligent-orchestration-node]] — A voice-directed surgical co-pilot for robotic surgery. Surgeons can speak naturally & instantly rec
+- ★ [[marionette-the-on-device-multimodal-ai-agent]] — Marionette is a Chrome extension that automates the web entirely offline using Gemini Nano and Chrom
+- ★ [[vettra]] — Vettra lets AI agents earn trust in real time by intercepting actions, scoring risk, requiring human
+- ★ [[pixel-wars]] — 🔥 PIXEL WARS: The battle for territory starts NOW! Every pixel counts!
+- ★ [[mirror-living-organisational-conscience-rfov1t]] — Every organisation has two versions of itself; the one it describes in all-hands meetings, and the o
+- ★ [[bonfire-of-thoughts]] — Bonfire of Thoughts is a web app where students reflect on their struggles and share anonymous one-l
+- ★ [[nalog-agent]] — Production Qwen MemoryAgent on Alibaba Cloud for Thai smallholder farmers to check water from their 
+- ★ [[creta-learning-pottery-through-the-past]] — Creta is an MR app teaching the craft of pottery with real clay, guided by an AI artisan mentor. Lea
+- ★ [[a-p1lt2h]] — Claim-level truth forensics–trace any idea back to its origin and know what's actually true. Powered
+- ★ [[storybook-orbc8j]] — Turn learning into story driven adventures
+- ★ [[maestlog-your-personal-symphony-journal]] — MaestLog is an elegant classical music concert diary designed for music lovers. Track your concert e
+- ★ [[veristudio]] — AI films with receipts: every frame hash-sealed to Backblaze B2, every film publicly verifiable — no
+- ★ [[vigilante-xkf7s9]] — Combat misinformation through flagged Tweets and grounded sources, and reference a realtime dashboar
+- ★ [[refound-journalism]] — A decentralized publishing platform and news marketplace with ability to create verifiable content. 
+- ★ [[dejavu]] — Eliminating déjà vu by reviving memories one video at a time
+- ★ [[trueprint-ai-restoration-that-proves-what-s-real]] — AI restoration invents history. Trueprint restores old photos and audio, then proves exactly what's 
+- ★ [[echoic]] — Daily puzzle, but ragebait roguelike
+- ★ [[re-compress]] — A query-aware rewriting layer that extends compression into the regime deletion can't reach — distil
+- ★ [[path2integrity]] — Reach 1.000.000 citizens until August 2020 with our tool "TRUST IN SCIENCE" to support decreasing th
+- ★ [[medicaid-analytics-agent]] — An AI-powered Medicaid analytics assistant for uncovering provider outliers, peer comparisons, and b
+- ★ [[scam-detector-1lhc24]] — "Unmasking AI voice scams through sound." VoxShield flags AI-generated voices from a single audio cl
+- ★ [[insight-critter]] — Kaleido illuminates the colorful spectrum of bias in the news, like peering through a kaleidoscope.
+- ★ [[era-ga6bj7]] — Authenticity for a New Age
+- ★ [[my-et-economic-times-reimagined]] — AI-powered financial news assistant that translates complex articles into any language, verifies fac
+- ★ [[voicebot-for-ongoing-assistance-to-covid-19-patients]] — A system for effective remote monitoring of ambulant Covid-19 patients by automated phone calls to e
+- ★ [[covid-19-coronavirus]] — An educational augmented reality experience about COVID-19 that explores the virus' origin, transmis
+- ★ [[infermary]] — Simulating virtual cities to outsmart viral outbreaks
+- ★ [[flipside-rz9i1v]] — News reimagined: Swipe to see every side of the story.
+- ★ [[blk-exchange-blkx]] — Trade 36 Black-economy companies. Real cultural news moves the market. AI teaches 23 investing conce
+- ★ [[sankofa-y47f9p]] — Transforming fragmented family history into living, breathing, multimodal stories.
+- ★ [[someday-vzdi0f]] — A museum for unfinished work. Dump your abandoned project, get an AI exhibit card, browse by wing, a
+- ★ [[railbound]] — A Film Reimagining the Emotional Worlds Inside Mike Brodie’s Iconic Photography
+- ★ [[gemini-geoflow]] — Fusing Text and Terrain: An LLM-Powered Pipeline for Preparing Archaeological Datasets
+- ★ [[smart-graahak]] — Smart Graahak allows users to search for products effortlessly, understand their benefits, and make 
+- ★ [[punjab-sabak-portal]] — A safe AI study platform with course-locked guardrails. Generates targeted MCQs, checks handwritten 
+- ★ [[mr-compliance-auditor]] — AgentHero audits GitLab projects for SOC 2 compliance - per-MR audit with three agents, periodic pro
+- ★ [[pinboard_consulting]] — Connect the unconnected! Source, clean and load UN data for the environment, the economy, health, re
+- ★ [[split-decision]] — Nine AI judges argue real Supreme Court cases, live on Alibaba Cloud. Two AI journalists cover the f
+- ★ [[postit-share-with-your-group]] — PostIT is an application where users can create groups that can either be public or private. In addi
+- ★ [[the-grand-caste-nova-event]] — The Grand Castle is a sophisticated multi-agentic AI system that uses Amazon Bedrock's Nova models t
+- ★ [[watchdog-onxyge]] — AI-generated video detection using interpolated next-frame-prediction and Fréchet inception distance
+- ★ [[guess-the-elo]] — Guess The Elo is a web application inspired by GothamChess' famous YouTube series where users can vi
+- ★ [[project-no-cap]] — Project NoCap: Bringing clarity to the chaos of misinformation through real-time AI verification.
+- ★ [[pixel-truth]] — Play as a detective at the Netropolis Truth Bureau - examine suspicious news posts, interview witnes
+- ★ [[rumornet]] — RumorNet detects misinformation in 100+ languages. By analyzing cultural context, we catch disinform
+- ★ [[trusttrace-multimedia-deepfake-detection-platform]] — “TrustTrace is a unified AI platform that instantly detects deepfakes across images, audio, and vide
+- ★ [[shutter-declutter]] — Shutter Declutter helps you save space in your camera roll. It s like Tinder, but for your photos. V
+- ★ [[school-agent-h2cqvw]] — School Co-Pilot is a private AI tutor that uses only your school's documents. It provides safe, curr
+- ★ [[dwitter-k4vowp]] — The decentralized social network where YOU are the owner of all your information. Create, share, don
+- ★ [[fakey-ai]] — An explainable, Gemini-powered verification platform built to restore trust in digital media.
+- ★ [[truthlens-fwo02r]] — Research Guardian helps students evaluate scientific papers by scoring reliability, finding contradi
+- ★ [[vaccine-appointment]] — A Graviton2 processor powered voice application to help people in India with their vaccination needs
+- ★ [[complianceguard]] — Autonomous AI compliance monitoring — detect GDPR, HIPAA, SOC2 & EU AI Act violations in 60 seconds
+- ★ [[kontribute]] — Kontribute brings readers, writers and NFTs together. Write some lore for your NFT collection or sup
+- ★ [[enoki-exchange]] — Completely Async and Scalable DEX: Swap, Earn, and be a Market Maker
+- ★ [[sync-for-confluence]] — Write and maintain your content in Confluence. Sync it to Zendesk so your knowledge base always stay
+- ★ [[ghostnet-the-dead-internet-recovery-engine]] — GhostNet detects link rot (dead/broken web pages), reconstructs lost content using AI forensics from
+- ★ [[truth_chain-23hqyw]] — Deepfakes spread faster than we can debunk them. AI can't reliably detect AI. So I built TruthChain—
+- ★ [[meetops-ai-powered-office-room-booking-system]] — AI-powered room booking for modern offices. Book via natural language, detect conflicts instantly, m
+- ★ [[ai-protege]] — Teach an AI student that challenges your explanations with questions and fact-checking. If you can't
+- ★ [[recon-ai-intelligence-dossiers]] — Name a target. Get the file. An AI agent reads the live web and files a cited intelligence dossier o
+- ★ [[the-conpiracy-theory]] — Where does the cover up end and the conspiracy begin?
+- ★ [[refugee-legal-navigator]] — Empowering the displaced with Amazon Nova-driven legal aid, 22+ language support, and agentic UI aut
+- ★ [[df-detection]] — Beneath the Mask: Revealing the Hidden Danger of Deepfakes
+- ★ [[policyinsight-ai]] — PolicyInsight uses AI to analyze insurance policies and instantly highlight exclusions, limits, and 
+- ★ [[view26-scrum-manager]] — A connect on Forge App to intuitively capture team updates and blockers to significantly improve the
+- ★ [[thinklogically]] — Enabling users of news websites and open/closed social networks to request fact-checks directly from
+- ★ [[factchecker-fighting-misinformation-at-scale]] — Multi-language/multi platform fact checking powered by TigerGraph and AI. Real-time fact extraction 
+- ★ [[city-quarter-exit-from-covid-19-solution]] — Divide the City into Quarters and set up a "First to Know" Group for each Quarter. The City can send
+- ★ [[janus-5dfi9a]] — An autonomous GitHub maintainer that runs your whole backlog — triages, reviews, and ships — and ask
+- ★ [[uncovering-influence-campaigns-with-information-tracer]] — Information Tracer is a real-time system to detect influence operations on Twitter and beyond. Our t
+- ★ [[translucid]] — Take advantage of Transparify to get additional contextual information (fact-checking & emotional in
+- ★ [[walter-wego]] — A 21st century intelligence dashboard built for deep dives & bold minds
+- ★ [[reliefnet-pk98md]] — CoronaConnect is an innovative approach for citizens to make a difference in their community and to 
+- ★ [[cbre-project]] — TrustEstate AI is your go-to for real estate. We use AI and enterprise-grade trust verification to d
+- ★ [[shelfy-x6duap]] — The library of the future runs itself -- and any room with a bookshelf can be one.
+- ★ [[hawkwatch]] — Transform any camera into a smart security system with HawkWatch. Our AI VLM instantly detects and a
+- ★ [[attendance-management-using-azure-cognitive-services]] — Still in my school taking manual attendance but they providing ID cards to every student, In this ca
+- ★ [[vision-pensieve]] — Find any image by describing it. A local-first, semantic search and asset manager powered by single-
+- ★ [[reverie-y01r96]] — Conversations end. Memories shouldn’t.
+- ★ [[shipyard-own7ys]] — Visualize your repo's production readiness as a 3D city, then ship it with AI agents
+- ★ [[beehyv]] — Agentic cross-pollination breaking the frontiers of research, literally.
+- ★ [[darchive-128hoy]] — dArchive (Decentralized Archive) is a decentralized application to create an archive of web pages th
+- ★ [[sympsense-observability-first-health-ai]] — A transparency-first AI health assistant that transforms symptom checking into structured, explainab
+- ★ [[anti-jungle-justice-antijj]] — AntiJJ is a mobile app that helps stop jungle justice by enabling users to report mob attacks in rea
+- ★ [[car-thing-1dsxyk]] — 🚗 Don't want to end up in a financial tow-up? ⚡ 🚗 Select a car that truly maters 🛻 Avoid hidden cost
+- ★ [[earthlink-ai-cf6ord]] — 🛰️ An AI agent that thinks in maps transforming raw Sentinel-2 satellite data into live, explainable
+- ★ [[blindspot-q9cjtf]] — In today’s digital age, misinformation erodes trust and democracy. Blindspot, a gamified app, empowe
+- ★ [[aros-prove-your-images-are-real]] — Aros is an app to verify that an image is real and not AI-generated. Aros uses hardware security and
+- ★ [[veritas-98njsx]] — Veritas is a Chrome extension that fact-checks YouTube videos in real time. It extracts claims and c
+- ★ [[unsent-c0kfwu]] — Catharsis in 60 seconds. UNSENT AI uses sentiment-driven orchestration to turn your heaviest secrets
+- ★ [[sherlock-n4fikj]] — Connecting the dots for investigative minds.
+- ★ [[textura-2sygh1]] — Textura — Bringing handwritten Greek history back to life through AI-powered transcription, modernis
+- ★ [[md-factfarm]] — Truth in the Digital Age: Mastering Information Literacy
+- ★ [[chronos-vl-the-1545-resurrection-engine]] — A specialized PaddleOCR-VL fine-tune that achieves 1.6% CER on historical Gothic script, featuring a
+- ★ [[loroa-audible-translation-api]] — Generate dynamic audio translations on the fly using the power of Amazon Graviton2, Amazon Polly, an
+- ★ [[flow-innovation-news]] — Flow Innovation is an AI-powered goal-tracking and fact-checking platform that helps users set, trac
+- ★ [[pubmed]] — Your Scientific Filter in a World of Viral Myths.
+- ★ [[exer]] — The cryptocurrency you earn by walking.
+- ★ [[watchtower-85vech]] — Block violent, extremist, and hate speech tweets from your Twitter feed.
+- ★ [[reasoned-sharing]] — Defeating fake news starts from people. Think critically before sharing!
+- ★ [[save-our-planet]] — Mass vaccination effectively, efficiently, and safely.
+- ★ [[why-should-i-care-wsic]] — WSIC is a modern web application that helps users explore new topics and expand their knowledge thro
+- ★ [[hapi-hate-speech-and-fake-news-api]] — Give us an URL, we will tell you if it is fake news.
+- ★ [[factchex]] — Instantly verify tweets with our seamless web extension, ensuring understanding in a world riddled w
+- ★ [[sceneiq-1hjz8t]] — SceneIQ turns hours of video into instantly searchable moments. Using AI scene intelligence, it dete
+- ★ [[truth-field-detector]] — Real-time narrative risk assistant that detects emotional manipulation and misinformation patterns i
+- ★ [[tab-therapist]] — An AI-powered Chrome extension that curbs tab hoarding with tough-love reminders, smart sorting, and
+- ★ [[neuraleye]] — NeuralEye — Detect AI, Reveal the Truth in Text, Images, and Videos Instantly.
+- ★ [[warmly]] — Use AI to never send a cold email again.
+- ★ [[test-rg4elc]] — A data driven approach to map from occupations and skills at risk to those in demand - today and dur
+- ★ [[zknowledge-base]] — The world's research, embedded, immortalized and decentralized.
+- ★ [[glyph]] — Glyph is a wiki engine that allows its contributors to get rewarded, through a learn-to-earn and tea
+- ★ [[chimera-tf2ues]] — A frankenstack of your digital footprint with a spooky twist.
+- ★ [[medlens-ai]] — MedLens AI: Humanizing medical reports with AI clarity. Why it works: It focuses on the "human" aspe
+- ★ [[stellar-insight-labs]] — AI that sees beyond the stars — accelerating exoplanet discovery through explainable machine learnin
+- ★ [[html-stonizer]] — Carve important financial data, predictions, or quotes in stone. The API notarizes HMTL fragments in
+- ★ [[reach52-connecting-asia-to-covid-19-and-primary-healthcare]] — We build apps to connect rural communities to health support. We are enhancing out tools for COVID-1
+- ★ [[self-service-analytics-powered-by-ai]] — Empower your analytics with AI-driven queries. Pull only the data you need from your dashboard—for d
+- ★ [[api-security-tester]] — Fast, automated and accurate security testing of your APIs throughout the Postman lifecycle using Wh
+- ★ [[wiki-ai-agent]] — A chatbot application that integrates Google's Gemini API with MediaWiki API (Wikipedia) to provide 
+- ★ [[sprint-view-app-for-monday]] — Run agile sprints within monday.com
+- ★ [[covinfo-ui3wf7]] — Your own personal COVID-19 dashboard.
+- ★ [[reel-6ycpwu]] — Rating Enhancement & Editing Layer
+- ★ [[pitchside-nr5yxm]] — The football archive you can walk into.
+- ★ [[truely-7cys9i]] — Never be lied to again.
+- ★ [[govguard-ai-governance-platform]] — GovGuard: Enforcing AI ethics and safety in real time — fast, smart, and secure.
+- ★ [[blood-donation-5s8xyu]] — AI-powered fake news detection platform that analyzes news content using machine learning and NLP to
+- ★ [[intelliquest-bx8vu9]] — Most quiz apps lock you into pre-written questions on fixed topics. IntelliQuest is different as you
+- ★ [[the-moderator-6udaws]] — Changing the way that websites moderate content
+- ★ [[the-cinema-that-never-was]] — Have you ever wondered about all the films that were never written, never imagined, never even conce
+- ★ [[bbs-backed-by-science]] — Scientific verification for social media videos. Get AI-powered fact checks and evidence-based analy
+- ★ [[hall-of-us]] — Hackathons move fast, and it’s easy for moments to slip away. Hall of Us lets you capture photos, en
+- ★ [[ceramic-composedb]] — A visualisation tool for better journalism.
+- ★ [[summit-e4olb3]] — SummIT removes high bandwidth content from any given website, reducing download sizes by > 92%. Summ
+- ★ [[argumind-debate-ai]] — DebateAI empowers critical thinking by enabling two AI agents to debate opposing perspectives, while
+- ★ [[gendetective-ai-content-detector-iy25rh]] — GenDetective is a multi-modal AI content detector that uses statistical and stylometric analysis as 

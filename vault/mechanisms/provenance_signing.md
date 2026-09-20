@@ -1,0 +1,181 @@
+---
+facet: "mechanism"
+name: "provenance_signing"
+projects: 381
+winners: 381
+tags:
+  - "facet"
+  - "mechanism"
+---
+
+# provenance_signing
+
+`mechanism` · **381** projects, **381** of them winners.
+
+## Pairs with
+
+- [[developer_tools]] — 202 together  <sub>(domain)</sub>
+- [[realtime_stream]] — 189 together  <sub>(mechanism)</sub>
+- [[financial_record]] — 162 together  <sub>(substrate)</sub>
+- [[structured_db]] — 154 together  <sub>(substrate)</sub>
+- [[geospatial]] — 145 together  <sub>(substrate)</sub>
+- [[finance_payments]] — 140 together  <sub>(domain)</sub>
+- [[code_repository]] — 133 together  <sub>(substrate)</sub>
+- [[video_visual]] — 131 together  <sub>(substrate)</sub>
+- [[developer]] — 121 together  <sub>(user)</sub>
+- [[document_pdf]] — 119 together  <sub>(substrate)</sub>
+- [[web_dom]] — 112 together  <sub>(substrate)</sub>
+- [[sensor_telemetry]] — 99 together  <sub>(substrate)</sub>
+
+## Projects
+
+- ★ [[tradewizard-8xp61z]] — TradeWizard helps people navigate uncertainty with confidence when money is on the line.
+- ★ [[amanat]] — Privacy-first AI agent for humanitarian organizations that scans cloud services for sensitive data e
+- ★ [[auditguardx]] — Enterprise compliance in minutes, not months at 1% of the cost.
+- ★ [[rainbowdao-protocol]] — RainbowDAO Factory is a multi-chain DAO infrastructure protocol, focusing on the creation of the bas
+- ★ [[frankenbook]] — Generate a children's book with a few simple ad-lib style prompts stitched together to form your own
+- ★ [[trudi-threat-response-unit-for-digital-investigation]] — Built on the idea that we're all smarter than any of us: TRUDI pairs an autonomous DFIR agent with a
+- ★ [[signet-0ujsnx]] — Invoice fraud works because paper cannot prove who sent it. Signet has the sender sign the payment f
+- ★ [[extopay-the-last-mile-solution-for-digitizing-cash]] — Next-Generation CBDC solution for digitizing cash: A Highly Secure Mobile and Non-Mobile Solution wi
+- ★ [[proofsift]] — Evidence-proven autonomous DFIR triage that confirms findings only with traceable forensic artifacts
+- ★ [[degenerate-farm]] — Proxy-free upgradeable NFTs that use Chainlink VRF for both generative mints, and upgrades.
+- ★ [[time-traveler-w3cxp0]] — AI agents that preview risky DB migrations in isolated Docker clones before they merge — audit, depl
+- ★ [[chinwag-zp4jds]] — AI production workspace for research, media, and publishing.
+- ★ [[openmed-gtp792]] — A modular AI-driven diagnostic system that intelligently selects specialized models for each case, o
+- ★ [[xtf-dexes]] — Crypto fund indexes rely on managers or third-party providers to select assets, lacking a decentrali
+- ★ [[camel]] — A 'code-mode' MCP server that allows LLMs to safely generate and execute JavaScript code that calls 
+- ★ [[revenant]] — Platform for visually creating Solidity Smart Contracts.
+- ★ [[lantern-jm9a5l]] — A language dies every two weeks. Lantern is Duolingo for dying languages: it turns the words a commu
+- ★ [[v-ident-real-time-identity-verification-mobile-application-19kdg7]] — V-Ident: Pulse + pixels = proof. On-device heartbeat detection & frequency forensics catch deepfakes
+- ★ [[vodo-ai-jwb1l2]] — Building on Vodo Drive and earlier AI experiments, a way to talk with your spreadsheets. Going beyon
+- ★ [[nova-architect]] — An autonomous AI cloud engineer that designs and deploys AWS infrastructure directly in your console
+- ★ [[health-counseling-portal]] — Health counselling, preventive treatment, remediation using a decentralized Twitter application, DID
+- ★ [[pedirounds-ai-co-resident-for-pediatric-morning-rounds]] — The safety net between overnight and attending rounds. 4 AI agents catch deterioration, flag unsafe 
+- ★ [[brofundyourself]] — We are making it easier for people to fund their dreams by tokenizing time in a regenerative way. Ha
+- ★ [[topsports-exchange]] — Topsports is a cutting-edge p2p betting exchange that introduces innovation to the online sports bet
+- ★ [[opensigil]] — Zero-trust encryption made easy
+- ★ [[ghostpipes-yahoo-pipes-reborn-with-ai-intelligence]] — Visual pipeline automation tool with AI-powered recommendations. Drag-drop nodes, realistic pipe con
+- ★ [[pulsepoint-2hmejd]] — AI-powered medical triage at the speed of life from instant assessment to doctor in 60 seconds.
+- ★ [[stylometry]] — STYLOMETRY: The forensic guardrail for your GitLab pipeline
+- ★ [[seethru-price-transparency-marketplace]] — SeeThru is a blockchain-enabled platform that prioritizes price transparency to change the ecosystem
+- ★ [[unravel-7ak8lf]] — Five agents watch evolving variant evidence, re-score a clinic's uncertain DNA findings with a calib
+- ★ [[tal]] — A cross-chain Tactical roguelite JRPG right in your browser
+- ★ [[lore-ide-the-first-ide-for-agentic-code]] — GitHub stores your code. Lore stores your reasons. The memory layer for Devin, Windsurf, and Claude 
+- ★ [[dispatch-wedj2m]] — No Borders. No limits. Just Remit.
+- ★ [[compliance-sentinel]] — An Agentic, AI Red Team Approach for Proactive Geo-Compliance Risk Detection
+- ★ [[starknet-lightning-privacy-mixer]] — A decentralized privacy solution for STRK token transfers, combining zero-knowledge cryptography, At
+- ★ [[reverelabs-dzpu4k]] — Building No-Code Smart contract-based escrow services to bridge the trust gap in the gig economy.
+- ★ [[kassi-synthetic-load-generation]] — An AI agent on an audited state machine: it load-tests a code change, correlates the regression with
+- ★ [[forge-z8v4qm]] — 30 million underserved patients. No engineers. Forge lets safety-net clinics build permanent, verifi
+- ★ [[agentdeck-command-your-ai-fleet]] — Mission control for your AI coding fleet. Glanceable status tiles, one-tap approvals, dial-driven di
+- ★ [[nusic-fractionalized-music-for-a-short-form-economy]] — Music consumption has been re-shaped by short video apps, music NFT marketplaces should reflect this
+- ★ [[gridveda]] — GridVeda gives powerline operators predictive failure detection at edge. Ensemble AI monitors 20 tra
+- ★ [[tunnel-dqv1k4]] — AI Agents for Simulated Market Research
+- ★ [[dogzilla]] — Build a solid foundation on top of Theta blockchain.
+- ★ [[project-hpfwsu51xila]] — Autonomous SRE that watches your Dynatrace tenant 24/7, diagnoses production incidents from real spa
+- ★ [[anyform-ai-form-builder-30au41]] — AnyForm is an AI powered, tool-first platform that lets you build complex, validated forms in under 
+- ★ [[notary-an-ai-creative-review-board-for-generative-media]] — Screens every AI-generated take against brand and compliance rules, revises the failures with the re
+- ★ [[giftmaxxing]] — Tinder for gift taste — swipe to teach it yours, share a link to learn anyone else's, and never give
+- ★ [[loopguard-passport-governed-clinical-loop-closure]] — Prevent the diagnostic harm that begins the moment a follow-up falls silent.
+- ★ [[warden-ny9uwa]] — Warden is the runtime firewall that stops AI agents from being hijacked by blocking prompt injection
+- ★ [[engram-the-ai-photo-coach-that-remembers-and-forgets]] — An AI photography coach that remembers your journey, forgets what you've mastered, and always knows 
+- ★ [[spatialize]] — The floor plan that talks back.
+- ★ [[title-ai]] — Title AI is the first platform that can autonomously search any US county recorder website and produ
+- ★ [[aftershock-em9cju]] — A disaster-struck town run by a society of Qwen agents that split tasks, negotiate scarce rescue res
+- ★ [[school-quiz]] — With many children still learning from home or months behind the planned curriculum Learning Out Lou
+- ★ [[nearndear]] — Don’t let big tech capitalize on your hard work —take full control of your custom AI creations, keep
+- ★ [[dataset-trust-auditor]] — Know what's in your data before you train on it. Dataset Trust Auditor scores datasets across 8 trus
+- ★ [[farmops-desk]] — The operating system for Nigerian poultry and catfish farms. Ops, feed, money, and AI in one calm vi
+- ★ [[claimsphere-ai-automated-claim-processing-agent]] — AI-powered insurance claim processing system with Camel-AI powered agent, automated OCR extraction, 
+- ★ [[time-out-1wvxhm]] — Surgeons pause before every incision. Med spas don't. Time-Out checks who is injecting, what they're
+- ★ [[studyblocks]] — Overwhelmed by studying? StudyBlocks combines AI-powered study guide generation, smart flashcards, a
+- ★ [[instruxi]] — Unlock the value of unmined gold with ION Digital and Instruxi's gold fractionalization tool. Revolu
+- ★ [[department-of-incidents]] — Agent that wakes up before your on-call engineers do
+- ★ [[island-of-space-time]] — Summon creatures using artificial intelligence, with parameters bound by smart contracts. Built usin
+- ★ [[strangler-studio-with-dead-php-migrationtool]] — Stuck with legacy PHP code that's holding your team back? Meet **Frankenstein Laboratory** - an AI-p
+- ★ [[ninth-mkcgtv]] — Create animated stories from a single idea and direct every scene on a real timeline, with every ass
+- ★ [[woodpecker-ai-finds-hidden-hotspots-in-power-lines]] — Power line failures spark billions in damage.Woodpecker AI, like a woodpecker spotting hidden hotspo
+- ★ [[agent-skeleton-framework]] — Build domain-specific AI agents through YAML configuration, not code. Same core powers Compliance Re
+- ★ [[dsearch]] — A Private Decentralized & Distributed Search Engine built on OPL & Sapphire
+- ★ [[polka-blue]] — Bringing Proof of Location into the Substrate Ecosystem
+- ★ [[alyosha]] — The help for life after prison already exists. It's just scattered. Alyosha turns it into one guided
+- ★ [[aegis-2m1oq0]] — 7 event-driven AI agents that autonomously secure, predict, and score your GitLab releases, catching
+- ★ [[sitesync-ai-u7j86v]] — "🏗️ Sync the vision. Build the truth ." SiteSync AI is not just a "viewer" it is an active participa
+- ★ [[dill-pkl]] — Turn any CSV into a production-ready model and know exactly how and why, every step of the way.
+- ★ [[vettra]] — Vettra lets AI agents earn trust in real time by intercepting actions, scoring risk, requiring human
+- ★ [[vigilance-q-the-pharma-quality-watchtower]] — Agentic Quality Case Management - AI investigates. Human decides. Patients stay protected.
+- ★ [[nalog-agent]] — Production Qwen MemoryAgent on Alibaba Cloud for Thai smallholder farmers to check water from their 
+- ★ [[optimate]] — Smarter underwriting through AI-powered dashboards, deep insights, and reinforcement learning.
+- ★ [[kirapilot-navigate-your-day-powered-by-kira-ai]] — A beautifully designed, native-feeling productivity app with an intelligent AI companion that helps 
+- ★ [[a-p1lt2h]] — Claim-level truth forensics–trace any idea back to its origin and know what's actually true. Powered
+- ★ [[project-existence]] — Blockchain-based document management for secure and transparent storage.
+- ★ [[tetra-odyssey]] — Tetra Odyssey is a Web3 RPG where players learn, compete, and earn. With skill-based games, blockcha
+- ★ [[hypercluster-the-web3-automated-referral-system]] — A permissionless referral system that aligns an entire community with a single link. Complete with a
+- ★ [[care-coordination-discharge-planner]] — Automates discharge coordination — reads clinical notes, validates CMS rules, and generates Standard
+- ★ [[proofpix]] — attested image ZK library + verified image iPhone app
+- ★ [[chancery]] — Power of attorney for AI agents. A human signs what the agent may commit to; every irreversible act 
+- ★ [[batteryforgeai]] — Multi-agent battery intelligence. Specialized AI for vision-based defect detection, charging optimiz
+- ★ [[doculytics]] — An Intelligent Analytics Tool which generates complex Insights from Docusign E-Signature API data.
+- ★ [[arialine]] — Turn Mermaid & Markdown into gorgeous native Slack canvases or interactive pages — fully versioned, 
+- ★ [[luckydapp-your-luck-starts-here]] — Decentralized app that introduces a new level of trust and transparency in the DeFi and gaming space
+- ★ [[veristudio]] — AI films with receipts: every frame hash-sealed to Backblaze B2, every film publicly verifiable — no
+- ★ [[procsee]] — PROCSee turns your system into a crime scene — and autonomously investigates every process
+- ★ [[caregiver-agent-secure-ai-delegation-for-caregiving]] — AI caregiver agent using Auth0 Token Vault, FGA, and CIBA to securely delegate bill payments and med
+- ★ [[armada-kqva1x]] — Hire autonomous AI employees that act on real events and earn your trust.
+- ★ [[permitflow-ai]] — PermitScan Ai automates hazard discovery → permit creation → permit validation → permit refinement f
+- ★ [[dot-bringing-humanity-to-in-home-care]] — Agentified personal in-home care for the elderly. Multimodal S2S agent system handles patient charts
+- ★ [[launch-control-bgp8az]] — AI-powered release gate that evaluates merge requests with four chained agents and policy-as-code ri
+- ★ [[nami-nova-agent-manager-interface]] — Mission control for AI coding agents. Parallel threads, sandboxed execution, reusable skills, and fi
+- ★ [[domaintwin-ai]] — Detect DNS drift, explain it with AI, restore trusted state through Name.com, and prove recovery wit
+- ★ [[tradepilot-charting-ui-options-autopilot]] — A deterministic trading terminal where Autopilot, Backtesting, Workflows, and Global Search are full
+- ★ [[trueprint-ai-restoration-that-proves-what-s-real]] — AI restoration invents history. Trueprint restores old photos and audio, then proves exactly what's 
+- ★ [[zenith-og0u5f]] — Unlock advertising's future: Transparency, efficiency, and fairness. Verifiable transactions for adv
+- ★ [[lookcloser]] — A multi-agent safety net for incidental imaging findings, because 1 in 5 follow-ups never happen, an
+- ★ [[signver-a-deep-learning-library-for-signature-verification]] — Signver provides methods/models for signature verification - finding signatures (object detection), 
+- ★ [[paragon-5vmb83]] — Paragon predicts a vehicle's drag coefficient (Cd) in seconds from a simple STL upload, using AutoML
+- ★ [[blood-health-tracker]] — Track your blood health and discover insights
+- ★ [[quoram]] — Quorum is a validation layer for multi-agent AI systems, running on platforms like Fetch.ai's ASI:On
+- ★ [[chronos-legacy-code-archaeologist]] — Upload any ancient codebase. Get an AI-powered dependency map, plain-English excavation report, and 
+- ★ [[metacraft]] — Truly decentralized, multi-chain, cross-platform, community-driven & developed play-and-earn gaming 
+- ★ [[compliance-guardian-ai-system]] — AI-powered compliance monitoring that detects violations before they become liabilities.
+- ★ [[barrio-decentralized-classified-ads]] — A multi-purpose ecosystem where you can help reduce landfill waste by buying and selling pre-loved i
+- ★ [[chainhealth]] — Securing Patient Data with Chainlink. Validate FHIR resources, and ensure data integrity, privacy, a
+- ★ [[metabridge]] — Metabridge: Building Bridges for Seamless Blockchain Interconnectivity
+- ★ [[kintwadi-one-shared-record-for-family-caregiving]] — One shared, permission-aware care record for families caring for an aging parent across cities and t
+- ★ [[nest-newborn-maternal-safe-transition]] — Fragmented charts cost lives. NEST saves mothers and newborns by orchestrating 5 AI agents that synt
+- ★ [[medvault-3nwvsj]] — Encrypted health records in your pocket. Share with any doctor in 10 seconds, in any language. Works
+- ★ [[leavitt]] — Leavitt reads every observability signal you have, metrics, logs, client-side load, and deployment c
+- ★ [[dailies]] — CI for AI-generated video - the tests nobody built for the thing everyone is shipping.
+- ★ [[theracat]] — A band and a plush cat that catch anxiety in how you move — and interrupt it before it peaks. There'
+- ★ [[whisper-hd54xc]] — Whisper: End-to-end encrypted messaging—no servers, no tracking, just pure privacy.
+- ★ [[mlb-game-threads]] — MLB/NBA/NHL/NFL game threads with live stats
+- ★ [[thermohalo-ai-firearm-detection-84vpze]] — ThermoHalo uses AI-powered thermal imaging to detect concealed weapons at school entrances. Safe, FE
+- ★ [[fangorn]] — Fangorn is a permissionless threshold encryption network that enables programmable access control fo
+- ★ [[xiaoqiang]] — Four lost ancient Chinese machines reborn as physically-simulated, source-cited interactive exhibits
+- ★ [[consentkey]] — A Logitech Actions SDK plugin that turns your MX Console into a physical consent firewall — blocking
+- ★ [[meridian-uw62z5]] — Meridian: an agentic UiPath Maestro system that automates maritime voyage compliance AI agents run d
+- ★ [[harmoniq-06o1e9]] — Regulatory intelligence for clinical trials.
+- ★ [[eid-vl-duplicate-detection-agent]] — AI-powered multi-agent system detecting duplicate HIV test records in Kenya, saving $195K annually t
+- ★ [[the-future-of-france-web-3-learning-game]] — RPG-style browser game where players learn to safely use Web 3 applications, secure digital wallets,
+- ★ [[era-ga6bj7]] — Authenticity for a New Age
+- ★ [[synth-u7a6pq]] — AI Medical Visit Assistant
+- ★ [[jonsnow-eth]] — Protecting projects and users with smart documents and meta-signing for smart contracts.
+- ★ [[graphflow-release-safety-intelligence]] — Release pipelines as a live dependency graph — see blast radius, not just red X's.
+- ★ [[guardian-ai-governed-incident-response]] — 5-node autonomous pipeline: triages P1 alerts, fetches runbooks, gets HITL approval, spins up war ro
+- ★ [[waver-finance]] — The first decentralized quantitative trading platform that provides secure, transparent, intelligent
+- ★ [[botlink]] — BoTLINK is a platform that NFTizes offline assets and connects blockchains with the Internet of Thin
+- ★ [[proactive-refresh]] — The first implementation of accountable threshold signatures with proactive refresh. We are the safe
+- ★ [[duolingo-xr]] — A new dimension of language learning!
+- ★ [[firstframe]] — FirstFrame lets studios review AI-generated video in seconds, not after the full render. It streams 
+- ★ [[sigmora-sigmora-org]] — Generative media at production scale, for a fraction of the cost. Genblaze orchestrates every model;
+- ★ [[ttv-pipeline]] — Text-To-Video Pipeline that automates generation of long-form video content using video generation t
+- ★ [[unwallet]] — Next-Gen Web3 Onboarding by combining seedless Passkey-powered AA wallets with domain auto-registrat
+- ★ [[sentinel-way5bd]] — Catch security holes in your MCP server before you ship it. Static rules, GPT-5.6 review, and Docker
+- ★ [[aegis-hindi-consent-companion]] — **India's AI-generated perioperative informed consent in Hindi — patient-specific, clinically ground
+- ★ [[childgrowthmonitor]] — Quick, accurate data on malnutrition
+- ★ [[posttoearn-automated-reward-deployment-with-chainlink]] — Revolutionize your affiliate marketing with refLINK: trust-minimized conversion tracking for smart c
+- ★ [[cinemory]] — Turn a set of photos into a scored, cinematic video reel. Generated with Genblaze, stored on Backbla
+- ★ [[the-grenadians]] — Everyone in the class takes notes. Meltingpot turns them into one shared vault for students, and bui
+- ★ [[fetch-health]] — AI assistant for organ transplant
+- ★ [[fhir-forge-gfjw4p]] — Transforms clinical notes, discharge summaries, and referrals into validated FHIR R4 resources with 
+- ★ [[clew-7tnal9]] — A Slack agent to help non-profits find, manage, and apply to grants.

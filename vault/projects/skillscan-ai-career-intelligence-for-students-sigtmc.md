@@ -1,0 +1,72 @@
+---
+slug: "skillscan-ai-career-intelligence-for-students-sigtmc"
+url: "https://devpost.com/software/skillscan-ai-career-intelligence-for-students-sigtmc"
+title: "SkillScan — AI Career Intelligence for Students"
+hackathon: "DSH Hacks V1"
+organization: "DreamWeave"
+winner: true
+words: 1610
+team_size: 1
+has_repo: true
+has_live: true
+has_video: true
+tags:
+  - "project"
+  - "mechanism/benchmark_measured"
+  - "mechanism/graph_reasoning"
+  - "mechanism/multi_agent"
+  - "mechanism/realtime_stream"
+  - "mechanism/retrieval_grounding"
+  - "mechanism/simulation_digital_twin"
+  - "domain/developer_tools"
+  - "domain/education"
+  - "domain/labor_employment"
+  - "user/developer"
+  - "user/educator_student"
+  - "substrate/code_repository"
+  - "substrate/geospatial"
+  - "substrate/sensor_telemetry"
+  - "substrate/structured_db"
+---
+
+# SkillScan — AI Career Intelligence for Students
+
+> AI that scans your resume, finds exact skill gaps, runs a mock interview, predicts your salary, and builds a 30-day roadmap to get you hired — not rejected.
+
+[Devpost](https://devpost.com/software/skillscan-ai-career-intelligence-for-students-sigtmc) · hackathon [[DSH Hacks V1]]
+
+## Facets
+
+**mechanism** [[benchmark_measured]] [[graph_reasoning]] [[multi_agent]] [[realtime_stream]] [[retrieval_grounding]] [[simulation_digital_twin]]
+**domain** [[developer_tools]] [[education]] [[labor_employment]]
+**user** [[developer]] [[educator_student]]
+**substrate** [[code_repository]] [[geospatial]] [[sensor_telemetry]] [[structured_db]]
+
+**stack** api, css, framer, gemini, google, lovable, motion, postgresql, react, recharts, speech, supabase, tailwind, typescript
+
+## How they structured the write-up
+
+- 🌟 inspiration
+- 🧠 1. ai resume intelligence engine
+- 📊 2. hiring probability prediction
+- 🕸️ 3. graph-based skill intelligence engine
+- 🧭 4. career gps
+- ⚡ 5. ai roadmap optimization engine
+- 🤖 6. multi-agent ai system
+- 📈 7. live labor market intelligence
+- 🎯 8. recruiter simulation engine
+- 🎤 9. ai mock interviews
+- 💰 10. salary intelligence & career forecasting
+- 🧪 11. github & portfolio intelligence
+- 🌍 12. global hiring gap map
+- frontend
+- backend & database
+- ai architecture
+- intelligence layer
+- 1. reliable structured ai output
+- 2. modeling employability computationally
+- 3. building realistic roadmap optimization
+
+## Body
+
+SkillScan X — Predictive Career Intelligence 🌟 Inspiration Every year, millions of talented students graduate with degrees, certifications, portfolios, and ambition — yet remain invisible to recruiters. We watched friends apply to 80, 120, sometimes 200 jobs with no responses, no interviews, and no explanation why. The most painful part wasn't rejection. It was the silence. No recruiter feedback. No visibility into missing skills. No understanding of market demand. No roadmap. No signal. Just endless guessing. We realized modern hiring has become a hidden optimization problem: Recruiters use ATS filters. Skills change faster than university curricula. Market demand shifts weekly. Students don't know which skills actually matter. Learning paths are chaotic and inefficient. The problem wasn't lack of talent. The problem was lack of intelligence. So we asked: What if employability could be measured, predicted, optimized, and continuously improved like a real-time intelligence system? That idea became SkillScan X . Not a resume builder. Not a chatbot. Not another job board. SkillScan X is an Autonomous Employability Intelligence System that uses: AI agents, graph intelligence, predictive analytics, labor-market intelligence, and optimization algorithms to help students understand exactly: why they are getting rejected, what skills they are missing, what recruiters actually want, and the fastest path to becoming employable. ⚙️ What It Does SkillScan X transforms employability into an optimization problem. The platform analyzes: resumes, GitHub profiles, LinkedIn profiles, job descriptions, market demand, and skill relationships to generate a complete AI-powered employability strategy. 🧠 1. AI Resume Intelligence Engine Users upload their resume or connect LinkedIn/GitHub profiles. The AI system: parses resume structure, extracts technical skills, evaluates project quality, detects ATS weaknesses, identifies missing recruiter signals, and benchmarks the profile against real-world hiring expectations. Instead of generic advice, users receive: Employability Score ATS Compatibility Score Technical Depth Score Recruiter Trust Score Resume Health Score 📊 2. Hiring Probability Prediction SkillScan X predicts: shortlist probability, interview probability, and hiring probability. Example: Scenario Hiring Probability Current Resume 18% Add SQL + Cloud Project 37% Improve GitHub Activity 52% Complete Optimized Roadmap 71% The system doesn't just analyze resumes. It forecasts outcomes. 🕸️ 3. Graph-Based Skill Intelligence Engine Instead of simple keyword matching, SkillScan X builds a dynamic Skill Knowledge Graph . Skills become interconnected nodes. The system maps: dependencies, transferable skills, adjacent careers, and shortest learning paths. Example: Python ├── Data Science │ ├── Pandas │ ├── NumPy │ └── ML ├── Backend Development └── AI Engineering This allows SkillScan X to: detect hidden career opportunities, calculate high-impact skill paths, and optimize learning progression intelligently. 🧭 4. Career GPS One of our most powerful features. SkillScan X shows users: “You are currently 47% toward becoming an AI Engineer.” Then it calculates: shortest skill path, estimated learning timeline, employability gain, and salary trajectory. Instead of random learning, students receive: optimized progression, milestone checkpoints, and a structured career navigation system. It feels like Google Maps for careers. ⚡ 5. AI Roadmap Optimization Engine Most career platforms generate generic learning plans. SkillScan X generates: Minimum-Time Employability Optimization Plans The roadmap engine considers: current skills, target role, market demand, learning constraints, available study time, and skill dependencies. Then it computes: highest ROI skills first, dependency-aware sequencing, realistic milestones, and employability gain per task. The result is a roadmap that is: realistic, optimized, and measurable. 🤖 6. Multi-Agent AI System Instead of using one generic AI prompt, SkillScan X uses specialized AI agents. AI Agent Pipeline Resume Agent ↓ Skill Graph Agent ↓ Market Intelligence Agent ↓ Roadmap Optimization Agent ↓ Career Forecast Agent ↓ Interview Agent ↓ Recruiter Simulation Agent Each AI agent: has its own responsibility, prompt structure, validation layer, and output schema. This architecture dramatically improves: reliability, modularity, and reasoning quality. 📈 7. Live Labor Market Intelligence SkillScan X continuously tracks market trends and emerging skills. The platform analyzes: hiring demand, salary growth, technology trends, and regional skill shortages. Users can see: trending technologies, rising roles, declining skill demand, and future hiring opportunities. Example insights: AI Infrastructure demand ↑ Vector Database jobs ↑ Cloud Security demand ↑ Legacy frontend demand ↓ This transforms SkillScan X from a resume tool into a real-time labor market intelligence platform. 🎯 8. Recruiter Simulation Engine One of our most innovative features. SkillScan X simulates how recruiters evaluate resumes. The system: scans resumes like an ATS, highlights weak sections, detects missing impact metrics, and explains likely rejection reasons. Example: “Low recruiter confidence detected due to weak project quantification and missing cloud deployment experience.” This gives students something they almost never receive in real life: actionable recruiter feedback. 🎤 9. AI Mock Interviews Users can practice role-specific interviews with adaptive AI interviewers. The system evaluates: technical accuracy, communication clarity, speaking confidence, filler words, leadership signals, and storytelling quality. Students receive: real-time scoring, rubric-based feedback, and improvement suggestions. 💰 10. Salary Intelligence & Career Forecasting SkillScan X predicts: expected salary ranges, future salary growth, employability improvement, and projected interview success. Example: 90-Day Forecast ---------------- Interview Rate: +42% Employability Score: +31% Expected Salary Growth: +58% This creates a measurable vision of progress rather than vague motivation. 🧪 11. GitHub & Portfolio Intelligence SkillScan X analyzes: GitHub consistency, repository quality, project complexity, README quality, and engineering activity. The platform generates: Engineering Credibility Score Portfolio Strength Score Technical Consistency Score This allows evaluation beyond resumes alone. 🌍 12. Global Hiring Gap Map SkillScan X visualizes: city-wise hiring demand, regional skill shortages, technology growth patterns, and labor market gaps. Example: Bangalore → AI Infrastructure Demand Mumbai → FinTech Growth Pune → DevOps Shortage Our long-term vision is to build a public Hiring Gap Index that helps: students, universities, recruiters, and policymakers understand the global employability landscape. 🛠️ How We Built It We built SkillScan X using a modern AI-native architecture designed for scalability and real-world deployment. Frontend React TypeScript Tailwind CSS Framer Motion Recharts We designed the interface as a futuristic intelligence dashboard with: animated skill graphs, probability visualizations, dynamic forecasting, and real-time AI system feedback. Backend & Database Supabase PostgreSQL Edge Functions We used relational modeling to connect: users, resumes, skills, job roles, roadmaps, forecasts, and market intelligence. This structure enabled scalable querying and intelligent recommendation systems. AI Architecture Powered by: Gemini API Multi-agent orchestration Structured prompting Validation pipelines Every AI response: follows strict schemas, validates output consistency, retries malformed generations, and returns structured intelligence rather than generic text. Intelligence Layer We implemented: weighted skill scoring, semantic similarity matching, graph-based skill mapping, roadmap optimization logic, probabilistic hiring prediction, and adaptive employability forecasting. 🧱 Challenges We Ran Into 1. Reliable Structured AI Output The hardest problem wasn't generating AI responses. It was generating: reliable, parseable, structured, production-safe outputs. We solved this with: schema-constrained prompting, validation pipelines, and retry mechanisms. 2. Modeling Employability Computationally Employability is messy. Different companies prioritize different signals. We had to design weighted scoring systems that balanced: skill rarity, market demand, role relevance, and recruiter expectations. 3. Building Realistic Roadmap Optimization Most AI systems generate unrealistic learning plans. We solved this by adding: dependency sequencing, time constraints, skill prioritization, and employability ROI calculations. 4. Graph Intelligence Complexity Building a dynamic skill graph capable of: adjacent role prediction, transferable skill mapping, and shortest-path recommendations was one of the most technically challenging parts of the project. 5. Balancing Complexity with Simplicity SkillScan X performs extremely sophisticated analysis internally. But students should never feel overwhelmed. Designing an interface that felt: intelligent, powerful, yet easy to use was one of our biggest UX challenges. 🏆 Accomplishments That We're Proud Of We transformed employability into a measurable system Instead of vague career advice, SkillScan X generates: predictions, probabilities, optimized pathways, and measurable outcomes. We built a true multi-agent AI architecture Rather than using one chatbot prompt, we created specialized AI agents with: dedicated tasks, structured outputs, and orchestration pipelines. We introduced graph intelligence into career analysis Our skill graph system enables: transferable skill detection, shortest learning paths, and adjacent career discovery. We built a working end-to-end intelligence platform SkillScan X is not a concept. It is a functional platform capable of: resume analysis, roadmap generation, interview simulation, hiring prediction, and market intelligence analysis. We solved a real human problem Students are rejected every day without explanation. SkillScan X closes that feedback gap. 📚 What We Learned Prompt engineering is real systems engineering Reliable AI systems require: constraints, validation, orchestration, and structured reasoning. Intelligence is more valuable than information Students don't need more tutorials. They need: prioritization, direction, optimization, and clarity. Algorithms matter The real power came not from AI text generation alone, but from combining: graph intelligence, predictive analytics, optimization logic, and market intelligence. Simplicity is difficult Making a computationally sophisticated system feel simple required constant iteration. Feedback loops drive improvement The same principle behind SkillScan X applies to development itself: Without feedback, improvement becomes guesswork. 🚀 What's Next for SkillScan X Phase 1 — Real-Time Market Integration Connect live hiring APIs and labor market feeds to improve forecasting accuracy dynamically. Phase 2 — Adaptive Intelligence Layer Train the system using anonymized outcome data: interviews, roadmap completion, hiring success, and salary progression. Phase 3 — University Intelligence Dashboard Allow colleges to identify: curriculum gaps, cohort weaknesses, and emerging industry demand. Phase 4 — Recruiter Intelligence System Enable recruiters to: define ideal candidate profiles, compare applicants probabilistically, and discover high-potential candidates earlier. Phase 5 — Global Employability Intelligence Network Build the world's largest open employability intelligence layer. A system capable of mapping: skill shortages, labor-market inefficiencies, and career mobility patterns globally. The future of hiring should not depend on guesswork. It should depend on intelligence. # SkillScan X ### Transforming Employability Into an Optimization Problem *The gap isn't talent.* *The gap isn't effort.* 

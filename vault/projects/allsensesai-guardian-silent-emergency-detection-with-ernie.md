@@ -1,0 +1,38 @@
+---
+slug: "allsensesai-guardian-silent-emergency-detection-with-ernie"
+url: "https://devpost.com/software/allsensesai-guardian-silent-emergency-detection-with-ernie"
+title: "AllSensesAI Guardian — Silent Emergency Detection with ERNIE"
+hackathon: "ERNIE AI Developer Challenge"
+organization: "Baidu"
+winner: true
+words: 837
+team_size: 1
+has_repo: true
+has_live: true
+has_video: true
+tags:
+  - "project"
+  - "mechanism/realtime_stream"
+  - "substrate/geospatial"
+  - "substrate/web_dom"
+---
+
+# AllSensesAI Guardian — Silent Emergency Detection with ERNIE
+
+> AllSensesAI Guardian uses ERNIE to detect real-world danger when users can’t ask for help, reasoning over context, audio, motion, and location to trigger automated emergency alerts.
+
+[Devpost](https://devpost.com/software/allsensesai-guardian-silent-emergency-detection-with-ernie) · hackathon [[ERNIE AI Developer Challenge]]
+
+## Facets
+
+**mechanism** [[realtime_stream]]
+  <sub>weak: deterministic_policy</sub>
+  <sub>weak: developer_tools, disaster_emergency, labor_employment, media_journalism</sub>
+**substrate** [[geospatial]] [[web_dom]]
+  <sub>weak: document_pdf, sensor_telemetry</sub>
+
+**stack** 10dlc-sms-complaince, aes-256-encryption, amazon-web-services, audit-trails, aws-api-gateway, aws-bedrock, aws-cloud-formation, aws-cloud-watch, aws-dynamodb, aws-kinesis, aws-kms, aws-lambda, aws-rds-postgresql, aws-ses
+
+## Body
+
+Server-side architecture Flask APIs, multimodal signal fusion, ERNIE inference layer, fallback logic, and emergency response orchestration ERNIE-powered real-time security architecture: multimodal signals drive immediate AI decisions, automated alerts, and life-saving response Hands-free emergency detection using ERNIE 4.5, fusing audio, motion, and location signals to trigger immediate life-saving responses AllSensesAI Guardian — Silent Emergency Detection with ERNIE Inspiration Most emergency systems are built on a fragile assumption: that a person in danger can speak, tap a button, or clearly ask for help. In real life, that assumption often fails. People may be threatened into silence, physically restrained, overwhelmed by fear, or uncertain whether escalating a situation will make things worse. In those moments, silence does not mean safety — it often signals heightened risk. This reality became especially clear after reviewing investigative reporting by The New York Times examining safety failures within ride-hailing platforms. These investigations document multiple cases where dangerous situations escalated while victims were unable, afraid, or uncertain about actively requesting help. A recurring pattern is that existing safety mechanisms rely heavily on manual reporting, explicit panic actions, or post-incident review — leaving a critical gap during the moments when real-time intervention could have made a difference. New York Times — Video Investigation Uber’s Sexual Assault Problem https://www.nytimes.com/video/business/100000010323329/ubers-sexual-assault-problem.html?smid=url-share More recent follow-up reporting shows that these issues persist. Despite policy changes and increased scrutiny, failures in background checks, reporting mechanisms, and real-time response continue to expose users to harm — reinforcing that the problem is not isolated, but systemic. New York Times — Follow-up Reporting (2025) Uber Background Checks and Sexual Assault https://www.nytimes.com/2025/12/22/business/uber-background-checks-sexual-assault.html?unlocked_article_code=1.-k8.8ENv.MiottXd7O2ZX&smid=nytcore-ios-share Together, these investigations expose a design assumption problem: many safety systems assume users can clearly signal distress under pressure. In reality, danger is often subtle, coercive, and silent. AllSensesAI Guardian was created to answer a single question: Who protects you when you cannot ask for help? What It Does AllSensesAI Guardian is an AI-powered emergency detection system that uses ERNIE as its core reasoning engine to identify potentially dangerous situations even when the user remains silent. The system continuously analyzes multiple signals, including: Short audio context (spoken words, tone, and acoustic patterns) Subtle or disguised distress language Motion anomalies from the device Location deviations and timing patterns Rather than relying on keyword detection alone, ERNIE evaluates the full situational context and produces a structured threat assessment. When the assessed risk crosses a defined threshold, the system automatically triggers emergency actions such as alerting a trusted contact and sharing live location data. No user interaction is required during the emergency. How We Built It (Architecture & ERNIE Integration) The system is designed as a modular, application-driven architecture with ERNIE at the center of decision-making. Real-time signals are captured and summarized by a Python + Flask backend. Relevant contextual data is assembled into a compact reasoning payload. ERNIE is invoked via API to evaluate the situation holistically. ERNIE returns a structured response containing: Threat level Confidence score Human-readable reasoning Recommended action Automated orchestration logic determines whether to escalate the incident. ERNIE is intentionally used as a reasoning engine, not a chatbot. Its role is to interpret ambiguous, incomplete, real-world signals — scenarios where rigid, rule-based systems often fail. The system includes a safe demo fallback mode, ensuring the application remains fully functional even if external AI services are unavailable. Challenges We Ran Into One of the main challenges was balancing sensitivity and reliability. Overreacting creates false alarms, while underreacting can result in real harm. We addressed this by: Leveraging ERNIE’s confidence scoring to guide escalation Requiring alignment across multiple signals before triggering alerts Designing structured AI outputs to ensure deterministic downstream behavior Another challenge was ensuring the system respected user privacy while still acting decisively. The focus is on situational awareness during elevated risk, not continuous surveillance. Accomplishments We’re Proud Of Integrating ERNIE as a core safety decision engine, not a superficial feature Designing a system that functions even when the user cannot interact Producing explainable, structured AI outputs suitable for automated action Building a modular, scalable, deployment-ready architecture Grounding the solution in real-world safety failures documented by investigative journalism What We Learned This project reinforced a critical lesson: AI safety systems must reason, not react. Many existing safety tools fail not because of missing technology, but because of incorrect assumptions about human behavior under stress. ERNIE enables a shift away from those assumptions toward systems that respond to reality as it unfolds. Expectations for This Challenge This is an application-focused project where ERNIE is used as a contextual reasoning and decision-making engine for real-world safety scenarios. The goal is to demonstrate how ERNIE can be embedded into a production-oriented architecture to reason over multimodal signals and trigger automated actions — rather than focusing on model fine-tuning alone. What’s Next for AllSensesAI Guardian Future iterations will expand multimodal inputs, improve personalization, and support broader deployment scenarios such as: Ride-hailing platforms Workplaces Public transportation Other high-risk environments ERNIE will remain the system’s core intelligence, continuously improving its ability to recognize danger early and enable timely intervention. <div

@@ -1,0 +1,20 @@
+---
+tags:
+  - "convergence"
+projects: 2
+hackathons: 2
+---
+
+# 2 projects, 2 hackathons, one claim
+
+**Shared vocabulary** depended, original, replacement
+
+### [[karma-the-reincarnation-agent-for-deprecated-services]] — Karma — The Reincarnation Agent for Deprecated Services
+> tests check the contract you wrote down, not the one you actually had, so a replacement can pass everything and still break what depended on the original
+
+*Google Cloud Rapid Agent Hackathon* · problem: undocumented dependencies are invisible to every gate designed to catch regressions
+
+### [[community-chats]] — Community Chats
+> when a platform removes a feature the communities that depended on it lose their hub, and the replacement must carry the moderation the original lacked or it recreates the chaos that justified the removal
+
+*Reddit Mod Tools and Migrated Apps Hackathon* · problem: Reddit sunset public chat channels and legacy chat spaces lacked moderation tools

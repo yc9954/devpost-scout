@@ -1,0 +1,39 @@
+---
+slug: "covid-community-risk-indicator-w64a3v"
+url: "https://devpost.com/software/covid-community-risk-indicator-w64a3v"
+title: "COVID Community Risk Indicator"
+hackathon: "Hack Quarantine"
+organization: "Hackathons UK"
+winner: true
+words: 1243
+team_size: 1
+has_repo: true
+has_live: false
+has_video: true
+tags:
+  - "project"
+  - "domain/developer_tools"
+  - "domain/health_clinical"
+  - "substrate/geospatial"
+---
+
+# COVID Community Risk Indicator
+
+> Discover exposed places in your community at higher detail. Most data about the coronavirus is regional at best. The Community Risk Indicator show you risk of specific places in your neighborhood.
+
+[Devpost](https://devpost.com/software/covid-community-risk-indicator-w64a3v) · hackathon [[Hack Quarantine]]
+
+## Facets
+
+  <sub>weak: cross_origin_web</sub>
+**domain** [[developer_tools]] [[health_clinical]]
+  <sub>weak: education</sub>
+  <sub>weak: educator_student</sub>
+**substrate** [[geospatial]]
+  <sub>weak: structured_db</sub>
+
+**stack** firebase, google-geocoding, google-maps, google-places, react-native
+
+## Body
+
+The green spots on the map show that the location has been exposed within 14 days of someone falling ill and visiting. You can search for specific places that may not be near you. This is the info shown when clicking the "Info" button on the right side. This is the first page of the survey that is shown after you click the red syringe button on the main page, indicating you are feeling ill. The is the last page of the health survey where you can submit your location history to be used to update exposure on the map. Inspiration There is a lot of data out there about the confirmed cases and total deaths within a broad area. However, there is very little detail about the specific places in your community that have been exposed to COVID-19. My goal was to have the detail for something determining the least risky place to pick my dinner up from tonight. What it does The COVID Community Risk Indicator is a map that shows hotspots around your current location, indicating that someone who has become ill has been there in the last 14 days. You can also search specific locations to see if they have been exposed. If you fall ill, there is a button to report that you suspect you have contracted COVID-19, which will then ask you to anonymously submit your location logs for the last 14 days. The logs taken will be used to update the hotspots shown on the app. The app's priority is data anonymity. Any location logs that are taken, if you are asked to share, will always be completely anonymous. Additionally, no neighborhoods will show hotspots as to retain the privacy of any infected users. The tracks I am pursuing are Improving Awareness and Behavior and Tech and Health . How I built it A friend presented me with an open-source app, called Private Kit , which safely and securely kept track of your location logs. I used this app's service as the base for the Community Risk Indicator. What I needed, besides a way to log location, was a way to store potentially millions of locations and an effective way to view exposed locations. Using Google I added the Google Maps SDK on to the main screen, and wanted to keep the focus on the map. So, I only added the most necessary buttons, and kept them small and to the side. The map itself utilizes a heat map, a subset of the Google Maps SDK, to show how many contaminated people have been at a given place. I used the Google Geocode, Places, and Maps APIs to retrieve details on each nearby place. This included place types, so I could make sure neighborhoods are not included when viewing contaminated places (to maintain user anonymity). Storing Data I stored the place_id (assigned by Google) in a Firebase Realtime database, and a timestamp as an indicator that an infected person has been to that location. When entering the app, I queried nearby locations from Google, and then checked my record of places to see if someone had been to that place. If they had, I'd count the number of timestamps in the last two weeks and use that as a weight for the heat spot on the heat map. Exporting Data Thanks to Private Kit, when entering the app, you have the option of logging your location. I highly recommend this since the more location data we have in the case you become infected, the higher detail we can show on the heat map. There is a button on the bottom right of the main screen that is depicted with a red syringe. This is the short survey you take in case you fall ill. I am assuming that people will know if they have a chance of having COVID-19 better than a survey designed by a CS college student can diagnose. This way I can keep the survey to two questions: Do you believe you are infected with COVID-19? What day did you start showing symptoms? If they answered yes to the first one, the third page on the survey is the option to submit your location history anonymously, so that your community members can benefit when they go into town. Challenges I ran into Data Security I knew I needed to keep location history data as secure as possible. However, if I wanted others to be able to see hotspots of exposed places, it meant there would have to be some sort of exporting of location history. Because if someone was going to see location trails of other people, it goes without saying that the person's locations you are seeing are not only on their device. I figured a good compromise was until it was deemed that you need to export your location history (you are contaminated), the location history will stay on your phone. And when you do export your location history, the only thing exported are timestamps. There is no personal data or phone data being recorded whatsoever. It comes with the drawback of potentially providing illegitimate data, but this way any data being used is 100% anonymous. Community Involvement A potential drawback to the app is that in order for people to benefit from using it, community members who fall ill need to report to the app that they have. They also need to have been logging their locations. I figure a solution to this comes with further development on app awareness in your community and app engagement. If your community knows about this app and use it frequently, there is a higher chance that if you fall ill you will "give back" by reporting that you have. Additionally, I believe if you got a semi-frequent push notification reminding you to take the survey if you fall ill, it will greatly increase the use of the app. Accomplishments that I'm proud of I am proud I could make something entirely by myself in three weeks. I have tried a few times before to create an app, but have been held back by loss in self and team motivation and outside factors. Being Quarantined has turned out to be the perfect opportunity to sit down and create the vision I had without distraction. Also, I am very happy I could figure out how to effectively use Google APIs in my app. I have never used them before, even though I roughly knew how some of the services worked. I feel as though the way I figured out how to effectively store the data was creative and worked perfectly for what I was trying to accomplish. What's next for COVID Community Risk Indicator Add push notifications to semi-frequently ask people to start logging their locations if they are not already, and ask them to take the brief survey if the are infected. The goal with this is to increase engagement. Upon entry into the app, ask to see if the user has visited a highly infected location near them, in order to determine if there is a possibility that they are indirectly exposed. This will give better insight for the heat map. Put the app into production and advertise the app in my local community. I want to see if the app can work in a real-life setting. I also want my community to benefit from knowing which places have a higher risk. <div

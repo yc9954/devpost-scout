@@ -1,0 +1,50 @@
+---
+slug: "aver-4hduaz"
+url: "https://devpost.com/software/aver-4hduaz"
+title: "Aver"
+hackathon: "IGNITION | A Global Solana Hackathon"
+organization: "Solana Capital"
+winner: true
+words: 1368
+team_size: 1
+has_repo: false
+has_live: true
+has_video: true
+tags:
+  - "project"
+  - "domain/developer_tools"
+  - "domain/housing_homeless"
+  - "user/developer"
+  - "substrate/financial_record"
+  - "substrate/structured_db"
+  - "substrate/web_dom"
+---
+
+# Aver
+
+> Aver enables decentralized and trustless betting markets on the Solana blockchain - with tokenized bet, orderbook exchange, fully-collateralized prize funds and on-chain oracle-driven resolution.
+
+[Devpost](https://devpost.com/software/aver-4hduaz) · hackathon [[IGNITION - A Global Solana Hackathon]]
+
+## Facets
+
+**domain** [[developer_tools]] [[housing_homeless]]
+**user** [[developer]]
+**substrate** [[financial_record]] [[structured_db]] [[web_dom]]
+
+**stack** django, javascript, python, rust, serum, solana, typescript
+
+## How they structured the write-up
+
+- tl;dr
+- inspiration
+- what it does
+- how we built it
+- accomplishments that we're proud of
+- what we learned
+- what's next for aver
+- social links
+
+## Body
+
+Product Overview TL;DR Aver offers a generalized model for decentralized betting which enables real-world events to be traded on speculated upon on-chain. 🏈🏇🏼⚽️🏎🎮🏌🏼‍♂️ the 'mint' specifies markets, creates tradeable tokens, holds and pays-out winnings from prize vaults; 🥳 on-chain contracts are integrated with oracle data feeds to facilitate trustless market resolution 🧠 a fully-functional, Serum-powered, Betting DeX for traders 📈 simplified 'click-and-confirm' betting for 'retail' punters 🏅 API and Python SDK for algo-traders, betting arbs and market markers 🤖 See our Ignition Landing Page for all the info! Inspiration Prediction markets and betting have been attempted on-chain before, but in our view, with a number of fatal flaws - too slow or expensive; pool models expose LPs to toxic flow/permanent loss; prices/odds not guaranteed at time of bet; capital inefficient; or too simple and excluding most real-world betting events (e.g. binary markets). We were confident that with the potential Solana and Serum provided, we could design and prove our concept - an on-chain betting model that actually works . Our aspiration is to enable a web3.0 betting platforms that makes no compromise in rivaling leading web2.0 exchanges and bookmakers (like Betfair, Ladbrokes, etc) - in terms of of UX - while offering all of the benefits of decentralization and trustlessness. What it does Aver is an ecosystem of protocols and decentralized apps to facilitate trustless betting on the Solana blockchain. Aver itself is not the bookmaker, and doesn't 'take the bets' - we facilitate exchange between market participants - punters, traders, market makers, bots. There are a number of components to what we've built, and each serves a particular purpose or user group - and each important to a functioning betting ecosystem. Aver Mint - issues fungible/tradeable betting 'outcome tokens' in exchange for a 'base token' (e.g. USDC). It integrates with on-chain oracle feeds to determine a market's resolution, and provides winning token holders with winnings in base tokens, once the market is resolved. The Mint operates in complete tokensets 1-for-1 with the base token, and does not quote a price for individual outcomes/bets (price discovery is handled on the DeX). The Mint enable the rest of the Aver ecosystem by allowing anyone to expand or contract the supply to meet demand. Aver DeX - a fully-functional, Serum-powered, orderbook betting exchange. We've built a betting market tailored UI on top of stacked (one per outcome in a given betting market) Serum markets which caters for the specific betting use case - like preferences in how users quote odds/price or quantity/stake. Historical data capture and charting has been integrated with the DeX, as has the Aver Mint - allowing traders to expand/contract supply of bets for particular markets to meet demand. Aver Bet - a simplified 'click-and-confirm' style of UI which allows punters (i.e. price-taking users) to place a bet in a UX which is as simple as on a traditional bookmaker's site/app. Users who have open positions have the ability to 'cash-out' ahead of resolution, or hold their position in the hope of collecting winnings. In the background, liquidity is sourced from the Aver DeX orderbook, but the user does not have to interact with this, or worry about the nuances of the Serum settlement process, etc. Aver Wallet - Tokenized betting produces a lot of new token mints, which can be difficult to keep track of and to understand their context. The Aver Wallet reads directly from on-chain data about the user's holdings and layers/joins that with context data from the Aver API. This explains what the holdings mean to the user in terms of current 'cash-out' value, potential winnings, open or unsettled positions on the DeX. In future iterations it will guide user's through/suggest available actions, and help to 'clean up' their wallet, collect winnings, remove worthless tokens, reclaim unused SOL in rent, etc. Aver 'Shopfront' - Millions of punters across the world could benefit from access to decentralized betting - but wallets, keys and blockchain concepts are a barrier-to-entry. For those users who are willing to forego a degree of trustlessness and want betting wallet custodianship-as-a-service, the Aver Shopfront concept provides email/password authentication (as with a traditional bookie's website), where all transactions and wallets are handled server-side. An affiliate can host a shopfront, choose markets to list and outsource all capital management, pricing, record keeping and liquidity to the Aver ecosystem. From the user's point of view, tokenized betting is presented as betting slips and token balances look like fiat currency. Data API - Provides the context data to enable third-parties, scripts, other builders and trading bots to interact with Aver. User's can query the API to understand what markets are live; what outcome a particular token represents; how they can send an instruction to mint for market X, or trade on market Y, etc. PyAver - Python SDK - Fundamental to achieving functioning betting markets - with liquidity, depth and effective price discovery - is facilitating ease of onboarding for market markets, arbitrageurs and algo-traders. We've started developing an open-source our Python SDK for interacting with Aver. This includes some sample scripts to interact with all of the components above, and will expand on example trading or centralized-decentralized betting arb bots to kick-start the Aver trading community. Market Making Bots - We've built rudimentary market making bots using the Python SDK. This achieves two goal - (a) showcasing what is possible with PyAver; and (b) to provide initial liquidity to the markets. These bots are quoting orders on the devnet demo as you read this. And to be clear - there's nothing special/restricted in what we've done - anyone with a Python interpreter could download PyAver and start trading/betting/market-making on Aver right now. How we built it At it's core, decentralized betting on Aver is made possible by on-chain programs which handle the minting, redeeming, resolving, prize vaults and payouts of tokenized betting markets. Some data (context, relationships, on-chain addresses, parameters, etc) is stored centrally by Aver within our database, and this is acts as an index and provides context data/parameters to components of the Aver ecosystem and other users - bots, market makers, etc - through the API. We intend to migrate more and more of the data required to power Aver on-chain over time. The off-chain components of Aver are build in Django and Python. The DeX is powered by Serum, with a completely reconstructed GUI built using the Bootstrap UI framework and vanilla javascript. Our trading library/SDK - PyAver - has been developed in Python, leveraging the Solana and PySerum python libraries as a starting point. We've also built rudimentary market making bots using this library - to showcase what is possible with PyAver and to provide liquidity to the markets initially. The Aver Shopfront concept has been built in Django/Python - showcasing the possibilities of server-side interactions with the Solana blockchain for a user group who are want custodianship of their betting wallet as a service. Accomplishments that we're proud of 🛠 Everything you see at aver.bet has been built in 40 days by a team of two 👷🏻‍♂️👷🏽‍♂️with full-time jobs (First line of code written on 4th September! 😅); 🚀 We've got a functioning devnet release live, which has seen 👩🏻‍💻2.2k Solana wallets connected , and over 📈23k trades made on our betting markets; (at the time of submission - live numbers here ) 🧠 We've partnered with the team at Switchboard and have successfully integrated oracle-resolved smart-contracts within the Aver mint What we learned 🤷🏼‍♂️ There are a lot of nuances to integrating with Serum. Simplifying UX for less sophisticated users, and layering in additional functionality/user cases for other users have been a real creative and technical challenge! 💬 Opening up early to community feedback and iterating has been crucial. We've made a lot of improvements and unearthed plenty of bugs which our eager community testers helped us to identify! 🙏🏼 What's next for Aver We are seeking to raise funds , build a team and grow our community to bring Aver to mainnet in the next 3-6 months. If you're a developer, community builder, sportbetting marketeer, investor or enthusiastic community member - we'd love to hear from you! Social links Twitter: https://twitter.com/AverBet Telegram: https://t.me/OfficialAverBet Medium: https://averbet.medium.com/ <div

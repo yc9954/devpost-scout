@@ -1,0 +1,166 @@
+---
+hackathon: "The PartyRock Generative AI Hackathon by AWS"
+organization: "Amazon"
+projects: 134
+tags:
+  - "hackathon"
+---
+
+# The PartyRock Generative AI Hackathon by AWS
+
+Amazon  ·  134 collected projects
+
+## What this field was made of
+
+- [[video_visual]] × 54
+- [[education]] × 29
+- [[educator_student]] × 24
+- [[developer]] × 16
+- [[realtime_stream]] × 15
+- [[code_repository]] × 15
+- [[developer_tools]] × 13
+- [[agriculture_food]] × 11
+- [[mental_health]] × 11
+- [[web_dom]] × 8
+- [[financial_record]] × 6
+- [[researcher]] × 6
+- [[voice_speech]] × 6
+- [[labor_employment]] × 6
+- [[finance_payments]] × 5
+
+## Projects
+
+- ★ [[test-kbdsc2]] — Interactive crime thriller game where you play as a newly recruited detective and solve cases in the
+- ★ [[faith-manga-creation-tools]] — Faith is designed to help creators turn their ideas into the manga of their dreams by helping genera
+- ★ [[arghhhh-zombie]] — Exploit weaknesses and defeat the zombie
+- ★ [[debeat-coach]] — Debeat Coach is an debate coaching app on PartyRock, with some rap battle elements incorporated into
+- ★ [[asteroid-mining-assistant]] — 🤖☄️ Imagine a future where we tap into the vast mineral wealth of space, harvesting valuable resourc
+- ★ [[unlock-your-pet-s-language-understand-behavior]] — This project uses cutting-edge Generative AI to translate their behavior. Give your pet the best car
+- ★ [[takeone]] — MovieCreator is an application designed to help you shoot movies. This application uses generative A
+- ★ [[wingpal]] — WingPal is a pitch-crafting wingman. Simply answer 5 questions about yourself, and it will create th
+- ★ [[find-your-inner-potato]] — Every person is unique, just like a potato. Are you big, small, cooked or fried? Raw maybe? Or not a
+- ★ [[mindmap-party]] — Mind maps are a fantastic tool. Think outside the box. New visualization feature for PartyRock.
+- ★ [[angler-advisor]] — Angler Advisor is the PartyRock AI Assistant that prepares you for your next fishing trip. Whether a
+- ★ [[safescares]] — Enjoy a personalized horror experience without the fear of encountering unsettling content.
+- ★ [[sample-oips0f]] — Are you brave enough to enter the inferno? A war is coming between heaven and hell and the only thin
+- ★ [[neon-metropolis-v1-373811-cyberpunk-interactive-chat-rpg]] — Neon Metropolis is a futuristic city that glows with neon lights and holograms. It is a place of con
+- ★ [[virtusciai-partyrock-edition]] — "Explore. Experiment. Enlighten. Transforming STEM Learning One Click at a Time."
+- ★ [[let-s-get-lit-aurekm]] — An app providing ML digital literacy for older users with empathy.
+- ★ [[content-creator-8v4ebr]] — Introducing "Quest Craft: The RPG Generator" - an innovative app where your imagination sets the sta
+- ★ [[quizify-explore-engage-conquer]] — Your Personalized Topic Adventure! Pick a quiz, enjoy tailored challenges, and discover insights to 
+- ★ [[bounce-back-higher]] — If you got impacted by a layoff, this app will help you calculate your financial runway and will cre
+- ★ [[scrum-master-assistant]] — In this new Age of AI, lets leverage its capabilites to help Humans be better leaders.
+- ★ [[superhero-sidekick]] — Superhero Sidekick transforms your voice into an Adventure! Experience the first-ever Alexa-enabled 
+- ★ [[personal-finance-assistant-0im2ga]] — The goal of the project is support individuals to learn how to solve their finance problems with the
+- ★ [[mycareerpath]] — MyCareerPath- Your Path, Your Way. Generates a study plan tailored to your preferences. Say goodbye 
+- ★ [[codexplainer-unlock-code-mysteries]] — Conquer Coding Challenges: Debug, Transpile, and Learn! Get ready to dominate the coding world! This
+- ★ [[visual-verse]] — Let's get designing! Welcome to the Graphic Design Playground, where your visual ideas become realit
+- ★ [[lingolift-your-language-elevator]] — Dive into a New Language: Learn, Speak, and Converse. Embark on your language learning adventure! Th
+- ★ [[made-for-her]] — Made for Her: Empowering Women's Health with Generative AI The made for her app is focused on improv
+- ★ [[senpai-nyctiq]] — storyteller, invigorating, love and support, face your true self.
+- ★ [[modelhub]] — Share Models, Race Smarter
+- ★ [[on-second-thought]] — Can you spot the fake news? Play & hone your critical thinking skills.
+- ★ [[book-notes]] — Generate a complete book summary with images and bullet points with just the book's title.
+- ★ [[bankwise-r301ys]] — To empower analysts with the necessary knowledge and skills, BankWise introduces a cutting-edge GenA
+- ★ [[goal-genius-by-stay-wannabe]] — Be > Becoming > Become. Try another day!
+- ★ [[writewise-ai]] — Crafting success in admissions! Effortlessly personalized motivation letters, receive expert insight
+- ★ [[storyspinner]] — Unleash Your Imagination: Craft Vivid Stories and Visuals with Just a Few Clicks!
+- ★ [[the-tech-storyteller]] — Once upon a time, there was a Tech Storyteller -- a mythical creature that would weave the magic of 
+- ★ [[labmaster]] — Your Cool Health Planner!
+- ★ [[adventure-spaces]] — You go from area to area, having adventures. The LLM generates the areas content, items, people, con
+- ★ [[dietcare-personalized-nutrition-ai-assistant]] — DietCare - Personalized Nutrition, Empowering Health.
+- ★ [[values-across-faiths]] — Where faith meets reason, and morality finds its voice.
+- ★ [[ds-algo-interview-prep-a-partrock-app]] — Cracking a coding interview especially the data structure & algorithm rounds can be daunting. But fe
+- ★ [[algebra-tutor]] — "Unlock Math Mastery: Personalized Algebra Tutoring at Your Fingertips"
+- ★ [[chemistry-elements-lab]] — This app allows you to learn about chemical elements. Select two elements to see their chemical equa
+- ★ [[ai-online-tutorial]] — Need help with your study? Try this online tutoring app that will solve your problems anytime anywhe
+- ★ [[storygenai]] — StoryGenAI: your Creative Writing Assistant to Overcome Writer's Block.Transform your Thoughts into 
+- ★ [[bright-sparks-trainer]] — Bright Sparks Trainer: Turn any training into an engaging adventure with interactive, AI-customized 
+- ★ [[health-prognosis-personalized-ai-assistant]] — An innovative application developed using Amazon Partyrock platform serves as a health assessment to
+- ★ [[insights-odyssey-a-conversation-podcast-for-therapy]] — Embark on an introspective journey with Insights Odyssey, where therapy meets adventure in a choose-
+- ★ [[mindmate-va2o4m]] — AuraUp is a chatbot that provides mental health support by understanding your feelings, providing re
+- ★ [[pop-up-book-to-music]] — This interactive app brings instrument learning to life. Explore a 3D model, uncover the instrument'
+- ★ [[the-ai-almanac]] — The budget friendly foodie gives you healthy food options based on a strict budget, ingredient, or t
+- ★ [[mindwell-draft]] — TechLeap Career Coach empowers career changers to navigate the transition into the tech industry by 
+- ★ [[your-symphony]] — Everyone on earth consumes music, and everyone has a story, why not give everyone the power to expre
+- ★ [[daily-outfit-picker]] — Get daily work outfit recommendations based on your preferences.
+- ★ [[master-your-garden]] — Master Gardeners is an NGO that donates tons of vegetables to fight hunger! Mr. Garden Gnome AI assi
+- ★ [[chat-with-history]] — Chat with History: engage with the past, converse with historical figures, and unlock the secrets of
+- ★ [[industrial-carbon-emission-analyst]] — Empower organizations with our digital analyst, quantifying yearly carbon emissions as a reference. 
+- ★ [[data-center-tutor-ai-assisted]] — Ask question about data center technology and get answers and images. Example: What is a Data Center
+- ★ [[reel-rewind]] — Reel Rewind is an app lets you discuss your favorite movies, explore how key scenes could have playe
+- ★ [[delicious-food-recipe-generator]] — Use AI to create tasty food ideas
+- ★ [[personalized-car-recommender]] — "Dress to Impress: Shift - Your Personalized Occasion Wear Concierge!"
+- ★ [[carwhiz]] — "CarWhiz: Drive Your Perfect Match – Tailored Recommendations for Your Ideal Ride!"
+- ★ [[red-3pxbn2]] — "RED: Navigating Your First Period with Personalized Support and Guidance."
+- ★ [[project-ideas-generator]] — "Unleash Innovation: Your Gateway to Limitless Project Ideas with our Project Idea Generator Tool na
+- ★ [[trip-planner-7nqhma]] — Plan effortlessly with Trip Planner: AI-curated adventures, from hidden gems to optimized itinerarie
+- ★ [[codescape-full-stack-adventure]] — CodeScape: Your full-stack playground! Conquer coding challenges, solve real-world problems, and mas
+- ★ [[trip-planner-your-journey-begins-here]] — I am here to build an app which will be used as tourist assistant. This app will provide all relevan
+- ★ [[talentinsight-cv-screening-analysis]] — TalentInsight streamlines CV screening for HR professionals, offering comprehensive analysis and job
+- ★ [[diet-checker]] — Discover a balanced diet with NutriBalance! Simply input your meals and ingredients, and get tailore
+- ★ [[interactive-learning-app-with-assessment]] — Learn about any topic through interactive explanations, conversations and assessments. The main feat
+- ★ [[thecontentcaddie]] — Up your content game with just 7 inputs! This AI weaves magnetic pics, titles, scripts, and SEO-driv
+- ★ [[job-interview-assistant]] — Your guide to acing every job interview.
+- ★ [[tale-sketch]] — Imagine It. Create It. Comic It. Let your imagination run wild and see your stories come alive as co
+- ★ [[home-sweet-home-wc1qo5]] — Your personalized Home decor
+- ★ [[interacted-virtual-hub]] — An interactive Virtual classroom with an amazing assistance.
+- ★ [[learnguru]] — Learning Guide and Mentor
+- ★ [[hey-can-i-recycle-this]] — Ever wondered whether to throw something out or recycle it? Well this AI powered app can teach peopl
+- ★ [[project-bz8a5mw0c4g3]] — Connect, Collaborate, Create - Devridge: Your Companion in Development.
+- ★ [[fitpal-hjolm7]] — Your Personal Fitness Assistant
+- ★ [[my-career-coach]] — This app will help you find a suitable career based on your interests and personality.
+- ★ [[brightestimate]] — Elevate everyday proposals to professional grade with our universal tool, empowering contractors and
+- ★ [[culture-explore]] — Your passport to a richer understanding of the world.
+- ★ [[mental-wellness-advisor]] — "Empowering Minds: Your Personal Mental Wellness Guide! "
+- ★ [[leap-frog]] — generate creative writing prompts
+- ★ [[ai-guru-k7ezib]] — A practical Implementation of Responsible AI
+- ★ [[labster]] — Created an virtual science lab assistant called Labster where users can ask anything related to scie
+- ★ [[virtual-language-conversation-budy]] — Meet LinguaTalk: Your Virtual Language Chatmate! Break barriers, boost confidence, and master langua
+- ★ [[deep-insight]] — Lingo Maestro is an interactive Spanish tutor that teaches Spanish to English speakers. It offers a 
+- ★ [[bizeval360]] — BizEval360: Navigate Success, Transform Your Vision
+- ★ [[sticky-rock-sticker-generator]] — Sticky-Rock is a Creative Assistant for art-loving geeks whereby inputting character, mood, and back
+- ★ [[competition-victory-assistant]] — Have you ever wanted to win a competition but didn't even know where to start? Competition Victory A
+- ★ [[serverless-archi-fy-tool-for-aws-cloud-beginners-and-sales]] — Even with limited AWS knowledge, you can create serverless architecture diagrams, make AWS service s
+- ★ [[cloud-engineer-partner]] — AI Cloud Engineer Partner application helps you answer your problem and explore AWS Cloud by providi
+- ★ [[rapid-learning-companion]] — Created the Partyrock app of my structured learning framework. The application generates a comprehen
+- ★ [[the-fashion-art-designer]] — Design Fast, Create with Vision: AIBrandWizard, where AI Meets Artistic Vision for Fashion Designers
+- ★ [[rna_smp-rna-structure-and-mapping-predictor]] — This project aims to provide accurate predictions of RNA secondary structures using LLMs. By underst
+- ★ [[mindmend-your-wellness-buddy]] — MindMend: Your Wellbeing Buddy – the ultimate companion for navigating life's ups and downs. It's yo
+- ★ [[prophrase-professional-communication-generator]] — Bridging the Casual-Professional Communication Gap
+- ★ [[enigma-where-imagination-unlocks-the-door]] — Imagination is your key. Escape fantastical rooms, solve mind-bending riddles. Can you break free?
+- ★ [[contentcraft-ai]] — ContentCraft AI is your personalized content creation ally for writers, bloggers, and marketers fed 
+- ★ [[learnease-ai-your-personalized-learning-companion]] — LearnEase AI offers a revolutionary approach to learning by providing personalized support and guida
+- ★ [[foodwastagereducer]] — Always tossing out produce and meat into the bin after a week? Let's reduce our costs and help our p
+- ★ [[stacklens]] — StackLens: Your Key to a Robust, Secure, and Efficient AWS Cloud Journey
+- ★ [[ideaspark-ai-your-idea-generation-assistant]] — IdeaSpark AI: Your Creative Assistant. Get fresh ideas, spark creativity, and find innovative soluti
+- ★ [[partyaizer-your-ultimate-party-game-generator]] — PartyAIzer: Instant Party Games! Elevate any gathering with our AI-powered generator. From icebreake
+- ★ [[taskquest-the-daily-routine-rpg]] — Transform your daily grind into epic quests with TaskQuest – where every chore becomes an adventure!
+- ★ [[worldweavers-collaborative-worldbuilding-adventure]] — Dive into WorldWeavers! It's an imaginative playground where, together, we craft a world beyond boun
+- ★ [[mindmaze-personalized-ai-escape-adventure]] — Escape into the MindMaze: Where Every Emotion Unlocks a New Adventure
+- ★ [[affirming-assistant-affirmation-generator]] — PosiVibes, your pocket-sized positivity powerhouse, eliminates negativity, boosts confidence, and un
+- ★ [[african-pioneers]] — Be inspired from the past by African Pioneers
+- ★ [[curious_techie]] — A helping hand for seniors in the AI era
+- ★ [[diet-plan-to-reach-your-weight-goals]] — Quickly knowing a diet plan without booking an appointment with a personal trainer is in high demand
+- ★ [[last-3-days]] — In just three days, you'll lose one of your three friends forever. But you've got a chance to stop i
+- ★ [[mix-mol]] — Mix-Mol is a fun and educational playground where you can explore the amazing world of chemistry! Yo
+- ★ [[cyto-sherlock]] — Cyto Sherlock: Because even Sherlock Holmes needs a Watson (with a microscope). We're your AI Watson
+- ★ [[catalyst-fwo47s]] — What tale will you weave today?
+- ★ [[wound-care-guide]] — Welcome to Wound Care Guide, the ultimate app for learning how to heal your wounds and injuries fast
+- ★ [[enchanted-grove]] — Embark on an epic text adventure where friendship, nature, and imagination collide. Explore the deli
+- ★ [[math-prep]] — Give us your task; we'll design the AWS solution
+- ★ [[algoguide-companion]] — Unlock DSA Mastery: Analyze, Code, Conquer with AlgoGuide Companion!
+- ★ [[aws-terraform-scripts-by-ai]] — Terraform pain? AI builds scripts in minutes! Tell AI your cloud goal, get perfect setup & script. N
+- ★ [[geoquiz-pro]] — A fun and educational app that tests your knowledge of famous places around the world. Choose your d
+- ★ [[episkopos]] — Your smart DevOps virtual assistant to help you accelerate your software delivery in a fast, reliabl
+- ★ [[philosophize-this]] — Discuss, reason, and argue with your favorite philosopher!
+- ★ [[party-rock-image-style-tester]] — Easy to use Party Rock app that makes it simple for Party Rock app users and builders alike to see h
+- ★ [[pitch-perfect-bsn8d3]] — Boost your pitch with Pitch Perfect
+- ★ [[skillforge-interview-buddy]] — "SkillForge Interview Buddy: Elevate Your Skills, Ace Your Interviews!"
+- ★ [[juice-bar-app]] — Skip bland blends! Juice Bar's AI whips up your dream juice & paints its portrait! ‍ Chat with our v
+- ★ [[create-any-ai-app-using-partyrock]] — Partyrock enables anyone to easily build AI apps with its user-friendly interface and comprehensive 
+- ★ [[ai-recipe-finder]] — AI Recipe Finder, your personalized culinary companion! This app revolutionizes your cooking experie
+- ★ [[business-competitor-analyzer-app]] — "Revolutionize strategy with Business Competitor Analyzer! Tailored insights, time-saving efficiency
+- ★ [[study-mate-ao2hli]] — Your AI-powered study companion! Get personalized, randomly generated questions, submit your solutio
+- ★ [[feel-good-power-app-making-your-day-brighter]] — "Feeling down? Let AI lift you up!"
+- ★ [[sec-13xmge]] — Securing Your Code, Elevating Your Confidence: AI-Powered IaC Security Scanner - Your Guardian in th

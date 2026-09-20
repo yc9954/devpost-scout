@@ -1,0 +1,48 @@
+---
+slug: "submission-guard"
+url: "https://devpost.com/software/submission-guard"
+title: "Submission Guard"
+hackathon: "Reddit Mod Tools and Migrated Apps Hackathon"
+organization: "reddit"
+winner: true
+words: 1296
+team_size: 1
+has_repo: false
+has_live: false
+has_video: true
+tags:
+  - "project"
+  - "mechanism/measured_ablation"
+  - "mechanism/simulation_digital_twin"
+  - "user/developer"
+  - "substrate/sensor_telemetry"
+---
+
+# Submission Guard
+
+> Devvit Web port of `nosleepautobot`, plus the stateful tier AutoModerator still can't do.
+
+[Devpost](https://devpost.com/software/submission-guard) · hackathon [[Reddit Mod Tools and Migrated Apps Hackathon]]
+
+## Facets
+
+**mechanism** [[measured_ablation]] [[simulation_digital_twin]]
+**user** [[developer]]
+**substrate** [[sensor_telemetry]]
+
+**stack** devvit, reddit
+
+## How they structured the write-up
+
+- inspiration
+- what it does
+- how we built it
+- port fidelity
+- challenges
+- community impact
+- what's next
+- original bot
+
+## Body
+
+Submission Guard A full port of nosleepautobot — the bot keeping r/nosleep's 18.1M-subscriber community running — rebuilt on Devvit with a stateful moderation layer AutoModerator fundamentally cannot provide. Inspiration r/nosleep has 18.1 million subscribers and some of the strictest submission rules on Reddit: a 24-hour post rate limit, a title-tag whitelist, paragraph length caps, and more. For years, a Python bot called nosleepautobot has been the only thing making those rules enforceable at scale. No human mod team could keep up manually. When we approached the original maintainer, u/leikahing, for permission to port, his response reshaped the project: "AutoModerator has eaten most of this surface. One of the only things AutoMod still can't do is the 24-hour post-per-user enforcement." That became our north star. The value is not in re-implementing what AutoMod already covers. The value is in the stateful tier above it — the things AutoMod's architecture makes structurally impossible. We ported every rule with full behavioral parity, then built everything AutoMod cannot do on top. What It Does Submission Guard runs on every PostSubmit event in any subreddit it is installed on. It evaluates each new post against a moderator-configured ruleset. When a violation is detected, it removes the post and leaves a distinguished sticky comment explaining exactly what was broken and how to fix it. All actions are logged to a mod-only dashboard with full context. Ported Rules All six enforcement rules from nosleepautobot are ported with full behavioral parity: Title-tag whitelist — validates series tags like [Part 2], [Update], [Final]. Rejects malformed tags like "update3" (missing space) or "Part 1 of 2" (invalid format). Supports text numbers one through nineteen, volume/vol/pt abbreviations, and custom regex patterns. NSFW-in-title detection — token-based matching that ignores punctuation but preserves underscore-glued variants. Directs authors to use Reddit's native NSFW toggle instead. Paragraph length cap — enforces a per-paragraph word limit (default 350 words). Uses the same paragraph-split regex and word-counting logic as the original. Code-block detection — flags 4-space or tab-indented text, which typically results from copying out of Microsoft Word. Whitespace-only paragraphs are correctly ignored. Per-author rate limit — enforces a 24-hour post cooldown tracked in Redis. Same Activity model and dedupe-by-post-id semantics as the original. Series auto-flair — detects series posts via title tags, applies the configured Series flair, posts a sticky locked UpdateMeBot reminder comment, and DMs the author with posting guidelines. Final and Finale posts skip the reminder. The Stateful Layer AutoMod Cannot Provide AutoModerator is stateless. It evaluates each event in isolation with no memory of what came before. Submission Guard fills that gap: Capability AutoMod Submission Guard Per-author rate limits No Redis-backed, 24h default Account-age-aware scaling No New accounts 2x cooldown, tenured 0.5x Repeat-offender escalation No Warn → Remove → Remove and Modmail Raid detection No Cross-author aggregation with modmail alert Bulk reapproval No One-click checkbox-based workflow AI moderation insights No Claude analyzes each enforcement event Rule A/B testing No Replay last 200 events against new settings Live stats dashboard No 24h / 7d / 30d metrics and histograms Each of these features exists because AutoMod's architecture makes them structurally impossible, not just difficult. How We Built It Stack Devvit Web 0.12.22 — PostSubmit triggers, custom post mod panel, Redis React 18 + Vite + Tailwind CSS — professional dark-themed mod dashboard TypeScript strict mode + Vitest — 63 unit tests, all passing Anthropic Claude API — optional, user-configured via settings drawer Architecture The bot runs as a PostSubmit trigger. On every new submission: The evaluator runs enabled rules in order. The first violation wins. The escalation check reads the per-author violation counter to decide: warn only, remove, or remove and alert mods. Reddit action is taken: removal with distinguished comment, or warn-only comment left up. State is updated: per-author rolling violation set, per-rule cross-author hit set. Raid detection fires if distinct authors exceeding the threshold have tripped the same rule within the configured window. For accepted series posts: flair is applied, sticky reminder posted, author DM sent. Mod Panel The mod panel is a React-based dashboard installed as a custom post. It provides: Live enforcement feed with full context per event Rule preview — paste any title and body, see what fires against current settings AI summary — on-demand Claude analysis of any enforcement event A/B simulator — replay the last 200 enforcement events against modified thresholds Batch reapproval — checkbox selection and one-click bulk approve Settings drawer — configure every rule, threshold, and escalation policy Live stats — 24h / 7d / 30d enforcement counts, by-rule histograms, top violating authors All endpoints are mod-gated. Non-mods see a splash screen. Data is scoped per subreddit and never shared across communities. Port Fidelity All six rules are ported with full behavioral parity. 44 of our 63 unit tests are direct ports of the original Python test suite. All 63 pass. Every documented edge case matches the original exactly: "update3" without a space is rejected "Part 1 of 2" is rejected Text numbers one through nineteen are accepted Underscore-glued NSFW variants do not match Whitespace-only paragraphs are excluded from code-block detection Final and Finale posts skip the UpdateMeBot reminder The port is installable today. r/nosleep could switch to it immediately and users would notice no difference in enforcement behavior. Challenges Subtle Test-Case Parity The original bot's title-tag regex has non-obvious edge cases built up over years of real-world enforcement. We ported the original test cases verbatim rather than rewriting from scratch, which forced us to match behavior exactly rather than approximate it. Devvit Redis Quirks Devvit's Redis implementation has several non-standard behaviors: expiration takes a Date object rather than seconds, zRange with (0, -1) does not mean "all items" and requires a positive bound, and there is no SCAN command. We had prior experience with these from a sibling project and worked around them up front. Redefining the Scope The original maintainer's feedback — "AutoMod has eaten most of this" — forced a difficult question: if the core value prop has been absorbed by AutoMod, what are we actually building? The answer shaped the entire project. Every feature past the parity baseline had to be something AutoMod structurally cannot do. That constraint produced a sharper, more useful product. Community Impact r/nosleep (~18.1M subscribers) The original home of nosleepautobot. With the maintainer's permission (documented in a public GitHub thread), the port replaces a Python/AWS deployment with zero-infrastructure Devvit hosting. Same rules, same behavior, no AWS bill, no 3am outages. The stateful features — escalation, raid detection, account-age tiers — give the mod team capabilities they have never had before. r/HFY (~369K subscribers) A long-form science fiction writing community with identical moderation needs: series-format posts, paragraph length rules, and post rate concerns. The community experiences frequent new-account spam waves. Account-age-aware rate limits address this directly, giving new accounts 48-hour cooldowns while established authors get 12-hour windows — something AutoMod cannot do because it cannot maintain post history across events. r/WritingPrompts (~18.9M subscribers) The world's largest writing-prompts community. They use AutoMod for basic filtering but have no automated solution for title-tag enforcement ([WP], [CW], [EU], [IP], [PM]) or rapid-fire spam posting. The custom regex slot in the settings drawer lets mods encode their tag schema without editing wiki configs. Rate limiting handles the "five low-effort prompts in one hour" problem that currently requires manual post-history checking. What's Next Retroactive series detection via ModAction trigger — if a mod manually applies series flair after a post is accepted, send the reminder DM retroactively Preset configs for r/HFY and r/WritingPrompts — install and apply community-specific settings with one click Weekly mod-activity digest — a modmail summary of enforcement actions, top violating authors, and trend metrics Original Bot u/NoSleepAutoBot Permission to port granted by u/leikahing (William Lee), original author and maintainer, via public GitHub issue thread. <div

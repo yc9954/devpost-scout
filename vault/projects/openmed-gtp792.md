@@ -1,0 +1,71 @@
+---
+slug: "openmed-gtp792"
+url: "https://devpost.com/software/openmed-gtp792"
+title: "OpenMed"
+hackathon: "HP & NVIDIA Developer Challenge"
+organization: "HP"
+winner: true
+words: 3620
+team_size: 2
+has_repo: true
+has_live: false
+has_video: true
+tags:
+  - "project"
+  - "mechanism/benchmark_measured"
+  - "mechanism/measured_ablation"
+  - "mechanism/privacy_tech"
+  - "mechanism/provenance_signing"
+  - "mechanism/realtime_stream"
+  - "mechanism/vision_ocr"
+  - "mechanism/voice_speech"
+  - "domain/developer_tools"
+  - "domain/education"
+  - "domain/health_clinical"
+  - "domain/scientific_research"
+  - "user/clinician"
+  - "user/developer"
+  - "user/educator_student"
+  - "user/general_public"
+  - "user/patient_family"
+  - "user/researcher"
+  - "substrate/code_repository"
+  - "substrate/genomic_bio"
+  - "substrate/geospatial"
+  - "substrate/medical_record"
+  - "substrate/regulation_legal_text"
+  - "substrate/sensor_telemetry"
+  - "substrate/structured_db"
+  - "substrate/video_visual"
+  - "substrate/web_dom"
+---
+
+# OpenMed
+
+> A modular AI-driven diagnostic system that intelligently selects specialized models for each case, offering clear, interpretable insights to foster greater trust and transparency in medical AI.
+
+[Devpost](https://devpost.com/software/openmed-gtp792) · hackathon [[HP - NVIDIA Developer Challenge]]
+
+## Facets
+
+**mechanism** [[benchmark_measured]] [[measured_ablation]] [[privacy_tech]] [[provenance_signing]] [[realtime_stream]] [[vision_ocr]] [[voice_speech]]
+**domain** [[developer_tools]] [[education]] [[health_clinical]] [[scientific_research]]
+**user** [[clinician]] [[developer]] [[educator_student]] [[general_public]] [[patient_family]] [[researcher]]
+**substrate** [[code_repository]] [[genomic_bio]] [[geospatial]] [[medical_record]] [[regulation_legal_text]] [[sensor_telemetry]] [[structured_db]] [[video_visual]] [[web_dom]]
+
+**stack** fastapi, hp-ai-studio, openai, openwebui, python, pytorch
+
+## How they structured the write-up
+
+- inspiration
+- what it does
+- how we built it
+- pre-trained models and accessibility
+- challenges we ran into
+- accomplishments that we're proud of
+- what we learned
+- what's next for openmed
+
+## Body
+
+Diagnosis Analysis Interpretability with GradCam metrics OpenMed: AI-Powered Medical Imaging Analysis Platform with Interpretability Advancing Medical AI for Better Healthcare with Trust and Transperancy Inspiration The inspiration for OpenMed came from witnessing the critical challenges facing healthcare systems worldwide. Medical professionals are overwhelmed with increasing patient loads while facing pressure to make accurate, timely diagnoses. We observed that: AI mistrust in healthcare stems from "black box" systems that provide no explanation for their decisions Diagnostic delays can be life-threatening, especially in emergency settings Medical imaging expertise is scarce in underserved regions Human error in medical diagnosis affects millions of patients annually Second opinions are often unavailable or delayed in critical situations The Interpretability Crisis in Medical AI A pivotal moment in our inspiration came from conversations with radiologists who expressed deep skepticism about existing AI diagnostic tools. They shared frustrating experiences with AI systems that would flag potential diseases but provide no explanation of their reasoning. One radiologist told us: "I can't stake my medical license on a system that won't show me why it thinks there's a problem. If I can't understand the AI's reasoning, how can I trust it with my patients' lives?" This highlighted a fundamental barrier to AI adoption in healthcare: Trust requires transparency : Medical professionals need to understand AI decision-making processes Clinical accountability : Doctors remain legally responsible for diagnoses, requiring explainable AI recommendations Educational value : Interpretable AI can serve as a teaching tool for medical students and residents Bias detection : Visual explanations help identify when AI models focus on irrelevant image artifacts Quality assurance : Interpretability enables validation that AI is "looking" at clinically relevant anatomical regions OpenMed's Answer: Visual AI Explanations Our GradCAM visualization technology addresses the interpretability crisis by showing exactly which brain regions influenced the AI's tumor detection decision. The heat map overlay allows radiologists to validate that the AI is focusing on medically relevant anatomical structures, building trust through transparency. We were particularly moved by stories of: Rural hospitals lacking radiologists for urgent chest X-ray interpretations Developing countries with limited access to specialized medical imaging expertise Medical students and residents needing better training tools for pattern recognition Patients waiting weeks for specialist consultations that could be expedited with AI assistance The vision was clear : Create an AI system that doesn't replace medical professionals but empowers them with intelligent, interpretable, and trustworthy assistance. We wanted to democratize access to advanced medical imaging analysis while maintaining the highest standards of clinical accuracy and transparency. Our Interpretability-First Approach We recognized that for medical AI to gain widespread adoption, interpretability couldn't be an afterthought—it had to be foundational. Our mission became: Build trust through transparency : Every AI decision comes with visual explanations showing which image regions influenced the diagnosis Enable clinical validation : Provide tools for medical professionals to verify that AI reasoning aligns with medical knowledge Foster AI-human collaboration : Create a partnership where AI augments human expertise rather than obscuring it Accelerate medical education : Transform AI explanations into powerful learning tools for the next generation of healthcare providers Ensure ethical AI deployment : Maintain accountability and prevent algorithmic bias through interpretable systems This interpretability-first philosophy guided every design decision, from our GradCAM visualization system to our conversational AI interface that explains medical reasoning in plain language. What it does OpenMed is a comprehensive AI-powered medical imaging analysis platform that revolutionizes how healthcare professionals approach diagnostic imaging. The system provides: Core Capabilities Multi-Disease Detection : Automatically detects and classifies pneumonia, tuberculosis, and brain tumors from medical images Intelligent Conversational Interface : OpenAI-powered agent that understands natural language queries about medical images Visual Explanations : GradCAM-based interpretability showing exactly which regions influenced the AI's decision Confidence Scoring : Provides uncertainty quantification to help clinicians make informed decisions Web-Based Interface : User-friendly platform accessible from any device with internet connectivity Real-World Application Scenarios Emergency Department Triage : Rapid pneumonia screening from chest X-rays during busy shifts Telemedicine Support : Remote consultation assistance for rural healthcare providers Medical Education : Interactive learning platform for students and residents Second Opinion Services : Automated preliminary analysis before specialist review Quality Assurance : Continuous monitoring and validation of diagnostic accuracy Supported Medical Conditions Disease Model Classes Test Accuracy Data Type Pneumonia ResNet50 2 (Normal, Pneumonia) 96.49% Chest X-rays Tuberculosis ResNet50 2 (Normal, TB) 98.65% Chest X-rays Brain Tumor ResNet50 3 (Glioma, Meningioma, Tumor) 97.21% Brain MRI Detailed Capabilities: Pneumonia Detection : Binary classification (Normal vs. Pneumonia) from chest X-rays with 96.49% accuracy Tuberculosis Screening : Early detection of TB patterns in chest radiographs with 98.65% accuracy Brain Tumor Classification : Multi-class identification of glioma, meningioma, and other tumor types from MRI scans with 97.21% accuracy The platform seamlessly integrates into existing clinical workflows while providing the transparency and interpretability essential for medical decision-making. How we built it Building OpenMed required integrating cutting-edge AI technologies with robust software engineering practices and deep understanding of medical requirements. Technical Architecture The OpenMed platform architecture showcases the integration of multiple AI models, intelligent agent system, and user interfaces working together to provide comprehensive medical imaging analysis. 1. Deep Learning Foundation Model Selection : Chose ResNet50 architecture for its proven performance in medical imaging Wightman et al., 2021 Transfer Learning : Leveraged pre-trained ImageNet weights and fine-tuned on medical datasets Multi-Model Approach : Separate specialized models for each medical condition Vision Transformers : Implemented advanced transformer architecture for enhanced feature extraction Medical Datasets Used: Brain Cancer MRI Dataset : Open source brain cancer MRI dataset from Kaggle @https://www.kaggle.com/datasets/orvile/brain-cancer-mri-dataset Tuberculosis Chest X-ray Dataset : Open source tuberculosis chest X-ray dataset from Kaggle @https://www.kaggle.com/datasets/tawsifurrahman/tuberculosis-tb-chest-xray-dataset Chest X-Ray Images (Pneumonia) Dataset : Open source pneumonia chest X-ray dataset from Kaggle @https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia 2. Interpretability Layer GradCAM Integration : Built custom visualization pipeline to generate attention maps based on Gradient-weighted Class Activation Mapping (Grad-CAM) methodology Selvaraju et al., 2016 Feature Attribution : Implemented methods to trace decision pathways back to input regions Confidence Calibration : Developed uncertainty quantification techniques for clinical reliability 3. Intelligent Agent System OpenAI Integration : Built conversational interface using GPT models for natural language understanding Intent Classification : Developed medical intent recognition to route queries appropriately Context Management : Implemented multi-turn conversation handling for complex medical discussions 4. Backend Infrastructure FastAPI Framework : RESTful API design with OpenAI-compatible endpoints Microservices Architecture : Separate services for feature extraction, classification, and visualization MLflow Integration : Comprehensive experiment tracking and model management Docker Containerization : Consistent deployment across different environments 5. Frontend Experience OpenWebUI Integration : Modern, responsive web interface Real-time Processing : Asynchronous image upload and analysis Interactive Visualizations : Dynamic GradCAM overlays and confidence displays Development Methodology Agile Development : Iterative development with continuous stakeholder feedback Test-Driven Development : Comprehensive testing suite for medical-grade reliability Clinical Validation : Collaboration with medical professionals for accuracy verification Regulatory Compliance : Built-in HIPAA compliance and FDA guideline adherence Development Infrastructure: HP AI Studio Model Training and Tracking with HP AI Studio HP AI Studio provided the comprehensive development environment for training, tracking, and managing our medical AI models with MLflow integration. Comprehensive Metrics Tracking and Monitoring Our MLflow integration within HP AI Studio enabled comprehensive tracking of model performance metrics including accuracy, loss, F1 score, sensitivity, and specificity across all medical AI models. This systematic approach to metrics monitoring ensured consistent model performance validation and enabled data-driven optimization decisions throughout the development lifecycle. We leveraged HP AI Studio as our primary development and deployment infrastructure, which proved instrumental in building OpenMed: Training Environment: GPU-Accelerated Training : Utilized HP AI Studio's high-performance computing resources for efficient deep learning model training Experiment Tracking : Integrated MLflow within HP AI Studio to track model experiments, hyperparameters, and performance metrics Model Registry : Centralized model versioning and artifact management for all medical AI models Data Pipeline Management : Streamlined data preprocessing and augmentation workflows Deployment Infrastructure: Terminal-Based Deployment : Used HP AI Studio's terminal environments to deploy frontend, middleware, and backend services Containerized Services : Deployed Docker containers for consistent environment management across development and production Scalable Computing : Leveraged elastic compute resources for handling variable workloads Integrated Development : Seamless integration between model development, testing, and deployment phases Key Benefits: Unified Platform : Single environment for the entire ML development lifecycle Resource Efficiency : On-demand scaling of computational resources based on training requirements Collaboration : Shared environments enabling team collaboration and code sharing Production Readiness : Smooth transition from development to production deployment Technology Stack Backend : Python, FastAPI, PyTorch, OpenAI API Frontend : OpenWebUI, HTML/CSS/JavaScript Database : SQLite for development, PostgreSQL for production Monitoring : MLflow, custom logging and analytics Deployment : Docker, cloud-ready infrastructure Key Dependencies 1. OpenWebUI Description : User-friendly AI interface that supports multiple AI providers including OpenAI API Role : Provides the frontend web interface for OpenMed's conversational medical AI Repository : Open WebUI GitHub Benefits : Streamlined chat interface, image upload capabilities, and seamless integration with FastAPI backends 2. FastAPI Description : Modern, fast web framework for building APIs with Python based on standard Python type hints Role : Powers OpenMed's backend services and provides OpenAI-compatible API endpoints Benefits : High performance, automatic API documentation, and easy integration with AI m

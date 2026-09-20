@@ -1,0 +1,59 @@
+---
+slug: "touche-cfp6hs"
+url: "https://devpost.com/software/touche-cfp6hs"
+title: "Safe Access"
+hackathon: "The European Commission's EUvsVirus Hackathon"
+organization: "European Commission"
+winner: true
+words: 1582
+team_size: 4
+has_repo: false
+has_live: true
+has_video: true
+tags:
+  - "project"
+  - "mechanism/on_device_local"
+  - "mechanism/sensor_fusion"
+  - "mechanism/vision_ocr"
+  - "domain/education"
+  - "domain/health_clinical"
+  - "user/general_public"
+  - "substrate/code_repository"
+  - "substrate/regulation_legal_text"
+  - "substrate/structured_db"
+  - "substrate/video_visual"
+  - "substrate/web_dom"
+---
+
+# Safe Access
+
+> Safe Access control to fight COVID-19 - enabling effective deconfinement
+
+[Devpost](https://devpost.com/software/touche-cfp6hs) · hackathon [[The European Commission-s EUvsVirus Hackathon]]
+
+## Facets
+
+**mechanism** [[on_device_local]] [[sensor_fusion]] [[vision_ocr]]
+**domain** [[education]] [[health_clinical]]
+**user** [[general_public]]
+**substrate** [[code_repository]] [[regulation_legal_text]] [[structured_db]] [[video_visual]] [[web_dom]]
+
+**stack** android, node.js, python, tensorflow, tensorflowlite
+
+## How they structured the write-up
+
+- our values
+- the challenge
+- existing solutions are insufficient and risky
+- our solution
+- impact
+- hackathon technology goals
+- technology architecture
+- weekend accomplishments that we're proud of
+- safety as a service
+- next steps
+- our background
+
+## Body
+
+Our Values At RealValue , we have always positioned ourselves as a viable EU counteroffer to the Chinese dominance on facial detection, verification, identification technologies. We, as Europeans, need to find a European alternative to the overwhelming data privacy issues that are slowly entering on in businesses. We make data privacy and GDPR regulations our first priority and based in France, there is no risk of data leakage. We believe that our technology has a significant impact on how we apply and adopt AI-related technologies in the EU. In the COVID 19 context, we are eager to distribute our solution to help the economy open through effective deconfinement. We believe that our Safe Access solution provides essential business continuity by protecting employees and grow their confidence in the enterprise. This will also boost customer trust in the business. The Challenge COVID led to confinement. Confinement has infected the global economy and made it sick. People are afraid to go back to their workplace and business continuity has become a real issue. The challenge of our time is _ how might we improve employee confidence & boost customer trust _ that businesses are doing enough to minimize the virus infection? We need a structured deconfinement to bring back the economy. We need more than medicines and masks to help kickstart the economy. We need to build trust and confidence with employees and customers. Existing Solutions are Insufficient and Risky Multiple solutions have cropped up all around the world - from contact tracing, crowd monitoring, antibody certifications, and obviously strict Orwellian control of citizens. Yet there are always issues with them. Many are inaccurate, some are overly dependent on self-motivation, and few are ways for big companies to collect more data. Some are grossly inadequate in meeting the data security and privacy needs stipulated by the EU. Our Solution www.realvalue.ai/covid-19 we are live and taking orders Safe Access brings back confidence in the economic system. Our goal is to help business owners and operators verify/enforce/reinforce mandatory practices for their spaces (whether an office, an airport, a train station, a school, …). It is a hassle-free, privacy-first, secure, and touchless access control that can be customized to suit the needs of different sectors and prevent the spread of the COVID virus. This device-service can be installed in various places such as at the entry of a modern office, a busy clinic, train station gates, university doors, or gates of a retail store for example. Safe Access offers tablet-like smart devices capable of: ​ using the latest advances in machine learning to: detect whether incoming employees/customers/humans are wearing masks or not using a simple add-on camera, detect body temperatures using an in-build thermal camera, count (but not track/identify) people helping manage queues and load+density capacity. allow touchless interaction , using gestures, the device can interoperate with an automated door, the device can control and monitor mask & hand sanitizer dispensers using BLE or hardware serial/i2c/spi protocols displaying information and educating people. We top all of these with a set of free training videos great EU-based after-sales service a better pricing model than Chinese makers for the value we provide. Safe Access Prototype Demonstration Impact Safe Access brings back the much-needed human confidence to visit physical places by encouraging the right hygienic behaviors for employees and customers to be safer on business premises. Safe Access provides a viable alternative to Chinese solutions that are risk-prone in many respects (poor data privacy, low data security, appalling after-sales services). Sets up the EU as an indigenous hub for design - production of intelligent (AI-powered) safety devices. Our research during the last few days have highlighted the huge demand for the Safe Access solution (hardware-software-services combination) across EU - particularly in mid to large size businesses who are eager to bring back their employees and customers to their locations. ​ Hackathon Technology Goals While hand sanitizers, mask dispensers, and gates are within reach, we looked at the essential features of our proposal to build a proof of concept : a kiosk-like device allowing access to space (opening a gate) only if the person at the gate is wearing a mask. Technology Architecture The components of the solution are: a PubSub solution to facilitate communication between the various components of the solution. a WebService and a Database used for logging/aggregation to offer statistics and monitoring. a Web app simulating a gate . The app is subscribed to the PubSub solution and uniquely identified; it opens when signaled. This emulates a physical connection we might have (and will) set up with an actual gateway. an Android application acting as the kiosk with: the face/mask detection algorithm, notifying the logging WebService for statistics & monitoring, notifying the gate associated with this terminal to open whenever criteria are met. a Dashboard website to display and give meaningful insight into the data gathered by the WebService. Note that all data is anonymous; at best we record a timestamp, the gate identifier, the kind of event (mask/no mask). Visitor count, trends, and overall compliance can be shown. ​ Draft Hackathon Architecture diagram ​ PubSub & Device Management ​ Products like IBM Watson IoT Platform and, different, Balena are the kind of solutions one must consider when considering building IoT device. It is a very complex endeavor because one must consider: asset management, asset tracking, secure remote updates, secure authentication and communication, energy & bandwidth efficiency, ... ​ ​ Web Server or WebService? ​ The Python/Flask program is responsible for: ​ the web service endpoints to gather event notifications for statistics. These events are stored into a PostgreSQL database. This choice was made because it was free to host our project @ Heroku and this is their free-tier database offer. Two better-suited database platforms in this kind of context are Cloudant (CouchDB) from IBM and Google BigTable. Another interesting choice might have been ElasticSearch (which the Watson IoT Platform leverages). the Dashboard – which was abandoned; RealValue having a great dashboarding solution there was no particular interest in pursuing this. the Socket.io server. ​ Ethics & Licensing ​ Because our aim is helping against the virus affecting our lives and economies, and because most team members didn't know each other at the start of the hackathon, technical choices favored open source, low cost, easily accessible, reliable, and popular technologies. ​ Also, we chose to license the code as MIT. We tried to make the project easy to deploy, providing Docker integration and Heroku configuration/deployment files. Code is openly accessible at: http://bitbucket.org/touche-covid/ Weekend accomplishments that we're proud of Prototyped the solution and verified multiple proprietary and open-source computer vision models. Confirmed purchase interests from several different companies in multiple sectors (retail, transport, healthcare, education) Our sales-marketing team worked tirelessly over the last two days - plenty of phone calls, WhatsApp chats, and coffee confirmed interests with a few different enterprises over the weekend. Several high-impact conversations lined up in the next coming weeks Confirmed distributor partnership agreements to quickly get access to the businesses locally in France and in other countries within the EU. We now do not need to depend on making our own hardware but can integrate our solution into existing hardware and create a network impact. Safety as a Service We have created Safe Access as a compelling opportunity that can act as a welcome agent in your business premises in this moment of crisis. Completely modular, secure, and safe solution for access control We won a hackathon recently sponsored by Miro in Cube in France and Spain to help with queue management while committing to privacy first design principles. The Euroregion has sponsored our projects before. 100% guarantee on GDPR provisions brings assurance for customers and their users in these difficult times. Designed in France and local 24*7 aftersales support is a key differentiator Competitive pricing schemes can beat the Chinese providers Next Steps We have lined up a host of things for the next few weeks and months. Sales and Marketing: We are already having conversations with various company leaders in France and Spain to refine the value proposition and feature sets at launch and to trial the product. In addition, we are signing partnership agreements for faster distribution of software through digital kiosks. Product Development: We have multiple upgrades already planned, in accordance with our goal of offering completely modular services that companies can buy. Hackathon promise: If we win the hackathon, we will be able to fast-track the Safe Access solution by incorporating an inbound sales strategy and improving the product UX. Safe Access Video Pitch | Safe Access Prototype Demo Our Background RealValue is a European computer vision-based intelligence platform, located in France, focused on measuring and optimizing the customer experience. Product/Services Our visual intelligence platform that provides crowd analytics from the security camera feeds. It reliably counts people and provides rich statistics & demographics information. This can be used to ensure that people’s density remains in line with social distancing recommendations. And to fight COVID-19, we aspire to go beyond that with Safe Access . Technologies: RealValue has built its own proprietary algorithms, data set, and training tools. 1 mm face analysis and recognition based on 100+ landmark points identification. We have abstracted KPIs based on early implementations to create dashboards for different sectors like retailers, malls, event venues. Last but not least, we are camera-brand agnostic and GDPR compliant. RealValue does NOT collect any personal data (such as phone number, name, etc.) without permissions and security controls. <div

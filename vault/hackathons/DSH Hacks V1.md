@@ -1,0 +1,307 @@
+---
+hackathon: "DSH Hacks V1"
+organization: "DreamWeave"
+projects: 275
+tags:
+  - "hackathon"
+---
+
+# DSH Hacks V1
+
+DreamWeave  ·  275 collected projects
+
+## What this field was made of
+
+- [[education]] × 184
+- [[educator_student]] × 177
+- [[realtime_stream]] × 151
+- [[geospatial]] × 103
+- [[structured_db]] × 86
+- [[simulation_digital_twin]] × 70
+- [[developer_tools]] × 67
+- [[video_visual]] × 65
+- [[web_dom]] × 64
+- [[vision_ocr]] × 61
+- [[health_clinical]] × 53
+- [[document_pdf]] × 51
+- [[finance_payments]] × 41
+- [[sensor_telemetry]] × 39
+- [[researcher]] × 34
+
+## Projects
+
+- ★ [[lily-memo]] — Lily Memo turns your notes, PDFs, and lectures into AI-generated explanations, diagrams, and full qu
+- ★ [[novamind-ai-powered-stem-adventure]] — The free virtual STEM lab for every student who never had one.
+- ★ [[scisim]] — An AI-powered virtual science lab. Run chemistry, physics, and biology simulations with an AI tutor 
+- ★ [[axiom-orthogonal-modeling]] — Most AI tutors guess their way through math and science. AXIOM computes first with a deterministic c
+- ★ [[visualizer-ymi78s]] — Most students can do the math — they just can't see it. Visualizer is an interactive 2D and 3D graph
+- ★ [[green-basket-2wutmx]] — AI-powered cloud learning & developer productivity platform built on AWS helping students understand
+- ★ [[intelliquest-bx8vu9]] — Most quiz apps lock you into pre-written questions on fixed topics. IntelliQuest is different as you
+- ★ [[questai-h9vs6x]] — High school is tough, but QuestAI makes it a game. It’s the AI planner that schedules your passions 
+- ★ [[punjab-sabak-portal]] — A safe AI study platform with course-locked guardrails. Generates targeted MCQs, checks handwritten 
+- ★ [[edumind-ai-ga3fjk]] — EduMind AI — Free AI-powered STEM learning for 500M Indian students. 7 AI providers, 10+ features: q
+- ★ [[t-os-ai-powered-systems-education-platform]] — A real bare-metal ARM OS paired with an AI tutor that teaches memory, scheduling, and OS internals t
+- ★ [[labai]] — LabAI: A virtual AI-powered lab for STEM. With 100+ interactive experiments and real-time AI tutorin
+- ★ [[skillboard]] — SkillBoard helps people find and connect with skilled professionals by turning local expertise into 
+- ★ [[visionaid-congo]] — Offline multilingual AI-powered interface that aids the visually impaired in the DRC
+- ★ [[stem-ai-tutor-sur9tv]] — STEM AI is an intelligent learning platform designed to help students improve their understanding in
+- ★ [[sparky-y1ud59]] — "Every child can learn. Not every child learns the same way."
+- ★ [[math-sat-browser-extension-tutor]] — Democratizing SAT excellence through local models
+- ★ [[vidya-setu-b5xi0y]] — Bridging every learner to their potential — AI-powered gap detection, peer collaboration, silent saf
+- ★ [[labmateai]] — LabMate AI is an interactive, virtual science lab where students run real physics experiments and ge
+- ★ [[sci-sim]] — The context-aware 3D laboratory where science comes alive through AI.
+- ★ [[scholar-link-ai]] — Never Miss a Scholarship Again
+- ★ [[marketmantra-6iyklf]] — Python and Streamlit-based asset analytics platform using real-time market data, technical indicator
+- ★ [[intelliquiz]] — An AI powered quiz generator with real time leaderboard for participants.
+- ★ [[flowhale-ai-powered-korean-listening-vocabulary-game]] — Six Months to Decode Korean
+- ★ [[truthlens-fwo02r]] — Research Guardian helps students evaluate scientific papers by scoring reliability, finding contradi
+- ★ [[notemind-ai-talk-to-your-notes-3wt98p]] — An AI-powered smart note-taking assistant that converts lectures, PDFs, and voice recordings into co
+- ★ [[ghostengineer]] — Students don't learn to code by writing perfect code. They learn by breaking things.
+- ★ [[office-rpg-the-career-training-simulator-qyfovm]] — Office-RPG is a gamified career simulator using Gemini 3 to build tech and soft skills through AI-dr
+- ★ [[jarvis-mnfu3s]] — JARVIS AI is a next-generation voice assistant built with modern AI and real-time communication tech
+- ★ [[robo-verse]] — hands-on, game-like environment to practice algorithmic thinking
+- ★ [[simuniverse]] — All in one interactive simulations across STEM disciplines
+- ★ [[major-match-kpte7y]] — A tool made for high school students to help choose an area of interest and how to use AI to start i
+- ★ [[titralab-ai-virtual-titration-lab]] — Do a real acid-base titration in your browser - no lab needed. A live AI teacher guides each step, t
+- ★ [[stempilot-ai]] — STEMPilot AI helps students improve STEM learning through interactive quizzes, automated scoring, an
+- ★ [[eduflix-s8q2fx]] — Binge Learning, Not Doom-Scrolling
+- ★ [[smart-school-system-bell]] — The Smart School Bell System is a web-based automation project that replaces manual bell ringing It 
+- ★ [[stem-sandbox]] — STEM Sandbox is a secure digital lab ecosystem that democratizes science education. It features an i
+- ★ [[triage-vatdyw]] — Study smart. Skip the rest.
+- ★ [[omni-stem-ai-powered-eco-build-lab]] — "Turning household waste into a professional engineering lab. Omni-STEM uses AI to scan scrap, gamif
+- ★ [[lablens-rtavzo]] — A Socratic STEM tutor that diagnoses misconceptions — not just answers questions.
+- ★ [[zomath]] — Math that makes sense Unlike traditional math apps that just give answers, Zomath builds genuine und
+- ★ [[circuitsathi]] — Stop memorizing circuits. Start experiencing them. CircuitSathi combines AI, real-time simulation, a
+- ★ [[stemsense]] — StemSense is an online website that gives users the ability to scan objects they have access to and 
+- ★ [[novamind-ai]] — NovaMind AI is an intelligent study companion that helps students stay focused, understand difficult
+- ★ [[stemcraft-ai]] — Transform any Science, Technology, Engineering, and Math (STEM) topic into an interactive AI-powered
+- ★ [[aura-n02pra]] — Turning Curiosity Into Mastery.
+- ★ [[elexit]] — An AI-powered engineering center that helps users(especially beginners) with building, learning, and
+- ★ [[mentorcircle-pmt38e]] — MentorCircle: Empowering STEM learners with AI-guided learning paths, mentor support, and collaborat
+- ★ [[visual-problem-transformer]] — Transforming STEM problems into visual reasoning.
+- ★ [[stello]] — Learn by doing. Progress by thinking.
+- ★ [[mentio]] — The best way to learn something is to teach it. Mentio is always ready to be taught.
+- ★ [[neurolearn-l0hazv]] — `1 in 5 students is neurodivergent. NeuroLearn uses AI to instantly adapt any STEM explanation for d
+- ★ [[studymate-7ir61w]] — An AI tutor that actually gets you — adapts lessons, quizzes, flashcards & practice papers to your a
+- ★ [[yggdrasil-ry2jin]] — "Grow your knowledge, branch by branch." Short, on-brand, and matches your landing page tagline.
+- ★ [[mlops-playground]] — Learn production ML by operating it, not reading about it.
+- ★ [[flabs]] — flabs turns any browser into an interactive physics lab with an AI assistant. No hardware, no instal
+- ★ [[stemify-uwtyx6]] — Stemify is an AI-powered STEM tutor that adapts question difficulty, reinforces weak concepts, and p
+- ★ [[devbloom-studio]] — Kids need more than step-by-step tutorials to learn code. DevBloom helps ages 9–12 learn HTML, CSS, 
+- ★ [[sciforge-ai]] — An autonomous AI agent that adapts in real‑time to each student's mastery, tracks their progress acr
+- ★ [[stemforge-ai-the-ai-learning-operating-system]] — An AI-powered STEM learning platform that transforms images, notes, equations, and code into persona
+- ★ [[a-z-learn]] — Have you ever felt like traditional classes turn even the most interesting topics into nap time? A-Z
+- ★ [[stemflow-ai-learning-reinforcement-system-cjotmv]] — AI-powered learning assistant that turns understanding into retention through quizzes and exams.
+- ★ [[concept-dna]] — Map your knowledge , Master STEM
+- ★ [[repend]] — Repend turns any topic into an interactive 2D/3D learning lab where users can predict, experiment, a
+- ★ [[vizo-cd4smw]] — Vizo is AI enhanced edtech platform
+- ★ [[de-3vjpt4]] — Visualize the formulas: AI-generated interactive sandboxes designed to repair student misconceptions
+- ★ [[im-telligent]] — "IM-TELLIGENT is the AI study companion that helps you learn how to think, not just what to answer."
+- ★ [[explainanything]] — AI-powered learning platform that explains any topic at 3 levels, generates quizzes, flashcards, stu
+- ★ [[stem-detective]] — STEM Detective transforms STEM education into AI-powered mystery adventures where students learn sci
+- ★ [[intellistem-ai-revolutionizing-stem-education-i]] — IntelliSTEM uses AI to make STEM fun! Snap notes for step-by-step AI explanations. Explore 38+ inter
+- ★ [[orbit-ai-stem-lab]] — AI-powered STEM Learning OS that turns passive studying into interactive visualization, with AI tuto
+- ★ [[divi-ai-0138vt]] — Help with assignments and other problems like what every ai does
+- ★ [[neurostem-ai-powered-stem-for-every-mind]] — Empowering neurodivergent students through AI.
+- ★ [[axiom-studios]] — Your browser is now a physics lab.
+- ★ [[foodshare-ys7jp2]] — Share your Food, Share your Love.
+- ★ [[unpark-fjwrd4]] — AI-Powered Real-Time Parking Violation Detection & Automated Reporting System
+- ★ [[medqtrack]] — Healthcare Operations, Done Right
+- ★ [[realtutor-ai-5egsyd]] — RealTutor AI is an intelligent coding assistant that provides real-time help and guidance as you cod
+- ★ [[opticore-jkn3i0]] — Performance, upgraded.
+- ★ [[forafuture]] — See how today's habits shape your future.
+- ★ [[aegis-jbdfrp]] — Turn your webcam into a lab technique trainer.
+- ★ [[nexusstem-your-socratic-ai-agent-for-stem]] — The AI Agent That Teaches You to Think
+- ★ [[zenithlab-ai]] — Transforming STEM education through AI-powered virtual laboratories where every student can experime
+- ★ [[stemvue]] — Generate fully narrated, beautifully animated STEM video solutions in under 2 minutes
+- ★ [[altiverse]] — AltiVerse: AI-powered simulations that let students fork decisions into living alternate realities w
+- ★ [[ai-steam-lab]] — "AI-STEAM-Lab adapts to every student in real time — Socratic AI tutoring, computer vision engagemen
+- ★ [[fin-wise-o9p4av]] — Gamified financial literacy for teens — learn budgeting, saving, and investing through interactive l
+- ★ [[nivesh-ai]] — NiveshAI: Empowering retail investors with secure, risk-matched stock simulations and explainable AI
+- ★ [[proofsift]] — Evidence-proven autonomous DFIR triage that confirms findings only with traceable forensic artifacts
+- ★ [[nexusai-autonomous-fintech-command-center]] — An AI-powered financial intelligence platform with real-time portfolio optimization, behavioral biom
+- ★ [[neuroflow-ai-m4h6pi]] — NeuroFlow AI: A unified, AI-powered study space. Adapts to your learning with spaced repetition flas
+- ★ [[classloop-bx67h4]] — Turns meeting minutes and zoom transcripts into a dashboard to help you save time after classes.
+- ★ [[buildit-urw59q]] — The majority of STEM resources are one-size-fits-all and English-only. BuildIt fixes that by generat
+- ★ [[resource-search-engine]] — AI-curated STEM resources, in your language.
+- ★ [[rootcause-ai-pre9o2]] — RootCause AI transforms STEM education through AI-assisted investigations, enabling students to anal
+- ★ [[sage-dtukeb]] — Understand, don't just recall. SAGE is a Gemini-powered Socratic study companion. Instead of answers
+- ★ [[pubmed]] — Your Scientific Filter in a World of Viral Myths.
+- ★ [[hormonelens-x39nd8]] — Decode your hormones with AI. Predict health risks, track symptoms, and receive personalized recomme
+- ★ [[blackout-4ergbc]] — AI That Works & Learns Even When the Internet Doesn't
+- ★ [[krishimitra-ai-smart-farming-assistant-for-kerala-farmers-h6kgbl]] — AI-powered farming assistant that helps Kerala farmers with crop recommendations, weather insights, 
+- ★ [[scisleuth]] — An AI-powered platform that diagnoses student misconceptions, maps broken concepts to a knowledge gr
+- ★ [[axomed-prototype-1]] — IoT-based patient monitoring system using ESP32 to track real-time vital signs.
+- ★ [[arenapulse]] — Autonomous crowd-safety & B2B supply coordinator for stadiums, combining real-time surge forecasting
+- ★ [[stem-research-agent]] — A research agent which can query academic servers like semantic scholar and open Alex. Use google se
+- ★ [[horizon-stem-ai]] — An interactive AI assistant that breaks down complex math models, code syntax, and system logs to lo
+- ★ [[astrosim-ai-interactive-gravity-sandbox-ai-stem-tutor]] — An interactive 2D gravity simulation sandbox with a real-time math chalkboard and an integrated, voi
+- ★ [[stem-lab-ai]] — STEMLab AI — Bringing World-Class Science Labs to Every Student Through Artificial Intelligence.
+- ★ [[playlab]] — A tower defense where the weapon is a math function you write and a deterministic engine proves ever
+- ★ [[stemate]] — Your AI tutor for every STEM subject, every grade, every doubt.
+- ★ [[axiom-the-universe-that-runs-on-your-mistakes]] — Every AI tutor corrects you. AXIOM makes your physics misconception the LAW of a live universe, runn
+- ★ [[a2a-mediflow-ai-healthcontext-ai]] — Agent to Agent Flow
+- ★ [[docfix-studio-ai-study-document-cleaner]] — DocFix Studio helps STEM students turn messy class documents into clean Markdown, JSON, and RAG-read
+- ★ [[tactilify]] — Tactilify: Accessible STEM diagrams for every learner.
+- ★ [[physidoodle-ai]] — A client-side AI physics engine that transforms hand-drawn sketches into interactive simulations wit
+- ★ [[ergolearn-e6mf3x]] — ErgoLearn AI turns standard webcams into local 3D biomechanical sensors for all. Built on Tauri + Py
+- ★ [[atlock]] — A Total Security Suite For Windows
+- ★ [[codetwin]] — Remotely controllable, dev-first agent that remembers your decisions, respects your constraints, and
+- ★ [[trashmate-usqcz4]] — Because Clean Cities Begin With You
+- ★ [[aura-ogqrd4]] — Adaptive JEE Study Planning That Converts Syllabus Gaps Into Daily Actionable Schedules
+- ★ [[prime-papers]] — Prime Papers helps students find exam past papers instantly and get AI-powered help with solving que
+- ★ [[chronos-a71yqo]] — CHRONOS: The Self-Healing Brain for Weather-Resilient Logistics.
+- ★ [[virtual-stem-lab-assistant]] — "Turning Ideas Into Experiments." "Explore. Experiment. Excel." "Where Curiosity Meets Innovation." 
+- ★ [[cogpace]] — An AI study agent with persistent memory, personality-aware adaptation, and emotion-sensitive pacing
+- ★ [[weekwin]] — WeekWin pro is a weekly task tracker that holds you accountable — not just with checkboxes, but with
+- ★ [[picolab]] — PicoLab turns STEM mistakes into personalized learning signals, helping students understand, visuali
+- ★ [[curiobuddy]] — learn from your own thinking
+- ★ [[asyncsignals]] — AsyncSignals Turns blockchain noise into actionable data.
+- ★ [[scoutbot]] — Opportunty Resource allocation for nigerian students
+- ★ [[g-a-i-a]] — GAIA is an Earth Intelligence System that transforms complex climate data into a conversational expe
+- ★ [[microbeat-accessible-tech-for-motor-cognitive-rehab-at2mx4]] — MicroBeat turns Portuguese-speaking anthems and giant buttons into a low-cost, open-source rhythm ga
+- ★ [[mathgraph-dev]] — MathGraph — Your AI STEM tutor with interactive graph visualizations
+- ★ [[eduboost-ai-zb6e32]] — AI-powered collaborative STEM learning platform for smarter, accessible, and personalized education.
+- ★ [[echo-graph]] — EchoGraph is an AI-native sensory education layer transforming math functions into an auditory-visua
+- ★ [[msomi-ai]] — Every child deserves a lesson built just for them. Msomi generates fully personalised, multimodal le
+- ★ [[stemgenie-aoi]] — Make for student and fecality to school
+- ★ [[chronooptics]] — “An interactive, deterministic physics engine and ray-tracing simulator.”
+- ★ [[devis-solaires-ai-edu]] — Apprendre les STIM avec l'IA : de la photo de toit au calcul de ROI solaire en 2 min.
+- ★ [[gyaan-ai]] — Revolutionizing STEM learning via Gyaan AI—an AI tutor delivering root mastery through a 9-step meth
+- ★ [[blood-donation-5s8xyu]] — AI-powered fake news detection platform that analyzes news content using machine learning and NLP to
+- ★ [[omnilab-ai-tis7jv]] — Experience chemical experiments you've never done before in a virtual lab.
+- ★ [[equathora]] — An interactive math platform combining personalized learning pathways, daily mastery quests, and tar
+- ★ [[quanta-t5rsd3]] — The AP Physics courses are one of the hardest courses to study for in high school, but with Quanta, 
+- ★ [[conjure-ai-5vcgu4]] — Ask "what happens when a cricketer hits a six?" and Conjure turns it into a live simulation you can 
+- ★ [[digicloset-24o5qz]] — AI powered Virtual Try On Software
+- ★ [[citadel-hotel]] — Stay Beyond Extraondinary
+- ★ [[neurostem-atlas]] — NeuroSTEM Atlas turns your handwritten notes, diagrams, voice explanations, and code into a personal
+- ★ [[omnisprint]] — Omnisprint is a Coral-powered software delivery intelligence tool that helps teams stay on track by 
+- ★ [[skillbridge-ai-bt5gf4]] — AI-powered career guidance and skill development platform for students
+- ★ [[neon-labyrinth-race]] — SimuTutor helps students learn STEM concepts through interactive Canvas simulations, adaptive hints,
+- ★ [[tracer-2cx0ei]] — Functional and Visualizer
+- ★ [[stemverse-ai]] — Turn Any Object Into a STEM Lesson Using AI-Powered Visual Recognition
+- ★ [[stemos]] — STEMOS is an autonomous AI STEM learning platform with adaptive tutoring, personalized learning path
+- ★ [[watcher-nstuq1]] — Watcher turns ordinary security cameras into an AI guard that spots danger the moment it happens and
+- ★ [[stem-lens]] — STEM-Lens is an AI visual tutor transforming STEM education. It breaks down complex science, math, a
+- ★ [[signal-repair-qejsk0]] — signal.repair is a utility application designed to monitor, diagnose, and forecast wireless and cell
+- ★ [[edupath-ai-ey0rtu]] — EduPath AI is a smart AI-powered platform that helps students learn, plan, and build their career in
+- ★ [[edugrc-shield-interactive-ai-safety-governance-lab]] — "EduGRC-Shield: An interactive simulation lab training the next generation of STEM innovators to sec
+- ★ [[provit]] — AI-powered study tool that builds 5-lesson courses from your notes and locks the next lesson until y
+- ★ [[lorebound]] — Turn your study material into an after class adventure. Your knowledge is your weapon.
+- ★ [[finshield-ai-pjbk7g]] — FinShield AI is a Gemini-powered Gmail security agent that detects, labels, and explains financial s
+- ★ [[codesage-i9u4nd]] — Play , Think , Checkmate
+- ★ [[wakeupbuddy]] — WakeUpBuddy is the world’s first social alarm app that pairs users with friends or strangers. When t
+- ★ [[stemlens-ai]] — Turn any real-world object into a STEM lesson
+- ★ [[genmed-eds8vg]] — GenMed AI uses AI to decode prescriptions, guide medicine usage, answer health questions, suggest ch
+- ★ [[resqlink-app]] — GenShield AI — Empowering early breast cancer detection in Egyptian women through AI-powered genomic
+- ★ [[student-companion-ai-chatbot]] — Student Companion AI Platform - is an ai-driven student support platform that streamline easy access
+- ★ [[slatify]] — Slatify helps students capture screenshots and timestamped notes while watching YouTube lectures, au
+- ★ [[teacherrank-https-teacherrank-vercel-app]] — A platform to rank and rate teachers to help other students make informed decisions.
+- ★ [[killbill-wam45d]] — An agent that finds every recurring charge, judges which ones you actually use, and hands you the ca
+- ★ [[sparsh-mukthi-t6qlkr]] — Embracing Touchless Technology
+- ★ [[ai-disaster-prediction-and-alert-system]] — Predict.Protect.Respond
+- ★ [[signbridge-tjcnv5]] — "Sign Bridge is an AI-powered real-time Indian Sign Language detector that makes STEM education acce
+- ★ [[lumora-ozjvfn]] — An AI-powered way to learn beyond limits.
+- ★ [[counterfactual-engine-what-if-zl2vwm]] — See the consequences of your choices—before they become reality.
+- ★ [[veritas-gtiw48]] — Learn anything in one hour
+- ★ [[ai-conditioner-by-refyn-technologies]] — Refyn's AI Prompt Integrity Engine evaluates student intent in real time — blocking answer-seeking, 
+- ★ [[jarvis-mwyg0s]] — Re-engineering the human-AI workspace. A stunning, secure next-gen desktop console featuring a 2,200
+- ★ [[pocketguru]] — One photo. Ten seconds. Study guide, flashcards, quiz, and an AI tutor. PocketGuru turns your notes 
+- ★ [[studypulse-qlfuha]] — AI-powered STEM learning diagnostic that analyzes quiz performance and generates personalized study 
+- ★ [[cognifyai-smart-learning-decision-assistant]] — Learn biodiversity through AI-powered ecosystem simulations, real-world environmental data, and pers
+- ★ [[rekxare-dami-a-multilingual-study-time-organizer]] — The first study timer and AI scheduler built for Kurdish students, in their own language.
+- ★ [[payguard-qj08ie]] — PayGuard is a free, privacy-first platform for smarter international payments. Compare fees, detect 
+- ★ [[aionis-maieutics]] — Every AI tutor hands you the answer. AIONIS Maieutics never does. It guides you to rebuild any STEM 
+- ★ [[lingostem-ai]] — An AI-powered full-stack platform that breaks language barriers in STEM education by simplifying com
+- ★ [[sahayaai-intelligent-learning-career-platform]] — Ace your exams today, land your dream career tomorrow. SAHAYA.AI is an AI-powered ecosystem that bri
+- ★ [[the-new-you-lfu17v]] — YOUR PERSONAL AI STYLIST. UNLEASH THE NEW YOU.
+- ★ [[prepify-ai-7nymoa]] — Prepify AI transforms how students learn STEM — turning lecture notes into structured summaries, qui
+- ★ [[intelliclass-your-end-to-end-smart-learning-platform]] — IntelliClass converts any educational video into interactive quizzes, tracks performance, and ensure
+- ★ [[hbp100-hummingbird-privacy-firewall]] — 322KB. 0.77ms. 100% precision faster than you blink.
+- ★ [[memact]] — Let your identity live in one place.
+- ★ [[quizo-ai-quiz-generator]] — Quizo is a Progressive web app with offline support that generates quizzes from study materials like
+- ★ [[physix-ai-ai-agent-for-debugging-simulation-hg5dfn]] — AI-powered debugging agent that analyzes physics simulations, detects numerical instability, explain
+- ★ [[equinox-flow]] — Balance Your Financial Equinox Across Globe
+- ★ [[kintsugi-notes-ynkma0]] — An AI study companion that turns students mistakes into golden repair paths with clear explanations,
+- ★ [[galicea-ai]] — An AI-powered astronomy chatbot that makes astrophysics accessible to students worldwide, using RAG 
+- ★ [[aethertutor]] — Multi-agent AI that adapts to every student delivering personalized STEM mastery through collaborati
+- ★ [[cogni-adapt]] — Transforming how neurodiverse learners access and engage with educational content through AI-powered
+- ★ [[claros-ai-agent-for-learning-s4wgjr]] — Claros makes STEM worksheets accessible for students who can reason through problems but struggle wi
+- ★ [[osteoai-ai-based-osteoporosis-risk-detection]] — AI-powered osteoporosis screening using routine X-rays and patient data for affordable, early risk d
+- ★ [[mento-ai-b4fn1u]] — mento.ai is an AI-powered 3D personal STEM tutor that teaches students through real-time, human-like
+- ★ [[upi_fraud_detection]] — AI-powered UPI fraud detection system that analyzes transaction patterns in real time to identify su
+- ★ [[market_pulse]] — AI-powered multi-agent financial sentiment platform that transforms real-time market news into actio
+- ★ [[gemdesk-ai]] — GemDesk AI is a developer-first remote desktop assistant that sees your screen, writes and executes 
+- ★ [[aeigs]] — AEGIS is a real-time satellite monitoring and conjunction detection system that predicts close appro
+- ★ [[study-mate-5x9mp7]] — AI-powered study productivity and stress management for students
+- ★ [[pitchloop-vr]] — Practice the room before you enter it
+- ★ [[neurobin-smart-waste-segregator-vd5j9x]] — NeuroBin is not just a smart waste segregator. It is an AI-powered waste intelligence system designe
+- ★ [[centrix-ai]] — Learn physics by seeing, solving, and interacting — not memorizing.
+- ★ [[disaster-brain]] — When the internet dies and lives are on the line, Disaster Brain is the only AI that still works.
+- ★ [[optisense-triage]] — Transforming Emergency Care with AI — delivering faster, more accurate triage decisions, better pati
+- ★ [[the-whispering-orb]] — A voice-first AI experience where you solve cinematic mysteries and debate an intelligent oracle tha
+- ★ [[endopath]] — AI-powered endometriosis companion. Predict. Confirm. Understand. Manage. Recover.
+- ★ [[stem-buddy]] — An AI-powered personal mentor for students to master STEM subjects through Telegram.
+- ★ [[auditease-f1pqzw]] — Eco Friendly AI-Powered Compliance Platform
+- ★ [[tribal-lingua-0vp3cw]] — ''Your language. Your data. Your identity. Finally online."
+- ★ [[regim]] — A Market Microstructure & Optimal Execution Research System
+- ★ [[lumina-ai-ti31qn]] — Illuminate Your Learning
+- ★ [[seguri-a-digital-hand-to-hold-dkjo6w]] — Seguri is a digital hand to hold for the vulnerable. Our offline AI stops scam messages instantly, p
+- ★ [[focusmate-mbldun]] — AI Powered Study Assistant
+- ★ [[cortexflow-w3ry5d]] — Cognitive signal analysis platform
+- ★ [[tradewizard-0rjx1g]] — TradeWizard helps people navigate uncertainty with confidence when money is on the line.
+- ★ [[examwise-ai-8eok53]] — ExamWise AI helps students turn scattered study material into focused exam success with AI-powered p
+- ★ [[labmind-ai]] — LabMind AI is an interactive virtual physics lab that allows students to simulate real-world experim
+- ★ [[jansaathi-mw2ctg]] — Naa dharma dekhe naa jaati , aapka saath sadaiv dega JanSaathi
+- ★ [[signbridgev2]] — Real-time AI system enabling seamless two-way communication between deaf and hearing users using sig
+- ★ [[thinkbit-n9yca3]] — Small Ideas, Big Impact
+- ★ [[poweropt-ai-nextgen-power-predictor-2a6ugc]] — PowerOpt AI is a cutting-edge, machine-learning-powered web dashboard designed to predict the electr
+- ★ [[clew]] — A thread through anything you're learning
+- ★ [[stembridge-nigeria]] — Free AI-powered WAEC tutor for Nigerian students — personalized explanations, past questions, miscon
+- ★ [[project-varuna-h945ni]] — Project Varuna is an artificial intelligence-based decision support tool that makes predictions abou
+- ★ [[ai-powered-email-automation-agent-with-openclaw-gmail-ki9flw]] — Built an AI email automation system using FastAPI and OpenClaw with cron workflows, integrating Gmai
+- ★ [[crm-pcg2xb]] — AI That Handles Your Support End-to-End
+- ★ [[mediscan-ai-o1uc8x]] — “Empowering radiologists with AI for faster, more accurate life-saving diagnoses.”
+- ★ [[vitalguard-ai]] — VitalGuard is an AI-powered real-time patient monitoring system that predicts medical deterioration 
+- ★ [[chronos-legacy-code-archaeologist]] — Upload any ancient codebase. Get an AI-powered dependency map, plain-English excavation report, and 
+- ★ [[jarvis-zero-build-anything-with-local-ai-agents]] — Because everyone deserves a listener who never sleeps, never judges, and always knows when to call f
+- ★ [[launch-lab-ai-xmq7b0]] — An AI app
+- ★ [[launch-lab-ai-5fuvbc]] — An AI app
+- ★ [[mapmind-learnspace-ravblx]] — MapMind turns messy topics into a structured learning path you can actually follow. Fully opensource
+- ★ [[launch-lab-ai-2vtcm7]] — AI powered app
+- ★ [[stemnova-ai]] — STEMNova AI is an intelligent learning platform that transforms STEM education through personalized 
+- ★ [[launchlab-ai-m4bgr7]] — ProtoPilot helps students learn STEM by building real startup products with AI guidance—like having 
+- ★ [[crosscheck-dxn3v5]] — Real-time streaming Q&A with vision OCR, 6-stage JSON recovery, and personality training from chat l
+- ★ [[study-spark-d4tujp]] — An interactive study app that boosts focus, tracks progress, and makes learning
+- ★ [[snaptask]] — “One snap. Zero stress. Task complete.”
+- ★ [[planix-ai-the-learning-operating-system-e1gbzv]] — Planix AI turns learning goals into structured execution plans. Enter a skill and available time, an
+- ★ [[launch-lab-ai]] — To create an database AI
+- ★ [[dyslexicore-zfd297]] — Turning play into early detection for learning difficulties
+- ★ [[archon-h0vdzw]] — The Intelligent Architect
+- ★ [[launchlab-ai-gju1f4]] — Build, validate, and launch ideas faster with AI
+- ★ [[placementor]] — AI-Powered Voice Interview Coach
+- ★ [[lura-ai]] — Smart AI app for tracking income, expenses, and savings with real-time financial advice
+- ★ [[skillscan-ai-career-intelligence-for-students-sigtmc]] — AI that scans your resume, finds exact skill gaps, runs a mock interview, predicts your salary, and 
+- ★ [[learning-journies]] — Learning Journies: Effortlessly create engaging, AI-driven courses with interactive mind maps, quizz
+- ★ [[arcademy-at32jn]] — Make learning fun by bringing STEM content to life through AR technology
+- ★ [[pkd-compass-mgt16j]] — PKD Compass simplifies managing Polycystic Kidney Disease by turning complex health data into clear 
+- ★ [[advanced-nn-for-brain-tumor-det-classification-using-mri]] — AI-powered system for automatic brain tumor detection, segmentation, and classification from MRI sca
+- ★ [[sentinelai-devops-security-agent]] — An AI-powered surveillance agent for real-time security and DevOps incident automation.
+- ★ [[felearn-ai-dnytex]] — A new era of learning by AI imagination
+- ★ [[echo-t84zvg]] — Echo is a YouTube comment sentiment analyzer that helps creators quickly understand audience reactio
+- ★ [[project-dvomck5s9l3q]] — Educational Wins.
+- ★ [[mypetpal-qbwgc9]] — An AI-powered iOS app that reduces screen time and helps users stay focused.
+- ★ [[learnscape-tubm4g]] — Discover the STEM behind real-world objects using AI-powered visual learning. Learnscape is a real-t
+- ★ [[adapted-multi-agent-rag-powered-adaptive-learning-platform-6jt0zb]] — An AI-powered platform that generates personalized learning roadmaps, delivers curated lessons, cond
+- ★ [[saarathi-ai-yotfvs]] — India has hundreds of welfare schemes, yet millions miss out — SAARTHI bridges this gap by turning a
+- ★ [[scibridge-ai-bridge-between-research-and-school-experiments-puh20s]] — SciBridge AI bridges the gap between scientific research and school experiments using AI, virtual la
+- ★ [[cerberus-real-time-entropy-defense-wargaming-console]] — CERBERUS learns normal system behavior and detects ransomware instantly when abnormal entropy patter
+- ★ [[project-mind-tpqjvc]] — Wellness that fits your student life.
+- ★ [[ecokiosk-ai-powered-machine-su0adv]] — Recycle. Get rewarded. It's that simple.
+- ★ [[sustain-a-thon]] — Sustain-a-thon gamifies saving the planet. Track real-time impact, earn XP & badges, and get AI coac
+- ★ [[ai-smart-study-assistant-for-students]] — “Our project is an AI Smart Study Assistant that helps students learn better through personalized st
+- ★ [[lifememory-ai-eqt5p1]] — Turning human reasoning into meaningful AI memory.
+- ★ [[nutricare-agents-oefn4b]] — NutriCare Agents: Revolutionizing nutrition with AI-driven, personalized meal recommendations tailor
+- ★ [[feelspace]] — Privacy-first, anonymous mental health app that helps people safely vent, track emotions, and feel l
+- ★ [[actisolve-ai-6uv42j]] — Turning complex problems into clear, executable action plans — automatically.

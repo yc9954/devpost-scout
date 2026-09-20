@@ -1,0 +1,181 @@
+---
+facet: "user"
+name: "clinician"
+projects: 398
+winners: 398
+tags:
+  - "facet"
+  - "user"
+---
+
+# clinician
+
+`user` · **398** projects, **398** of them winners.
+
+## Pairs with
+
+- [[health_clinical]] — 359 together  <sub>(domain)</sub>
+- [[patient_family]] — 286 together  <sub>(user)</sub>
+- [[structured_db]] — 187 together  <sub>(substrate)</sub>
+- [[realtime_stream]] — 180 together  <sub>(mechanism)</sub>
+- [[geospatial]] — 140 together  <sub>(substrate)</sub>
+- [[video_visual]] — 134 together  <sub>(substrate)</sub>
+- [[document_pdf]] — 99 together  <sub>(substrate)</sub>
+- [[developer_tools]] — 95 together  <sub>(domain)</sub>
+- [[web_dom]] — 85 together  <sub>(substrate)</sub>
+- [[medical_record]] — 83 together  <sub>(substrate)</sub>
+- [[mental_health]] — 82 together  <sub>(domain)</sub>
+- [[finance_payments]] — 80 together  <sub>(domain)</sub>
+
+## Projects
+
+- ★ [[veterinary-four-color-triage-app]] — Built by a veterinarian & practice owner with no coding experience, this app turns clinical triage e
+- ★ [[signet-0ujsnx]] — Invoice fraud works because paper cannot prove who sent it. Signet has the sender sign the payment f
+- ★ [[time-traveler-w3cxp0]] — AI agents that preview risky DB migrations in isolated Docker clones before they merge — audit, depl
+- ★ [[openmed-gtp792]] — A modular AI-driven diagnostic system that intelligently selects specialized models for each case, o
+- ★ [[pneumonet-building-an-ai-covid-19-product-with-pytorch]] — In this tutorial, we’ll show you how to use Pytorch to build a machine learning web application to c
+- ★ [[gauntlet-wlv7og]] — Adversarial fuzz-testing for AI agents using Elasticsearch Agent Builder, ES|QL and Workflows. Watch
+- ★ [[trustedrisk-care-engine]] — A2A federation that decomposes one clinical prompt into a multi-specialist consultation: 16 sub-agen
+- ★ [[nova-architect]] — An autonomous AI cloud engineer that designs and deploys AWS infrastructure directly in your console
+- ★ [[health-counseling-portal]] — Health counselling, preventive treatment, remediation using a decentralized Twitter application, DID
+- ★ [[pedirounds-ai-co-resident-for-pediatric-morning-rounds]] — The safety net between overnight and attending rounds. 4 AI agents catch deterioration, flag unsafe 
+- ★ [[l-l-a-m]] — Save crops from locust attacks. Track locust movement realtime and predict the possibility of attack
+- ★ [[cov2words]] — We're developing a smart hotline that can detect shortness of breath and coughing of a calling perso
+- ★ [[pulsepoint-2hmejd]] — AI-powered medical triage at the speed of life from instant assessment to doctor in 60 seconds.
+- ★ [[pneumoscan-an-ai-radiology-tool-for-covid-19-pandemics]] — CovidScan.ai is developed to be a secured AI platform with the purpose to assist radiologists with f
+- ★ [[seethru-price-transparency-marketplace]] — SeeThru is a blockchain-enabled platform that prioritizes price transparency to change the ecosystem
+- ★ [[unravel-7ak8lf]] — Five agents watch evolving variant evidence, re-score a clinic's uncertain DNA findings with a calib
+- ★ [[caladrius]] — The Privacy-First AI Triage Assistant
+- ★ [[pawcare]] — Connecting pets and sitters with care and convenience.
+- ★ [[project-iris-edge-ai-aac-platform]] — Project Iris is a zero-latency, eye-tracking AAC platform powered by local WebGPU AI, featuring Live
+- ★ [[vitalflow-radar]] — VitalFlow Radar continuously monitors loved ones' vital signs without wearables, bands, or patches. 
+- ★ [[pneumoscan-an-ai-tool-for-ppe-check-covid19-testing]] — PneumoScan.ai is developed to be a secured AI tool with the purpose to assist radiologists with COVI
+- ★ [[corovent]] — EU-tested ICU ventilator that offers patients with the most severe respiratory failures the same qua
+- ★ [[medgraphagent-1e4ps2]] — Better data means better decisions. And better decisions save lives
+- ★ [[orbit-8kd3re]] — maps the orbit of your thinking, so you can see when an idea is yours versus AI's
+- ★ [[loopguard-passport-governed-clinical-loop-closure]] — Prevent the diagnostic harm that begins the moment a follow-up falls silent.
+- ★ [[electronic-medicine-trial-and-test-records-as-a-service]] — Tools to enable visualization, management for developers to build solutions in medicine, healthcare,
+- ★ [[farmops-desk]] — The operating system for Nigerian poultry and catfish farms. Ops, feed, money, and AI in one calm vi
+- ★ [[time-out-1wvxhm]] — Surgeons pause before every incision. Med spas don't. Time-Out checks who is injecting, what they're
+- ★ [[pytorchxai]] — Q&Aid is the healthcare assistant that democratizes access to high-quality diagnoses. It comforts pa
+- ★ [[maternalguard-mcp-for-maternal-risk-on-sharp-fhir]] — 5-tool MCP server plus A2A orchestrator that gives healthcare AI the full mother-baby picture from a
+- ★ [[endopath]] — AI-powered endometriosis companion. Predict. Confirm. Understand. Manage. Recover.
+- ★ [[faco-fight-against-corona-jfcza9]] — A contactless digital healthcare solution to assist doctors and empower patients to diagnose and man
+- ★ [[ctrl-alt-heal]] — AI-powered clinical gap detection that finds the diagnoses hiding in your charts, so no condition go
+- ★ [[rehabuild]] — Rebuilding Medical rehabilitation in a COVID world. Evidence-backed video therapies from the first d
+- ★ [[orion-operating-room-intelligent-orchestration-node]] — A voice-directed surgical co-pilot for robotic surgery. Surgeons can speak naturally & instantly rec
+- ★ [[amanuensis]] — AI-enabled physician assistant for automated clinical summarization and question generation. Empower
+- ★ [[trial-match-ai]] — Agentic pattern AI that actively searches for and identifies trial-qualified patients on its own.
+- ★ [[clinician-coronavirus-exposure-tracker]] — We track patient-clinician and clinician-clinician exposure and spread in hopsitals. We help pandemi
+- ★ [[cadence-y6i1cs]] — AI-powered web app that screens for Parkinson's disease from a 30-second voice sample, providing exp
+- ★ [[immunolynk]] — Immunity testing meets AI + Blockchain.
+- ★ [[beef-xk5pif]] — For leaders in high-performance environments, we aggregate real-time wearable data from teams, provi
+- ★ [[polaris-mh7rd8]] — Agentic-driven hospital paging system. Your north star in critical patient care.
+- ★ [[nomi-aoim58]] — A Multi-Sensor Network System for Seniors
+- ★ [[medibot-iq8lf0]] — Help us help you get the health care you deserve!
+- ★ [[claracare]] — AI companion that calls seniors daily, detects cognitive changes, and gives families peace of mind v
+- ★ [[aminochain]] — Tokenizing Stem Cell Donations and Incentivizing Donors
+- ★ [[dokanda-b7ngsd]] — The perfect doctor just for you...
+- ★ [[vaidyasaarathi]] — "Your Intelligent Healthcare Companion" - Breaking language barriers, preserving privacy, empowering
+- ★ [[unlocking-moments]] — A platform for people that want to see and contribute to the human story of the essential worker com
+- ★ [[neuroscan-ai-a5m32p]] — Over 30% of MRI review time is lost to inefficiencies. Our platform provides AI-powered, non-diagnos
+- ★ [[care-coordination-discharge-planner]] — Automates discharge coordination — reads clinical notes, validates CMS rules, and generates Standard
+- ★ [[massventilatorsystem-with-individual-ventilation-parameters]] — The Mass Ventilator System ventilates up to 50 or more people at once, supports invasive/non-invasiv
+- ★ [[dot-bringing-humanity-to-in-home-care]] — Agentified personal in-home care for the elderly. Multimodal S2S agent system handles patient charts
+- ★ [[orama-your-ai-powered-clinical-companion]] — An AI-powered clinical assistant that transforms complex patient data into actionable insights, help
+- ★ [[ugonz-alzheimers-ai-prediction-model]] — Explainable AI for early Alzheimer's detection—fusing cognitive, imaging, and genetic biomarkers to 
+- ★ [[medalysis]] — An API that helps one observe the growing trends of diseases and epidemics worldwide, by tracking lo
+- ★ [[hera-women-s-health-intelligence-platform]] — The health intelligence women have always deserved.
+- ★ [[lookcloser]] — A multi-agent safety net for incidental imaging findings, because 1 in 5 follow-ups never happen, an
+- ★ [[aidbind-g3k5f0]] — We cover the information gap between the demand, supply and funding of medical equipment, procured b
+- ★ [[instant-sars-cov-2-breathalyzer]] — Optical detection of airborne virus-bearing aerosols (micro-/nano-droplets) using fluorescent marker
+- ★ [[healthcare-worker-burnout-prevention-wellness-platform]] — AI-driven platform that predicts healthcare worker burnout risk, sends early alerts to managers, and
+- ★ [[blood-health-tracker]] — Track your blood health and discover insights
+- ★ [[coronatracker-9nhoz0]] — CoronaTracker is an easy-to-use & accessible progressive web app that helps you monitor your wellnes
+- ★ [[heal-hale]] — Guided by Pega Bot, sentiments from NLP, suggestions through NBA, evidence utilizing Process AI, fee
+- ★ [[kintwadi-one-shared-record-for-family-caregiving]] — One shared, permission-aware care record for families caring for an aging parent across cities and t
+- ★ [[aorta-real-time-hospital-admission-sepsis-monitoring]] — Aorta: Real-time clinical streaming that predicts sepsis. We combine Confluent Kafka, XGBoost, and G
+- ★ [[nest-newborn-maternal-safe-transition]] — Fragmented charts cost lives. NEST saves mothers and newborns by orchestrating 5 AI agents that synt
+- ★ [[coronatracker-ynvrbc]] — CoronaTracker is an easy-to-use & accessible progressive web app that helps you monitor your wellnes
+- ★ [[covid-compass]] — COVID-19 affects low-income minorities & we need population-specific solutions ASAP. Meet Compass, a
+- ★ [[medvault-3nwvsj]] — Encrypted health records in your pocket. Share with any doctor in 10 seconds, in any language. Works
+- ★ [[theracat]] — A band and a plush cat that catch anxiety in how you move — and interrupt it before it peaks. There'
+- ★ [[trishna-climate-smart-kisan-companion]] — Trishna: Multilingual AI super-app for farmers & gardeners. Get hyper-local weather alerts, instant 
+- ★ [[measuring-taste-to-diagnose-diseases]] — You might have measured your eyesight or your hearing, but have you ever tested your taste ?
+- ★ [[signet-app-identity]] — Did you know that officially approved solutions to privacy and impersonation risks in online communi
+- ★ [[epsylon-mask-t-m-f8b7dz]] — Protecting Those Who Protect Us
+- ★ [[1_040_c_b-waitingqueue]] — Our realtime queue system managers that people arrive just-in-time at the doctor
+- ★ [[le-team]] — Our vision is to be EU's most trusted and transparent crowdfunding-marketplace focused on healthcare
+- ★ [[chatrealm]] — ChatRealm: Context-aware chat rooms powered by 5 AI agent bureaus and LinkedIn scraper service. Spec
+- ★ [[scup-smart-checkup]] — Smart telemedicine platform, based on IoT devices that provide Vital signs and historical values.
+- ★ [[vision-mama-llm-vision-pro-agents-fun-learning]] — Remember Cooking Mama? We turned it into a Conversational Agent for Vision Pro that teaches cooking!
+- ★ [[nextop]] — 200K veterans transition out every year — most without real support. NextOp is a private AI coach th
+- ★ [[luma-ai-powered-personalized-health-context]] — WebMedica is an AI-powered Chrome extension that turns dense medical studies into personalized, user
+- ★ [[anecdotal-ai]] — Anecdotal AI: Your EHR’s Medical Detective. We Turn Mysterious Symptoms into Actionable Answers that
+- ★ [[mybubble-oaf2c4]] — The game where it's good to 'live in a bubble' -- MyBubble makes social distancing fun by earning re
+- ★ [[forestall]] — Forestall predicts a patient's risk level to medication at a macro (across all patient data) and mic
+- ★ [[covid-19-prognosis]] — COVID-19 Prediction Powered by AI
+- ★ [[temp-5dincy]] — We extract an essential measure of heart failure patients from medical charts, left ventricular ejec
+- ★ [[alzora-ai]] — Empowering families with AI-driven Alzheimer’s care
+- ★ [[synth-u7a6pq]] — AI Medical Visit Assistant
+- ★ [[voicebot-for-ongoing-assistance-to-covid-19-patients]] — A system for effective remote monitoring of ambulant Covid-19 patients by automated phone calls to e
+- ★ [[infermary]] — Simulating virtual cities to outsmart viral outbreaks
+- ★ [[ttv-pipeline]] — Text-To-Video Pipeline that automates generation of long-form video content using video generation t
+- ★ [[doc-home]] — A web app to help cope with the present pandemic
+- ★ [[ai-doctor-for-jira]] — Health check for your Jira Cloud instance has never been easier. With just few clicks, you can see h
+- ★ [[aegis-hindi-consent-companion]] — **India's AI-generated perioperative informed consent in Hindi — patient-specific, clinically ground
+- ★ [[nested]] — Nested: Move to a new city with ease, assisted by tailored suggestions based on your lifestyle and G
+- ★ [[project-chronos-mhri13]] — AI-powered ICU early warning system predicting sepsis, hypotension, & hemodynamic collapse 2-6 hours
+- ★ [[mediq-nop156]] — Fetch once. Learn forever. MediQ transforms hospital data into instant answers using agentic AI, MCP
+- ★ [[fetch-health]] — AI assistant for organ transplant
+- ★ [[fhir-forge-gfjw4p]] — Transforms clinical notes, discharge summaries, and referrals into validated FHIR R4 resources with 
+- ★ [[cardiolensv2]] — Cabinet Clear turns a confusing hospital discharge letter and a messy medicine cabinet into a clear,
+- ★ [[centivize-v5o4c1]] — Incentivizing smart healthcare and social good by strengthening relationships in virtual spaces.
+- ★ [[containit]] — We are motivated to help the global community contain the spread of COVID-19 by using contact tracin
+- ★ [[edflowai]] — EDFlow AI: A Mixture of Expert AI Agents auto-coordinate ER emergencies in <30s. Each specialist age
+- ★ [[5vid-co]] — 5vid.co provides at-home Covid-19 screenings via web application. We use CV, video-chat, and a sympt
+- ★ [[rootcause-vlgd53]] — A FHIR-native multi-agent AI system that detects why dental patients stop coming in and automaticall
+- ★ [[smartphones4good-s4g]] — Donate old phones to us. We collect'n'sell them to fund smartphones for those that don’t have them. 
+- ★ [[automatic-detection-of-covid-19-from-pocus-ultrasound-data]] — We want to provide a new AI-based diagnosis tool to screen Covid-19 at early stages in an easy, prec
+- ★ [[medsnap-2ysgxk]] — Voice-activated AR vision for clinical precision
+- ★ [[priorauth-agent]] — A voice-to-submission AI agent that converts a clinician's spoken case into a completed prior author
+- ★ [[healthier-w0baus]] — AI-powered elderly care app. Seniors scan pills/meals and chat with a voice agent. Healthcare provid
+- ★ [[tendly-smolpq]] — Tendly gives elderly patients one button to speak any need. Claude triages it in real time, caregive
+- ★ [[ai-for-outcomes]] — We put AI into the hands of providers to build personalized care plans and drive practice revenue
+- ★ [[getcovidtools]] — An open platform that empowers makers and suppliers to offer PPE supplies to validated health profes
+- ★ [[carebridge-4vm7on]] — Handoff is your Care Home Coordinator built inside Slack. It replaces sticky notes, binders, and tex
+- ★ [[helora]] — "Healora, powered by Nurse Joy, uses empathetic AI for symptom tracking and predictive analysis, hel
+- ★ [[anemochain]] — Non-invasive anemia screening from a single eye photo — powered by AI and secured with blockchain ta
+- ★ [[clintrace]] — ClinTrace is an AI agent that assists in emergency department triage — severity scoring, red-flag de
+- ★ [[affectlink]] — AffectLink provides real-time multimodal emotion insights for tele-health with HP AI Studio. Uncover
+- ★ [[synapseai]] — Transforming Thoughts into Visual Expression - Empowering Minds Beyond Words
+- ★ [[alight]] — An Interactive Web Applications that Connects Refugees with Nonprofit Alight Refugees Supports Team 
+- ★ [[ecg-analyzer-btza69]] — An explainable deep learning system that detects cardiac arrhythmias from Lead-II ECG signals and tr
+- ★ [[don-t-forget]] — Smart Elephant uses Alexa to send timed reminders to your mobile phone.
+- ★ [[gotrail]] — Turn every hike into a discovery. Doctors get a tool they can actually prescribe to treat mental and
+- ★ [[bloom-dvjpea]] — The AI caretaker that enables seniors to be more independent and connected to their families.
+- ★ [[health-story]] — Introducing Health Story, our revolutionary app for hypertension management - a game-changer for doc
+- ★ [[hellocare]] — Left the doctor confused or worried you forgot something? Your grandparents probably have. Hellocare
+- ★ [[carelink-k1pzeh]] — Voice AI with RAG-powered clinical reasoning that proactively detects post-surgical complications, a
+- ★ [[health-care-a2kl1v]] — health is wealth
+- ★ [[hospital-readmission-prediction-with-federated-learning]] — HIPAA blocks pooling patient data. Sammy predicts readmission risk with federated learning, running 
+- ★ [[medivise]] — Medivise tackles polypharmacy by streamlining medication management with OCR, drug to drug interacti
+- ★ [[project-chronos-t7fq4j]] — AI-powered ICU early warning system predicting sepsis, hypotension, & hemodynamic collapse 2-6 hours
+- ★ [[mediscan-p7uzrv]] — Making healthcare accessible for all, one step at a time
+- ★ [[hystandard]] — Air-purifying solution to reopen Europe’s restaurants
+- ★ [[risklens-ad]] — An interpretable Alzheimer’s risk stratification system that combines cognitive scores and age-adjus
+- ★ [[express-drone-care]] — Delivering physician-ordered medical prescriptions and lab tests in minutes from any medical record.
+- ★ [[doclyst]] — Doclyst is a purpose-built medical safety interpreter. It turns complex medical reports into clear, 
+- ★ [[hearti]] — Simplifying congenital heart disease diagnosing, and treatment planning, and medical explanations fo
+- ★ [[lifelink-soibwr]] — Clinicians ask ASI:One for blood in plain English, a swarm of Fetch.ai agents finds blood centers, a
+- ★ [[kendo-habits-sylh2u]] — A gamified habit builder. Get closer to your ideal self while having fun!
+- ★ [[clinicact]] — ClinicAct turns doctor-patient conversations into ready-to-sign EMR actions and clear patient follow
+- ★ [[team-discover-qg7kn3]] — We give nurses SUPERPOWERS!
+- ★ [[livertracker-com]] — AI-powered app that helps liver disease patients track labs, trends & MELD score over time. Turning 
+- ★ [[coldguard]] — AI-powered cold chain guardian that protects life-saving medicines whether online or offline, at the
+- ★ [[covidhospital]] — We match patients with the medical centers they need during the COVID-19 crisis while also balancing
+- ★ [[protocol-resurrection-machine]] — A universal compiler that revives legacy network protocols and outputs secure, production-grade SDKs
+- ★ [[medunity]] — Longitudinal healthcare platform to empower and inform Canadians personally and systemically.
+- ★ [[wetrace-g9ocyi]] — Find out if you were in contact with someone that was tested positive.
+- ★ [[pneumo-apis]] — Secured AI Apis with the purpose to assist radiologists with fast and accurate pneumonia detection a
+- ★ [[first30-ai]] — Web app that tells you exactly what to do when someone needs emergency help so you can act according

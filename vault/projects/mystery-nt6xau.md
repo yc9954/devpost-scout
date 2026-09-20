@@ -1,0 +1,45 @@
+---
+slug: "mystery-nt6xau"
+url: "https://devpost.com/software/mystery-nt6xau"
+title: "Frank."
+hackathon: "Codegeist 2025: Atlassian Williams Racing Edition"
+organization: "Atlassian"
+winner: true
+words: 1176
+team_size: 8
+has_repo: false
+has_live: false
+has_video: true
+tags:
+  - "project"
+  - "mechanism/retrieval_grounding"
+  - "substrate/document_pdf"
+---
+
+# Frank.
+
+> Your People management solution inside Jira, Confluence, and Rovo.
+
+[Devpost](https://devpost.com/software/mystery-nt6xau) · hackathon [[Codegeist 2025- Atlassian Williams Racing Edition]]
+
+## Facets
+
+**mechanism** [[retrieval_grounding]]
+**substrate** [[document_pdf]]
+
+**stack** async-events, atlassian-forge, atlassians-permissions, automations, clojurescript, confluence-pages, context-aware-ai-with-scoped-actions, custom-fields, forge-custom-ui, forge-functions, forge-rovo-actions, forge-rovo-agent, forge-ui-kit, group-based-and-hierarchical-permission-model
+
+## How they structured the write-up
+
+- inspiration
+- what it does
+- how we built it
+- challenges we ran into
+- accomplishments that we're proud of
+- what we learned
+- what's next for frank. a people solution for atlassian
+- onboarding experience (please read)
+
+## Body
+
+Frank Frank's People Dashboard Frank's Rovo Agent Frank's Organization Chart Frank's Teams Frank's 360 View of the Employee Frank's Onboarding is Powered by Atlassian's Native automations Inspiration The idea for Frank didn’t start in a meeting room. It actually started in an In-N-Out drive-through during Team ’25 in Anaheim, when our team realized how central Atlassian already is to daily work, yet how fragmented people-related information still is. Many organizations already manage people workflows in Jira and store policies, onboarding guides, and performance documentation in Confluence. These setups are trusted and proven, but they depend heavily on people knowing where to look, what applies to them, and what they are allowed to see. When Codegeist came around, we decided to act on that insight. In a very short time, we spoke with HR professionals and Solution Partners, creating HR Workflows for customers to understand how people management works in practice. Even with just a few conversations, clear themes emerged around trust, permissions, ownership, and the desire to avoid introducing another HR system. Frank was shaped directly by these conversations and built to meet people where they already work. We called it Frank because good people management starts with honesty, being frank about people, about money, and about how work really works, with clarity, care, and respect. What it does Frank is a people solution that connects Jira, Confluence, and Rovo into a single, permission-aware experience. HR professionals and managers use Frank inside Jira and Confluence to: Manage employee context and lifecycle stages Track tenure, role distribution, upcoming hires and the onboarding of new employees Link people to workflows, templates, and documentation Continue using existing Jira workflows and Confluence content Employees do not get a separate Frank interface. They continue their workday in Jira and Confluence as usual. When they have a question about sick leave, vacation, onboarding, or their journey within the company, they ask Frank through Rovo . Frank answers using employee-specific context such as role, manager, and lifecycle stage, combined with approved company documentation and policies stored in Confluence. In conversations with HR professionals, we learned that a large part of their work is answering these questions repeatedly in the context of individual employees. Frank helps save time by providing relevant, personal answers that employees can act on directly. How we built it Frank is built entirely on Forge and fully Runs on Atlassian . Every employee is modeled as a Jira work item , giving Frank native access to permissions, workflows, and automations People managers decide what employee data is captured using custom fields , keeping ownership and scope explicit Jira workflows continue to run as-is and are reused for people-related processes Confluence remains the source of truth for HR documentation and policies In addition to existing spaces, Frank creates a dedicated people onboarding space in Confluence. This space is used for onboarding flows and can also be used by customers to store other people-related documents. When an employee onboards, Frank automatically creates a personalized onboarding document which can then be fully customized by the Manager. Managers and HR can track progress and step in when support is needed during onboarding. Sensitive employee information is protected using dedicated permission groups, ensuring that only the right people can access confidential data. Frank uses this structure to power a Rovo agent that understands an employee’s role, manager, and position in the company, and can retrieve and reference the right HR pages from Confluence. By grounding everything in Atlassian-native concepts, Frank avoids duplicate systems and keeps permissions consistent across workflows, documentation, and AI interactions. Challenges we ran into One of the biggest challenges was translating a broad vision into a concrete, working concept within a very limited timeframe. Early on, we had to make foundational decisions about the domain model. Choosing to represent an employee as a Jira work item opened many native platform capabilities, such as workflows and automations, but required careful thinking about scope and long-term flexibility. Another challenge was finding the right balance between functionality and flexibility. We needed to decide which content should be provided out of the box and which parts should be customizable by customers, while still delivering value quickly. From a technical perspective, permissions and security were a constant focus. Frank needed to simplify people management without compromising safety, especially once AI became part of the experience. Finally, working closely with Forge and core Atlassian products meant dealing with platform constraints and unexpected behavior. Learning where those boundaries are and how to work within them was a key part of the hackathon. Accomplishments that we're proud of Building a people solution that feels native to Atlassian Teams Designing an employee experience that requires no new interface Delivering contextual and relevant HR answers through Rovo Establishing a clear trust model based on permissions and explicit data Shipping a fully functional Forge app within the hackathon timeframe Working as a highly collaborative, cross-disciplinary team with strong momentum throughout the hackathon 👏 What we learned People solutions work best when permissions are correct by default HR, managers, and employees need different perspectives on the same information AI is only effective in people contexts when it is grounded in approved documentation and real employee context Building close to core Atlassian products amplifies both the power and the impact of platform decisions What's next for Frank. A People Solution for Atlassian Frank is intentionally built as a foundation. In 2026, we plan to expand this foundation with more in-depth people use cases. The onboarding flow built during Codegeist is only the first step. We expect this to grow into richer onboarding experiences, alongside support for peer-to-peer feedback, performance reviews, and other core people workflows. Many of these workflows require careful research and validation. Our next challenge is to publish Frank on the Atlassian Marketplace and work closely with early customers. These lighthouse customers will help us shape Frank so it fits Atlassian-focused teams in a natural and practical way. Frank fits naturally into Jira and Confluence, and complements Talent, Focus, and Align. Rovo adds the cherry on top. As Frank evolves, we see strong opportunities to integrate more deeply with Atlassian’s system of work. This includes alignment with Teamwork Graph, surfacing people context through Home dashboards, and making Frank present on the Company Hub in Confluence, through dedicated macros. Our goal is to build Frank into the number one people solution for Atlassian. This is a domain we deeply care about, not just as product builders, but as people working within Atlassian’s system of work ourselves every day. Onboarding experience (please read) In the app configuration, Frank can automatically create the required setup for you: • A Jira project called Frank, which holds all employee work items • A Confluence space called Frank, which holds onboarding We recommend you to have Frank generate sample content for you, so the app is not empty when you start. This creates example employees and an onboarding flow, giving you a realistic environment to explore Frank right away. Jannick explains very well in this short video: https://www.loom.com/share/49bbed54c3fb463a9f1c68b18e61580b <div

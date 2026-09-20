@@ -1,0 +1,271 @@
+---
+hackathon: "The Postman API Hack"
+organization: "Postman"
+projects: 239
+tags:
+  - "hackathon"
+---
+
+# The Postman API Hack
+
+Postman  ·  239 collected projects
+
+## What this field was made of
+
+- [[developer_tools]] × 134
+- [[developer]] × 130
+- [[web_dom]] × 70
+- [[structured_db]] × 47
+- [[video_visual]] × 44
+- [[geospatial]] × 28
+- [[general_public]] × 27
+- [[educator_student]] × 23
+- [[code_repository]] × 22
+- [[document_pdf]] × 21
+- [[finance_payments]] × 20
+- [[realtime_stream]] × 16
+- [[education]] × 15
+- [[health_clinical]] × 11
+- [[civic_government]] × 10
+
+## Projects
+
+- ★ [[docu-mentor]] — Documentation review, without the judgment.
+- ★ [[verified-yg6cd7]] — A workspace which enables you to analyse and benchmark your OpenAPI specifications.
+- ★ [[webhook-debugger]] — create, debug, and code your webhooks directly in Postman.
+- ★ [[save-the-orangutans]] — Food has a massive impact on climate change and the survival of all species. We can make a differenc
+- ★ [[docusync]] — Sync Github's Markdown file with Postman Documentation leveraging the power of Postman Monitors.
+- ★ [[postcards-app]] — Turn your phone into an IoT alarm with a simple API call
+- ★ [[api-security-tester]] — Fast, automated and accurate security testing of your APIs throughout the Postman lifecycle using Wh
+- ★ [[quick-debug]] — A workspace to automatically notify developers when API tests fail and suggest solutions based on th
+- ★ [[aws-monitor]] — A set of easily customizable requests for monitoring your AWS infrastructure. You don't have to be a
+- ★ [[yelp-subway-placeholder-name-insert-something-cool-later]] — You’re on the subway after work and you want dessert. Do you have time to search for ice cream parlo
+- ★ [[roku-dev-tools]] — A collection of useful commands and examples to aid in Roku TV development. Control your Roku device
+- ★ [[pronoobs]] — A safe and smart way to save the .env
+- ★ [[public-workspace-for-nasa-open-apis]] — This Public Workspace helps to scientists and engineer to test NASA Open APIs, who can use them to d
+- ★ [[gitignore-cli]] — Download git ignore files through a convenient cli
+- ★ [[mocktape]] — Mocktape is a service that lets you mock a back end with no setup. Just send the response you want i
+- ★ [[training-ai]] — Developers of all skill levels can train neural networks to test their projects to extract valuable 
+- ★ [[into-the-galaxy]] — API for the stars
+- ★ [[postman-api-p1]] — API collection to perform OneDrive Operations
+- ★ [[social-pro]] — A collection for social media managers and individuals to post to multiple social media channels sim
+- ★ [[promanage]] — Organizing all your projects efficiently and easing collaboration.
+- ★ [[medalysis]] — An API that helps one observe the growing trends of diseases and epidemics worldwide, by tracking lo
+- ★ [[voice-ninjaaa]] — Re-imagining the scale of automation for developers / business users to bring additional channels to
+- ★ [[creative-commons-explorer]] — This is a public collection to help developers explore, visualize, and iterate on digital media in t
+- ★ [[the-apis]] — The easiest way to connect your app to blockchains. Blockchain API is to the blockchain as Twilio is
+- ★ [[azure-rest-api]] — A workspace to help developers interact with the Microsoft Azure REST API. The focus is on leveragin
+- ★ [[opening-up-open-data]] — The UK Government provides a lot of open data on all aspects of the country, from crime to financial
+- ★ [[apicture-manipulation]] — APIcture manipulation is a collection of image manipulation APIs which comes handy while working wit
+- ★ [[weather-for-dummies]] — Makes weather information more tangible for the general public.By only giving the relevant informati
+- ★ [[you-can-change-this-at-any-time]] — Using Postman Workspace to develop a suit of API that evaluate your Cloud Security. As with the work
+- ★ [[no-code-social-media-aggregator]] — Created a no-code social media aggregator that updates the mock webpage daily so that users can orga
+- ★ [[morning-zen-with-coco]] — 💚 *inhale* hold *exhale* Pause for a moment in the morning and take care of yourself.
+- ★ [[sneaker-opportunity-cost]] — Find out how much money you could've made/lost had you not bought your last pair of sneakers. This a
+- ★ [[apigee-stats]] — Apigee traffic gives us useful information about the behavior of APIs and having a tool to visualice
+- ★ [[sysadmin]] — A project made using fastapi to access your machine remotely through REST APIs and get system info a
+- ★ [[us-state-professional-licenses]] — Have you ever wondered if your Doctor or Dentist is having a valid license? How about Plumbers, Nail
+- ★ [[emr-interop-attacking-the-chaos]] — EMR integration fuels digital health...but the APIs are a mess. Let us help you build and test integ
+- ★ [[iot-development-toolkit]] — The essential development kit for fleet owners, devs, & hobbyists!
+- ★ [[one-database-manager-1dbm]] — Secure credential storage and access to popular SQL and NoSQL cloud databases from a single source, 
+- ★ [[anymock]] — AnyMock is a Postman workspace that lets you generate all kinds of data for testing or for mocking d
+- ★ [[pic-motion]] — Create deep fakes with a photo and a reference video. Based on first-order-model by AliaksandrSiaroh
+- ★ [[news-apis]] — A collection of useful News APIs to provide you with the latest information.
+- ★ [[oneearth]] — Break the boundaries between countries with this api
+- ★ [[web-developers-hub]] — I am trying to collect different API's such as payment integration, chat, random Images so that they
+- ★ [[postmanhack]] — Use hashdata to understand the trend of the product.
+- ★ [[useful-apis-and-bots]] — The Best of WebAPIs and Bots in one single Postman Workspace
+- ★ [[postman-for-pentesting]] — Understand Common Vulnerabilities and Exposures in web servers
+- ★ [[project-solace]] — An API that helps developers keep up with their schedules, track dependencies, protect their data, g
+- ★ [[dev-alerter]] — Never browse through multiple websites in search of hackathons, jobs, blogs. Just fork this one proj
+- ★ [[process-notifier]] — A multi-channel notifier for long-running tasks on a system.
+- ★ [[resource-release-tool]] — A tool to provide resource usage estimations and to provide a central resource for scattered teams t
+- ★ [[open-access-museums]] — A workspace for managing and collaborating on museum's open APIs
+- ★ [[boggle-game-with-postman]] — Feeling bored while developing APIs? Let's play the game in Postman.
+- ★ [[html-based-presentation-api]] — An API for building presentations with web technologies over the 'net. Plus, some additional options
+- ★ [[azure-apis]] — Azure APIs for App Services, Resource Groups and CosmosDB
+- ★ [[glassdoor-analysis]] — This API will give you thorough analysis of Job market with companies, insights and salaries data as
+- ★ [[bi-tools-playground]] — A postman workspace for BI Developers to try & interconnect BI Tools capabilities using APIs.
+- ★ [[dataman-transform-your-api-response-data-and-visualize-it]] — Help developer to transform and visualize their API response data through Postman easily!
+- ★ [[facial-emotion-prediction-and-music-suggestion]] — Build Tensorflow model for Emotion prediction using face and then serving music recommendation. Used
+- ★ [[nlp-planet]] — A workspace containing simple natural language processing API collections.
+- ★ [[festival-of-lights-and-music]] — Can't get enough of Harry Potter? Feeling nostalgic about Star Wars? Have no fear, Arduino is here! 
+- ★ [[crpto-forex]] — * Websubmit *Keyhosting
+- ★ [[faker-apis]] — Multiple API Collections to get realistic dummy data from various categories. Provides easy to use v
+- ★ [[prayer-times-azan-api]] — This is an API that easily request get schedule prayer
+- ★ [[posteddb]] — Standalone indexedDB database reachable from Postman requests and scripts.
+- ★ [[transcriptor]] — This is a simple tool to transcribe all your developer/business meetings on zoom. With this, you wil
+- ★ [[bootmaster]] — A public workspace to search API's compatibility for different frameworks .
+- ★ [[datafy]] — API to detect blood on the face
+- ★ [[hashnode-blog-cards]] — ⚡ The Project presents a set of APIs that will fetch the Blogs from Hashnode and can be put anywhere
+- ★ [[dependency-management-depman]] — Collection to automate developer's workflow and make their lives easier.
+- ★ [[fake-news-detector-3qy4bf]] — Make your Social Platform Clean
+- ★ [[snippet-bin]] — Do you find yourself emailing links and media to yourself? Would you prefer to use a self-hosted, lo
+- ★ [[a-day-of-dev]] — In the life cycle of Eat -> Code -> Sleep of a dev, there is a need of some utility services like fo
+- ★ [[region-gi0pb2]] — Regions of the universe
+- ★ [[request-cachet-and-analyzer]] — Service which automates sequences of various Postman requests with Python.
+- ★ [[healthcare-assistant]] — Get all the healthcare service APIs in one place.
+- ★ [[so-many-apis]] — "Fun" game to Learn about So Many APIs while also testing your non-computer knowledge!
+- ★ [[auto-stackoverflow-search-bot]] — A Bot to Help Developers to Debug Quickly & Easily !
+- ★ [[codemagic-build-manager-for-mobile-apps-and-more]] — Build, manage and debug your mobile apps using Codemagic integration with Postman!
+- ★ [[goshare-me]] — If you build something and no one knows about it, then does it really exist ;)
+- ★ [[anatomy-workspace]] — We show how we used Postman workspaces, mock servers, collections & monitoring during the full lifec
+- ★ [[smart-home-api]] — Aggregates smart home devices from different vendors so they can be controlled using a single API. A
+- ★ [[backup-website-content-to-dropbox]] — No more headache over migrating to a new web hosting platform. Use this collection to back up your w
+- ★ [[medbay-435l82]] — Ensuring citizen health, Always.
+- ★ [[the-developer-s-guide-to-the-galaxy]] — A Postman Collection that creates an automated "Choose Your Adventure" experience enabling the devel
+- ★ [[bb8]] — Seamless 2FA and Account Watchdog via Typing Biometrics
+- ★ [[mind-your-mind-mental-well-being-of-kids-during-covid-19]] — A PostMan public workspace for researchers and developers to analyze the social media facial images 
+- ★ [[relationshipin]] — Developers guide to finding relationships
+- ★ [[staticlink-immutable-static-sites-deployments-in-postman]] — StaticLink is a set of simple API to deploy static websites and it can be easily used within the Pos
+- ★ [[sup-porter-bot]] — Multi-tasking simplified
+- ★ [[pigeons]] — Are you a tired developer, having so much to keep track of, from contests, hackathons to recent hiri
+- ★ [[scrbot-ai]] — Hello world! I'm SourceBot and I have one job - to boost developer's effectiveness. I will provide y
+- ★ [[buildmate]] — Run or get the status of your Postman monitors from anywhere using your favorite Alexa-enabled devic
+- ★ [[send-unified-message]] — Documentation for PyMACS API's, PyMACS, is the next in Browser OS's, near you in python, a minimalis
+- ★ [[kwiz]] — Put your knowledge about all things technology to the test with KWIZ and have some nerdy fun in the 
+- ★ [[textly-api]] — An all-in-one API for the grammar correction, spell check, sentiment analysis,Text Summary,Next word
+- ★ [[html-stonizer]] — Carve important financial data, predictions, or quotes in stone. The API notarizes HMTL fragments in
+- ★ [[hackathon-project-cyzhlf]] — MAID saves your time by gathering latest feed from your favourite websites and delivering them to yo
+- ★ [[rebuild-the-future]] — Join us in our movement to make the world a better place for living.
+- ★ [[m-gap-irp4ev]] — A 3 in 1 automated screening system built in Postman's Public Workspace for safety and security purp
+- ★ [[the-social-media-api]] — OpenAPI 3.0 specification schema and collections of API for building or integrating social networkin
+- ★ [[get-dummy-data-6getqf]] — Generate dummy data that matches all the attributes in your API schema.
+- ★ [[educational-apis]] — A workspace of API collections of most famous Learning Management Systems to manage user accounts, c
+- ★ [[developerprofile]] — It is useful for any developers to view their contributions and get their competitive stats. Along w
+- ★ [[shipstation-api]] — API collection to integrate ShipStation with your application.
+- ★ [[foss-drill-down]] — Search, analyze, and monitor libs/packages, OCI images, and git repositories
+- ★ [[sports-video-games]] — Postman public workspace for sports & video games related API's with integration of messaging & Soci
+- ★ [[symptom-connect]] — All of us have at some point consulted with Dr. Internet ! Well Wisher is a workspace that uses firm
+- ★ [[smart-sharer]] — Share your content smartly
+- ★ [[covid-vaccination-b26vhd]] — The limited supply of COVID vaccination in all healthcare organizations and making sure two doses ar
+- ★ [[trading-joe]] — AI powered automated tools to buy and sell stocks based on rumours and news.
+- ★ [[miia-api-medical-intelligence-applied]] — The system leverages AI technology to analyze data collected from facial recognition, wearable devic
+- ★ [[pneumo-apis]] — Secured AI Apis with the purpose to assist radiologists with fast and accurate pneumonia detection a
+- ★ [[hashouse]] — A crypto based API to serve low computing powered devices
+- ★ [[sentiment-and-media-analysis-in-twitter]] — Twitter sentiment analysis allows you to keep track of what’s being said about your product or servi
+- ★ [[social-media-data-analytics]] — An organisation with a social media presence wants to know how it is affected their business. This i
+- ★ [[the-chainmail-api-workspace]] — Built to improve API functionality/ development by mimicking workflows and using dynamic data.
+- ★ [[idaiserver]] — API for contract testing. Automate tests against an implemented API, based on a Postman collection.T
+- ★ [[cloud-newman]] — Turn your Postman collection into an API! Supports private data. Simple to use-just output your resp
+- ★ [[vehicle-data-api-helper]] — Quick and easy API endpoints to get all the data you would ever need for vehicles.
+- ★ [[team-helper]] — Build an app to help your teammate in project management, devops, design, or your fellow developers 
+- ★ [[my-daily-quotes]] — My Daily Quotes public workspace will inspire and encourage you by bringing random inspiring quotes 
+- ★ [[mongoql]] — Manage your CRUD database operations from the client-side, using one endpoint express middleware wit
+- ★ [[sharing-code-for-software-production]] — The software development cycle is made up of multiple stages that can be shared through repositories
+- ★ [[vaccinated-in-time-because-of-postman]] — Health is important to us. We want our family to be healthy too, even though they are not used with 
+- ★ [[api-based-latex-cluster]] — The developed LaTeXCluster connects LaTeX nodes around the world and provides an API for developers,
+- ★ [[sheets-api]] — Launch an express API easily using a google sheet as DB for quick MVPs or prototypes
+- ★ [[neighbour-network]] — Offset the current day challenges by helping your closest friends.
+- ★ [[postman-hacks-in-java-and-apache-kafka]] — Postman Hacks in Java and Apache Kafka
+- ★ [[object-as-a-service]] — A object creation service per domain, where you can merge objects together. It should be a standard 
+- ★ [[developer-refresh]] — when ever the developer tired of coding but want to explore to new things this will workspace will b
+- ★ [[countries-now]] — Integrate Geo-classification into your websites and web applications fast.
+- ★ [[google-photos]] — Workspace for google photos
+- ★ [[ny-times-apis]] — This project contains collections for NY Times APIs which can be used to seamlessly test and play ar
+- ★ [[kiva-bingo-elaswr]] — Kiva Bingo gamifies lending to all 76 countries, 15 sectors, and 163 activities Kiva.org facilitates
+- ★ [[placeholder-wu61mv]] — This workspace is useful throughout the day of a software developer/engineer. It contains collection
+- ★ [[voxcastor]] — World is fast and we have almost limitless access to information. Fight the information overload by 
+- ★ [[learning-assistant-xek9b3]] — Learning Assistant is a Postman based tool that will help you keep improving as a software engineer,
+- ★ [[should-i-work-from-home-today]] — This collection helps you decide whether you should go to the office or work from home, based on env
+- ★ [[mulesoft-apis]] — Make mule the max dance to your tune with this API collection
+- ★ [[deploy-websites-to-netlify]] — Use Netlify API to deploy a brand new, or an existing website. With this approach, users have more c
+- ★ [[id-hub-oi719w]] — Helping developers adopting modern identity practices like SSO and JWTs via Postman.
+- ★ [[awesome-customization]] — Awesome Customization is a workspace that shows how you can dynamically pull images, videos, and oth
+- ★ [[exploratory-testing-of-apis]] — explore and validate your API responses without developer bias on the tests.
+- ★ [[wordcloud-keyword-generator]] — Using this set of APIs, easily put in any term and it will scrape keywords from the Smithsonian DB t
+- ★ [[bitcoin-cash-api]] — Using this public workspace you can get your BCH or SLP token balance, send BCH to someone, get fee 
+- ★ [[self-care-for-devs-api]] — A collection of APIs dedicated to all fellow devs to take care of your well-being!
+- ★ [[social-media-manager]] — Manage your social media pages with the power of postman and APIs
+- ★ [[twitter-bot-5pbani]] — Increase engagement in your community.
+- ★ [[izmjs-devtools]] — Imagine you write your code and you click a button to generate the API documentation of the whole pr
+- ★ [[urban-dictionary]] — Urban Dictionary is a crowdsourced online dictionary for slang words and phrases, operating under th
+- ★ [[jam-packed]] — Jam Packed is a revolution for the programmable web. Anyone can create, consume and share executable
+- ★ [[rss-to-discord]] — 🔍❤️🚀 Hunt down social media accounts by username across social networks, from inside Postman!
+- ★ [[spacecruise]] — Book a trip to space/visit MARS as easily as you would be able to book a cruise and receive updates 
+- ★ [[azure-cognitive-services-apis-and-microsoft-bot-framework]] — The Azure Cognitive Services are essentials to develop a AI chatbot system based on Questions & Answ
+- ★ [[visualize-ireland-crime-statistic-json-stat-in-postman]] — This project demonstrates how to leverage postman as a powerful api manipulation and visualization t
+- ★ [[speech-to-text-translation-and-vice-versa]] — In the world of voice assistants, this API will help convert speech to text. Use the converted text 
+- ★ [[my-custom-ryu-sdn-rest-api-set]] — Ryu is a software defined network controller made in Python. I find it very cool and I want to use i
+- ★ [[elasticapi]] — APIs to help the community of elasticsearch enthusiasts!! This project shows how to create an end to
+- ★ [[mobile-mobi-hackers]] — How to export your postman collections into Kotlin data classes using a Postman Collection? Find out
+- ★ [[number-information-web-application]] — A simple number information web application which will help small kids and other under elementary st
+- ★ [[businessreplyautomation]] — With OAuth and NLP, you can instantly respond to your customers
+- ★ [[azure-service-bus-queue-listener]] — This Postman project is used to create, delete, view, and monitor Azure Service Bus Queues. You can 
+- ★ [[docker-registry-image-reader]] — This collection interacts with the Docker Registry HTTP API (v2), allowing a Postman Monitor to forw
+- ★ [[play-pi]] — Fancy a game of chess in the postman app?
+- ★ [[tweets-aggregation]] — Get tweet data corresponding to a particular hashtag or a user profile handle in an aggregated forma
+- ★ [[trust-enterprises]] — Bridge the gap between web development and decentralization, in 5 minutes.
+- ★ [[peruse-code]] — Peruse Code makes it easy to read code online so you can write better code!
+- ★ [[russian-government-public-api-documentation]] — Russian government publishes a lot of open data and provides several API from government information
+- ★ [[github-extraction]] — Get Mined details from github
+- ★ [[renting-system]] — Making things Easy
+- ★ [[renting-systems]] — this is a platform to facilitate the Landlord and tenants in managing their work.
+- ★ [[devlearn-pedia]] — Devlearn-pedia: An encyclopedia for new developers and an opportunity to contribute for senior devel
+- ★ [[triumph-software-engineering-and-design-developer-in-world]] — Software means computer instructions or data.it is a program that enables a computer to perform a sp
+- ★ [[hogwarts-sorting-hat]] — Do the sorting hat ceremony to find your house and get other surprises!
+- ★ [[serverless-bootstrapper]] — Getting a taste of serverless was never easier. This project enables you to take your Postman APIs i
+- ★ [[bowiki]] — sharkbot gives chatbots search engine power. We can get information on personalities, countries... i
+- ★ [[superhero-finder]] — This website helps in finding information about your favorite SuperHero.
+- ★ [[above-the-fold-api]] — Above The Fold aggregates the top news displayed on the homepages on over 20 news outlets. By provid
+- ★ [[monitor-salestax-rate-changes]] — What if you can get directly notified when your beloved government updates the sales tax rates so yo
+- ★ [[foodie-s-corner]] — Foodie's Corner helps users to search any recipe of their choice and get full information on that al
+- ★ [[azure-cognitive-services]] — This project contains common Microsoft Azure Cognitive Services APIs to be used from Postman.
+- ★ [[finance-club-website-4r89nl]] — Learn how money makes money
+- ★ [[time-puppet-api]] — Time Puppet API allows you to manipulate date and time by doing the hard work that you always search
+- ★ [[postcards-qru3we]] — Postcards is a public Postman Workspace that automatically sends you selected flashcards sets so you
+- ★ [[as-yet-unnamed]] — Get up-to-date Covid-19 information straight to Slack, with government policies and a graph of recen
+- ★ [[qr-code-api]] — Want to generate QR Code quicky on the go and save it on cloud ? The try this QR Code API.
+- ★ [[firebase-rest-api]] — A Firebase REST API collection to help developers get set on building web apps and hybrid mobile app
+- ★ [[hooxi]] — Public Postman Collection for Webhooks Discovery/Configuration/Management and Testing
+- ★ [[postman-wordpress-api-for-check-seo-and-security]] — The project uses the wordpress api of any website created with wordpress. Very useful for people who
+- ★ [[fast-start-requests-for-new-project]] — In the new app focus on the main thing, and with requests will help "Quick start requests"!
+- ★ [[devexp]] — The Developer Experience is always reflected in the final product
+- ★ [[ascii-text]] — Generate the figfont of text.
+- ★ [[a-firebase-base-project-for-everyone]] — I wanted to create a firebase base project and a postman collection with automated tests for it. Now
+- ★ [[pdfit]] — Generate PDF documents by sending a formatted HTML content to the PDFit Web Service over REST.
+- ★ [[open-textbook-library-api]] — Explore the wonderful world of free books with this new API spec!
+- ★ [[recipe-search]] — Don't know what to prepare with the ingredients you have in your fridge? Type three items and get a 
+- ★ [[kubeapps]] — Super-charge your Kubernetes cluster https://github.com/ervin210/kubeapps.git
+- ★ [[npm-packages]] — Suggest Alternative Variable Names
+- ★ [[flappy-ninja-game-made-using-python]] — This is a fun game of flappy ninja The prerequisite of this project is the basic knowledge of python
+- ★ [[stackoverflow-dev]] — Improving developers collaboration and effectiveness via providing them a collection which they can 
+- ★ [[restaurant-bill-management-system]] — This Project is fully interactive with customers .It can give a choice to reserve seat and also show
+- ★ [[snake-game-using-pygame]] — This is a project snake game which is build using python
+- ★ [[virtual-jarvis-ai-assistant]] — This Is a project just like alexa and siri I named this project as Jarvis
+- ★ [[todo-list-48bh1w]] — this is a program based on todo list programmed in python
+- ★ [[bga]] — Query Board Game Atlas to help suggest a boardgame, then find the best price for the top suggestion.
+- ★ [[an-api-a-day-keeps-the-doctor-away]] — Introducing, "An API a day keeps the doctor away", a postman collection that helps you get suggestio
+- ★ [[meme-generator-6vw2ih]] — We all want to share memes with our friends! How about generating our own customized meme using API'
+- ★ [[api-to-db]] — Moving data from the cloud to relational database tables can be complicated and time consuming. We m
+- ★ [[fuzzyman]] — Fuzzyman takes your Openapi 2.0 spec and creates a fuzzed collection of your API to help discover bu
+- ★ [[elimination_of_child_pornography]] — We propose a new solution for eliminating the hashtags of the child pornography content and to link 
+- ★ [[prayer-times-api]] — A simple and useful Muslim prayer times data provider
+- ★ [[peggy-j]] — So you've got a lot of pixels in your image but you want less pixels. Peggy will resize your image w
+- ★ [[google-forms-google-sheets-to-trello]] — Fresh from Splurket, stay real with the power of an organized stack!
+- ★ [[send-the-list-of-network-services-to-cisco-webex-teams]] — This project enables users to fetch the configured services on the NSO, store their count and extrac
+- ★ [[global-api-network-test]] — Your API is deployed in several data centers, now you need to know what the rest of the world is exp
+- ★ [[micropub-collection-generator]] — The Micropub protocol is used to create, update and delete posts on a website. To simplify manual te
+- ★ [[real-learning-4bhnkl]] — Learn anywhere
+- ★ [[open-n-w]] — Open News and Open Weather
+- ★ [[the-covid-collection]] — The COVID Collection aims to provide a centralized dashboard for 3 different public API's with criti
+- ★ [[onewaysms-api]] — Postman collection for Malaysia OneWaySMS API.
+- ★ [[daily-programmer-jokes]] — Who does not like some fun in life, specially developers who work all day developing great products?
+- ★ [[universalapi-z0chxa]] — universal API is API converter with goal a seamless ESB ( Enterprise Service Bus ) for developer to 
+- ★ [[testing-testing-one-two-three]] — We Build , We Learn , We Earn
+- ★ [[pastebin-collection]] — Easily create, find and delete pastes on Pastebin!
+- ★ [[postgram]] — Postgram is a free, online photo-sharing application and social network platform that is made by usi
+- ★ [[payhere-sri-lanka-integration-testing]] — Easy integration testing for your existing PayHere Integrations.
+- ★ [[hajj-umrah-zone]] — Help provide all the needs for the smooth running of Hajj and Umrah, including the development of a 
+- ★ [[transfer-engine]] — Facilitate Data/File Transfer and Test services between local and Remote using various protocols (SF
+- ★ [[dailywellness]] — Wellness is much more than absence of sickness, but learning to prevent them and cultivating healthy
+- ★ [[stock-alert-islw3f]] — Most important parameters for a trade are entry point, target and stoploss. The collection we create
+- ★ [[automatic-task-runner]] — This is a collection to run task easily and automatically, using mock servers for testing not applic
+- ★ [[weather-app-kogj2f]] — Weather App is a web application which will display the current temperature in both Celsius and Fahr
+- ★ [[cloudcart]] — buy and book services from local shops according to their needs , based on a time slot sitting at ho
+- ★ [[dhru-rest-api-framework]] — Build fast smart and secured rest api and auto sync with POSTMAN Collections.
+- ★ [[plangile-xrm]] — XRM Engine based API with dynamic basic or premium view templates. focusing on planning software sol
+- ★ [[analog-argus]] — You're looking for analog camera but you don't know the good price (to buy or sell). This API provid
+- ★ [[college-exam-management-system-by-springboot-apis]] — Create a System, In which different Staff members can write their question paper and then it is been
+- ★ [[surpricemespotify]] — Surprice Me Spotify gives you a ready to play playlist of songs specially recommended for you, based
+- ★ [[passwordless-authentication-automation-mechanism]] — For a Microsoft use, creating a framework to automate passwordless api using Microsoft graph API

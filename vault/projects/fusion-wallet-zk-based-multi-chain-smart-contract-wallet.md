@@ -1,0 +1,49 @@
+---
+slug: "fusion-wallet-zk-based-multi-chain-smart-contract-wallet"
+url: "https://devpost.com/software/fusion-wallet-zk-based-multi-chain-smart-contract-wallet"
+title: "Fusion Wallet - zk-Based Multi-chain Smart Contract Wallet"
+hackathon: "Block Magic: A Chainlink Hackathon"
+organization: "Chainlink"
+winner: true
+words: 1178
+team_size: 2
+has_repo: true
+has_live: true
+has_video: true
+tags:
+  - "project"
+  - "mechanism/structural_withholding"
+  - "domain/finance_payments"
+  - "domain/security_privacy"
+  - "substrate/financial_record"
+  - "substrate/geospatial"
+---
+
+# Fusion Wallet - zk-Based Multi-chain Smart Contract Wallet
+
+> Fusion is a multi-chain smart contract wallet that leverages ChainLink Functions and zero-knowledge proofs for cross-chain deployments and authentication.
+
+[Devpost](https://devpost.com/software/fusion-wallet-zk-based-multi-chain-smart-contract-wallet) · hackathon [[Block Magic- A Chainlink Hackathon]]
+
+## Facets
+
+**mechanism** [[structural_withholding]]
+  <sub>weak: cross_origin_web</sub>
+**domain** [[finance_payments]] [[security_privacy]]
+**substrate** [[financial_record]] [[geospatial]]
+
+**stack** avalanche, base, caddy, chainlink, data-feeds, digitalocean, erc-2771, ethers, functions, hardhat, javascript, meta-transactions, nextjs, noir
+
+## How they structured the write-up
+
+- inspiration 🤔
+- what it does ✨
+- how we built it 👷
+- challenges we ran into 🚨
+- accomplishments that we're proud of 😤
+- what we learned 📖
+- what's next for fusion ⏭️
+
+## Body
+
+Deploy Section where all the supported chains are listed Deploying on Side Chain Settings Menu Profile Menu, where all your token and current balance is listed Dashboard Transactions Buying GAS tokens Estimating Gas Fees Login page Landing Page Try it out yourself : getFusion.tech Github Repo : https://github.com/FusionWallet Inspiration 🤔 The crypto onboarding process is cumbersome and time-consuming, requiring users to download multiple apps, write down seed phrases, and acquire gas fees. This complexity can overwhelm newcomers, leading to mistakes and security risks. Everyday wallets face significant security issues: phishing attacks trick users into revealing private keys, hacking exploits software vulnerabilities, and users can lose access if they forget passwords or lose devices without backups. Additionally, achieving account abstraction and multichain interoperability remains difficult. Account abstraction aims to simplify user interactions by separating wallet management from specific blockchain requirements, but it is complex to implement. Multichain functionality, which allows seamless use across different blockchains, faces technical and security challenges, adding another layer of complexity for users. The crypto ecosystem needs more user-friendly and secure solutions to make adoption easier and safer. What it does ✨ Fusion leverages cutting-edge technologies to offer users unparalleled security, privacy, and a versatile multichain wallet. As the first of its kind, Fusion registers an on-chain domain on Avalanche Fuji , our designated base chain , securing passkey and email hashes with zero-knowledge proofs. Wallets on side chains—such as Polygon Amoy , Base Sepolia , and Optimism Sepolia —cannot be claimed unless the zero-knowledge proof is validated through Avalanche using ChainLink Functions . Fusion Wallet features custom meta-transaction-based paymasters, allowing users to pay gas fees with AVAX , MATIC , ETH , USDC , and LINK using ChainLink Data-Feeds . Furthermore, GAS tokens serve as a unified gas payment solution, owned by your domain on the Avalanche Sub-chain . This system enables users to seamlessly buy GAS tokens with any supported tokens and use them for transactions across networks, even if they lack a native gas token like MATIC or AVAX. The Sub-chain indexes transactions and grants tokens, ensuring a streamlined and efficient experience for all users. How we built it 👷 We built Fusion with the vision of providing all the features of an EOA wallet, along with enhanced portability and security. Portability allows users to access their wallets simultaneously on two devices, while security is ensured through the implementation of zero-knowledge proofs (zk-SNARKS) using NoirJS for client-side proof generation—a pioneering approach in the field. For payments, Fusion supports transactions using any ERC-20 token in addition to the native token. By utilizing meta-transaction-based forwarders, we compute gas fees off-chain, allowing your wallet to send funds back to the Gas Tank efficiently. Currently, the system operates without profit margins, with a future plan to incorporate a service charge model. Moreover, similar to how L1 chains use proxies to index L2 transactions, we employ our Avalanche SubChain to index GAS token transactions. This offers a unified solution for paying gas fees across any chain. GAS tokens can be purchased on any chain using any token, providing seamless interoperability and convenience. Currently, the value of GAS tokens is pegged to 1 USD, regardless of the token used for payment, and this valuation is securely maintained by ChainLink Data-Feeds . Challenges we ran into 🚨 If transactions fail, zk-proofs could potentially be used for replay attacks [Solved] Initially, zk-proofs were based on the nonce in the Fusion contract, which increments upon successful function execution. However, if a transaction failed, the zk-proofs could be accessed from the block explorer, allowing attackers to reuse these proofs for subsequent transactions. To resolve this, we introduced a wallet address flag. Each time a random wallet is generated client-side to sign the meta-transaction, that wallet address is also used to verify the zk-proof and the transaction. The likelihood of an attacker discovering this wallet is comparable to randomly obtaining Vitalik's wallet by generating a new wallet on MetaMask 😄. This significantly enhances security and mitigates the risk of replay attacks. The fulfill request for ChainLink Functions has a gas cap of 300,000, which caused deployment failures for our wallet [Solved] Initially, we attempted to deploy our wallet through the fulfill request function, but it consistently failed. After thoroughly reviewing the documentation, we discovered that the gas cap is set to 300,000 while deploying Fusion requires at least 500,000 gas. To resolve this, we implemented a solution that maps the request to check its fulfillment status. We then use the finalize request function in our Fusion Proxy Factory to deploy the wallet, ensuring successful deployment without exceeding the gas cap. Accomplishments that we're proud of 😤 Enhanced Security with Zero-Knowledge Proofs: We successfully implemented zero-knowledge proofs (zk-SNARKs) using NoirJS for client-side proof generation, ensuring that user transactions and identities remain secure and private. This pioneering approach significantly enhances the security of our wallet, setting a new standard in the industry. Cross-Chain Interoperability: Fusion is designed to seamlessly manage assets across multiple blockchain networks, including Polygon Amoy , Base Sepolia , and Optimism Sepolia . By verifying zero-knowledge proofs through Avalanche Fuji using ChainLink Functions , we have achieved a high level of interoperability, allowing users to interact with various chains effortlessly. Innovative Gas Payment Solution: Our custom meta-transaction-based paymasters allow users to pay gas fees with multiple tokens, including AVAX , MATIC , ETH , USDC , and LINK . The introduction of GAS tokens , powered by Avalanche Sub-chain , as a unified gas payment solution, which can be bought with any token and used across chains, offers unparalleled convenience and flexibility to our users. What we learned 📖 Utilizing ChainLink Functions to replicate the functionality of CCIP: While CCIP offers a cross-chain solution, the lengthy six-minute wait time for deploying cross-chain wallets posed a significant usability challenge for users. By implementing ChainLink Functions, we optimized the deployment process, providing users with a more efficient and seamless experience. Moreover, routing the zero-knowledge proof through Avalanche Fuji(Base Chain) via ChainLink Functions conferred several advantages over CCIP. This approach enabled us to streamline cross-chain transactions and enhance overall user satisfaction, positioning Fusion as a leading solution in the blockchain ecosystem. Strong Foundation with Avalanche SubChain: Leveraging the Avalanche SubChain to index GAS token transactions, we have created a robust and scalable infrastructure that supports our unified gas payment solution. This foundation ensures that users can transact seamlessly, regardless of the blockchain network they are interacting with What's next for Fusion ⏭️ Establishing a robust banking infrastructure on top of the Fusion Wallet to facilitate seamless on-ramping and off-ramping for crypto-native users, ensuring a smooth transition between fiat and digital currencies. Integrating the Ethereum Name Service (ENS) with domain management solutions like Namestone or Nameverse, enabling users to associate their blockchain addresses with human-readable domain names. Implementing a one-to-one mapping between domains and addresses, where all wallets associated with a particular domain share the same address. This can be achieved through the utilization of the Create2 opcode, shared deployer wallets, and consistent wallet nonce management, ensuring a unified and user-friendly experience across multiple wallets. <div

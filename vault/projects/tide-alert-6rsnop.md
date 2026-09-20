@@ -1,0 +1,53 @@
+---
+slug: "tide-alert-6rsnop"
+url: "https://devpost.com/software/tide-alert-6rsnop"
+title: "Tide Alert"
+hackathon: "Boost Hacks II"
+organization: "Boost Hacks"
+winner: true
+words: 734
+team_size: 0
+has_repo: true
+has_live: true
+has_video: true
+tags:
+  - "project"
+  - "mechanism/realtime_stream"
+  - "mechanism/sensor_fusion"
+  - "domain/climate_energy"
+  - "domain/disaster_emergency"
+  - "domain/health_clinical"
+  - "user/general_public"
+  - "user/patient_family"
+  - "substrate/geospatial"
+  - "substrate/structured_db"
+  - "substrate/video_visual"
+  - "substrate/web_dom"
+---
+
+# Tide Alert
+
+> Flooding caused by typhoons in Hong Kong is a severe issue. There is a lack of information, with citizens unaware of flooding until too late to take action against it. Tide Alert aims to change this.
+
+[Devpost](https://devpost.com/software/tide-alert-6rsnop) · hackathon [[Boost Hacks II]]
+
+## Facets
+
+**mechanism** [[realtime_stream]] [[sensor_fusion]]
+**domain** [[climate_energy]] [[disaster_emergency]] [[health_clinical]]
+**user** [[general_public]] [[patient_family]]
+**substrate** [[geospatial]] [[structured_db]] [[video_visual]] [[web_dom]]
+
+**stack** esp32, esp32-cam, firebase, google-gemini-ai, leaflet.js, thunkable, ultrasonic-sensor
+
+## How they structured the write-up
+
+- inspiration
+- what it does
+- how i built it
+- challenges i ran into, what i learned
+- what's next?
+
+## Body
+
+GIF The Station: ESP32 Cam, Ultrasonic Sensor, ESP32 WROOM, all in a 3D printed container Home Page of my Tide Alert Thunkable App This is how I started out testing my hardware. Furthermore, my abandoned website is displayed on the monitor. This was before making the app Inspiration Hong Kong has long faced a serious typhoon issue which continuously worsens due to global warming. Plenty of estates are near seasides and easily become flooded during typhoons as the strong winds cause tides to rise above shorelines. As of now, the Hong Kong weather observatory provides information on the typhoon, but hardly on the subsequent effect on the sea and tides. There is a severe lack of real-time information offered to citizens and estates, meaning that oftentimes estates must take extreme action, anticipating the worst. This is costly and oftentimes unnecessary. I am writing from experience, as in 2018, my estate was flooded by the influx of tide water on the streets. I live near the shore, and when the Typhoon Mangkhut hit Hong Kong, my estate was unprepared for the consequential effect the typhoon would have on the sea. I hope that through my “Tide Alert” system and app that provides real time information of tides, citizens and estates can prepare more effectively against floods. What it does The Tide Alert system consists of stations combined with a mobile app. Stations (an ultrasonic sensor, an ESP32, and an ESP32 camera) should be setup at different shorelines of areas susceptible to flooding caused by tides. These stations will collect data (the height of tides + picture of shoreline) and update my firebase database. In my mobile app, users will be able to view the real-time information of tides at different station locations, and can choose to recieve notifications warning them of potential flooding at a given station location. The moment the app detects that the height of tides at a location the user has chosen to allow warnings for has surpassed the shoreline height, a warning will be sent to the user through SMS and also displayed in app. I used OneSignal to do so. Additionally, I have included a convenient AI feature to assist users, acting as a specialised assistant to answer any questions users have about HK weather or tides, and also to give advice on how to take precautions against flooding; using the Hong Kong Observatory's Weather API, I have a page displaying special warnings (typhoon, e.t.c) and daily weather warnings, so users can access these resources directly from my app. How I built it I used Thunkable to create my app, and HTML paired with Leaflet.js to set up the map with the station location pointers (only 1 of the pointers is functionable, as I only created 1 station) that is in my app. I used Firebase for my cloud database, to store the tide height data. Using an ultrasonic sensor to detect the distance of tides from my station, and knowing the distance of the station from the floor/shoreline, I can calculate the height of the tide. The ESP32 camera takes images of the tide/shoreline periodically, and updates my Firebase cloud storage, while I used the ESP32 to update the Firebase database with the data from my ultrasonic sensor. I used Google's Gemini AI for my AI function. Challenges I ran into, what I learned I've never dabbled in hardware before, so figuring out the ESP32, ultrasonic sensor, and ESP32 camera was very difficult for me. Other than that, I initially planned on coding a website instead of creating an app, but I realised that an app would likely be more easily accessible than a website, and switched to Thunkable in the middle of my progress. Implementing AI in Thunkable was also much more difficult than expected, and implementing push/get from the API was tedious. From this process, I learnt to be more patient, and my perseverence to find solutions ultimately allowed me to overcome the challenges faced. What's next? In the future, I would have to test out the station in real-life situations. Currently, I've only ever used it in my own home-made simulations of tides. Furthermore, I would like to implement solar energy as the means to power the station, making it eco-friendly. Lastly, I would like to make my project not exclusive to Hong Kong, since flooding caused by tides is not unique to this area. <div

@@ -1,0 +1,46 @@
+---
+slug: "jobsmadeeasy"
+url: "https://devpost.com/software/jobsmadeeasy"
+title: "JobsMadeEasy"
+hackathon: "The HCL-Pega Pathbreaker Hackathon"
+organization: "HCL"
+winner: true
+words: 1355
+team_size: 6
+has_repo: false
+has_live: true
+has_video: true
+tags:
+  - "project"
+  - "mechanism/realtime_stream"
+  - "domain/labor_employment"
+  - "substrate/web_dom"
+---
+
+# JobsMadeEasy
+
+> Employee to Employee Referral portal .In recent times, the hiring process gets very complicated.To make the hiring process easier, we have come up with the Idea of JobsMadeEasy.
+
+[Devpost](https://devpost.com/software/jobsmadeeasy) · hackathon [[The HCL-Pega Pathbreaker Hackathon]]
+
+## Facets
+
+**mechanism** [[realtime_stream]]
+**domain** [[labor_employment]]
+**substrate** [[web_dom]]
+
+**stack** pega
+
+## How they structured the write-up
+
+- inspiration
+- what it does
+- how we built it
+- challenges we ran into
+- accomplishments that we're proud of
+- what we learned
+- what's next for jobsmadeeasy
+
+## Body
+
+JME guest user portal JME Portal -After sign in/sign up Search for job Register an account Recent Posts Matching Referrals based on the skill Apply for the job My Applications -List all the posts applied . Post new referrals Inspiration JobsMadeEasy can be understood as “By the Employee, For the Employee”. In recent time, getting a job in your Dream Company is tough in the market. Even if you get a call from multiple consulting companies, following up with them throughout the hiring process gets complicated and there are high chances of it getting stuck in between. To make this hiring process easier, we have come up with the Idea of JobsMadeEasy. It is a referral hiring network where both the Referee/Job poster and Referral/Job Seeker will be benefitted. A referee can earn the referral Bonus and a Referral can get a Dream job easily and quickly. According to Market research, Companies who encourage employee referral programs have average retention rates of 66 percent, compared to the 33 percent retention rates of organizations that only use career sites. Employee referral programs have already been there in the companies which include the entire team in the recruitment process. Current employees know the organization, so they understand the job requirements and the culture, and they are more trustworthy than recruiters in the eyes of job seekers. Also referred employees get firsthand information about the atmosphere of the company and the workload of the job, they are better prepared to join the company than non-referred employees, which makes them more likely to stay with the organization and more productive than the average recruit. Overall, an effective employee referral program saves organizations time, money, and energy throughout the hiring process. Keeping all this in mind, we have come up with the JobsMadeEasy. What it does The Jobs Made Easy application can be accessed using a web url, on click of which the user will be taken to the application portal where the below features are available:  Home  Login/Signup  About Us  List of available positions in various companies  Recent Posted Jobs  Contact Us  Post Referrals  Search Referrals View profile Once the candidate has signed up and logged in, View profile will present Candidate’s dashboard where below details will be asked to fill.  Basic details and contact Info (Name, Email ID, Contact details)  Skills  Professional Summary  Educational Summary  Referral Applications  Additional Info Search Even guest users has the ability to search for jobs, Search functionality can be used to search for new Job openings based on Skill, City or Job Designation. This will provide more refined options based on any of the criteria as mentioned. My Applications This feature will show all the list of Job openings that logged in candidate has applied to. There will be option to withdraw the application if candidate no longer needs that job. We will be showing Company Name, Job designation, applied date and Action Column here. Matching Referrals Based on criteria like Skills or Designation, Candidate will get list of all the available jobs in different companies. This gives a quick access to kind of jobs that can be applied. Apply now option will be available next to each job. The Applicant should upload the resume and click on the Apply button, a notification will be sent to Person who has posted that job opening on Jobs Made Easy site. The referee can then take the resume from this site and refer the candidate on their company portal. Post New Referral When the candidate wants to post a new job Opening from his company in order to refer others, they can go ahead and add the job position under this option. Job details like Designation, Company Name, Country, City, Experience, Job Type, Qualification, Skills, Detail description needs to be added. Manage Posted Referrals This tab makes it easy for the referee to manage all the job applications. It will list all the Job openings that logged in Candidate has posted on JobsMadeEasy site. Candidate has option to withdraw the job if it is active right now and can activate a Job if it is deactivated. How we built it The proposed solution is built on Pega 8.6 version and we have utilized the latest features available for developing the Pega components. The details of the main rules created for the solution is as follows. Before Sign Up Any guest user logging to the portal using https://cmse-enable-dt2.pegacloud.net/prweb/PRAuth/guest will have the ability to search for a job with skill, location or designation , he can view all the available jobs against each companies .To apply or to post an requirement ,he needs to signup . On Sign up ,User will be informed with the UserID and password. After Sign Up Any registered user will be able to use all the features available in the JME portal. (Key features Section ) Case Types ReferralPost : A case type has been created to track the referral job submission from application to review and till the resolution has been achieved. Using Post Referral Menu – User can post a new job –Referral Post case will be created and data will be saved in Referral Data type .Count will be increased in Company Datatype for each post from that company. Data Types : The below data types are created as a part of JobsMadeEasy application. Data Pages and Purpose CandidateSkills This table holds the details of the candidate Id and the associated skill set CandidateData This table is used to capture the personal details of the candidates Company This table captures all the details related to the companies which have job openings like company url, job details etc. Country This table holds the list of countries to pull the jobs from Degree This table holds the list of degrees for the candidate to select from for updating their profile 6.Qualification This table holds the educational details of the candidates applying for the job 7.ReferralPost This data table captures the details of the referrals posted and the count of job applications received for the given referral post. 8.CandidateExperience This table holds the experience details of the candidates applying for the job. Correspondence Rules: The below mentioned correspondence rules are created to send out automated notifications as per below: ConfirmApplicationSubmission This correspondence is triggered to the referral(Job applicant) to notify his application has been submitted successfully NotifyNewApplication This correspondence is triggered to the referree(employee) to notify him that a new application has been received on his referral post Challenges we ran into Building all the planned features within the time limit was a challenge . Accomplishments that we're proud of We have built a common platform to make the job hiring process easier. It is a referral hiring network where both the Referee/Job poster and Referral/Job Seeker will be benefitted. A referee can earn the referral Bonus and a Referral can get a Dream job easily and quickly. What we learned We got more insight into how the Job portals work and the various features that can be incorporated. Developing Application on Pega PRPC has been a good learning. Pega features like Cosmos, Dynamic operator creation on Signup/Login, Chatbot Integration and Email integration . What's next for JobsMadeEasy  -The proposed solution can be enhanced to be built in to mobile devices.  -The details related to companies and job openings can be fetched using public api’s available to form an integrated place to capture all the job requirements.  -The solution can be enhanced to include chat bot integration for real time connects.  -The sign in options can be enhanced by integrating with social media sites like Facebook, Gmail and LinkedIn so that the candidate details can be automatically retrieved.  -The solution can be enhanced to automate the notifications at each stage of candidate referral to make the process more robust.  -Once the Details are filled and posted, a notification will trigger to all the people with matching Skillset letting them know that there is a new job opening which can be applied. <div

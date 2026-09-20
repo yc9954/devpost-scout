@@ -1,0 +1,48 @@
+---
+slug: "fantasy-campaign"
+url: "https://devpost.com/software/fantasy-campaign"
+title: "Fantasy Campaign"
+hackathon: "Chainlink Fall Hackathon 2021"
+organization: "Chainlink"
+winner: true
+words: 1376
+team_size: 4
+has_repo: true
+has_live: false
+has_video: true
+tags:
+  - "project"
+  - "mechanism/on_device_local"
+  - "mechanism/structural_withholding"
+  - "domain/education"
+  - "substrate/financial_record"
+  - "substrate/structured_db"
+---
+
+# Fantasy Campaign
+
+> A blend of rpg and tabeltop gaming powered by Chainlink VRF and creativity! Users create a character and progress through a dynamic campaign. Involves combat, looting, and Zero Knowledge proof tech!
+
+[Devpost](https://devpost.com/software/fantasy-campaign) · hackathon [[Chainlink Fall Hackathon 2021]]
+
+## Facets
+
+**mechanism** [[on_device_local]] [[structural_withholding]]
+**domain** [[education]]
+**substrate** [[financial_record]] [[structured_db]]
+
+**stack** chainlink, polygon, react, solidity, typescript, vrf
+
+## How they structured the write-up
+
+- inspiration
+- what it does
+- how we built it
+- challenges we ran into
+- accomplishments that we're proud of
+- what we learned
+- what's next for fantasy campaign
+
+## Body
+
+Inspiration We have always loved old school dungeon crawlers, tabletop games, and MMO RPGs. The goal was to build a proof of concept of a dungeon crawler combined with a turn-based RPG where users own their characters, level them up, accumulate items, and complete dynamic and fun campaigns. Smart contracts unlock composability and true ownership of in-game assets. Chainlink VRF allows us to incorporate a dynamic gameplay that's more powerful than rolling a dice. Every aspect of the game can be seeded by verifiable randomness, from the events that happen on turns, the enemies you fight, the items you loot, to the specifics of the combat itself (dodging, blocking, etc.). Zero-knowledge proofs are making waves in the blockchain industry, and being able to secure the completion of the campaign with ZK tech was a rewarding and fun challenge. What it does Players are able to mint their own character (an ERC721), choosing from different types of classes. These classes all have different base statistics and abilities. If you already own an existing character, you can also choose that character to adventure with. The available classes in the demo are Warlord, Shaman, Ranger, and Wizard. Players are then prompted to "enter" or start the campaign which loads them into a first person view of the dungeon where they are free to roam with the W , A , S , D , [ and ] keys. The campaign played in the demo is a dungeon with henchman and an evil dragon who lurks at the end. The number of turns is variable, but for the demo there are only 4 turns. Certain points in the exploration generate a turn. A web3 pop-up is triggered asking you to sign a transaction. These calls are to the generateTurn method in the campaign smart contract. Depending on the turn, this may trigger a call to Chainlink VRF. On callback, this dynamically decides what will happen on that turn and seed the randomness. Players must complete the turn by defeating enemies in combat, looting the displayed items, or solving a puzzle (puzzle turns not implemented the demo). On the final turn, the browser will produce a Zero Knowledge proof to submit to the smart contract that verifies the user is at the end of the dungeon and the path they took to reach the end was valid (i.e. no teleporting or walking through walls!. This makes the dungeon impossible to complete from outside the user experience in the UI (although in the demo a number of important restrictions - like preventing people from reusing proofs by inspecting blockchain transactions - are not enabled). Once the contract verifies the user is eligible for the final turn, the dragon boss appears. The user must use their wits and accumulated items to vanquish him in combat. How we built it The smart contracts sit on the Mumbai (Polygon) testnet and are written in Solidity. There are 6 main smart contracts : 1.) FantasyCharacter -- The ERC721 contract that controls minting and ownership of the character NFTs. 2.) FantasyThings -- Library that defines the shared structs used throughout all the contracts. 3.) FantasyAttributesManager -- Manages the statistics, level, and xp for all minted Fantasy Characters 4.) CampaignPlaymaster -- An abstract contract that provides a base gameplay experience for any campaign smart contract that's developed. 5.) CastleCampaign -- The implementation of CampaignPlaymaster for the demo. Implements a 4 turn campaign with henchman mobs and a dragon boss. 6.) PuzzleVerifier -- verifies the ZK proof submitted by the user that they are ready for the final fight. This contract is automatically produced by Circom. Circom ( https://iden3.io/circom ) along with snarkjs was used for programming the circuits and creating the zero knowledge proofs that secure the completion of the dungeon. When the user reaches the end of the dungeon, the final door will only open if the user has completed the prior turns AND has physically moved (taken a valid path) to the end of the dungeon. Locally the browser will produce a proof and check the turn conditions and only call the contract if it believes the transaction will succeed. For the smart contracts, Hardhat/Ethers/Mocha were used for the local development tools and testing. The circuits are tested with circom_tester and Jest. The front end is built with React and TypeScript, along with Web3Modal for the wallet interactions. Our brilliant artist Joh (pixeljoh) built the game assets with retro styled pixel art that gives the game a great nostalgic feel and user experience. Challenges we ran into Choosing effective design patterns in Solidity is not always straightforward. Sometimes we had to decide between inheriting a contract or using a separate contract and making calls to it. The above ties into the contract size limits in Solidity. Balancing the complexity of the game design, gas efficiency, and contract size limits was a struggle. Currently, we were only slightly familiar with the diamond standard, and didn't pursue applying that to handle contract size limits. Currently, all game data except player location is stored on the blockchain. This was by design. For future scalability or more complex gameplay it may be prudent to make decisions about what absolutely needs to be on-chain versus what can be computed locally or stored in an external database. Related to the above, designing the smart contracts with what needs to be stored on chain versus what could be calculated at run time was not so clear sometimes. Additionally, storing data in a manner that's efficient for the contract versus a format that's easiest to query from the front end is not always 1:1. There are many areas of the smart contracts that can likely be optimized for gas savings. Given the timeline, functionality was a priority over gas efficiency on the first iteration. Data structures and functions could be improved for gas savings. Getting the circuits to work in the browser was a fairly last-minute rush due some uncertainty about the documentation for the newer Circom 2.0; previous in-browser circuits had been built using Circom 0.5.x. Accomplishments that we're proud of Getting a functional zero knowledge proof in the browser with validation on chain. Functional smart contracts that track state correctly and allow for replays and multiple users at the same time, all on chain. For starting as spaghetti code, the code base is fairly readable and well organized. An interactive front end that is responsive and guides the user through game play in an intuitive manner. The smart contracts are designed such that they limit the capability of bad actors to play the game in a way that was unintended. Gorgeous artwork that invokes nostalgia. What we learned Building this project opened our eyes to so many different things in so many different areas. Most of all, it was really learning how to put seemingly separate pieces together in a way that creates one cohesive application. The Challenges Faced section highlights most of the major learning opportunities. What's next for Fantasy Campaign There is such an incredible opportunity to expand on this proof of concept, it's hard to know where to begin. 1.) Creating an item system where items accumulated in campaigns persist outside of the campaign data as it's own NFT for use in other campaigns. 2.) Adding a levelling, experience, and stats management component. This allows you to grow your character over time and decide how they develop. 3.) Adding a token system where ERC20 drops or mints from mobs and bosses killed, or is found in chests during campaigns. This token could be used for buying items from other players, etc. 4.) Community designed campaigns. An original idea of the game would be to have community members design their own campaigns. The community could then vote to implement or whitelist this campaign to link it to the stats manager, ERC20 (permission to mint), and items so the whole ecosystem is composable. 5.) Multiplayer functionality. Being able to progress through a campaign with a group of four would add a great fun social element. 6.) Randomly generating the mazes per user. There are also some small code fixes to make such as the transferability of the character NFTs and gas optimizations. The combat mechanics could also use some balancing. <div
