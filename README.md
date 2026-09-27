@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="docs/screenshots/01-chat-open-hackathons.jpg" alt="Scout — chat agent listing open Devpost hackathons" width="900">
-</p>
-
 <h1 align="center">Scout</h1>
 
 <p align="center"><strong>One chat agent and one dashboard for entering a Devpost hackathon on evidence, not optimism.</strong></p>
@@ -15,6 +11,10 @@
   <a href="#http-api">API</a> ·
   <a href="#the-toolkit-underneath">Toolkit</a> ·
   <a href="#credits">Credits</a>
+</p>
+
+<p align="center">
+  <img src="docs/screenshots/01-chat-open-hackathons.jpg" alt="Scout — chat agent listing open Devpost hackathons" width="900">
 </p>
 
 Scout wraps a hackathon-research toolkit — a census of every hackathon Devpost lists, a corpus of 2,300 winning projects, a rubric parser that reads a hackathon's judging criteria verbatim, a field enumerator, an idea generator that scores proven mechanisms against the rubric, and an Obsidian vault of facets and gaps — into a single product you talk to. Ask *what's open this week*, *scout RevenueCat Shipaton 2026*, or *winners about agents for accessibility*, and every number that comes back is measured or quoted from Devpost. Nothing is invented; when a number is weak the agent says so.
