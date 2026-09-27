@@ -1,128 +1,122 @@
 <h1 align="center">Scout</h1>
 
-<p align="center"><strong>One chat agent and one dashboard for entering a Devpost hackathon on evidence, not optimism.</strong></p>
-
 <p align="center">
-  <a href="#quick-start">Quick start</a> ·
-  <a href="#what-it-does">What it does</a> ·
-  <a href="#screens">Screens</a> ·
-  <a href="#the-eight-tools">Tools</a> ·
-  <a href="#architecture">Architecture</a> ·
-  <a href="#http-api">API</a> ·
-  <a href="#the-toolkit-underneath">Toolkit</a> ·
-  <a href="#credits">Credits</a>
+  <a href="https://github.com/yc9954/devpost-scout"><img src="https://img.shields.io/github/stars/yc9954/devpost-scout?style=flat&amp;label=%E2%98%85&amp;color=0034FF" alt="GitHub stars" /></a>
+  <img src="https://img.shields.io/badge/Python%203.10%2B-stdlib%20server-0034FF?style=flat" alt="Python 3.10+, stdlib server" />
+  <img src="https://img.shields.io/badge/React%2019%20%C2%B7%20Vite%207%20%C2%B7%20Tailwind%203-4493F8?style=flat" alt="React 19, Vite 7, Tailwind 3" />
+  <img src="https://img.shields.io/badge/Devpost%20census-13%2C843%20hackathons-4493F8?style=flat" alt="Devpost census, 13,843 hackathons" />
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-08C?style=flat" alt="MIT" /></a>
 </p>
 
 <p align="center">
-  <img src="docs/screenshots/01-chat-open-hackathons.jpg" alt="Scout — chat agent listing open Devpost hackathons" width="900">
+  <strong>One chat agent and one dashboard for entering a Devpost hackathon on evidence, not optimism.</strong><br/>
+  Scout wraps a hackathon-research toolkit — a census of every hackathon Devpost lists, a corpus of 2,300 winning projects,<br/>
+  a rubric parser that reads judging criteria verbatim, and an idea generator that scores proven mechanisms against the rubric —<br/>
+  into a single product you talk to. Every number it returns is measured or quoted from Devpost; when a number is weak, it says so.
 </p>
 
-Scout wraps a hackathon-research toolkit — a census of every hackathon Devpost lists, a corpus of 2,300 winning projects, a rubric parser that reads a hackathon's judging criteria verbatim, a field enumerator, an idea generator that scores proven mechanisms against the rubric, and an Obsidian vault of facets and gaps — into a single product you talk to. Ask *what's open this week*, *scout RevenueCat Shipaton 2026*, or *winners about agents for accessibility*, and every number that comes back is measured or quoted from Devpost. Nothing is invented; when a number is weak the agent says so.
+<h3 align="center"><a href="#getting-started"><ins>Getting started</ins></a> · <a href="METHOD.md">The method</a> · <a href="PITFALLS.md">Pitfalls</a></h3>
 
-The UI is built from the [21st-dev/1code](https://github.com/21st-dev/1code) component kit (Apache-2.0) — 32 of its `components/ui` files are used byte-for-byte, and its agent layout, sidebar, message bubbles and tool-call rows are adapted for Scout's cards.
+<p align="center">
+  <img src="docs/screenshots/01-chat-open-hackathons.jpg" alt="Scout chat agent listing open Devpost hackathons as cards" width="960" />
+</p>
 
----
+## Features
 
-## Quick start
+<table>
+<tr>
+<td width="50%" valign="middle">
 
-```bash
-git clone https://github.com/yc9954/devpost-scout && cd devpost-scout
-./run.sh                      # → http://127.0.0.1:8780
-```
+### Ask what is open this week
 
-That is the whole install: Python 3.10+ and nothing else. The built UI (`web/dist`) and the data the product needs (`data/hackathons*.jsonl`, `data/ideas.db`, `data/facets.jsonl`, ~31 MB) are committed, so the app runs offline in **local mode** — a deterministic router over the same tools, with templated prose that carries the real numbers.
+The agent calls `list_hackathons(status=open, sort=deadline)` and the tool row expands into hackathon cards: thumbnail, organiser, derived status, countdown, parsed prize, registrations, themes. The prose that follows restates the same numbers.
 
-To let Claude drive the conversation instead, add a key and restart:
+Status is derived from the dates Devpost states against today, not from the census snapshot flag.
 
-```bash
-echo 'ANTHROPIC_API_KEY=sk-ant-…' > .env      # or export it
-pip install anthropic                           # only needed for Claude mode
-./run.sh                                        # sidebar badge switches from `local` to `claude`
-```
+</td>
+<td width="50%">
+  <img src="docs/screenshots/01-chat-open-hackathons.jpg" alt="Open hackathons rendered as cards inside the chat" width="100%" />
+</td>
+</tr>
+<tr>
+<td width="50%" valign="middle">
 
-Claude mode uses `claude-opus-5` with adaptive thinking and a streaming tool loop (up to 8 rounds, parallel tool calls answered together). Both modes emit the same event stream, so the UI, the cards and the persisted transcripts are identical — Claude adds the reasoning and the prose.
+### Scout a hackathon by name
 
-Other ways in:
+`hackathon_brief` resolves the host on Devpost and parses the rubric. The card lists every criterion with its weight and highlights the tie-break criterion (Devpost resolves ties on the first-listed criterion, so it decides placements in a bunched field). Requirements that fail an entry outright are listed too.
 
-| | |
-| --- | --- |
-| `python3 -m scout --port 8780` | the server alone (no browser open) |
-| `cd web && npm install && npm run dev` | Vite dev server on :5173 with `/api` proxied to :8780 |
-| `cd web && npm run build` | rebuild `web/dist` after changing the UI |
-| `python3 -m unittest discover -s tests/scout` | 21 tests, no network (data derivation, filters, HTTP routes, one local-mode chat over SSE) |
+On the page shown, Devpost lists 21 prize categories under *Judging Criteria*; the parser reports exactly what the page says.
 
----
+</td>
+<td width="50%">
+  <img src="docs/screenshots/02-chat-brief-rubric.jpg" alt="Resolved rubric card with weights and the tie-break criterion" width="100%" />
+</td>
+</tr>
+<tr>
+<td width="50%" valign="middle">
 
-## What it does
+### Shortlist winners, never rank them
 
-**Chat.** Name a hackathon and Scout resolves it on Devpost, reads the judging criteria *verbatim* with their weights, flags the tie-break criterion (Devpost resolves ties on the first-listed criterion, so it decides placements in a bunched field), lists the requirements that fail an entry outright, and caches the brief. Ask for ideas and it scores every mechanism × domain pair from 8,636 faceted winners against that rubric, reporting expected wins and the evidence projects behind each candidate. Ask about winners and it shortlists from the 2,300-winner corpus — and tells you, every time, that a shortlist over 100-character taglines is not a ranking. Ask what's open and it filters the census by *derived* status (the end date Devpost states vs today), not the snapshot flag.
+`search_winners` is FTS5 over title and tagline of the 2,300-winner corpus. The card is labelled *shortlist, not a ranking* and the prose repeats the warning every time, because a match over 100-character taglines cannot rank anything.
 
-**Dashboard.** Open / upcoming / ending-in-7-days / prize-pool tiles, status tabs, theme filter, search, sort by deadline · prize · registrations, thumbnails, deadline countdowns, and a detail dialog with a **Scout this** button that opens a chat and runs the pipeline. A **Refresh census** button re-runs the ~1,540-request Devpost census in the background with a progress bar and swaps the file in only when the collector exits cleanly.
+</td>
+<td width="50%">
+  <img src="docs/screenshots/03-chat-winners-shortlist.jpg" alt="Winners shortlist card labelled as a shortlist, not a ranking" width="100%" />
+</td>
+</tr>
+<tr>
+<td width="50%" valign="middle">
 
-**Honest by construction.** Status is derived from dates, prize totals use static FX and say so, an unpublished gallery is reported as *unmeasured* rather than empty, and the idea generator's under-occupancy claims carry the caveat that they are measured against independence in a regex taxonomy. These rules come from `PITFALLS.md`, where each one was paid for once.
+### Census statistics in the chat
 
----
-
-## Screens
-
-### Chat — "What's open this week?"
-The agent calls `list_hackathons(status=open, sort=deadline)`; the tool row expands into hackathon cards (thumbnail, organiser, derived status, countdown, parsed prize, registrations, themes), followed by prose that restates the same numbers.
-
-![Open hackathons as cards inside the chat](docs/screenshots/01-chat-open-hackathons.jpg)
-
-### Chat — "Scout RevenueCat Shipaton 2026"
-`hackathon_brief` resolves the host and parses the rubric; the card lists every criterion with its weight and highlights the tie-break. (On this page Devpost lists the 21 prize categories under *Judging Criteria*, and the parser reports exactly what the page says.) `ideate` then runs against the cached brief.
-
-![Resolved rubric card with weights and the tie-break criterion](docs/screenshots/02-chat-brief-rubric.jpg)
-
-### Chat — "Winners about agents for accessibility"
-`search_winners` is FTS5 over title + tagline of the winners corpus. The card is labelled *shortlist · not a ranking* and the prose repeats the warning.
-
-![Winners shortlist card](docs/screenshots/03-chat-winners-shortlist.jpg)
-
-### Chat — census stats
 `census_stats` renders the same tiles the dashboard uses, plus top themes, top organisers and the deadlines of the next 14 days.
 
-![Census statistics inside the chat](docs/screenshots/06-chat-census-stats.jpg)
+</td>
+<td width="50%">
+  <img src="docs/screenshots/06-chat-census-stats.jpg" alt="Census statistics tiles rendered inside the chat" width="100%" />
+</td>
+</tr>
+<tr>
+<td width="50%" valign="middle">
 
-### Dashboard
-Every hackathon in the census, filtered to what is open today. Tiles at the top are computed from the derived status, not the census snapshot.
+### A dashboard over the whole census
 
-![Dashboard with stat tiles, filters and the hackathon grid](docs/screenshots/04-dashboard.jpg)
+Open / upcoming / ending-in-7-days / prize-pool tiles, status tabs, theme filter, search, sort by deadline, prize or registrations, thumbnails and deadline countdowns. A **Refresh census** button re-runs the ~1,540-request Devpost census in the background with a progress bar and swaps the file in only when the collector exits cleanly.
 
-### Dashboard — detail
-Click a card for the organiser, dates, prize, registrations, links to Devpost and the gallery, and the brief once it has been resolved. **Scout this** starts a chat with `scout <title>`.
+</td>
+<td width="50%">
+  <img src="docs/screenshots/04-dashboard.jpg" alt="Dashboard with stat tiles, filters and the hackathon grid" width="100%" />
+</td>
+</tr>
+<tr>
+<td width="50%" valign="middle">
 
-![Hackathon detail dialog with the Scout this action](docs/screenshots/05-dashboard-detail.jpg)
+### Detail, then Scout this
+
+Click a card for the organiser, dates, prize, registrations, links to Devpost and the gallery, and the brief once it has been resolved. **Scout this** opens a chat with `scout <title>` and runs brief → field → ideate as a background job.
+
+</td>
+<td width="50%">
+  <img src="docs/screenshots/05-dashboard-detail.jpg" alt="Hackathon detail dialog with the Scout this action" width="100%" />
+</td>
+</tr>
+</table>
 
 Screenshots were taken in local mode against the committed data (census of 2026-09-06, viewed on 2026-09-27); Claude mode renders the same cards with model-written prose.
 
----
+**Also included**
 
-## The eight tools
-
-Both modes share one tool table (`scout/tools.py`, JSON schemas in `SCHEMAS`). Each tool returns `{ok, summary, data}`; `data` is the card payload the UI renders.
-
-| Tool | What it wraps | Network | Notes |
-| --- | --- | --- | --- |
-| `list_hackathons` | in-memory census (`scout/data.py`) | no | status derived from dates; prize parsed by `hub.store.prize_parts`; sort by deadline / prize / registrations |
-| `hackathon_brief` | `discover/hackathon.py` — `search()` + `build()` | **yes** | criteria verbatim with weights, `tiebreak_criterion`, requirements, prizes; cached in `data/run/briefs/` |
-| `search_winners` | FTS5 `projects_fts` in `data/ideas.db` | no | 2,300 winners; summary always says *shortlist, not a ranking* |
-| `field` | `hub/collect_gallery.collect()` | **yes** | the hackathon's own gallery; cached in `data/run/fields/`; an unpublished gallery is reported as unmeasured |
-| `ideate` | `hub/ideate.generate()` over `data/facets.jsonl` | no | needs a cached brief; uses the cached field for that host when present |
-| `vault_lookup` | grep over `vault/` notes | no | mechanisms, domains, gaps, projects |
-| `census_stats` | in-memory census | no | counts, open prize pool, themes, organisers, deadlines in 14 days |
-| `scout` | brief → field → ideate as a background job | **yes** | streamed progress; also `POST /api/jobs/scout` |
-
-**Local mode routing** (no key): "open / upcoming / deadline / prize" → `list_hackathons`; a hackathon name or URL ("scout X", "criteria of X") → `hackathon_brief` (+ `ideate` when ideas are requested); "winners / past projects about Y" → `search_winners`; "mechanism / domain / gap Y" → `vault_lookup`; "stats / how many" → `census_stats`; anything else explains what it can do.
-
-**Claude mode**: the system prompt is the product's rules (measured numbers only, cite Devpost, shortlist ≠ rank, state the census date); Claude picks tools, runs several in parallel when useful, and writes the prose. Tool failures go back as `tool_result` with `is_error` so the model can recover or say what it could not measure.
+- **Idea generation against the rubric**: `ideate` scores every mechanism × domain pair from 8,636 faceted winners against the cached brief and reports expected wins with the evidence projects behind each candidate.
+- **Honest by construction**: prize totals use static FX and say so, an unpublished gallery is reported as *unmeasured* rather than empty, and under-occupancy claims carry the caveat that they are measured against independence in a regex taxonomy. Every rule comes from [`PITFALLS.md`](PITFALLS.md), where each one was paid for once.
+- **Two modes, one event stream**: without an API key Scout runs a deterministic router with templated prose; with `ANTHROPIC_API_KEY` Claude picks the tools and writes the prose. The UI, cards and persisted transcripts are identical.
+- **An Obsidian vault** of 13,599 notes (projects, mechanisms, domains, hackathons, claims, convergences, gaps) that `vault_lookup` greps.
+- **A `/scout` skill** in `.claude/skills/scout/` that drives the same pipeline from Claude Code, and `scout.py` that runs it from a terminal.
 
 ---
 
-## Architecture
+## How it works
 
-```
+```text
 browser (web/dist — React 19, 1code UI kit, zustand)
    │  GET /api/…  ·  POST /api/chats/{id}/messages → SSE
    ▼
@@ -138,16 +132,127 @@ scout/server.py     ThreadingHTTPServer (stdlib), static web/dist + SPA fallback
 discover/hackathon.py · hub/{store,collect_gallery,extract,ideate,collect_hackathons}.py · lib/fetch.py · vault/
 ```
 
-**Event stream** for one message (`event:` / `data:` lines):
-`message_start` → `thinking` (status line) → `tool_call {id, name, input}` → `tool_result {id, name, ok, summary, data}` → `text_delta` × n → `message_end`, with `job_progress` for long tools and `error` on failure. Transcripts persist as JSON under `data/chats/` and reopen with their cards intact.
+1. **Message in.** `POST /api/chats/{id}/messages` opens an SSE stream. Both agents emit the same events: `message_start` → `thinking` → `tool_call {id, name, input}` → `tool_result {id, name, ok, summary, data}` → `text_delta` × n → `message_end`, with `job_progress` for long tools and `error` on failure.
+2. **Route.** In local mode a deterministic router maps the text to a tool: "open / upcoming / deadline / prize" → `list_hackathons`; a hackathon name or URL → `hackathon_brief` (+ `ideate` when ideas are requested); "winners about Y" → `search_winners`; "mechanism / domain / gap Y" → `vault_lookup`; "stats / how many" → `census_stats`. In Claude mode the system prompt is the product's rules (measured numbers only, cite Devpost, shortlist ≠ rank, state the census date) and the model picks tools, running several in parallel when useful, up to 8 rounds.
+3. **Tools wrap the toolkit.** Each tool in `scout/tools.py` calls the standalone scripts underneath and returns `{ok, summary, data}`; `data` is the card payload the UI renders. Tool failures go back as `tool_result` with `is_error` so the model can recover or say what it could not measure.
+4. **Persist.** Transcripts are saved as JSON under `data/chats/` and reopen with their cards intact. Briefs and fields are cached under `data/run/`.
 
-**Frontend** (`web/`): Vite 7, React 19, TypeScript strict, Tailwind 3 with 1code's `tailwind.config.js` and `globals.css` (primary `#0034FF`, dark by default), `motion` for the tool-row expand/collapse and card entrance, `lucide-react` icons, `sonner` toasts, `react-markdown` + `remark-gfm` for prose. `src/api.ts` parses SSE over `fetch` + `ReadableStream`; `src/store.ts` folds events into message parts; `src/components/cards/*` render each tool's payload. `?mock=1` replays a canned stream for UI work without the engine.
+<details>
+<summary><strong>The eight tools</strong></summary>
 
-The full contract both halves implement is [`docs/SPEC.md`](docs/SPEC.md).
+| Tool | What it wraps | Network | Notes |
+| --- | --- | --- | --- |
+| `list_hackathons` | in-memory census (`scout/data.py`) | no | status derived from dates; prize parsed by `hub.store.prize_parts`; sort by deadline / prize / registrations |
+| `hackathon_brief` | `discover/hackathon.py` — `search()` + `build()` | **yes** | criteria verbatim with weights, `tiebreak_criterion`, requirements, prizes; cached in `data/run/briefs/` |
+| `search_winners` | FTS5 `projects_fts` in `data/ideas.db` | no | 2,300 winners; summary always says *shortlist, not a ranking* |
+| `field` | `hub/collect_gallery.collect()` | **yes** | the hackathon's own gallery; cached in `data/run/fields/`; an unpublished gallery is reported as unmeasured |
+| `ideate` | `hub/ideate.generate()` over `data/facets.jsonl` | no | needs a cached brief; uses the cached field for that host when present |
+| `vault_lookup` | grep over `vault/` notes | no | mechanisms, domains, gaps, projects |
+| `census_stats` | in-memory census | no | counts, open prize pool, themes, organisers, deadlines in 14 days |
+| `scout` | brief → field → ideate as a background job | **yes** | streamed progress; also `POST /api/jobs/scout` |
+
+JSON schemas for all eight live in `SCHEMAS` in `scout/tools.py`. The full contract both halves implement is [`docs/SPEC.md`](docs/SPEC.md).
+
+</details>
+
+<details>
+<summary><strong>The data underneath</strong></summary>
+
+| File | Rows | What it is |
+| --- | --- | --- |
+| `data/hackathons_all.jsonl` | 13,843 | full census from Devpost's `/api/hackathons` (plain JSON, no pagination ceiling) |
+| `data/hackathons.jsonl` | 1,863 | the rows with thumbnails and `time_left_to_submission`; merged over the census by id |
+| `data/ideas.db` | 13,843 + 2,300 | SQLite: `hackathons` (prize in USD, state, dates, themes) and `projects` (winners) with an external-content FTS5 index |
+| `data/facets.jsonl` | 8,636 | mechanism / domain / user / substrate facets per winning project, from `hub/extract.py` |
+| `vault/` | 13,599 notes | Obsidian vault: projects, mechanisms, domains, hackathons, claims, convergences, gaps |
+
+The census date is the mtime of `hackathons.jsonl` (2026-09-06). **Refresh census** in the dashboard, or `python3 hub/collect_hackathons.py --out data/hackathons.jsonl`, re-collects it. Status shown anywhere in the product is derived at request time from `submission_period_dates` against today's date; `census_state` keeps the snapshot value for comparison.
+
+</details>
+
+<details>
+<summary><strong>The toolkit the product wraps</strong></summary>
+
+Everything the product calls is a standalone script you can run on its own, written and priced during a real entry (The WebMCP Challenge, 2,392 submissions):
+
+```text
+discover/   resolve a hackathon (criteria, weights, tie-break, requirements, prizes); enumerate the field two independent ways
+verify/     decide which projects are actually in this hackathon (membership is the page's own block, never a marker string)
+position/   count how crowded your idea's pillars are before you build — five tests that kill an idea (position/IDEA-SELECTION.md)
+score/      slice the corpus, fan out blind LLM judges, aggregate with error bars (double-judge one slice; report rank as a band)
+hub/        the census, the winners gallery, the taxonomy, the vault, the gap finder, the idea generator
+build/      film the demo (shoot flat, draw the camera afterwards), evidence discipline, the write-up, shipping
+write/      what winning write-ups actually do; the four impact anchors
+agents/     {{placeholder}} prompts that did the work
+lib/        a CDP-driven Chrome and a WAF-aware fetch (Devpost answers concurrency with a 200-shaped challenge page)
+runs/       one full run's dataset and findings (runs/webmcp-2026-09/)
+```
+
+Read [`METHOD.md`](METHOD.md) for the six-stage pipeline in order and [`PITFALLS.md`](PITFALLS.md) before trusting any number you produce.
+
+</details>
 
 ---
 
-## HTTP API
+## Tech stack
+
+<p>
+  <kbd>Python&nbsp;3.10+</kbd> &nbsp; <kbd>http.server&nbsp;(stdlib)</kbd> &nbsp; <kbd>SQLite&nbsp;FTS5</kbd> &nbsp; <kbd>Anthropic&nbsp;SDK</kbd> &nbsp; <kbd>websocket-client&nbsp;(CDP)</kbd> &nbsp;
+  <kbd>React&nbsp;19</kbd> &nbsp; <kbd>TypeScript&nbsp;5</kbd> &nbsp; <kbd>Vite&nbsp;7</kbd> &nbsp; <kbd>Tailwind&nbsp;3</kbd> &nbsp; <kbd>zustand</kbd> &nbsp; <kbd>motion</kbd> &nbsp; <kbd>Radix&nbsp;UI</kbd> &nbsp; <kbd>lucide</kbd> &nbsp; <kbd>react-markdown</kbd> &nbsp;
+  <kbd>21st-dev/1code&nbsp;UI&nbsp;kit</kbd> &nbsp; <kbd>Obsidian&nbsp;vault</kbd>
+</p>
+
+---
+
+## Getting started
+
+**Prerequisites**
+
+- Python 3.10+. That is the whole install for local mode: the built UI (`web/dist`) and the data the product needs (`data/hackathons*.jsonl`, `data/ideas.db`, `data/facets.jsonl`, ~31 MB) are committed, so the app runs offline.
+- Optional: an Anthropic API key and `pip install anthropic` for Claude mode.
+- Optional: Node and npm to rebuild the UI; Google Chrome and `pip install -r requirements.txt` (`websocket-client`) for the toolkit scripts that drive Chrome over CDP, because Devpost's search and listing routes refuse plain HTTP clients.
+
+```bash
+git clone https://github.com/yc9954/devpost-scout && cd devpost-scout
+./run.sh                      # builds web/ only if web/dist is missing, starts the server, opens http://127.0.0.1:8780
+```
+
+To let Claude drive the conversation instead, add a key and restart:
+
+```bash
+echo 'ANTHROPIC_API_KEY=sk-ant-…' > .env      # or export it
+pip install anthropic                           # only needed for Claude mode
+./run.sh                                        # sidebar badge switches from `local` to `claude`
+```
+
+Claude mode uses `claude-opus-5` with adaptive thinking and a streaming tool loop (up to 8 rounds, parallel tool calls answered together).
+
+| Process | Port | Notes |
+| --- | --- | --- |
+| Scout server (API, SSE, built UI) | `8780` | `SCOUT_PORT`; binds to `127.0.0.1` |
+| Vite dev server (`cd web && npm run dev`) | `5173` | proxies `/api` to `8780` |
+
+| Variable | Default | What it does |
+| --- | --- | --- |
+| `ANTHROPIC_API_KEY` | unset | Present → Claude mode; absent → local mode. Read from `.env` or the environment. |
+| `SCOUT_PORT` | `8780` | Server port. |
+| `SCOUT_DATA_DIR` | `data/` | Where the census, winners DB, facets, briefs, fields and chats live. |
+| `SCOUT_TODAY` | today | Override the date that status is derived against (used by tests). |
+
+**Try these**
+
+```text
+What's open this week?
+Scout RevenueCat Shipaton 2026
+Winners about agents for accessibility
+Give me ideas for <hackathon>            (runs ideate against the cached brief)
+Stats
+```
+
+From a terminal, `python3 scout.py "revenuecat shipaton 2026" --deep 120` runs the same brief → field → ideate chain and prints the result.
+
+<details>
+<summary><strong>HTTP API</strong></summary>
 
 | Route | Purpose |
 | --- | --- |
@@ -167,73 +272,62 @@ curl -sN -X POST http://127.0.0.1:8780/api/chats/$(curl -s -X POST http://127.0.
      -H 'Content-Type: application/json' -d '{"text":"What is open this week?"}'
 ```
 
----
-
-## Data
-
-| File | Rows | What it is |
-| --- | --- | --- |
-| `data/hackathons_all.jsonl` | 13,843 | full census from Devpost's `/api/hackathons` (plain JSON, no pagination ceiling) |
-| `data/hackathons.jsonl` | 1,863 | the rows with thumbnails and `time_left_to_submission`; merged over the census by id |
-| `data/ideas.db` | 13,843 + 2,300 | SQLite: `hackathons` (prize in USD, state, dates, themes) and `projects` (winners) with an external-content FTS5 index |
-| `data/facets.jsonl` | 8,636 | mechanism / domain / user / substrate facets per winning project, from `hub/extract.py` |
-| `vault/` | 13,599 notes | Obsidian vault: projects, mechanisms, domains, hackathons, claims, convergences, gaps |
-
-The census date is the mtime of `hackathons.jsonl` (2026-09-06). **Refresh census** in the dashboard, or `python3 hub/collect_hackathons.py --out data/hackathons.jsonl`, re-collects it. Status shown anywhere in the product is derived at request time from `submission_period_dates` against today's date, and `census_state` keeps the snapshot value for comparison.
+</details>
 
 ---
 
-## The toolkit underneath
+## Building and testing
 
-Everything the product calls is a standalone script you can run on its own, written and priced during a real entry (The WebMCP Challenge, 2,392 submissions):
-
-```
-discover/   resolve a hackathon (criteria, weights, tie-break, requirements, prizes); enumerate the field two independent ways
-verify/     decide which projects are actually in this hackathon (membership is the page's own block, never a marker string)
-position/   count how crowded your idea's pillars are before you build — five tests that kill an idea (position/IDEA-SELECTION.md)
-score/      slice the corpus, fan out blind LLM judges, aggregate with error bars (double-judge one slice; report rank as a band)
-hub/        the census, the winners gallery, the taxonomy, the vault, the gap finder, the idea generator
-build/      film the demo (shoot flat, draw the camera afterwards), evidence discipline, the write-up, shipping
-write/      what winning write-ups actually do; the four impact anchors
-agents/     {{placeholder}} prompts that did the work
-lib/        a CDP-driven Chrome and a WAF-aware fetch (Devpost answers concurrency with a 200-shaped challenge page)
-runs/       one full run's dataset and findings
+```bash
+python3 -m unittest discover -s tests/scout   # 21 tests, no network: data derivation, filters, HTTP routes, one local-mode chat over SSE
+cd web && npm install && npm run dev          # Vite dev server on :5173 with /api proxied to :8780
+cd web && npm run typecheck                   # tsc --noEmit
+cd web && npm run build                       # rebuild web/dist after changing the UI (web/dist is committed)
 ```
 
-Read [`METHOD.md`](METHOD.md) for the pipeline in order and [`PITFALLS.md`](PITFALLS.md) before trusting any number you produce — every rule in the product is priced there. The `/scout` skill in `.claude/skills/scout/` drives the same pipeline from Claude Code.
+`?mock=1` on the UI replays a canned event stream for front-end work without the engine. There is no CI workflow in this repository.
 
 ---
 
-## Repository layout
+## Repository structure
 
-```
-scout/            the product's Python package (server, data, tools, agents, jobs, config)
-web/              the product's UI (Vite + React + 1code kit); web/dist is committed
-docs/             SPEC.md (the contract) and screenshots/
-tests/scout/      21 unittest cases, no network
-data/             committed: census, winners DB, facets · local only: pages/, projects_full.jsonl, run/, chats/
-vault/            the Obsidian vault
-discover/ hub/ verify/ position/ score/ build/ write/ agents/ lib/ runs/   the toolkit
-run.sh            build the UI if missing, start the server, open the browser
-```
+| Path | What lives there |
+| --- | --- |
+| `scout/` | The product's Python package: `server.py` (routes, SSE), `data.py` (census, FTS, facets in memory), `tools.py` (the eight tools), `local_agent.py`, `agent.py` (Claude mode), `jobs.py`, `config.py`. |
+| `web/` | The UI: Vite 7, React 19, TypeScript strict, Tailwind 3 with 1code's config (primary `#0034FF`, dark by default). `src/api.ts` parses SSE, `src/store.ts` folds events into message parts, `src/components/cards/*` render each tool's payload. `web/dist` is committed. |
+| `docs/` | `SPEC.md` (the contract both halves implement) and `screenshots/`. |
+| `tests/scout/` | 21 unittest cases, no network. |
+| `data/` | Committed: census, winners DB, facets. Local only (git-ignored): `pages/`, `projects_full.jsonl`, `run/`, `chats/`. |
+| `vault/` | The Obsidian vault of facets, gaps, claims and convergences. |
+| `discover/`, `verify/`, `position/`, `score/`, `hub/`, `build/`, `write/`, `agents/`, `lib/`, `runs/` | The standalone toolkit the product wraps. |
+| `scout.py` | One-command terminal pipeline: brief, field, ideate. |
+| `run.sh` | Build the UI if missing, start the server, open the browser. |
+| `METHOD.md`, `PITFALLS.md`, `CLAUDE.md`, `.claude/skills/scout/` | The method in order, the rules it was priced with, and the `/scout` skill for Claude Code. |
 
 ---
 
-## Limitations
+## Project status
+
+**Working today.** Chat agent in local and Claude mode; dashboard with derived status, filters, sort, detail dialog and background census refresh; the eight tools over committed data; SSE with replay; persisted transcripts; the standalone toolkit scripts and the `/scout` skill. The toolkit was written and priced during one real entry, The WebMCP Challenge (2,392 submissions); that run's dataset and findings are in `runs/webmcp-2026-09/`.
+
+**Known limitations.**
 
 - The census is a snapshot; "open" is derived from the dates Devpost stated on the census date. Refresh before trusting a deadline.
 - `hackathon_brief` reports what the hackathon page says under *Judging Criteria*. Some pages list prize categories there; the parser does not second-guess them.
 - `search_winners` matches ~100-character taglines. It shortlists; it never ranks. Read the entries.
-- `ideate` measures under-occupancy against independence in a regex taxonomy over winners. Widen the patterns before believing a cell is empty.
+- `ideate` measures under-occupancy against independence in a regex taxonomy over winners. Widen the patterns in `hub/taxonomy.json` before believing a cell is empty.
 - Prize totals use static FX for non-USD prizes and are approximate.
 - Claude mode needs an Anthropic key; without one the product runs in local mode with templated prose.
+- Devpost answers concurrency with a 200-shaped challenge page; the network tools (`hackathon_brief`, `field`, `scout`, census refresh) go through `lib/fetch.py`, which knows about it, but a rate-limited run can still come back short.
 
----
+**Credits.**
 
-## Credits
-
-- UI components, styles and layout patterns from [21st-dev/1code](https://github.com/21st-dev/1code), Apache License 2.0. `web/src/components/ui/README.md` lists which files are verbatim and which were adapted.
+- UI components, styles and layout patterns from [21st-dev/1code](https://github.com/21st-dev/1code), Apache License 2.0. 32 of its `components/ui` files are used byte-for-byte; its agent layout, sidebar, message bubbles and tool-call rows are adapted for Scout's cards. `web/src/components/ui/README.md` lists which files are verbatim and which were adapted.
 - Data from [Devpost](https://devpost.com) public pages and JSON endpoints, collected by the scripts in `hub/`.
 - Claude mode uses the [Anthropic Python SDK](https://github.com/anthropics/anthropic-sdk-python).
 
-MIT for this repository's own code; see the 1code license for the vendored components.
+---
+
+## License
+
+[MIT](LICENSE) for this repository's own code; see the 1code license for the vendored components.
