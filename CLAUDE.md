@@ -4,9 +4,17 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What this is
 
-Not an application. A repository of standalone Python scripts, `{{placeholder}}` agent prompts, and
-playbooks for entering a Devpost hackathon on measured evidence. There is no build, no test suite, no
-lint config, and no dependency manifest — every script is run directly with `python3`.
+Two layers. **Scout** (`scout/` + `web/`) is the product: a Python stdlib server on port 8780 that
+serves a chat agent and a hackathon dashboard built on the 21st-dev/1code UI kit, with eight tools
+that wrap the toolkit below (`python3 -m scout`, `./run.sh`, tests in `tests/scout/`, contract in
+`docs/SPEC.md`). Claude mode (`ANTHROPIC_API_KEY` set → `claude-opus-5`, streaming tool loop) and
+local mode (deterministic router, same tools, same SSE events) produce the same UI. The data the
+product needs — `data/hackathons*.jsonl`, `data/ideas.db`, `data/facets.jsonl` — is committed;
+everything else under `data/` is scratch.
+
+Underneath is the **toolkit**: standalone Python scripts, `{{placeholder}}` agent prompts, and
+playbooks for entering a Devpost hackathon on measured evidence. No framework; every script runs
+directly with `python3`.
 
 Setup: `pip install -r requirements.txt` (websocket-client; eight scripts import it). External binaries:
 Google Chrome (CDP), `ffmpeg` and `vhs` for film, `gh` for `verify/enrich.py`. `lib/browser.py` hard-codes

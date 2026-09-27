@@ -1,6 +1,11 @@
 # your own run's working files
 /config.json
-/data/
+/data/*
+# the census, winners corpus and facets the product needs (~32 MB); everything else in data/ stays local
+!/data/hackathons.jsonl
+!/data/hackathons_all.jsonl
+!/data/ideas.db
+!/data/facets.jsonl
 /judge/
 *.pyc
 __pycache__/
@@ -15,3 +20,9 @@ cookies.txt
 
 # oh-my-claudecode plugin runtime state
 .omc/
+
+# product build
+reference/
+web/node_modules/
+.env
+outputs/
