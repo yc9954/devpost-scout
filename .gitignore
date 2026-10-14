@@ -25,4 +25,5 @@ cookies.txt
 reference/
 web/node_modules/
 .env
+.venv/
 outputs/

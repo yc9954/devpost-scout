@@ -156,6 +156,8 @@ export interface HackathonDetail extends Hackathon {
 export interface ChatSummary {
   id: string
   title: string
+  created?: string
+  updated?: string
   created_at?: string
   updated_at?: string
 }

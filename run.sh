@@ -12,7 +12,16 @@ if [ ! -f web/dist/index.html ] && [ -f web/package.json ] && command -v npm >/d
     echo "run.sh: web build failed; serving the API-only page instead"
 fi
 
-python3 -m scout --port "$PORT" &
+if [ ! -x .venv/bin/python ]; then
+  PYTHON_FOR_VENV="$(command -v python3.12 || command -v python3)"
+  "$PYTHON_FOR_VENV" -m venv .venv
+fi
+if ! .venv/bin/python -c 'import openai_codex' >/dev/null 2>&1; then
+  echo "run.sh: installing the local Codex SDK …"
+  .venv/bin/python -m pip install -r requirements-codex.txt
+fi
+
+.venv/bin/python -m scout --port "$PORT" &
 SERVER_PID=$!
 trap 'kill "$SERVER_PID" 2>/dev/null || true' EXIT INT TERM
 
@@ -26,5 +35,5 @@ case "$(uname -s)" in
   Linux)  command -v xdg-open >/dev/null 2>&1 && xdg-open "$URL" || true ;;
 esac
 
-echo "run.sh: Scout at $URL (Ctrl-C to stop)"
+echo "run.sh: Workspace at $URL (Ctrl-C to stop)"
 wait "$SERVER_PID"

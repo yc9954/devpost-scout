@@ -1,10 +1,11 @@
-<h1 align="center">Scout</h1>
+<h1 align="center">Workspace</h1>
 
-<p align="center"><strong>One chat agent and one dashboard for entering a Devpost hackathon on evidence, not optimism.</strong></p>
+<p align="center"><strong>A personal workspace for projects, to dos, study, and agents, with Devpost Scout as the hackathon section.</strong></p>
 
 <p align="center">
+  <a href="#workspace">Workspace</a> ·
   <a href="#quick-start">Quick start</a> ·
-  <a href="#what-it-does">What it does</a> ·
+  <a href="#devpost-scout">Devpost Scout</a> ·
   <a href="#screens">Screens</a> ·
   <a href="#the-eight-tools">Tools</a> ·
   <a href="#architecture">Architecture</a> ·
@@ -13,9 +14,26 @@
   <a href="#credits">Credits</a>
 </p>
 
-<p align="center">
-  <img src="docs/screenshots/01-chat-open-hackathons.jpg" alt="Scout — chat agent listing open Devpost hackathons" width="900">
-</p>
+## Workspace
+
+The main UI follows Colanode's space → page/database/conversation structure inside 1code's 240px sidebar shell and component style. The single sidebar links projects, pages, to dos, learning, agents, Scout and Screen Studio, with recent conversations below. Scout is one section inside the personal workspace. Search (⌘K) spans projects, pages, to dos, study items, and collected notes.
+
+| Area | What you can do |
+| --- | --- |
+| Projects | Plan goals, next actions, target dates and milestones; track linked to dos on project pages or a status board |
+| Pages & folders | Create Markdown pages and nested folders in the personal, projects, learning, or Scout space |
+| To Do | Use table, board, or calendar views; track status, priority, due date, project, and assigned agent |
+| Study | Follow learning paths with outcomes and progress, set item objectives and review dates, and edit notes with Novel and Codex-assisted writing |
+| Collected notes | Search the imported KakaoTalk, Slack self-DM, Codex and Claude records, including one-line ideas, bare links, CLI histories and agent results; promote a record into a project, to do or study item |
+| Agents | Chat with local Codex about the workspace, use Devpost Scout for hackathon research, and keep links to other agents for later |
+| Screen Studio | Link recordings to projects, create a video brief, follow filming lessons, capture or import video, trim and frame clips, then export MP4 or GIF |
+| Devpost Scout | Discover hackathons, ask Scout questions, and save hackathon-specific study notes from an event's detail view |
+
+Personal data and Codex chat transcripts live in `data/workspace.db`, separate from the committed Devpost research corpus. The file is ignored by Git. Back it up to keep your projects, notes, and chat list when moving computers. Codex uses your existing local login and runs read-only in this workspace; other agents can be connected later.
+
+See [docs/WORKSPACE.md](docs/WORKSPACE.md) for the data model, personal import, Screen Studio requirements, and local API.
+
+## Devpost Scout
 
 Scout wraps a hackathon-research toolkit — a census of every hackathon Devpost lists, a corpus of 2,300 winning projects, a rubric parser that reads a hackathon's judging criteria verbatim, a field enumerator, an idea generator that scores proven mechanisms against the rubric, and an Obsidian vault of facets and gaps — into a single product you talk to. Ask *what's open this week*, *scout RevenueCat Shipaton 2026*, or *winners about agents for accessibility*, and every number that comes back is measured or quoted from Devpost. Nothing is invented; when a number is weak the agent says so.
 
@@ -30,7 +48,9 @@ git clone https://github.com/yc9954/devpost-scout && cd devpost-scout
 ./run.sh                      # → http://127.0.0.1:8780
 ```
 
-That is the whole install: Python 3.10+ and nothing else. The built UI (`web/dist`) and the data the product needs (`data/hackathons*.jsonl`, `data/ideas.db`, `data/facets.jsonl`, ~31 MB) are committed, so the app runs offline in **local mode** — a deterministic router over the same tools, with templated prose that carries the real numbers.
+The first run creates `.venv` and installs the pinned Python Codex SDK. Sign in once with `codex login` if you have not already. Codex chat requires a working Codex login and network connection. The built UI (`web/dist`) and the Devpost data (`data/hackathons*.jsonl`, `data/ideas.db`, `data/facets.jsonl`, ~31 MB) are committed, so Scout's **local mode** works offline. The workspace database is created automatically on first use.
+
+Screen Studio needs `ffmpeg` and `ffprobe` on your PATH (`brew install ffmpeg` on macOS). Your browser asks you to pick a screen or window for each recording. System audio depends on what the browser and operating system offer. Recordings and imported videos are stored locally under `data/studio/` and ignored by Git.
 
 To let Claude drive the conversation instead, add a key and restart:
 
@@ -46,14 +66,14 @@ Other ways in:
 
 | | |
 | --- | --- |
-| `python3 -m scout --port 8780` | the server alone (no browser open) |
+| `.venv/bin/python -m scout --port 8780` | the server alone (no browser open) |
 | `cd web && npm install && npm run dev` | Vite dev server on :5173 with `/api` proxied to :8780 |
 | `cd web && npm run build` | rebuild `web/dist` after changing the UI |
-| `python3 -m unittest discover -s tests/scout` | 21 tests, no network (data derivation, filters, HTTP routes, one local-mode chat over SSE) |
+| `python3 -m unittest discover -s tests/scout` | Local tests for Scout and workspace APIs; no network |
 
 ---
 
-## What it does
+## What Devpost Scout does
 
 **Chat.** Name a hackathon and Scout resolves it on Devpost, reads the judging criteria *verbatim* with their weights, flags the tie-break criterion (Devpost resolves ties on the first-listed criterion, so it decides placements in a bunched field), lists the requirements that fail an entry outright, and caches the brief. Ask for ideas and it scores every mechanism × domain pair from 8,636 faceted winners against that rubric, reporting expected wins and the evidence projects behind each candidate. Ask about winners and it shortlists from the 2,300-winner corpus — and tells you, every time, that a shortlist over 100-character taglines is not a ranking. Ask what's open and it filters the census by *derived* status (the end date Devpost states vs today), not the snapshot flag.
 
@@ -127,6 +147,7 @@ browser (web/dist — React 19, 1code UI kit, zustand)
    │  GET /api/…  ·  POST /api/chats/{id}/messages → SSE
    ▼
 scout/server.py     ThreadingHTTPServer (stdlib), static web/dist + SPA fallback, SSE with replay
+   ├─ scout/workspace.py    local SQLite for projects, pages, to dos, study, agent directory
    ├─ scout/data.py         census (13,843 rows) + winners FTS + facets + brief cache, all in memory
    ├─ scout/tools.py        the eight tools → {ok, summary, data}
    ├─ scout/local_agent.py  deterministic router → same event stream
@@ -152,6 +173,7 @@ The full contract both halves implement is [`docs/SPEC.md`](docs/SPEC.md).
 | Route | Purpose |
 | --- | --- |
 | `GET /api/health` | `{ok, mode: "claude" \| "local", model, census_date, counts: {open, upcoming, ended, total}, today}` |
+| `/api/workspace/{projects,milestones,learning_paths,pages,tasks,studies,agents}` | Local JSON CRUD for personal workspace data ([details](docs/WORKSPACE.md)) |
 | `GET /api/hackathons?status=open\|upcoming\|ended\|all&q=&theme=&sort=deadline\|prize\|registrations&limit=` | dashboard rows |
 | `GET /api/hackathons/{id}` | one row, plus `brief` when already resolved |
 | `GET /api/stats` | counts, open prize pool, themes, organisers, deadlines in the next 14 days |
@@ -207,8 +229,8 @@ Read [`METHOD.md`](METHOD.md) for the pipeline in order and [`PITFALLS.md`](PITF
 ## Repository layout
 
 ```
-scout/            the product's Python package (server, data, tools, agents, jobs, config)
-web/              the product's UI (Vite + React + 1code kit); web/dist is committed
+scout/            Python package (server, workspace store, Scout data/tools/agents/jobs/config)
+web/              Workspace and Scout UI (Vite + React + 1code kit); web/dist is committed
 docs/             SPEC.md (the contract) and screenshots/
 tests/scout/      21 unittest cases, no network
 data/             committed: census, winners DB, facets · local only: pages/, projects_full.jsonl, run/, chats/

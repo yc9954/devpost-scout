@@ -30,12 +30,14 @@
     "clsx": "^2.1.1",
     "lucide-react": "^0.468.0",
     "motion": "^11.15.0",
+    "novel": "^1.0.2",
     "react": "^19.2.1",
     "react-dom": "^19.2.1",
     "react-markdown": "^9.0.3",
     "remark-gfm": "^4.0.1",
     "sonner": "^1.7.1",
     "tailwind-merge": "^2.6.0",
+    "tiptap-markdown": "^0.8.10",
     "zustand": "^5.0.3"
   },
   "devDependencies": {

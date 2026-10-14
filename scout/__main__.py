@@ -1,4 +1,4 @@
-"""python3 -m scout  → serve web/dist + /api on http://127.0.0.1:8780"""
+"""python3 -m scout  → serve the workspace UI and Scout API on http://127.0.0.1:8780"""
 import argparse
 import sys
 from pathlib import Path

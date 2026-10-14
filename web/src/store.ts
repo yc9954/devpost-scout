@@ -13,11 +13,17 @@ import type {
   ToolCallPart,
 } from "./types"
 
-export type View = "chat" | "dashboard"
+export type View = "overview" | "projects" | "pages" | "tasks" | "studies" | "history" | "agents" | "codex" | "studio" | "dashboard" | "hackathon-study" | "chat"
 
-function viewFromHash(): View {
+const VIEW_PATHS: Record<View, string> = {
+  overview: "#/overview", projects: "#/projects", pages: "#/pages", tasks: "#/tasks", studies: "#/studies", history: "#/history",
+  agents: "#/agents", codex: "#/codex", studio: "#/studio", dashboard: "#/dashboard", "hackathon-study": "#/hackathon-study", chat: "#/chat",
+}
+
+export function viewFromHash(): View {
   const h = typeof window !== "undefined" ? window.location.hash : ""
-  return h.startsWith("#/dashboard") ? "dashboard" : "chat"
+  const view = (Object.entries(VIEW_PATHS).find(([, path]) => h === path || h.startsWith(`${path}/`))?.[0] ?? "overview") as View
+  return view
 }
 
 // ---------------------------------------------------------------------------
@@ -53,8 +59,8 @@ export const useApp = create<AppState>((set, get) => ({
   view: viewFromHash(),
   setView: (v) => {
     if (typeof window !== "undefined") {
-      const target = v === "dashboard" ? "#/dashboard" : "#/chat"
-      if (window.location.hash !== target) window.history.pushState(null, "", target)
+      const target = VIEW_PATHS[v]
+      if (window.location.hash !== target) window.location.hash = target
     }
     set({ view: v })
   },
@@ -92,10 +98,9 @@ export const useApp = create<AppState>((set, get) => ({
   aborters: {},
 
   openChat: async (id) => {
-    set({ activeChatId: id, view: "chat" })
-    if (typeof window !== "undefined" && window.location.hash.startsWith("#/dashboard")) {
-      window.history.pushState(null, "", "#/chat")
-    }
+    set({ activeChatId: id })
+    if (typeof window !== "undefined") window.location.hash = id ? `#/chat/${id}` : "#/chat"
+    set({ view: "chat" })
     if (!id) return
     if (get().messages[id] && !get().transcriptLoading[id]) return
     set((s) => ({ transcriptLoading: { ...s.transcriptLoading, [id]: true } }))
@@ -118,9 +123,10 @@ export const useApp = create<AppState>((set, get) => ({
     set((s) => ({
       chats: [summary, ...s.chats],
       activeChatId: id,
-      view: "chat",
       messages: { ...s.messages, [id]: [] },
     }))
+    if (typeof window !== "undefined") window.location.hash = `#/chat/${id}`
+    set({ view: "chat" })
     return id
   },
 
@@ -200,7 +206,6 @@ export const useApp = create<AppState>((set, get) => ({
 
   scoutFromDashboard: async (title) => {
     const id = await get().newChat()
-    get().setView("chat")
     await get().send(`scout ${title}`, id)
   },
 }))

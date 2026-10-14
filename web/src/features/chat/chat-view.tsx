@@ -3,6 +3,7 @@
 
 import { useCallback, useEffect, useMemo, useRef } from "react"
 import { useApp } from "../../store"
+import { useHashRoute } from "../../use-hash-route"
 import { AgentUserMessageBubble } from "./agent-user-message-bubble"
 import { AgentToolCall } from "./agent-tool-call"
 import { AgentThinkingTool, StatusLine } from "./agent-thinking-tool"
@@ -10,11 +11,13 @@ import { AgentMessageUsage } from "./agent-message-usage"
 import { Markdown } from "./markdown"
 import { ChatInput, SUGGESTIONS } from "./chat-input"
 import { Skeleton } from "../../components/ui/skeleton"
-import { ScoutMark } from "../sidebar/agents-sidebar"
+import { ScoutMark } from "../sidebar/scout-mark"
 import type { ChatMessage } from "../../types"
 
 export function ChatView() {
+  const hash = useHashRoute()
   const activeChatId = useApp((s) => s.activeChatId)
+  const openChat = useApp((s) => s.openChat)
   const chats = useApp((s) => s.chats)
   const health = useApp((s) => s.health)
   const messages = useApp((s) => (activeChatId ? s.messages[activeChatId] : undefined))
@@ -28,6 +31,14 @@ export function ChatView() {
   const title = useMemo(() => chats.find((c) => c.id === activeChatId)?.title, [chats, activeChatId])
   const list = messages || []
   const isEmpty = !activeChatId || (!loading && list.length === 0)
+
+  useEffect(() => {
+    if (hash !== window.location.hash) return
+    const id = hash.match(/^#\/chat\/([a-f0-9]{12})$/)?.[1] ?? null
+    const currentId = useApp.getState().activeChatId
+    if (id && id !== currentId) void openChat(id)
+    else if (!id && currentId) useApp.setState({ activeChatId: null })
+  }, [hash, openChat])
 
   // ⌘N → new chat (1code hotkey)
   useEffect(() => {

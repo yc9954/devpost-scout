@@ -3,9 +3,10 @@
 
 import { useCallback, useEffect, useMemo, useRef, useState } from "react"
 import { toast } from "sonner"
-import { Compass, ExternalLink, RefreshCw, Search, X } from "lucide-react"
+import { BookOpen, Compass, ExternalLink, RefreshCw, Search, X } from "lucide-react"
 import { api } from "../../api"
 import { useApp } from "../../store"
+import { useWorkspace } from "../../workspace-context"
 import { cn } from "../../lib/utils"
 import { deadlineLabel, formatInt, formatMoney } from "../../lib/format"
 import { Button } from "../../components/ui/button"
@@ -212,6 +213,8 @@ export function DashboardView() {
 // ---------------------------------------------------------------------------
 
 function HackathonDialog({ h, onClose, onScout }: { h: Hackathon | null; onClose: () => void; onScout: (title: string) => void }) {
+  const { studies, createStudy } = useWorkspace()
+  const setView = useApp((s) => s.setView)
   const [detail, setDetail] = useState<HackathonDetail | null>(null)
   const [loading, setLoading] = useState(false)
 
@@ -233,9 +236,25 @@ function HackathonDialog({ h, onClose, onScout }: { h: Hackathon | null; onClose
   }, [h])
 
   const row = detail || h
+  const savedStudy = row ? studies.find((study) => study.category === "hackathon" && study.hackathon_host === row.host) : undefined
+  const openStudy = async () => {
+    if (!row) return
+    try {
+      const study = savedStudy ?? await createStudy({
+        title: `${row.title} · study`, summary: `Study notes for ${row.title}`,
+        body: "## What to learn\n\n## Judging criteria\n\n## Notes\n",
+        status: "inbox", category: "hackathon", source_url: row.url,
+        project_id: null, hackathon_host: row.host,
+      })
+      if (!savedStudy) toast.success("Added to hackathon study")
+      onClose()
+      setView("hackathon-study")
+      window.history.replaceState(null, "", `#/hackathon-study/${study.id}`)
+    } catch (e) { toast.error("Could not save study item", { description: e instanceof Error ? e.message : String(e) }) }
+  }
   return (
     <Dialog open={!!h} onOpenChange={(o) => !o && onClose()}>
-      <DialogContent className="max-w-2xl max-h-[85vh] overflow-y-auto">
+      <DialogContent className="!max-w-2xl max-h-[85vh] overflow-y-auto">
         {row && (
           <>
             <DialogHeader>
@@ -262,6 +281,10 @@ function HackathonDialog({ h, onClose, onScout }: { h: Hackathon | null; onClose
               <Button size="sm" onClick={() => onScout(row.title)} className="gap-1.5">
                 <Compass className="w-3.5 h-3.5" />
                 Scout this
+              </Button>
+              <Button size="sm" variant="outline" onClick={() => void openStudy()} className="gap-1.5">
+                <BookOpen className="w-3.5 h-3.5" />
+                {savedStudy ? "Open study" : "Add to study"}
               </Button>
               <Button asChild variant="outline" size="sm" className="gap-1.5">
                 <a href={row.url} target="_blank" rel="noopener noreferrer">
